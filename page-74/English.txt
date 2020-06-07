@@ -1,0 +1,22 @@
+PARSLEY: Well, it's your luck day, Fall ol' chap! I'll accept your payment.
+
+PARSLEY: How's Friday for dance lessons, then?
+FALLON: Perfect! Thanks, Parse!
+
+PARSLEY: Well, if it isn't the lovely Marie!
+
+PARSLEY: Who's this you've brought then?
+MARIE: That's my new friend, Tamberlane! They don't talk much, I'm afraid.
+
+PARSLEY: Don't be afraid, luv!
+PARSLEY: Now what's that you need?
+
+TAMBERLANE: Ummm...
+
+TAMBERLANE: ...umumum...
+
+TAMBERLANE: <em>awuhmumuww</em>
+
+PARSLEY: Oh, darling, it's okay!
+OFFSCREEN: TAMBERLANE!
+[SFX: AWUUWUUWUWAAA]

@@ -1,0 +1,19 @@
+[SFX: AAAWAAAAWAAA]
+BELFRY: any moment now...
+BELFRY: any moment you'll stop...
+
+[SFX:AWAAAAWAAAA]
+BELFRY: You're not stopping!
+BELFRY: Why aren't you stopping?!
+
+BELFRY: I don't speak screaming!
+BELFRY: Please just <em>tell me what you want!!</em>
+
+BELFRY: okay
+
+[SFX: AAAAWAA]
+BELFRY: ...I better see if Oakewood knows what to do.
+[SFX:AWAAAAAW]
+
+[SFX: AWAAAAAAAAAWAAWAAA]
+(muttered: I'm not a failure...)

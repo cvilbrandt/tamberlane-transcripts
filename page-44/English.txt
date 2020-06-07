@@ -1,0 +1,13 @@
+[SFX: aaaaa]
+[SFX: thump thump]
+
+[SFX: aaa]
+[SFX: ker-click]
+[SFX: AAAAAAAAWAAAAA]
+
+[SFX: AAA thud thud THUD THUD THUD A AA AA A]
+
+BELFRY: Ta da...
+OAKEWOOD: Forgot about your leg, didn't you?
+TAMBERLANE: (whimper)
+BELFRY: m-maybe.

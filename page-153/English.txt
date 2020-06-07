@@ -1,0 +1,18 @@
+WALTER: We are not ready for a kit.
+TESS: I know.
+WALTER: Our pit tournament is in two weeks.
+TESS: I know.
+WALTER: We don't have supplies.
+TESS: I know.
+
+
+TESS: I know we agreed to start trying in two years. But she needs help <em>now</em>
+
+WALTER: Can't someone else take care of the little bat?
+
+TESS: She was <em>entrusted</em> to <em>us</em>
+
+WALTER: We are too tired for this conversation. We will speak in the morning.
+
+TESS: Everything will be alright. We have eachother. And Walter... We have a kit!
+WALTER: Maybe. Maybe we have kit. But we definitely have eachother.

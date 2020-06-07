@@ -1,0 +1,16 @@
+PARSLEY: Perhaps we should take a break. The poor thing is so overwhelmed.
+
+PENNY: That'd make some sense. Mummy said Miss Belfry found her in the woods last night and took her in.
+PARSLEY: Miss Belfry? Belfry <em>Baker?</em> That Belfry?
+PENNY: Yup.
+
+PARSLEY: Who let Belfry Baker <em>take care of a kit?!</em>
+PENNY: Maybe that's why she can't talk. Miss Bel musta dropped her on her head.
+PARSLEY: Nevermind that, it's a miracle that she hasn't been accidentally stabbed!
+MARIE: Yes, Miss Belfry is very nice, but...
+
+MARIE: Well, let's... let's just forget all that for now, hm?
+MARIE: I say we take a break to play river pirates.
+
+MARIE: Would you like to play, Tamberlane?
+TAMBERLANE: yeh

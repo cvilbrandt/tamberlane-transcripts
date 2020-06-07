@@ -1,0 +1,17 @@
+OUTSIDE: Belfry's hurt!
+OUTSIDE: Oh dear, what now?
+
+OUTSIDE: It was the ghost!
+OUTSIDE: G-Ghost?!
+OUTSIDE: Oh no!
+OUTSIDE: How bad is it?
+
+OUTSIDE: Go get Henry!
+OUTSIDE: But you can't arrest ghosts...
+OUTSIDE: or can you?
+OUTSIDE: We need help!
+
+[SFX: SLAM]
+
+AINSLEY: HIDE ME!
+COYOTE: The library is <em>closed!</em>

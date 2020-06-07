@@ -1,0 +1,15 @@
+PEEK: Got your order in from Tangled Branch this morning.
+OAKEWOOD: Excellent.
+
+PEEK: Actually, I have something else you might be interested in.
+
+OAKEWOOD: Oh?
+PEEK: Yeah, I got it in about a month ago.
+
+PEEK: I did my best restoring and rebinding it, but it was tricky.
+
+OAKEWOOD: Alright, you've piqued my interest. What is it?
+
+PEEK: This book is very, very old. Honestly, you'd need a better expert than me to get much out of it, but...
+
+PEEK: Since you were broadening your research, I thought it might help. 

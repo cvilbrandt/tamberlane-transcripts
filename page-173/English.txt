@@ -1,0 +1,15 @@
+SFX: CLANG CLANG CLANG CLANG
+TESS: I just don't want to lose you because of an impulsive decision. 
+
+SFX:CLANG CLANG CLANG
+BELFRY: Mum...
+
+SFX: CLANG CLANG CLANG CLANG 
+TESS: O-oh, that's opening ceremonies, I have to go.
+BELFRY: Mum, wait! 
+
+SFX: CLANG CLANG CLANG
+BELFRY: Don't worry, okay? We won't have to go. I promise.
+
+SFX: CLANG CLANG CLANG
+TESS: Oh Belfry. I hope to every god that you're right.

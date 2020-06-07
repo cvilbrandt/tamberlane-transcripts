@@ -1,0 +1,8 @@
+TAMBERLANE: <em> AH!! NO!! </em>
+PIPER: <em> !!! </em>
+
+SFX: SNAP
+
+PIPER: I'm sorry! I'm sorry! I'm sorry!
+
+TAMBERLANE: It's Gampa!
