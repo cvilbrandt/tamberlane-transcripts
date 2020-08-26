@@ -1,5 +1,5 @@
 [SFX: POMF]
 
-CATDOG: Oh?
+PANDADOG: Oh?
 
-CATDOG: Hey there, are you lost?
+PANDADOG: Hey there, are you lost?
