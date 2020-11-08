@@ -1,0 +1,13 @@
+[SFX: aaaaa]
+[SFX: tum tum]
+
+[SFX: aaa]
+[SFX: ker-click]
+[SFX: AAAAAAAAWAAAAA]
+
+[SFX: AAA tum tum TUM TUM TUM A AA AA A]
+
+BELFRY: Ta da...
+OAKEWOOD: Esqueceu sobre sua perna?
+TAMBERLANE: (choraminga)
+BELFRY: t-talvez.
