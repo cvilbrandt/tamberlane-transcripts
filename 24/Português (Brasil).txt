@@ -1,0 +1,10 @@
+BELFRY: Você tá todo machucado...
+BELFRY: E sujo.
+BELFRY: E magro.
+
+BELFRY: Cadê seus pais?
+
+BELFRY: Você tem pais?
+BELFRY: Eles estão por aqui?
+
+BELFRY: Se você tem pais, eles são bem ruins, não são.

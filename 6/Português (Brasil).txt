@@ -5,11 +5,11 @@ BELFRY: Eu esqueci que o forno estava quente.
 [SFX: ding-a-ling!!]
 
 TEXUGO: Deve ser a Coriander.
-TEXUGO: Walter, você pode servir-la enquanto eu cuido das patas de Belfry?
+TEXUGO: Walter, você pode servir ela enquanto eu cuido das patas da Belfry?
 WALTER: Mmnhm.
 
-TEXUGO: Deixe eu pergar alguns curativos, pobrezinha.
-BELFRY: Obrigado, mãe Tess.
+TEXUGO: Vamos lá te enfaixar, pobrezinha.
+BELFRY: Obrigado, mamãe Tess.
 
 OFFSCREEN: AINSLEY!!
 

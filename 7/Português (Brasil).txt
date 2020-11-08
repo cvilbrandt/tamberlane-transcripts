@@ -3,14 +3,16 @@ AINSLEY: FANTASMA! Na floresta!
 OFFSCREEN: Mal escapei com vida!!
 ANTHONY: Piper!
 
-AINSLEY: Simplesmente o choro mais maligno...
+[SFX: ding, ding]
+
+AINSLEY: Simplesmente os prantos mais malignos...
 PIPER: Que tipo de fantasma?
 ANTHONY: Piper, não seja rude!
 
-PIPER: Ele tinha grandes presas?
+PIPER: Ele tinha presas grandes?
 ANTHONY: Piper.
 
-PIPER: Eu devia ter informar, eu sou uma caçadora de fantasmas profissional.
+PIPER: Eu devia te informar, sou uma caçadora de fantasmas profissional.
 ANTHONY: Piper!
 
 ANTHONY: Piper-
