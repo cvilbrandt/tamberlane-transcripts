@@ -6,4 +6,4 @@ In the folder for that comic, create a new .txt file. Give it the name of the la
 
 Paste in the transcript.
 
-HTML formatting is allowed. Make sure to escape any ampersands (&) with &amp;amp;, less than (<) with &amp;lt;, and greater than (>) with &amp;gt;.
+HTML formatting is allowed. Make sure to escape any ampersands (&) with `&amp;`, less than (<) with `&lt;`, and greater than (>) with `&gt;`.
