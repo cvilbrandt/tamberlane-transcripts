@@ -5,7 +5,7 @@ OAKEWOOD: Meu novo projeto de pesquisa.
 BELFRY: MEU TAMBERLANE!
 
 TESS: Ó, ceús. Ó, céus, ó céus! Bel, você não pode ficar com essa coisa!
-BELFRY: I can, and I will.
+BELFRY: Eu posso, e eu vou.
 
 TESS: Belfry, ela é-- ela é deformada.
 BELFRY: É meu filhote agora.
