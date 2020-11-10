@@ -1,7 +1,7 @@
 BELFRY: ...I'm not cut out for this.
 NORA: Belfry...
 
-BELFRY: You can see it, I can see it... [i]Everyone[/i] can see it!
+BELFRY: You can see it, I can see it... <i>Everyone</i> can see it!
 
 BELFRY: I can't take care of another creature! I can barely take care of myself!
 NORA: Belfry, calm down!
