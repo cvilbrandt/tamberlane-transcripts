@@ -3,7 +3,7 @@ JASON: We sailed to Feorroch and scaled the Green Cliffs.
 PIPER: Ooooooo!
 
 JASON: And we walked the Night Market of Mubhuf!
-PIPER & ANTHONY: Ahhhhh!!
+PIPER &amp; ANTHONY: Ahhhhh!!
 
 JASON: But do you want to know the scariest place we went?
 ANTHONY: n-no...
