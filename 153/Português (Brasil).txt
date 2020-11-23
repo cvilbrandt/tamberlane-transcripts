@@ -1,0 +1,17 @@
+WALTER: Não estamos preparado para um filhote.
+TESS: Eu sei.
+WALTER: Nosso torneio de luta é daqui a duas semanas.
+TESS: Eu sei.
+WALTER: Nós não temos suprimentos.
+TESS: Eu sei.
+
+TESS:Eu sei que nós concordamos em começar a tentar em dois anos. Mas ela precisa de ajuda <em>agora.</em>
+
+WALTER: Nenhuma outra pessoa podetomar conta do morceguinho?
+
+TESS: Ela foi <em>confiada</em> para <em>nós.</em>
+
+WALTER: Estamos cansados demais pra essa conversa. Vamos falar de manhã.
+
+TESS: Tudo vai dar certo. Temos um aos outros. E Walter... Nós temos um filhote!
+WALTER: Talvez. Talvez temos um filhote. Mas nós definitivamente temos uns aos outros.
