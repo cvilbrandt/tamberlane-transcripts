@@ -1,0 +1,22 @@
+OFFSCREEN: Is that venison?
+OFFSCREEN: Yes, I ordered a little bit extra from the butcher.
+TAMBERLANE: ...bleh...
+OFFSCREEN: You think she might be a carnivore?
+OFFSCREEN: Well, at least an omnivore.
+OFFSCREEN: She has the teeth for it.
+
+[SFX: PTEUGH]
+
+TAMBERLANE: Peas!
+OFFSCREEN: Okay, okay! You'll get you peas, sweetie.
+
+BELFRY: Just do me a little favor, okay?
+TAMBERLANE: Peas, <i>please</i>,
+BELFRY: Very good! But will you please try one more bite for me?
+
+TAMBERLANE: Mllleeehh...
+
+TAMBERLANE: <em>YUCK!</em> No!! Don't <em>LIKE!</em>
+BELFRY: That's okay! You did a great job!
+BELFRY: How about some peas?
+OAKEWOOD: Preliminary findings: neither insectivore nor carnivore.

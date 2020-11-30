@@ -1,9 +1,9 @@
 [SFX: RRRRAAAARAA]
-ERMINE: ¡Ay no! ¡Ay no! ¡Ay no!
+MARTA: ¡Ay no! ¡Ay no! ¡Ay no!
 
 [SFX: AAAAA]
-ERMINE: ¡He perturbado a un espíritu maligno!
+MARTA: ¡He perturbado a un espíritu maligno!
 
-ERMINE: ¡Ese es el único- ¡UF!
+MARTA: ¡Ese es el único- ¡UF!
 
 [SFX: AWAAAAAWAARA]

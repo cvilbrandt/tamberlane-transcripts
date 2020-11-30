@@ -1,0 +1,22 @@
+FORA: Isso é carne de veado?
+FORA: Sim, eu pedi um pouquinho á mais pro açougueiro.
+TAMBERLANE: ...bleh...
+FORA: Você acha que ela pode ser carnívora?
+FORA: Bem, pelo menos omnívora.
+FORA: Ela tem os dentes pra isso.
+
+[SFX: PTEUGH]
+
+TAMBERLANE: Ervilhas!
+FORA: Certo, certo! Vou pegar umas ervilhas pra você, docinho.
+
+BELFRY: Só me faz um favorzinho, ok?
+TAMBERLANE: Ervilhas, <i>por favor</i>,
+BELFRY: Muito bom! Mas você pode por favor tentar mais uma mordida?
+
+TAMBERLANE: Mllleeehh...
+
+TAMBERLANE: <em>ECA!</em> Não!! Não <em>GOSTO!</em>
+BELFRY: Sem problema! Você fez bem!
+BELFRY: Que tal umas ervilhas?
+OAKEWOOD: Encontros preliminares: nem insetívora nem carnívora.

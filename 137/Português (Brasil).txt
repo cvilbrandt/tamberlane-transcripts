@@ -1,0 +1,23 @@
+OAKEWOOD: Deixe-me apresentar meu afilhado, Milo Jamiton do Galho Emaranhado.
+MILO: Ah... É Milo Academique de Lumiens agora. Mil desculpas.
+
+OAKEWOOD: Ah, certo. Você tem uma carreira agora. (mais ou menos)
+
+OAKEWOOD: Milo, esse pessoal é ... Bem.
+OAKEWOOD: Essa é a Belfry.
+BELFRY: Uau! Eu nem sabia que o Oakewood tinha família!
+OAKEWOOD: Tess.
+TESS: Prazer... em te conhecer.
+OAKEWOOD: Walter.
+WALTER: É um prazer.
+OAKEWOOD: E a Briar. Ela não é muito mais nova que você.
+BRIAR: Oi.
+
+MILO: Oi!
+FX: Floof
+
+FX: Doki doki
+FX: tomba
+
+OAKEWOOD: Já passou tempo demais brincando, pieve.
+MILO: Ã?
