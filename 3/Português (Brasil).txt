@@ -6,7 +6,7 @@ VEADO: Cantarelos.
 MORCEGO: Você tem certeza? Eu podia jurar...
 VEADO: <em>Cantarelos.</em>
 
-MORCEGO: Muito bem então! Chanterelles, Cantarelos saindo!
+MORCEGO: Beleza, então! Cantarelos saindo!
 
 MORCEGO: Enquanto você trabalha na refeição da Tess, eu vou me peparar para a senhorita Cori!
 

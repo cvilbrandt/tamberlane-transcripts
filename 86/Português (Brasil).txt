@@ -1,7 +1,7 @@
 TERRA: Pode ser um pouco tarde pro jantar.
-MAYA: Sem pressa, queridos.
+MAYA: Sem pressa, querida.
 
-TERRA: Vou fazerr certeza que a Marie esteja em casa na hora.
+TERRA: Vou fazer certeza que a Marie esteja em casa na hora.
 MAYA: Beleza, boa sorte, amor!
 
 NORA: Então... Tá se sentindo melhor?

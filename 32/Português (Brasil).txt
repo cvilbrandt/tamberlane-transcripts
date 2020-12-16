@@ -1,4 +1,4 @@
-BELFRY: Não é um animal selvagem!
+BELFRY: <em>Não é</em> um animal selvagem!
 
 BELFRY: Está frio e assustado e machucado e com fome
 

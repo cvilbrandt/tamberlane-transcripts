@@ -1,6 +1,6 @@
 AINSLEY: FANTASMA! Na floresta!
 
-OFFSCREEN: Mal escapei com vida!!
+FORA: Mal escapei com vida!!
 ANTHONY: Piper!
 
 [SFX: ding, ding]
