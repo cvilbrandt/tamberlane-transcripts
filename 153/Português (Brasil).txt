@@ -5,7 +5,7 @@ TESS: Eu sei.
 WALTER: Nós não temos suprimentos.
 TESS: Eu sei.
 
-TESS:Eu sei que nós concordamos em começar a tentar em dois anos. Mas ela precisa de ajuda <em>agora.</em>
+TESS: Eu sei que nós concordamos em começar a tentar em dois anos. Mas ela precisa de ajuda <em>agora.</em>
 
 WALTER: Nenhuma outra pessoa podetomar conta do morceguinho?
 

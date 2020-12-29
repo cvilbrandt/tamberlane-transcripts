@@ -4,11 +4,11 @@ TAMBERLANE: Oi, Puck!
 PUCK: Dia, Jovem Tam!
 
 TAMBERLANE: Terra!
-TERRA: Vamos limper essa sua carinha fofa!
+TERRA: Vamos limpar essa sua carinha fofa!
 NORA: Se divertindo, Tamberlane?
 PENNY: Mamãe! Você pode soltar agora! Tá comigo!
 
-BAT: Oh, você não esteve por aqui por um tempo.
+MORCEGO: Oh, você não esteve por aqui por um tempo.
 TAMBERLANE: Fome?
-FOX: <i>AAGGHH! O quê é isso?!</i>
+RAPOSA: <i>AAGGHH! O quê é isso?!</i>
 DINGO: Essa é a Tamberlane! Nosso residente "fantasma!"

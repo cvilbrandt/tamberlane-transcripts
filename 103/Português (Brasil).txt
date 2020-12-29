@@ -4,7 +4,7 @@ TAMBERLANE: ah!
 BRIAR: Oi, Bel.
 TAMBERLANE: Ervilhas!
 
-BELFRY: O quê te trás aqui? Quer um pouco de chá?
+BELFRY: O que te traz aqui? Quer um pouco de chá?
 BELFRY: Oh! Ou a gente tem um pouco de carne, até!
 BRIAR: Não... não, obrigada.
 TAMBERLANE: Quero ervilhas!

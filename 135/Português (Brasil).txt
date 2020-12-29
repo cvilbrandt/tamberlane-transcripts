@@ -7,7 +7,7 @@ OAKEWOOD: Deixa a pirralha fora das suas brigas!
 OAKEWOOD: Vocês <i>duas</i> sabem disso!
 
 BELFRY: Ah...
-BELFRY: Desculp, Tam. A Mamãe não deveria ter gritado.
+BELFRY: Desculpa, Tam. A Mamãe não deveria ter gritado.
 
 TESS: Eu... me desculpa, também, pequena.
 TESS: Eu me esquentei demais.
