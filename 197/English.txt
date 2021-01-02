@@ -6,7 +6,7 @@ AVERY: <em>LANGUAGE!</em> I've taught you <em>better</em> than that!
 PIPER: But he were bein' mean to Tamberlane!
 AVERY: That is no excuse for <em>violence!</em>
 
-AVERY: &lt;em?Apologize,RIGHT NOW.</em>
+AVERY: <em>Apologize,RIGHT NOW.</em>
 PIPER: <em>NO! He's MEAN and I HATE him!</em>
 AVERY: <em>PIPER!!</em>
 SFX: Hhhh Hhhh Hhhhh
