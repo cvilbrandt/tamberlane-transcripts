@@ -9,7 +9,7 @@ PEEK: Any one will do. It may not be precisely what I need, but it'll be close e
 
 BELFRY: Deal! Even I can do that!
 
-PEEK: Aces! Then you're all set to go Miss Belfry!
+PEEK: Aces! Then you're all set to go, Miss Belfry!
 SCOTT: Let me know if you have any more questions, okay, Tamberlane?
 TAMBERLANE: Okay! Thank you, Mister Scott!
 

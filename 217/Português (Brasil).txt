@@ -1,0 +1,16 @@
+PEEK: Eu ouvi que os filhotes estão indo pras Escarpas Bally?
+BELFRY: Sim! Eu estou acompanhando!
+
+PEEK: Ah! Nesse caso...Tem uma boa quantidade de limonita naquela área e eu estou com pouco pigmento ocre. Se você podesse só tirar e trazer de volta umas pedras laranjinhas, eu te deveria uma.
+
+BELFRY: Hmm... qualquer pedra laranjinha?
+
+PEEK: Qualquer uma dá. Pode não ser precisamente o que eu preciso, mas vai dar pro gasto até eu poder ir eu mesmo. 
+
+BELFRY: Fechou! Isso até eu posso fazer!
+
+PEEK: Supimpa! Então você já pode ir, Senhora Belfry!
+SCOTT: Diz pra mim se você tiver alguma pergunta a mais, ok, Tamberlane?
+TAMBERLANE: Ok! Obrigado, Senhor Scott!
+
+
