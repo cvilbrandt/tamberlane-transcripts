@@ -3,7 +3,7 @@ OAKEWOOD: Assumo que você e sua tripulação não encontraram nada como ela, en
 GILLIAN: Temo que não, sujeito.
 GILLIAN: Isso... ela?
 GILLIAN: ...é muito estranho à mim. Mil desculpas.
-GILLIAN: [whispered] eca.
+GILLIAN: [sussurrado] eca.
 
 SMALL BAT 2: Capitã, eu tenho uma idéia de quem pode saber.
 GILLIAN: Suspiro...

@@ -4,16 +4,16 @@ OAKEWOOD: Ela não conheceu nenhum estranho.
 MILO: Quer dizer que ela conhece todo mundo?
 OAKEWOOD: Eu quero dizer que ela nunca tratou nenhuma criatura como se não fosse família.
 
-CROW: Malditas rodas.
+CORVO: Malditas rodas.
 TAMBERLANE: Oi! Eu ajudo!
 
 TAMBERLANE: Eu te ajuda!
-CROW: <em>MAS O QUÊ NO NOME DA GRANDE GAIA!</em>
+CORVO: <em>MAS O QUÊ NO NOME DA GRANDE GAIA!</em>
 
-CROW: SAI DE PERTO DE MIM!
+CORVO: SAI DE PERTO DE MIM!
 TAMBERLANE: Mas eu ajudo!
 
-CROW: Se você me tocar, eu vou quebrar todos os ossos nessa sua pata feia!
+CORVO: Se você me tocar, eu vou quebrar todos os ossos nessa sua pata feia!
 
 OAKEWOOD: <em>AÍ!</em> Como você OUSA falar com minha neta desse jeito?!
 OAKEWOOD: Você é muito atrevido!

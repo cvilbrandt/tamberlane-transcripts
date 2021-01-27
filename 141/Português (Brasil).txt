@@ -1,10 +1,10 @@
-CROW: Bem, sua "neta" tem Follybrook escrito todo por ela!
+CORVO: Bem, sua "neta" tem Follybrook escrito todo por ela!
 OAKEWOOD: Como você <em>ousa</em>!
 
-CROW: Você vai me desculpar se eu não quero ser manchado por um <em>mutante</em> sem uma coleira!
+CORVO: Você vai me desculpar se eu não quero ser manchado por um <em>mutante</em> sem uma coleira!
 
 OAKEWOOD: Se é assim que você se sente, dá o pé daqui!
-CROW: Com prazer!
+CORVO: Com prazer!
 
 SFX: RRRRRRRRR...
 TAMBERLANE: Tio?

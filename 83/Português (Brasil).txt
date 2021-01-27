@@ -1,9 +1,9 @@
-NORA: Você consegue fazer isso. Eu sei que você consegue
+NORA: Você consegue fazer isso. Eu <em>sei</em> que você consegue.
 
 NORA: Eu sei que você acha que isso é um problema Belfry, mas isso é normal. Se você não percebeu, a Penny está desaparecida também.
 
 NORA: Hoje de manhã, ela estava tentando chamar minha atenção. Mas eu estava preocupada com você e fora do clima.
-PENNY: mãe mãe mãe mamãe mãe mãe mãe mamãe
+PENNY: <em>mãe mãe mãe mamãe mãe mãe mãe mamãe</em>
 
 NORA: Então eu soltei a franga nela.
 NORA: PENNY! Parou! A mamãe tá fazendo coisas importantes!

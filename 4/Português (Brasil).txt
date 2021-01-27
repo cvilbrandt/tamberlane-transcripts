@@ -1,6 +1,6 @@
 MORCEGO: Essa não, o que aconteceu?!
 VEADO: Você me deu <em>veludos!</em>
-[SFX: Cough Cough]
+[SFX: Cof Cof]
 
 MORCEGO: Eu devo ter invertido eles de novo!
 

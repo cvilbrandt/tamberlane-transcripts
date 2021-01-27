@@ -13,7 +13,7 @@ OAKEWOOD: Look's like you have this well in paw, then?
 BELFRY: Yep! I've got this little monster buttoned down!
 
 OAKEWOOD: Good night then, you two.
-BELFRY: Night, night!
+BELFRY: Night night!
 
 BELFRY: Now, what do I have to do to get you to settle down, munchkin?
 TAMBERLANE: Stories!!!

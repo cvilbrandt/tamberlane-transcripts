@@ -7,6 +7,7 @@ PEEK: Did you pick these out yourself, Tamberlane?
 TAMBERLANE: No, Mister Scott helped!
 
 PEEK: Well, I hope you enjoy them!
+PEEK: And I hope they answer some of your questions.
 
 BELFRY: What would you like for these books, Peek?
 PEEK: Well.. I still owe you for Erin's birthday cake, but...

@@ -1,0 +1,12 @@
+SFX: Suspiro Fundo
+
+BELFRY: Olha, Mãe. Eu sei que você odeia a Tamberlane, mas você tem que se lidar com o fato que ela está aqui pra ficar.
+
+TESS: <em>Quê?!</em> Eu não <em>odeio</em> a Tamberlane!
+
+BELFRY: Ah, realmente.
+TESS: <em>Sim</em>, realmente! Eu acho que muito doce, de verdade!
+
+TESS: Pra ser honesta, eu posso ter me apegado a ela. <em> UM POUCO.</em> 
+
+TESS: <em>Mas isso é um problema!</em>

@@ -1,15 +1,15 @@
 [SFX: COF COF COF COF]
 
 [SFX: cof cof cof cof]
-GRYPHON: Garotas! O quê eu disse pra vocês sobre  I told you about bombas de fumaça á bordo?!
-SMALL BATS: Desculpa, Capitã!
+GRIFO: Garotas! O quê eu disse pra vocês sobre about bombas de fumaça á bordo?!
+MORCEGUINHOS: Desculpa, Capitã!
 
-GRYPHON: E Winnie, para de deixar eles na cozinha.
+GRIFO: E Winnie, para de deixar eles na cozinha.
 WINNIE: Sim, Capitã.
 
-SMALL BAT 1: Aw, se anima, Capitã Gillian!
+MORCEGUINHO 1: Aw, se anima, Capitã Gillian!
 
-SMALL BAT 1: Nós realmente estamos aprendendo a<em>AHHH!!</em>
+MORCEGUINHO 1: Nós realmente estamos aprendendo a<em>AHHH!!</em>
 
 TAMBERLANE: boceja
 OAKEWOOD: Oh, voce realmente acordou, não?

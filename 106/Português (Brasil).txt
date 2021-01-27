@@ -3,12 +3,12 @@ BELFRY: Não.
 BELFRY: Não é justo que você tá no meio, Bri.
 BELFRY: Mas você sempre pode vir me visitar aqui se precisar dar uma escapada!
 
-BELFRY: Mas a verdade é que a mão começou isso, não eu.
+BELFRY: Mas a verdade é que a mãe começou isso, não eu.
 
 BELFRY: E eu não posso ser a primeira a me desculpar dessa vez.
 BELFRY: Ela tem que respeitar meus limites.
 
-BELFRY: Eu tenho que pensarr sobrer a Tamberlane. Me desculpa, Bri.
+BELFRY: Eu tenho que pensar sobrer a Tamberlane. Me desculpa, Bri.
 
 BRIAR: Tá ok. Eu só...
 BRIAR: Estou com saudade.

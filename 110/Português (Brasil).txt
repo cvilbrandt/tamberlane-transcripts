@@ -11,3 +11,5 @@ PIPER: "Minha mãe que fez! Ela não é <i>tão</i> talentosa? Eu aposto que sua
 
 PIPER: "Que coincidência maluca!"
 PIPER: "Ela está vendendo eles no canto dos Negócios e Artesanatos!"
+CAT: E é assim que você vai sair do seu castigo?
+PIPER: INFALÍVEL!

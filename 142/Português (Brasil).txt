@@ -8,7 +8,7 @@ OAKEWOOD: Não, você é um filhote. Só viva.
 
 OAKEWOOD: Mas além de ajudar, você está bem?
 
-TAMBERLANE: YSim... mas o Tio tá bem?
+TAMBERLANE: Sim... mas o Tio tá bem?
 
 OAKEWOOD: Sim. Mas o quê eu acabei de falar?
 TAMBERLANE: Não ajuda, só viver!

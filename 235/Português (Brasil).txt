@@ -1,0 +1,14 @@
+BELFRY: Olha, niguém foi mandado pro Exterior em <em>anos.</em>.
+BELFRY: Não desde que minha mãe entrou no Conselho.
+BELFRY: Tudo que Jentzen fez foi discutir com você um pouco. Isso <em>não</em> é uma ofensa banível.
+CALLIE: Eu... Eu espero que sim...
+
+BELFRY: Se faz você se sentir melhor, quando nós voltarmos, eu vou com você para o Conselho da Cidade.
+BELFRY: Eu vou falar com minha mãe, e você pode editar sua declaração!
+
+CALLIE: Você está certa que isso vai ser possível?
+
+BELFRY: Eu te prometo, <em>tudo</em> vai ficar bem!
+
+BELFRY: <em>Certo?</em>
+JASON: Certo, certo.
