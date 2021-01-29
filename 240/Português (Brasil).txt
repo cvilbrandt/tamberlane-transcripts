@@ -4,7 +4,7 @@ PENNY: Finn! Finn! Você já achou minha mala?
 PENNY: Eu tenho que mostrar minha boneca pra Tamberlane!
 FINN: Calma aí, jovem. Deixa eu dar uma olhada.
 
-PIPER: Gente, <em>vamos lá!<;em> Eu aposto que tem <em>FANTASMAS</em> alí dentro!
+PIPER: Gente, <em>vamos lá!</em> Eu aposto que tem <em>FANTASMAS</em> alí dentro!
 
 PIPER: Bora caçar eles!
 

@@ -11,8 +11,8 @@ BELFRY: Não! Claro que não!
 JASON: Eu não me surpreenderia.
 
 BELFRY: Jason!
-JASON: Ele esta incitando crianças a se rebelarem contra os Éditos.
+JASON: Ele está incitando crianças a se rebelarem contra os Éditos.
 JASON: Ou isso é o que eles vão dizer.
 
 CALLIE: Eles não iriam! <em>Eles não podem!</em>
-BELFRY: Eles <em>não vão</em>
+BELFRY: Eles <em>não vão.</em>
