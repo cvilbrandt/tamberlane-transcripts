@@ -1,7 +1,7 @@
 PARSLEY: Ah, desculpa, miga! Eu só tava falando pra ela que é dibas ser diferente!
 MARIE: Desculpa, meu Trissol é um <em>lixo!</em>
 
-PARSLEY: Mas falando de Trissol, eu sei que voc"e deve ter sido perguntada isso pra caramba, Tam, mas...
+PARSLEY: Mas falando de Trissol, eu sei que devem ter te perguntado isso pra caramba, Tam, mas...
 PARSLEY: Como você aprendeu?
 PARSLEY: Tu não tem os ouvidos ruins, então... foi alguém que você conheceu?
 
