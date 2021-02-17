@@ -1,0 +1,19 @@
+PARSLEY: Quem é esse Vê que te ensinou Trissol?
+TAMBERLANE: Vê!
+
+PARSLEY: Mas Vê era, tipo, seu Pai ou Mãe então?
+TAMBERLANE: Não, a Mamãe é Belfry!
+
+MARIE: Mas e <em>antes</em> de você ter vindo para Treehollow? Quem era sua Mamãe então?
+
+TAMBERLANE: Ã...
+
+TAMBERLANE: Num sei.
+MARIE: Sem problemas, Tamberlane. Eu sei que o Senhor Oakewood te perguntou essas coisas por <em>dias.</em>
+
+PARSLEY: Certo, mas o que <em>era</em> Vê? Eles eram... como você?
+
+TAMBERLANE: Não... Vê era... ve<em>[illegible]</em>
+
+PIPER: OI, BOCÓS! QUALÉ?
+TODOS: <em>AAAAAAA!!!!</em>
