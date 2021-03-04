@@ -1,13 +1,13 @@
-OFFSCREEN: Cogumelos, por favor! Eu preciso dos cogumelos!
+FORA: Cogumelos, por favor! Eu preciso dos cogumelos!
 
 MORCEGO: Cantarelos ou veludos?
 
 VEADO: Cantarelos.
-MORCEGO: Você tem certeza? Eu podia jurar...
+MORCEGO: Você tem certeza? Eu me lembro que...
 VEADO: <em>Cantarelos.</em>
 
 MORCEGO: Beleza, então! Cantarelos saindo!
 
 MORCEGO: Enquanto você trabalha na refeição da Tess, eu vou me peparar para a senhorita Cori!
 
-OFFSCREEN: <em>AAH!!</em>
+FORA: <em>AAH!!</em>

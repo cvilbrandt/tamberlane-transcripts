@@ -1,4 +1,4 @@
-PARSLEY: Aye, seu pavão topetudo! Toma essa!
+PARSLEY: Aí, seu pavão topetudo! Toma essa!
 
 PENNY: Cesse, andarilho! Sou um pirata!!
 
@@ -9,7 +9,7 @@ PARSLEY: Você não consegue correr em um barco!
 PENNY: Paga pra ver!
 
 MARIE: Vamos lá, Tam, vamos fechar as escotilhas!
-TAMBERLANE: Weh?
+TAMBERLANE: Ué?
 
 MARIE: Eu acho que significa abrir as janelas!
 TAMBERLANE: Ooh!

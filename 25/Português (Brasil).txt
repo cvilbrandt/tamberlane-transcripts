@@ -14,4 +14,4 @@ FORA: Precisamos de ajuda!
 [SFX: BLAM]
 
 AINSLEY: ME ESCONDE!
-COYOTE: A biblioteca está <em>fechada</em>!
+COIOTE: A biblioteca está <em>fechada</em>!

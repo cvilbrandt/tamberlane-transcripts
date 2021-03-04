@@ -2,7 +2,7 @@
 
 BELFRY: <em>EITA!</em>
 
-TAMBERLANE: <em>Awagh!!</em>
+TAMBERLANE: <em>Auagh!!</em>
 
 [SFX: WHUD!]
 

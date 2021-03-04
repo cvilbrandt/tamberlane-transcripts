@@ -6,6 +6,6 @@ BELFRY: e abandonado!
 
 TESS: Você não poderia possívelmente saber se está abandonado!
 
-BELFRY: Eu não vou o deixar à mercê de pais who que não alimentam ou ajudam ele!
+BELFRY: Eu não vou o deixar à mercê de pais que não alimentam ou ajudam ele!
 
 TESS: Belfry, deixa o filhote em paz!

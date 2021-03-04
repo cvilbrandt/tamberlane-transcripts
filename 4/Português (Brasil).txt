@@ -9,7 +9,7 @@ MORCEGO: Ah, Walter, me desculpe.
 WALTER: Belfry, um dia você ira assumir este lugar.
 WALTER: Você precisa começar a ter mais responsabilidade!
 
-BELFRY: Eu sei, eu sei! Eu irei corrigir agora mesmo! Eu prometo!
+BELFRY: Eu sei, eu sei! Eu vou arrumar agora mesmo! Eu prometo!
 
 BELFRY: Eu só vou trocar os adesivos...
 [SFX: Puuuxa]

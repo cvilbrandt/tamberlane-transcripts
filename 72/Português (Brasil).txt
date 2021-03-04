@@ -7,7 +7,7 @@ TAMBERLANE: ã-ãnh?
 
 MARIE: Certo... Você não é daqui, é?
 
-TAMBERLANE: uwwWAAAHH
+TAMBERLANE: uuuAAAÁ
 MARIE: Ah, não, não, não fique chateada! Eu vou explicar!
 
 MARIE: O Parsley é uma criança mais velha que sabe bastante coisa.
@@ -17,4 +17,4 @@ MARIE: Ele dá ajuda pra criaturas, mas ele geralmente cobra um item de signific
 MARIE: Mas não se preocupa! Ele tem um coração.
 MARIE: Tenho certeza que ele vai ser caridoso com um recém-chegado.
 MARIE: Então sem mais choro, ok?
-TAMBERLANE: okee
+TAMBERLANE: okei

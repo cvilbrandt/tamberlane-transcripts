@@ -9,7 +9,7 @@ TAMBERLANE: Não importo!
 
 TESS: Belfry, você não entende!
 BELFRY: Ah, eu entendo perfeitamente! Para de me tratar como uma criança! Eu tenho dezenove anos!
-TAMBERLANE: Wah!
+TAMBERLANE: Uá!
 
 ANTHONY: Isso é uma má idéia.
 BRIAR: Eu amo a Belfry, mas... é.

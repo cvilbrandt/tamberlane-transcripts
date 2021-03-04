@@ -1,7 +1,7 @@
 PARSLEY: Bem, é seu dia de sorte, companheiro Fall! Eu vou aceitar seu pagamento.
 
 PARSLEY: As lições de dança ficam pra sexta, então?
-FALLON: Perfeitoo! Obrigado, Parse!
+FALLON: Perfeito! Obrigado, Parse!
 
 PARSLEY: Bem, se não é a formosa Marie!
 
