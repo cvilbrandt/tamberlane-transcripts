@@ -10,7 +10,7 @@ OAKEWOOD: Três meses e nós não sabemos quase <em>nada!</em>
 OAKEWOOD: Eu nem consigo determinar o <i>gênero</i> dela!
 OAKEWOOD: Eu nem consigo descobrir o quê ela come além de mingau e ervilhas!
 
-OAKEWOOD: O quê acontece quando as ervilhas saem de temposrada?
+OAKEWOOD: O que vai acontecer quando as ervilhas saírem de temporada?
 OAKEWOOD: <em>Então o quê?</em>
 
 BELFRY: Bem, então a gente pode só dar mingau pra ela.
@@ -19,4 +19,4 @@ FORA: Ei.
 OAKEWOOD: Ela [obscurecido] mais do quê isso.
 
 [SFX: suspiiiro]
-OAKEWOOD: Ou você pode se distrais. Isso serve, também.
+OAKEWOOD: Ou você pode se distrair. Pode ser, também.

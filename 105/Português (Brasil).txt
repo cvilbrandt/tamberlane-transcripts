@@ -1,4 +1,4 @@
-BELFRY: O quê você quer dizer?
+BELFRY: O que você quer dizer?
 BRIAR: Eu quero dizer...
 
 BELFRY: Briar?
@@ -10,7 +10,7 @@ BRIAR: A mãe e o pai estão <i>brigando</i> por causa disso!
 BRIAR: <em>E EU TÔ PRESA NO MEIO!</em>
 
 BRIAR: Se você gosta de ser mãe, então ótimo! Beleza!
-BRIAR: Faz o quê você gosta!
+BRIAR: Faz o que você gosta!
 
 BRIAR: Mas você poderia parar de ser tão <i>difícil?</i>
 BRIAR: Vem pra <i>casa!</i>

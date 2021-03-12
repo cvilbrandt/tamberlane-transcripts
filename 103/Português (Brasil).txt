@@ -9,6 +9,6 @@ BELFRY: Oh! Ou a gente tem um pouco de carne, até!
 BRIAR: Não... não, obrigada.
 TAMBERLANE: Quero ervilhas!
 
-BELFRY: Oh! Bem... o quê posso fazer pra você, estão?
+BELFRY: Oh! Bem... o que posso fazer pra você, estão?
 
 BRIAR: A mãe me mandou.

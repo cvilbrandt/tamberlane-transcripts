@@ -1,13 +1,13 @@
 BELFRY: Eeeeeee...
 
-BELFRY: Pronto! Está aqui!
+BELFRY: Pronto! Aqui está!
 
 BRIAR: Obrigada, Bel.
 BELFRY: Eu vou te ver no festival, de uma forma ou outra.
 BELFRY: E a gente deveria tomar chá, depois!
 OAKEWOOD: para com isso.
 
-BELFRY: A Tamberlane deve conhecer a tia dela!
+BELFRY: A Tamberlane deveria conhecer a tia dela!
 TAMBERLANE: Eh?
 
 BRIAR: É. Ok.

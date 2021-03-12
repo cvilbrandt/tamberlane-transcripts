@@ -1,4 +1,4 @@
-AVERY: Vou adivinhar quê você está aqui pra pegar a roupa de festival da Tam.
+AVERY: Vou adivinhar que você está aqui pra pegar a roupa de festival da Tam.
 BELFRY: Adivinhou certo!
 
 BELFRY: E eu trouxe os muffins que você pediu!
