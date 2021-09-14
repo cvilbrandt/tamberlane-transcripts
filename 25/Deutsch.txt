@@ -1,0 +1,17 @@
+DRAUSSEN: Belfry ist verletzt!
+DRAUSSEN: Oh weia, und jetzt?
+
+DRAUSSEN: Es war der Geist!
+DRAUSSEN: G-Geist?!
+DRAUSSEN: Oh nein!
+DRAUSSEN: Wie schlimm ist es?
+
+DRAUSSEN: Holt Henry!
+DRAUSSEN: Aber Geister kann man nicht fangen...
+DRAUSSEN: oder doch?
+DRAUSSEN: Wir brauchen Hilfe!
+
+[SFX: RUMS]
+
+AINSLEY: VERSTECK MICH!
+COYOTE: Die Bibliothek ist <em>geschlossen!</em>
