@@ -1,0 +1,21 @@
+[SFX: tick tack ticc]
+
+[SFX: plitsch]
+
+[SFX: plitsch]
+
+[SFX: fffssshhh]
+
+[SFX_: ffsssshhhhh]
+TAMBERLANE: Uwah!
+
+[SFX_: ffsssshhhhh]
+TAMBERLANE: Weh! Weh!
+
+[SFX_: ffsssshhhhh]
+BELFRY: Oh!
+
+[SFX_: ffsssshhhhh]
+
+[SFX_: ffsssshhhhh]
+OFFSCREEN: BELFRY!
