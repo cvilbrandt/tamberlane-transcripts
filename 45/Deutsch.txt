@@ -13,4 +13,4 @@ OAKEWOOD: Buäh! Das Kind braucht dringend eine frische Windel.
 OAKEWOOD: Geh und hol welche aus dem Vorratsschrank.
 
 OAKEWOOD: Damit bist <em>du</em> gemeint, Belfry!
-OAKEWOOD: Und versuch, den Schrank nicht zu verwüsten!
+OAKEWOOD: Und versuch es nicht zu vermasseln!
