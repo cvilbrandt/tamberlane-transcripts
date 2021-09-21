@@ -1,0 +1,17 @@
+OAKEWOOD: Lass mich raten: totales Chaos.
+
+BELFRY: äh...
+OAKEWOOD: <em>Mrrgh.</em>
+
+OAKEWOOD: Ich musste ihn sowieso bald mal umräumen.
+BELFRY: Sorry.
+
+OAKEWOOD: Nun, die Sachen sind da. Jetzt wechsle die Windel.
+BELFRY: Aber ich weiß nicht wie!
+
+OAKEWOOD: Du ziehst die schmutzige aus und eine saubere an.
+OAKEWOOD: Das ist doch wohl nicht <em>so</em> schwer.
+
+[SFX: aufklapp?]
+
+[SFX: UrP]
