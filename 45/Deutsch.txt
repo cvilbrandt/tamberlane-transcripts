@@ -1,0 +1,16 @@
+BELFRY: Oakewood (übertönt)
+[SFX: WWWWAAAAAAAAAAAAAWAAAAAAAAAA]
+
+OAKEWOOD: (übertönt)
+
+[SFX: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]
+
+OAKEWOOD: (übertönt) Warum ich?
+
+[SFX: AAAAAAAAAAmmph-!]
+
+OAKEWOOD: Buäh! Das Kind braucht dringend eine frische Windel.
+OAKEWOOD: Geh und hol welche aus dem Vorratsschrank.
+
+OAKEWOOD: Damit bist <em>du</em> gemeint, Belfry!
+OAKEWOOD: Und versuch, den Schrank nicht zu verwüsten!
