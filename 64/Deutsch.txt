@@ -1,13 +1,13 @@
-PANDADOG: Sucht dich vielleicht jemand?
+PANDAHÜNDIN: Sucht dich vielleicht jemand?
 
-PANDADOG: Ach, Herzchen, du zitterst ja!
+PANDAHÜNDIN: Ach, Herzchen, du zitterst ja!
 
-PANDADOG: Marie, w�rdest du ihr dein Kleid leihen?
+PANDAHÜNDIN: Marie, würdest du ihr dein Kleid leihen?
 MARIE: Aber klar, Mama!
 
-PANDADOG: Nun, wem soll ich dich zur�ckbringen?
+PANDAHÜNDIN: Nun, wem soll ich dich zurückbringen?
 
-TAMBERLANE: ...�hmmm...
+TAMBERLANE: ...ähmmm...
 
 TAMBERLANE: Pawsley!
 
