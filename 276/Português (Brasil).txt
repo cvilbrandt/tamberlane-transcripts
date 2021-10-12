@@ -1,0 +1,4 @@
+BELFRY: <em>NÃO!</em>
+
+BELFRY: Tamberlane, Me desculpa! Você está machucada?
+TAMBERLANE: NÃO.
