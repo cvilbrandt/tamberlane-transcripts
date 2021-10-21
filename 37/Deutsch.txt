@@ -2,7 +2,7 @@ TESS: Bel, kapierst du es nicht?
 
 TESS: Die Pflege die dieses Ding braucht... Wir haben die Möglichkeiten hier in Treehollow gar nicht.
 
-TESS: Du müsstest in die... <em>Aussenwelt</em>.
+TESS: Du müsstest nach... <em>Draussen</em>.
 
 BELFRY: Mir doch EGAL! Nichts was du sagst, wird meine Meinung ändern!
 TAMBERLANE: doch egaal!
