@@ -1,0 +1,22 @@
+PARSLEY: Nun, heut ist dein Glückstag, Fall, alter Kumpel! Ich nehme die Bezahlung an.
+
+PARSLEY: Wie wär's mit Freitag für deine Tanzstunde?
+FALLON: Perfekt! Danke, Parse!
+
+PARSLEY: Na, wenn das nicht die liebe Marie ist!
+
+PARSLEY: Und wen hast du da mitgebracht?
+MARIE: Das ist meine neue Freundin, Tamberlane! Sie spricht leider nicht sehr viel.
+
+PARSLEY: Hab keine Angst, meine Liebe!
+PARSLEY: Was ist es, das du brauchst?
+
+TAMBERLANE: Ummm...
+
+TAMBERLANE: ...umumum...
+
+TAMBERLANE: <em>awuhmumuww</em>
+
+PARSLEY: Oh, Schätzchen, es ist okay!
+OFFSCREEN: TAMBERLANE!
+[SFX: AWUUWUUWUWAAA]

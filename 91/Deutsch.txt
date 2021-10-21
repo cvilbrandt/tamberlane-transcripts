@@ -1,0 +1,8 @@
+TAMBERLANE: <em>FUFFY!</em>
+BELFRY: Halt, komm zurück!
+
+BELFRY: Beweg dich nicht! Ich komme!
+
+BELFRY: Ich hab dich! Ich hab dich!
+
+HENRY: Sieht aus, als hätte sich dein Unfall diesmal gelohnt!

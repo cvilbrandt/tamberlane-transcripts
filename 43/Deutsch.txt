@@ -1,0 +1,19 @@
+[SFX: AAAWAAAAWAAA]
+BELFRY: jeden Moment...
+BELFRY: jeden Moment hörst du auf...
+
+[SFX:AWAAAAWAAAA]
+BELFRY: Du hörst nicht auf!
+BELFRY: Warum hörst Du nicht auf?!
+
+BELFRY: Ich spreche kein kreischisch!
+BELFRY: Bitte <em>sag mir doch was du willst!!</em>
+
+BELFRY: okay
+
+[SFX: AAAAWAA]
+BELFRY: ...Ich sollte besser Oakewood um Rat fragen.
+[SFX:AWAAAAAW]
+
+[SFX: AWAAAAAAAAAWAAWAAA]
+[murmelt:] Ich bin keine Versagerin...
