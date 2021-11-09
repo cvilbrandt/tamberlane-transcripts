@@ -1,0 +1,15 @@
+BELFRY: Also.. gefällt dir ihr Kostüm?
+
+TAMBERLANE: Rar! Is bin ein Dax!
+
+TESS: Es ist... 
+TESS: ...okay.
+
+BELFRY: Es ist "okay."
+
+TESS: Ja, "okay." Findest du nicht, dass es ein wenig makaber ist?
+
+BELFRY: Nein, <i>makaber</i> ist, dass du dich gestern abend nach meinem Brief nicht mehr hast blicken lassen!!
+
+TESS: <em>DAS BEDEUTET DAS WORT DOCH GAR NICHT!</em>
+BELFRY: <em>MIR DOCH EGAL!</em>
