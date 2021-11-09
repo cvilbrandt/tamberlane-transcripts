@@ -1,0 +1,26 @@
+ANTHONY: Ich will nicht dass du gehst!
+JASON: Wa-warte!
+PIPER: Was willst du da überhaupt?!
+ANTHONY: Du hast es versprochen! VERSPROCHEN!
+HÜNDIN: Jason.
+
+HÜNDIN: Hör auf, deine Kinder zu erschrecken. Du traumatisierst sie noch.
+
+JASON: SO sehr wollte ich sie wirklich nicht ängstigen.
+HÜNDIN: Pff. Toll gemacht, Dussel.
+HÜNDIN: Seid unbesorgt, Kinder. Wir waren nicht wirklich nah dran. Man konnte es nur in der Ferne sehen.
+
+JASON: Anthony, Piper, das ist meine neue Freundin, Amber. Sie ist Navigatorin auf der Guppy.
+AMBER: Hallo!
+JASON: Sie ist sehr schlau, also habt ihr nichts, worum ihr euch sorgen müsstet!
+
+PIPER: Miss Amber, kannst du <i>schwören</i>, dass ihr nicht zu nah dran wart?
+
+JASON: Ich würde nie etwas tun, was meine Heimkehr zu euch beiden gefährdet.
+PIPER: Und du hast nicht gegen Seeungeheuer gekämpft?
+JASON: Gegen kein einziges, Käferchen.
+PIPER: Wie... wie langweilig.
+
+JASON: [verdeckt] it?
+[SFX: BOOM!]
+AMBER: Was zum...
