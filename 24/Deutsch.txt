@@ -1,0 +1,10 @@
+BELFRY: Du bist völlig verwahrlost...
+BELFRY: Und dreckig.
+BELFRY: Und dürr.
+
+BELFRY: Wo sind Deine Eltern?
+
+BELFRY: Hast Du überhaupt Eltern?
+BELFRY: Sind sie hier irgendwo in der Nähe?
+
+BELFRY: Also, wenn Du Eltern hast, dann aber ganz schön Schlechte, oder?

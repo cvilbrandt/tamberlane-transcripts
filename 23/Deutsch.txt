@@ -1,0 +1,17 @@
+[SFX: PATSCH]
+
+BELFRY: Du bist überhaupt kein Geist, oder?
+
+BELFRY: Du bist so winzig!
+
+BELFRY: Aber wenn Du kein Geist bist... was bist Du dann?
+
+TAMBERLANE: Tamberlane!
+
+BELFRY: Oh, du kannst sprechen! Irgendwie. Aber ich weiß nicht, was das ist.
+
+[SFX: SCHNÜFF SCHNÜFF]
+TAMBERLANE: Hihi!
+
+BELFRY: Aber Du riechst so jung.
+BELFRY: Bist du bloß ein Kind?
