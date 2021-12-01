@@ -14,5 +14,4 @@ TESS: Na guuuut.
 TESS: Du kannst es mit heim bringen.
 
 BELFRY: ICH BRAUCH DEINE ERLAUBNIS NICHT!
-
 TESS: DIESES SEIL SAGT DAS GEGENTEIL!!!
