@@ -4,6 +4,7 @@ HENRY: Oakewood? Was tust <em>Du</em> denn hier?
 OAKEWOOD: Nachforschungen. Jetzt zieht sie hoch.
 
 TESS: Pah! Oakewood, hör mal...
+
 OAKEWOOD: Jajaja. Waise, wilde Tiere, ich hab den ganzen Quatsch schon gehört.
 
 OAKEWOOD: Wollt Ihr das echt hier draussen im Regen ausfechten, während sie in einem Erdloch gefangen sitzt?
@@ -14,4 +15,5 @@ TESS: Na guuuut.
 TESS: Du kannst es mit heim bringen.
 
 BELFRY: ICH BRAUCH DEINE ERLAUBNIS NICHT!
+
 TESS: DIESES SEIL SAGT DAS GEGENTEIL!!!

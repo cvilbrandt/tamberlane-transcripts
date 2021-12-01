@@ -1,0 +1,13 @@
+PENNY: <em>Piper.</em>
+PIPER: Penny.
+
+PIPER: Oh~! Wie ich sehe, verbringst du Zeit mit Treehollow's eigenem Geist!
+
+PENNY: Ach ja, apropos!
+
+PENNY: Warum hat sie so Angst vor dir?!
+
+PIPER: Oh, wahrscheinlich, weil ich sie in die Schlucht geschubst hab?
+
+PENNY: Du hast <em>WAS?!</em>
+PIPER: Nun, da dachte ich ja auch noch, es wär ein Geist.
