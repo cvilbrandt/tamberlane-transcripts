@@ -1,6 +1,6 @@
-OAKEWOOD: wie auch immer, wir m¸ssen los.  Forschen und all so was.
+OAKEWOOD: Wie auch immer, wir m√ºssen los.  Forschen und all so was.
 
-BELFRY: Hab Spaﬂ und sei brav, Tamberlane! Hab dich lieb!
+BELFRY: Hab Spa√ü und sei brav, Tamberlane! Hab dich lieb!
 
 TAMBERLANE:  Hapdich auch lieb, Fuffy-Mami!
 
@@ -14,6 +14,6 @@ OAKEWOOD: Notiere: Mag Pilzpasteten.
 
 MILO: Ja, Onkel!
 
-OAKEWOOD: Und jetzt raus aus diesem l‰cherlichen Outfit. Das ist makaber.
+OAKEWOOD: Und jetzt raus aus diesem l√§cherlichen Outfit. Das ist makaber.
 
 BELFRY: Gar nich!
