@@ -1,0 +1,15 @@
+OAKEWOOD: Wer ist gestorben?
+
+TAMBERLANE: Onkel, Fuffy Omi schreien weil is meine Schuld, mach aufhörn!
+
+OAKEWOOD: <em>HEY, IHR ZWEI SCHRECKSCHRAUBEN!</em>
+OAKEWOOD: Haltet die Kleine aus euren Streitereien raus!  
+OAKEWOOD: Ihr <i>beide</i> solltet es besser wissen!
+
+BELFRY: Ah...
+BELFRY: Tut mir leid, Tam. Mami hätte nicht schreien sollen.
+
+TESS: Mir... tut's auch leid, Kleine.
+TESS: Mein Temperament ist mit mir durchgegangen.
+
+TAMBERLANE: Is gut.

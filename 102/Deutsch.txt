@@ -1,0 +1,22 @@
+BELFRY: Hier bitt. Schön aufessen, ja?
+
+OAKEWOOD: hrmmngghrr
+
+[SFX: SLAM!!]
+OAKEWOOD: NUR SACKGASSEN!
+
+OAKEWOOD: Drei Monate!
+OAKEWOOD: Drei Monate und wir wissen noch immer fast <em>nichts!</em>
+OAKEWOOD: Ich kann noch nicht mal ihre <i>Gattung</i> bestimmen!
+OAKEWOOD: Ich bekomme nicht mal raus, was isst ausser Haferflocken und Erbsen!
+
+OAKEWOOD: Was, wenn die Saison für Erbsen vorbei ist?
+OAKEWOOD: <em>Was dann?</em>
+
+BELFRY: Na, dann können wir sie einfach <i>nur</i> mit Haferflocken füttern.
+OAKEWOOD: Belfry, zum letzten Mal, du musst mir besser zuhö- [verdeckt]
+OFFSCREEN: Hey.
+OAKEWOOD: Sie [verdeckt] mehr als nur das.
+
+[SFX: seeeufz]
+OAKEWOOD: Oder du kannst dich ablenken lassen. Auch gut.

@@ -11,5 +11,6 @@ PIPER: "My mummy made it! Isn't she <i>ever</i> so talented? I bet your daughter
 
 PIPER: "What a crazy coincidence!"
 PIPER: "She's selling them on the corner of Trades &amp; Crafts!"
+PIPER: "Two booths down behind the pies!"
 CAT: And this is how you're going to get out of being grounded?
 PIPER: FOOLPROOF!
