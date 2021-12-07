@@ -4,17 +4,17 @@ OAKEWOOD: Sie hat noch keine getroffen.
 MILO: Du meinst, sie kennt hier echt jeden?
 OAKEWOOD: Ich meine, sie hat nie jemanden anders behandelt als ein Familienmitglied.
 
-CROW: Verdammter Rollator.
+KRÄHE: Verdammter Rollator.
 TAMBERLANE: Hi! Ich helfe!
 
 TAMBERLANE: Ich helf dir!
-CROW: <em>WAS IN GAIA'S NAMEN...!</em>
+KRÄHE: <em>WAS IN GAIA'S NAMEN...!</em>
 
-CROW: BLEIB MIR JA VOM LEIB!
+KRÄHE: BLEIB MIR JA VOM LEIB!
 TAMBERLANE: Aber ich helfe!
 
-CROW: Fass mich an, und brich dir jeden einzelnen Knochen in deiner entstellten Pfote!
+KRÄHE: Fass mich an, und brich dir jeden einzelnen Knochen in deiner entstellten Pfote!
 
-OAKEWOOD: <em>OI!</em> Wie K�NNT ihr es wagen, so mit meiner Enkelin zu reden?!
+OAKEWOOD: <em>OI!</em> Wie KÖNNT ihr es wagen, so mit meiner Enkelin zu reden?!
 OAKEWOOD: Ihr habt vielleicht Nerven!!
 TAMBERLANE: Turmileit!
