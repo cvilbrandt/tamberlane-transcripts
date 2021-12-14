@@ -1,0 +1,9 @@
+TAMBERLANE: <em> AH!! NEIN!! </em>
+PIPER: <em> !!! </em>
+
+SFX: SNAP
+
+PIPER: Entschuldigung! Tut mir leid! Tut mir leid!!
+
+TAMBERLANE: Sieht aus wie Opa!
+PIPER: puh...
