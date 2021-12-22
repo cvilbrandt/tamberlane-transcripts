@@ -1,0 +1,17 @@
+SFX: KRNCHKRNCHHK
+
+SFX: KRNCHKRNCHKRNCHH
+CUR: Masoq-
+
+CUR: Ah, volta pra cama! A gente num tá machucando ninguém!
+KIRA: Agh! <em>Qual é</em> seu problema??
+TAMBERLANE: Você não pediu desculpa!
+
+KIRA: Cai na real!
+JONAS: É, os adultos já castigaram a gente!
+
+TAMBERLANE: <em>NÃO.</em>
+KIRA: Sai fora!
+TAMBERLANE: Você não se <em>desculpou!</em>
+
+TAMBERLANE: Você tem que se <em>DESCULPAR!</em>
