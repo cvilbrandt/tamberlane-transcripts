@@ -1,0 +1,13 @@
+KRÄHE: Nun, bei deiner "Enkelin" steht Follybrook auf die Stirn geschrieben!
+OAKEWOOD: Wie <em>kannst</em> du es wagen!
+
+KRÄHE: Du wirst entschuldigen, wenn ich nicht von einem freilaufenden <em>Mutanten</em> beschmutzen lassen will!
+
+OAKEWOOD: Wenn du so denkst, dann verschwinde vrdammt nochmal von hier.
+KRÄHE: Das werde ich, vielen Dank!
+
+SFX: RRRRRRRRR...
+TAMBERLANE: Onkel?
+
+MILO: Aaalsoo... "Enkelin", ja[ÜBERTÖNT]
+OAKEWOOD: <em>KLAPPE, JAMITON!!</em>

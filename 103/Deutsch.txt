@@ -1,0 +1,14 @@
+BELFRY: Briar!!
+TAMBERLANE: ah!
+
+BRIAR: Hey, Bel.
+TAMBERLANE: Erbsen!
+
+BELFRY: Was führt dich her? Möchtest du einen warmen Tee?
+BELFRY: Oh! Wir haben sogar ein wenig Fleisch da!
+BRIAR: Nein... nein danke.
+TAMBERLANE: Will Erbsen!
+
+BELFRY: Oh! Na dann... was kann ich denn dann für dich tun?
+
+BRIAR: Mum schickt mich.

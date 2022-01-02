@@ -1,0 +1,15 @@
+OAKEWOOD: Mäuschen, geht's dir einigermaßen gut?
+
+TAMBERLANE: Er wollte keine Hilfe.
+
+OAKEWOOD: Nein, wollte er nicht. So wie manch Andere.
+TAMBERLANE: Aber ich helfe.
+OAKEWOOD: Nein, du bist ein Kind. Leb' einfach.
+
+OAKEWOOD: Aber abgesehen vom Helfen, geht es dir gut?
+
+TAMBERLANE: Ja... aber ist Onkel okay?
+
+OAKEWOOD: Ja. Aber was hab ich grade gesagt?
+TAMBERLANE: Nicht helfen, nur leben!
+OAKEWOOD: Sehr schön.
