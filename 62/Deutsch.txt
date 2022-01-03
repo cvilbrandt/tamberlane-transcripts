@@ -6,7 +6,7 @@ PIPER: Schau, ich hab doch gar keinen Grund, dir was zu tun. Alles ist gut.
 
 PIPER: Ich kann dir nicht helfen wenn du mir nicht vertraust.
 
-PIPER: (Du) <em>PSYCHO!</em>
+PIPER: <em>VERARSCHT!</em>
 TAMBERLANE: <em>WAAAAAH!!!</em>
 
 PENNY: Piper!!
