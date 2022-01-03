@@ -1,19 +1,19 @@
 KATZE: Ich sag dir was.
-KATZE: Für jeden zahlenden Kunden, den du mir schickst, erlasse ich dir eine Stunde vom Hausarrest.
+KATZE: FÃ¼r jeden zahlenden Kunden, den du mir schickst, erlasse ich dir eine Stunde vom Hausarrest.
 
 PIPER: <i>EINE STUNDE?!</i>
-PIPER: Was für eine Abzocke!!
+PIPER: Was fÃ¼r eine Abzocke!!
 PIPER: Weisst du, wie viele Stunden ein Monat hat?!
 PIPER: <i>NE MILLIARDE!</i> Mindestens!
 
 KATZE: Wenn die Zeit schneller vergehen soll, dann reinige die Latrinen, wie ich es dir gesagt habe.
 PIPER: ...
 
-PIPER: Ich <i>hasse</i> die Fest-Latrinen saubermachen!
+PIPER: Ich <i>hasse</i> es, die Fest-Latrinen sauber zu machen!
 
 OFFSCREEN: Guten Morgen, Avery!
 
-BELFRY: Ich hoffe, es stört nicht, wenn wir einfach so reinschneien?
+BELFRY: Ich hoffe, es stÃ¶rt nicht, wenn wir einfach so reinschneien?
 TAMBERLANE: Hi!
 
-AVERY: Nein, was für eine schöne Überraschung! Belfry und die kleine Miss Tamberlane!
+AVERY: Nein, was fÃ¼r eine schÃ¶ne Ãœberraschung! Belfry und die kleine Miss Tamberlane!
