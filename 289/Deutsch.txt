@@ -1,0 +1,18 @@
+TAMBERLANE: Du hast Piper <em>wehgetan</em>. Lebewesen wehtun ist BÖSE!
+
+CUR: Ich?? Piper tut anderen <em>ständig</em> weh!
+CUR: Dich interessiert's nur nicht, weil sie <em>dich</em> jetzt in Ruhe lässt!
+TAMBERLANE: Sie bringt andere nicht zum <em>Weinen</em>!! Ich will nur, dass du <em>AUFHÖRST!!</em>
+CUR: <em>Natürlich</em>! Ich hab doch vorhin deine Faust gesehen!
+
+CUR: Ooh, ich bin <em>Tamberlane!</em> Ich tuh keinem was weh!
+
+CUR: Gelaber und <em>Getue!</em>
+
+TAMBERLANE: Du musstest aber AUFHÖREN!
+CUR: ICH HAB AUFGEHÖRT! Du wolltest mich TROTZDEM SCHLAGEN!
+TAMBERLANE: SAG ES TUT DIR LEID!!
+CUR: Oh, du willst, dass ich mich <em>entschuldige??</em>
+
+KIRA: Vergiss sie, sie ist irre! Hauen wir ab b'vor wir in wieder in Schwierigkeiten geraten!
+JONAS: Ja, wen interessiert schon was sie denkt?
