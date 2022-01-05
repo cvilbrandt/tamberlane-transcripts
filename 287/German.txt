@@ -1,0 +1,14 @@
+JONAS: Schönes Wetter, oder? Frisch.
+KIRA: Ja. Schön einfach mit euch abzuhängen, weg von den Andern.
+
+KIRA: Ich hasse Schulfahrten. Jeder sitzt dir die ganze Zeit im Nacken.
+
+CUR: Klar, aber der eine Scherz war ziemlich lustig, was?
+KIRA: Ich lieber es, wenn sie umherrennen
+JONAS: Tchja!
+
+CUR: Ich hätte Piper vielleicht nicht ein Bein stellen sollen. Wollt sie nicht wirklich verletzen...
+KIRA: Ich liebe es <em>nicht</em>, wenn sie weinen.
+JONAS: Ja...
+
+CUR: Ach naja. Geschieht ihr Recht dafür, so fies zu sein. 
