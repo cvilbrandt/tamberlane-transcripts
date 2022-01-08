@@ -4,14 +4,14 @@ SFX: KRNCHKRNCHKRNCHH
 CUR: Wa-
 
 CUR: Ach, geh doch wieder ins Bett! Wir tun keinem Weh!
-KIRA: Ugh! <em>Was</em> ist dein Problem??
-TAMBERLANE: Du hast dich nicht Entschuldigt!
+KIRA: Ugh! <i>Was</i> hast du für'n Problem??
+TAMBERLANE: Du hast dich nicht entschuldigt!
 
-KIRA: Vergiss es!
+KIRA: Komm drüber weg!
 JONAS: Ja, die Erwachsenen haben uns schon bestraft!
 
 TAMBERLANE: <em>NEIN</em>.
 KIRA: Lammich los!
-TAMBERLANE: Es tut dir nicht <em>Leid!</em>
+TAMBERLANE: Es tut dir nicht <i>Leid!</i>
 
-TAMBERLANE: Es muss dir <em>LEID TUHEN!</em>
+TAMBERLANE: Es muss dir <em>LEID TUN!</em>
