@@ -1,12 +1,12 @@
-BELFRY: Was meinst du damit, "Kinderlaune"?
+BELFRY: Was genau meinst du mit "Kinderlaune"?
 NORA: Ach, du weisst schon...
 
-NORA: Tamberlane hat sich in den letzten anderthalb Jahren ziemlich an Treehollow gewöhnt.
+NORA: Tamberlane hat sich in den letzten anderthalb Jahren sehr gut in Treehollow eingelebt.
 NORA: Sie entwickelt jetzt sicherlich langsam ihre eigene Identität.
 
-NORA: Wenn sie älter wird, wird sie auch unabhängiger werden, Belfry.
+NORA: Während sie älter wird, wird sie auch unabhängiger werden, Belfry.
 
-BELFRY: Ja, natürlich wird sie das, aber noch nicht <em>jetzt!</em> Zudem ist was <em>besonderes</em>! Sie <em>braucht</em> mich!
-NORA: Sie wird dich immer brauchen du dumme Gans.
+BELFRY: Ja, natürlich wird sie das, aber noch nicht <i>jetzt!</i> Zudem ist sie was <i>besonderes</i>! Sie <i>braucht</i> mich!
+NORA: Sie wird dich immer brauchen, du dumme Gans.
 
-NORA: Aber sie wird auch ihr eigenes Leben leben müssen
+NORA: Aber sie wird auch ihr eigenes Leben leben müssen.
