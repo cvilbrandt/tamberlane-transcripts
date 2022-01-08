@@ -14,5 +14,5 @@ CUR: ICH HAB AUFGEHÖRT! Du wolltest mich TROTZDEM SCHLAGEN!
 TAMBERLANE: <em>SAG ES TUT DIR LEID!!</em>
 CUR: Oh, du willst, dass ich mich <em>entschuldige??</em>
 
-KIRA: Vergiss sie, sie ist irre! Hauen wir ab b'vor wir in wieder eins drüber kriegen!
+KIRA: Vergiss sie, sie ist irre! Hauen wir ab b'vor wir wieder eins drüber kriegen!
 JONAS: Ja, wen interessiert schon was sie denkt?
