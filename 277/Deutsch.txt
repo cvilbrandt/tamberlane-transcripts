@@ -4,8 +4,8 @@ BELFRY: Bitte sag mir was los ist!
 
 BELFRY: <em>Tamberlane</em>!
 
-BELFRY: L...
-BELFRY: Lauf du nicht einfach weg von mir!
+BELFRY: Wa...
+BELFRY: Wage es nicht, einfach so wegzugehen!
 BELFRY: Ich bin deine <em>Mutter</em>!
 
 BELFRY: Ich bin...
