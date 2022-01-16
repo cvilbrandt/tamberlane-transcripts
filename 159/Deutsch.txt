@@ -1,0 +1,19 @@
+OAKEWOOD: Mx. Tagg, Mr. Danger, wenn Sie einen Moment Zeit haben, ich habe ein Anliegen, bei dem Sie mir helfen könnten....
+
+MILO: O...Onkel!
+
+MILO: Onkel, wir sollen doch nicht... es ist doch verboten...
+
+OAKEWOOD: <em> Milo Jamiton, sei nicht so ein respektloser Idiot!</em> Wenn dein Vater dich jetzt hören könnte, er würde sich für dich <em>schämen!</em>
+
+MILO: a-aber...wir dürfen...doch nicht...
+
+OAKEWOOD: Zeig mal Rückgrat, Junge!
+MILO: J...ja, Sir.
+
+OAKEWOOD: Ich entschuldige mich für meinen einfältigen Patensohn. Er ist noch jung. Auf jeden Fall verstehe ich, wenn Sie nicht helfen wollen, aber wir müssen mehr über Tamberlane erfahren.
+TAMBERLANE: Ich bin ein Tamberlane!
+OAKEWOOD: Ich möchte nur wissen: haben Sie in Follybrook je ein Wesen wie sie gesehen?
+
+TAGG: Ich will nur wieder heim.
+DANGER: Tagg, <i>er</i> war wenigstens anständig zu uns... 
