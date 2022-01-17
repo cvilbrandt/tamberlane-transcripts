@@ -1,20 +1,20 @@
 [SFX: KOFF KOFF KOFF KOFF]
 
 [SFX: koff koff koff koff]
-GREIF: Mädels! Was hab ich über Rauchbomben an Bord gesagt?!
-KLEINE FLEDERMÄUSE: Sorry, Käpt'n!
+GREIF: MÃ¤dels! Was hab ich Ã¼ber Rauchbomben an Bord gesagt?!
+KLEINE FLEDERMÃ„USE: Sorry, KÃ¤pt'n!
 
-GREIF: Und Winnie, hör auf, sie immer in die Küche zu lassen.
-WINNIE: Aye, Käpt'n.
+GREIF: Und Winnie, hÃ¶r auf, sie immer in die KÃ¼che zu lassen.
+WINNIE: Aye, KÃ¤pt'n.
 
-KLEINE FLEDERMAUS 1: Och, nich' böse sein, Cap'n Gillian!
+KLEINE FLEDERMAUS 1: Och, nich' bÃ¶se sein, Cap'n Gillian!
 
-KLEINE FLEDERMAUS 1: Wir lernen wirklich no<em>AHHH!!</em>
+KLEINE FLEDERMAUS 1: Wir hatten nur gelernt wi<em>AHHH!!</em>
 
-TAMBERLANE: gäääääähn
+TAMBERLANE: gÃ¤Ã¤Ã¤Ã¤Ã¤Ã¤hn
 OAKEWOOD: Oh, du bist also doch noch aufgewacht, was?
 
-AMBER: <i>Was</i> auf Gottes grüner Erde ist <em>DAS?!</em>
+AMBER: <i>Was</i> auf Gottes grÃ¼ner Erde ist <em>DAS?!</em>
 
 PIPER: ?
 

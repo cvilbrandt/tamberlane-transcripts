@@ -3,7 +3,7 @@ NORA: Belfry...
 
 BELFRY: Du siehst es, ich sehe es... <i>Jeder</i> sieht es!
 
-BELFRY: Ich kann mich um ken anderes Wesen kümmern! Ich kann mich ja nicht mal um mich selbst kümmern!
+BELFRY: Ich kann mich um kein anderes Wesen kümmern! Ich kann mich ja nicht mal um mich selbst kümmern!
 NORA: Belfry, komm runter!
 
 BELFRY: Gestern hab ich vergessen, Ofenhandschuhe anzuziehen!!

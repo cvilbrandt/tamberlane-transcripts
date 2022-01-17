@@ -6,10 +6,10 @@ BELFRY: Z...zwei?
 FÜCHSIN: Puh! Als ich hörte, du wärst von einer Klippe gestürzt, war ich echt besorgt!
 FÜCHSIN: Aber wie immer trotzt Du den Erwartungen auf die beste Weise.
 
-FÜCHSIN: Da Du keine Gehirnerschütterung zu haben scheinst, kann Terra dich behandeln üben.
+FÜCHSIN: Da Du keine Gehirnerschütterung zu haben scheinst, kann Terra an dir etwas Erfahrung sammeln.
 
 FÜCHSIN: In der Zwischenzeit werde ich Parker füttern. Hallo, mein Kleiner.
-TERRA: Er will ganz drngend zu seiner Mama.
+TERRA: Er will ganz dringend zu seiner Mama.
 
 BELFRY: Oh ho, Du überlässt also deiner Azubi die lästige Arbeit?
 
