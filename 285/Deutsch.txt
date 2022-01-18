@@ -1,0 +1,14 @@
+BELFRY: Ich will nur, dass sie sicher und wohlauf ist.
+
+NORA: Du kannst sie nicht vor allem beschützen, Belfry! Erst Recht nicht vor ihren eigenen Gefühlen!
+
+NORA: Es hat vermutlich nichts mit dir zu tun. Nur Kinderpolitik.
+BELFRY: Kinderpolitik?
+
+NORA: Erinnerst du dich nicht daran, als wir selbst noch Kinder waren?
+NORA: Die Erwachsenen verstanden <i>nie</i> unsere kleinen Sozialdramas.
+
+NORA: Egal was passiert, denk dran: Alles was Tam braucht ist Liebe, jemanden, der die Verantwortung für sie übernimmt...
+BELFRY: ...und einen Ort, den sie Zuhause nennen kann.
+
+NORA: Es wird alles gut werden Bel, für euch beide.
