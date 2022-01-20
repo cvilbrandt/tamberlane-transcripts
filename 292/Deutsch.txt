@@ -6,8 +6,8 @@ TAMBERLANE: Nnngh...
 
 TAMBERLANE: Rrgh!!
 
-CUR: Was soll das werden??
+CUR: Was soll das <em>werden??</em>
 TAMBERLANE: Rrrraaggh!!!
 
-CUR: Was MACHST du da?
-TAMBERLANE: Sag nicht böse Dinge über Mutti!
+CUR: Was <em>MACHST</em> du da?
+TAMBERLANE: <em>Sag nicht böse Dinge über Mutti!</em>
