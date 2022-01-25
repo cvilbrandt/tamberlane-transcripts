@@ -1,6 +1,6 @@
 PIPER: Hier ist unser <em>Aktionsplan!</em>
 
-PIPER: Wir werden den Perimeter nach <em>Geisterhinweisen</em> absuchen.
+PIPER: Wir werden den Perimeter nach <em>Geisterspuren</em> absuchen.
 PIPER: Ja, Hattie?
 
 HATTIE: Was ist ein "Perimenter"?
