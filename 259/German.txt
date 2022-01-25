@@ -1,6 +1,6 @@
 PIPER: Hier ist unser <em>Aktionsplan!</em>
 
-PIPER: Wir werden den Perimeter nach <em>Geisterspuren</em> absuchen.
+PIPER: Wir werden den Perimenter nach <em>Geisterspuren</em> absuchen.
 PIPER: Ja, Hattie?
 
 HATTIE: Was ist ein "Perimenter"?
@@ -10,6 +10,6 @@ ANTHONY: Aber Piper, die Erwachsenen haben gesagt, wir sollen draußen--
 PIPER: OH MEIN GOTT, ANTHONY, WER HAT HIER DAS SAGEN?!
 
 PIPER: Okay. Ähem. Bitte 'tschuldigt meine Ausbrüche.
-PIPER: Also, wo wahr ich?
+PIPER: Also, wo war ich?
 
 PIPER: Ach, vergiss es! <em>JAGEN WIR GEISTER!!!</em>
