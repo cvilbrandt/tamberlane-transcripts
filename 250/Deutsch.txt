@@ -1,24 +1,20 @@
-PARSLEY: Ah, entschuldige! Ich hab ihr nur gesagt, dass es blöd ist, anders zu sein!
+PARSLEY: Ah, entschuldige! Ich hab ihr nur gesagt, dass es cool ist, anders zu sein!
 MARIE: Sorry, mein Trissol ist einfach <em>Müll!</em>
 
 PARSLEY: Wo wir grad über Trissol reden, ich weiß du wurdest dass vermutlich etliche Male gefragt, Tam, aber...
 PARSLEY: Wie <em>hast</em> du es eigentlich gelernt?
 PARSLEY: Du bist nicht taub, also... war es jemand, den du gekannt hast?
 
+TAMBERLANE: Ähm...
+TAMBERLANE: Be!
 
+PARSLEY: Meinst du vielleicht "Vi"?
+TAMBERLANE: Nein, <em>Be.</em>
+PARSLEY: Das ist das Zeichen für das "V", Kumpel.
 
-TAMBERLANE: Um...
-TAMBERLANE: Bee!
-
-PARSLEY: Y'mean Vee?
-TAMBERLANE: No, Bee.
-PARSLEY: Yer signin' Vee, mate.
-
-TAMBERLANE: Oh... Vee?
-TAMBERLANE: You're right.
-
-
+TAMBERLANE: Oh... Vi?
+TAMBERLANE: Stimmt, hast Recht.
 
 PARSLEY: Ah! Du warst ziemlich jung als du Trissol gelernt hast, so wie ich.
 PARSLEY: Du warst, was, drei? Als du hier ankamst?
-PARSLEY: In dem Alter konnte ich die Zeichen auch nicht richtig aussprechen.
+PARSLEY: In dem Alter hab ich die Zeichen auch immer verwechselt.
