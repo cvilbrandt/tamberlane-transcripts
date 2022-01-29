@@ -1,5 +1,5 @@
 BELFRY: Briar!
-BELFRY: Ähm... Ich hab dir was gemacht.
+BELFRY: Ähm... Ich hab was für dich gemacht.
 BRIAR: Für <em>mich</em>??
 BRIAR: Was ist es??
 
@@ -8,12 +8,12 @@ BELFRY: Damit dir nicht mehr so kalt wird.
 BRIAR: <strong><em>WOW!</em></strong>
 BELFRY: <em>Er ist etwas groß... ups.</em>
 
-BELFRY: Ich weiss ich bin nicht deine ECHTE Schwester...
+BELFRY: Ich weiss, ich bin nicht deine ECHTE Schwester...
 BELFRY: ... aber ich hab dich trotzdem lieb.
-BRIAR: Danke sehr, Belfee!
+BRIAR: Dankeschön, Belfee!
 
 WALTER: Natürlich bist du ihre echte Schwester.
-WALTER: Denk niemals anders darüber.
+WALTER: Denk niemals was anderes.
 
-WALTER: Ihr seit unser kleiner Schatz.
-WALTER: Wir werden euch immer liebhaben.
+WALTER: Du bist unser kleiner Schatz.
+WALTER: Wir werden dich immer liebhaben.
