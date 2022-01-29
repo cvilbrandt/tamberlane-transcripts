@@ -1,9 +1,9 @@
 PARSLEY: Sieht richtig gut aus, Mädels!
 
 MARIE: Ooh, hübsch!
-PARSLEY: Ist das also deine Mutter?
+PARSLEY: Dann ist das also deine Mutter?
 
 TAMBERLANE: Nein, das bin ich!
 
-PARSLEY: Bist du dir da sicher, Kumpel?
+PARSLEY: Biste dir da sicher, Tam?
 MARIE: <em>Parsley!</em>
