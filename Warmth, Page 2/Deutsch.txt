@@ -1,7 +1,7 @@
 WALTER: Ahh, du hast noch dein Kinderfell!
 WALTER: Du frierst doch bestimmt, Briochka.
 
-BELFRY: Ich sollte nicht so gemein von reden.
+BELFRY: Ich sollte nicht so gemein von ihr reden.
 BELFRY: Sie ist gerade mal vier...
 
 BELFRY: <strong><em>OH NEIN!</em></strong>
