@@ -1,4 +1,4 @@
-CUR: Finden wir eine <em>bessere</em> Zeitverschwendung.
+CUR: Finden wir einen <em>besseren</em> Zeitvertreib.
 KIRA: <em>Oder...</em>
 
 KIRA: Ich habe die <em>beste</em> Idee.
@@ -9,4 +9,4 @@ KIRA: Die jagen Geister, richtig?
 CUR: Ja, als ob das denen was nützen wird.
 JONAS: Tchja, Geister <em>gibts nicht.</em>
 
-KIRA: Ah, aber <em>es gibt sie sehr wohl.</em>
+KIRA: Oh, es gibt sie <em>sehr wohl.</em>
