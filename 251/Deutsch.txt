@@ -1,10 +1,10 @@
-PARSLEY: Wer ist diese Vi die dir Trissol beigebracht hat?
+PARSLEY: Wer ist diese "Vi", die dir Trissol beigebracht hat?
 TAMBERLANE: Vi!
 
 PARSLEY: Aber war Vi deine Mama oder dein Papa oder so?
-TAMBERLANE: Nein, Mama ist Belfry!
+TAMBERLANE: Nein, Mama ist <i>Belfry</i>!
 
-MARIE: Aber was ist mit der Zeit bevor du nach Treehollow kamst? Wer war damals deine Mutti?
+MARIE: Aber was ist mit der Zeit, <i>bevor</i> du nach Treehollow kamst? Wer war damals deine Mama?
 
 TAMBERLANE: Äh...
 
