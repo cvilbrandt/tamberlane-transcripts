@@ -1,0 +1,14 @@
+CUR: Ihr hättet eure Gesichter sehen sollen!
+CUR: Unbezahlbar!
+
+PIPER: <em>Ha... Halt die Klappe!</em>
+PIPER: Das war nur wegen Arties und Hatties Geschichte!
+
+CUR: Denen ihre Geschichte über <em>Langwandler?</em>
+CUR: Das ist eine <i>Baby</i>geschichte, die <em>Babys</em> Angst machen soll!
+CUR: Bist du ein kleines Baby, Piper?
+
+PIPER: I-- Ich bin kein Baby!
+PIPER: Nimm das zurück!!
+
+TAMBERLANE: CUR! <em>STOP!!</em>

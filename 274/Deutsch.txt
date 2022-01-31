@@ -1,0 +1,19 @@
+BELFRY: Bist du verletzt?!
+BELFRY: Sie haben dir nichts getan, oder?!
+
+BELFRY: Dem Himmel sei Dank, ich hab mir solche Sorgen gemacht!
+
+ANTHONY: Frau Belfry, sie haben Piper wehgetan!
+BELFRY: <em>Wer</em> hat das getan??
+TAMBERLANE: Rrrgh!
+
+BELFRY: Ihr kleinen Fieslinge wart das, nicht wahr?!
+BELFRY: Und ihr habt Tamberlane traurig gemacht!!
+CUR: <em>Was?!</em>
+TAMBERLANE: rrrrRRR
+
+KIRA: Das ist nicht <em>fair!</em>
+CUR: Ja, <em>sie</em> hat <em>uns</em> geärgert!
+JONAS: Schau sie nur an! Sie wollte uns umbringen!
+
+TAMBERLANE: AWAARA

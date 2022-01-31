@@ -1,0 +1,19 @@
+PARSLEY: Wer ist diese "Vi", die dir Trissol beigebracht hat?
+TAMBERLANE: Vi!
+
+PARSLEY: Aber war Vi deine Mama oder dein Papa oder so?
+TAMBERLANE: Nein, Mama ist <i>Belfry</i>!
+
+MARIE: Aber was ist mit der Zeit, <i>bevor</i> du nach Treehollow kamst? Wer war damals deine Mama?
+
+TAMBERLANE: Äh...
+
+TAMBERLANE: Weiß nicht.
+MARIE: Das ist okay, Tamberlane. Ich weiß, dass Herr Oakewood dich darüber <em>tagelang</em> ausgefragt hatte.
+
+PARSLEY: Okay, aber was <em>war</em> Vi? War sie... wie du?
+
+TAMBERLANE: Nein... Vi war... R<i>[unleserlich]</i>
+
+PIPER: OI, IHR DEPPEN! WAS LÄUFT?
+ALL: AAAAAAA!!!!
