@@ -5,16 +5,16 @@ GILLIAN: Es... sie?
 GILLIAN: ...ist mir ziemlich unbekannt. Tut mir wirklich leid.
 GILLIAN: [whispered] igitt.
 
-KLEINE FLEDERMAUS 2: K‰pt'n, ich hab eine Idee, wer es wissen kˆnnte.
+KLEINE FLEDERMAUS 2: K√§pt'n, ich hab eine Idee, wer es wissen k√∂nnte.
 GILLIAN: Seeeufz...
 GILLIAN: Stimmt...
 
-GILLIAN: Sag, da du so nett warst, es zu erw‰hnen, Artie, warum gehst <i>DU</i> Milo holen?
+GILLIAN: Sag, da du so nett warst, es zu erw√§hnen, Artie, warum gehst <i>DU</i> nicht Milo holen?
 
 ARTIE: Muss ich wirklich? Er hat vorhin seine ganze Kabine vollgekotzt.
 
 GILLIAN: Irgendwer muss es tun, und ich bin's nicht.
-GILLIAN: Betrachte es als Befehl des Kapit‰ns.
+GILLIAN: Betrachte es als Befehl des Kapit√§ns.
 
 ARTIE: grummel grummel
-ARTIE: ...aye, K‰pt'n...
+ARTIE: ...aye, K√§pt'n...
