@@ -1,0 +1,13 @@
+MILO, TAMBERLANE, OAKEWOOD: Von Draußen?
+
+OAKEWOOD: Das ist absoluter Quatsch.
+
+TAGG: Bevor du mich Lügen strafst, lass mich ausreden. Draußen ist etwas seltsames im Gange.
+
+DANGER: Ganze Gebiete werden abgeriegelt oder unter Quarantäne gestellt. Niemand will sagen, warum. 
+
+TAGG: Und Bewohner von Follybrook verschwinden spurlos.
+
+OAKEWOOD: Ach komm schon! Das hat doch alles nichts mit Tamberlane zu tun! Quarantäne? Vermisste Leute? Das ist totaler Schwachsinn!
+
+TAGG: Du <em>willst</em> mir nur nicht glauben! 
