@@ -1,18 +1,18 @@
-CALLIE: Ich denke, ich nehme zwei Erdbeerküchlein, bitte!
-TESS: DU SOLLST NUR LANGSAM MACHEN BEVOR WIR NICHTS MEHR DAVON VERKAUFEN KÖNNEN!!
+CALLIE: Ich denke, ich nehme zwei ErdbeerkÃ¼chlein, bitte!
+TESS: DU SOLLST NUR LANGSAM MACHEN BEVOR WIR NICHTS MEHR DAVON VERKAUFEN KÃ–NNEN!!
 
 BRIAR: Das tut mir so leid, Callie.
 BELFRY: <em>GENUG JETZT!!!</em> WAS IST BLOSS HEUTE MIT DIR LOS, MUM?! 
 
 TESS: GAR NICHTS IST LOS MIT MIR!
-BELFRY: DAFÜR SCHREIST DU MICH ABER GANZ SCHÖN VIEL AN!
+BELFRY: DAFÃœR SCHREIST DU MICH ABER GANZ SCHÃ–N VIEL AN!
 CALLIE: Och, alles gut!
-TESS: <em>I KNOW!!!</em> JUST DO IT, OKAY?!
-BELFRY: <em> FINE!!!!</em>
+TESS: <em>ICH WEISS!!!</em> MACHS EINFACH, OKAY?!
+BELFRY: <em> FEIN!!!!</em>
 
-BRIAR: Viel Glück mit deinem Verkaufsstand, Callie.
-CALLIE: Dir auch viel Glück, Briar.
-BELFRY: ICH ZERDRÜCK SCHON KEINE MEHR! BIST DU JETZT ZUFRIEDEN?!
+BRIAR: Viel GlÃ¼ck mit deinem Verkaufsstand, Callie.
+CALLIE: Dir auch viel GlÃ¼ck, Briar.
+BELFRY: ICH ZERDRÃœCK SCHON KEINE MEHR! BIST DU JETZT ZUFRIEDEN?!
 
 TESS: JA ICH BIN ZUFRIEDEN!
 BELFRY: GUT!!!
