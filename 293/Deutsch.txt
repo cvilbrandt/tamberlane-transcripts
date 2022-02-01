@@ -1,0 +1,10 @@
+CUR: Versuchst du mich zu schubsen? Ist das dein Plan?
+CUR: Schau nur, du versuchst dein bestes und ich spür es kaum!
+CUR: Wie erbärmlich kann man sein?
+KIRA: Haha... <em>Super</em> erbärmlich.
+
+CUR: Ich glaub ich sollte...
+
+CUR: ...dir zeigen wie man's <em>RICHTIG MACHT!</em>
+
+TAMBERLANE: Wa-
