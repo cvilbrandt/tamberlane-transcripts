@@ -1,0 +1,12 @@
+SFX: TIEF SEUFZ
+
+BELFRY: Schau mal, Mum. Ich weiß, du hasst Tamberlane , aber du musst dich mit der Tatsache abfinden, dass sie hier ist, um zu bleiben.
+
+TESS: <em>Was?!</em> Ich <em>hasse</em> Tamberlane doch nicht!
+
+BELFRY: Ach, wirklich?
+TESS: <em>Ja</em>, wirklich! Tatsächlich finde ich sie sogar sehr süß!
+
+TESS: Ehrlich gesagt, ist sie mir sogar ans Herz gewachsen.. <em> EIN WENIG.</em> 
+
+TESS: Aber das <em>ist</em> ja das Problem!
