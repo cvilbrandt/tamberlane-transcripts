@@ -1,12 +1,12 @@
-STIMME: Meine Güte!.
+STIMME: Meine GÃ¼te!.
 
-STIMME: Du wächst ja wie Unkraut, Herzchen.
+STIMME: Du wÃ¤chst ja wie Unkraut, Herzchen.
 
-OAKEWOOD: Sechzehn Zentimeter sind ein ganz schöner Schuss für eine einzige Saison.
+OAKEWOOD: Sechzehn Zentimeter sind ein ganz schÃ¶ner Schuss fÃ¼r eine einzige Saison.
 
 BELFRY: Nun, vielleicht ist sie auch nur ehrgeizig!
 
 TAMBERLANE: Hunger!
-BELFRY: Scon wieder??
+BELFRY: Schon wieder??
 
-OAKEWOOD: Apropos. Ich habe noch etwas, das ich testen möchte.
+OAKEWOOD: Apropos. Ich habe noch etwas, das ich testen mÃ¶chte.

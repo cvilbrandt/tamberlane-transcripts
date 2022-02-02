@@ -1,4 +1,4 @@
-OAKEWOOD: Gut, also schön.  Dann bring sie halt zurück!.
+OAKEWOOD: Na dann. Geh und bring sie zurück.
 
 BELFRY: Was?! Das kann ich doch nicht machen!
 
@@ -11,4 +11,4 @@ BELFRY: Aber ich... sie würden nicht...
 
 BELFRY: Niemand sonst hat sich gekümmert, und ich... ich kann nicht.
 
-OAKEWOOD: Du meine Güte! Ich glaube, dann musst du es wohl doch selbst tun!
+OAKEWOOD: Ach herrje! Dann wirst du es wohl doch selbst tun müssen!
