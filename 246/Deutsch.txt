@@ -1,0 +1,8 @@
+OAKEWOOD: Nun?
+OAKEWOOD: Worauf wartest du, Federhirn?
+
+OAKEWOOD: Hilf mir, etwas relevante Mythologie zu finden!
+MILO: J-Ja, sir!
+OAKEWOOD: Vielleicht haben wir Glück und finden endlich ein paar <em>Hinweise</em> zu unserem Rätsel.
+
+OAKEWOOD: Namentlich, was <em>ist</em> Tamberlane?
