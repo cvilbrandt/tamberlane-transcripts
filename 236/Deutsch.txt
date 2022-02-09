@@ -7,10 +7,10 @@ JASON: Ich mein nur, du solltest vorsichtig sein.
 JASON: In den Orten, die ich besucht habe, ist dieser Ort nicht zu unterschätzen.
 JASON: Und laut meine Erfahrungen?
 
-JASON: Räte und Authoritäten sind bei diesen Themen selten nachgiebig.
+JASON: Räte und Authoritäten sind bei diesen Themen selten <em>nachgiebig.</em>
 
 JASON: Ah, aber ich werde euch keine Angst machen. Ich bin mir sicher, es wird gut werden--
 SFX: PLAP
 
-JASON: PIPER!!
-PIPER: SORRY, DAD!!
+JASON: <em>PIPER!!</em>
+PIPER: <em>SORRY, DAD!!</em>
