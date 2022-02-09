@@ -1,0 +1,18 @@
+BELFRY: Pfft, <em>Authoritäten.</em>
+BELFRY: Du lässt es so klingen, als wäre der Stadtrat ein <em>namensloses Böse.</em>
+BELFRY: Der Rat setzt sich aus unseren Freunden und Familien zusammen!
+
+JASON: Ich war bereits überall in diesem Land unterwegs. Städte dieser Größe werden <em>immer</em> von Freunden und Familienmidgliedern geleitet.
+
+JASON: Das hält sie jedoch nicht davon ab, ihre Mitmenschen auszustoßen.
+
+CALLIE: Nein! Sie würden Jentzen doch nicht <em>verbannen,</em> oder?
+BELFRY: Nein! Natürlich nicht!
+JASON: Es würde mich nicht überraschen.
+
+BELFRY: Jason!
+JASON: Er hat Kinder dazu mobilisiert, gegen die Edikte zu rebellieren.
+JASON: So werden sie es sich zumindest zurechtspinnen.
+
+CALLIE: Das würden sie- das können sie-
+BELFRY: Das werden sie <em>nicht.</em>
