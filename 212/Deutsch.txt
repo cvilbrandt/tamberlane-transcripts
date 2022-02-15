@@ -1,0 +1,15 @@
+OAKEWOOD: Guten Morgen, die Herren.
+
+SCOTT: Sieht so aus als hätten wir eine Party hier!
+PEEK: Ah, bist du gekommen, um deine Bücher abzuholen, Claude?
+OAKEWOOD: Ja, das bin ich. Und ich glaube, Fräulein Tamberlane hat auch einige Wünsche hier.
+
+TAMBERLANE: Hi Herr Scott!
+SCOTT: Na hallöchen Fräulein Tamberlane! Was kann ich für dich tun?
+
+TAMBERLANE: Mutti hat gesagt...Mutti hat gesagt, ich darf Bücher haben.
+
+BELFRY: Wir suchen nach ein paar Büchern, um sie nach einem rauen Tag etwas aufzuheitern.
+
+SCOTT: Ein schlechter Tag? Sowas können wir nicht zulassen, was? Wieso suchen wir uns nicht gemeinsam ein paar aus?
+TAMBERLANE: Ja, bitte!
