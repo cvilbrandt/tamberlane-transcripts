@@ -1,0 +1,14 @@
+BELFRY: Ich glaube nicht, dass man sich so richtig ins Bett legt, Fräulein!
+TAMBERLANE: I will aba!
+
+BELFRY: Ich werde aber nichts deinem Hintern vorlesen, also dreh dich um, wenn du eine Geschichte willst!
+TAMBERLANE: Okay!
+
+BELFRY: Uff! Immer schön mit der Ruhe!
+SFX: FOOMF
+BELFRY: Welches Buch möchtest du lesen? 'Ivan rettet die Stadt'? Oder 'Ich hab dich auf immer lieb'?
+TAMBERLANE: Ivan rettet die Stadt!
+
+BELFRY: 'Ivan rettet die Stadt' also. Mach es dir gemütlich.
+
+BELFRY: “Ivan war ein kleiner Maulwurf, der in der kleinen Stadt Sunset Acres mit seinen zwei Papas Garret und Tom lebte…”
