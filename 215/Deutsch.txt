@@ -1,0 +1,15 @@
+SFX: Sshhhf
+OAKEWOOD: Meine Güte, Peek! Was für ein Fund! Was schulde ich dir dafür
+
+PEEK: Ganz ehrlich? Du musst nächste Woche nur etwas auf Bean aufpassen, während Erin und ich etwas nach Little Aching gehen.
+
+OAKEWOOD: Du willst, dass ich für dieses unbezahlbare Buch auf deine <em>Katze</em> aufpasse?
+
+SFX: skrih skrih
+PEEK: Naja, das, und dass du dich weiterhin an unsere Vereinbarung hältst.
+OAKEWOOD: Ich glaube kaum, dass wöchentlicher Tee und Karten hierfür ausreichend sind.
+PEEK: Was schlägst du dann vor?
+
+OAKEWOOD: Also...Ich würde zumindest sagen, dass dies meinen <em>besten</em> Tee für nächste Woche verlangt.
+
+BELFRY: Wir haben ein paar Bücher gefunden.
