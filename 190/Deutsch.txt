@@ -1,25 +1,7 @@
-KIND 1: Was passiert, wenn man nach Draussen geht?
-KIND 2: Wie ist es dort?
-KIND 3: Wieso heist es eigentlich Draussen? Ist das wirklich der echte Name?
-KIND 4: Wieso kann man dort nicht einfach hingehen?
-KIND 5: Wie weit weg ist es?
+Callie: A-Also dann, <em>ich</em> werde Snacks für das Lager mitbringen, aber wenn ihr etwas bevorzugt, bringt gerne etwas mit!
 
-KIND 6: Ich versteh nur nicht, warum wir nicht einfach fragen dürfen!
-KIND 1: Waren sie jemals dort, Frau Callie?
-KIND 2: Wo ist Draussen?
-TAMBERLANE: Komm ich dort her?
-KIND 3: Kann man jemals vom Verderben befreit werden?
-KIND 4: Wenn du verdorben wirst, wächst dir dann ein drittes Auge oder so?!
+Callie: Ich glaub das wars für heute!
 
-CALLIE: ES REICHT!!!
+Anthony: A...Aber... ... dauert es nicht noch etwas bis Mittag...?
 
-CALLIE: Wir sprechen nicht über Draussen! Dieses Verhalten ist inakzeptabel!
-
-JENTZEN: Callie.
-
-JENTZEN: Wieso sagst du es nicht ihnen? Es ist wichtig, dass sie darüber wissen.
-
-CALLIE: Auf keinen Fall, Jentzen! Die Edikte sagen klar und deutlich, dass wir unter keinen Umständen Schülern darüber erzählen sollen...
-
-PIPER: Was sind die Edikte?
-MARIE: Keine Ahnung.
+Callie: Früher Schluss!!! Ist das nicht toll?!
