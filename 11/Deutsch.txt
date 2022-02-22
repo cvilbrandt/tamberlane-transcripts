@@ -1,11 +1,12 @@
-PIPER: Ich hätte nie gedacht, dass das Kind von zwei der besten Kämpfer von ganz Silver Sage so ein riesiger Feigling ist!
+PIPER: Ich hätte nie gedacht, dass das Kind von zwei der besten Kämpfer von ganz Silver Sage so ein <strong><em>riesiger Feigling ist!</em></strong>
 ANTHONY: Piper, bitte!
 
-BRIAR: Ich hab keine Angst! Das ist bloss völlig BESCHEUERT!
+BRIAR: Ich hab keine <em>Angst!</em> Das ist bloss völlig <em>BESCHEUERT!</em>
 
-PIPER: Oh, okay. Versteh ich doch. Angsthase.
+PIPER: Oh, okay. Versteh ich doch. <em>Angsthase.</em>
+ANTHONY: h-hey...!
 
-BRIAR: Bin ich nicht!!!
+BRIAR: Bin ich <em>nicht!!!</em>
 
 PIPER: Beweis es.
 
