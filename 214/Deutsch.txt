@@ -1,0 +1,14 @@
+PEEK: Hab deine Bestellung aus Tangled Branch diesen Morgen empfangen.
+OAKEWOOD: Exzellent.
+
+PEEK: Außerdem hab ich noch etwas, dass dich möglicherweise interessieren wird.
+
+OAKEWOOD: Oh?
+PEEK: Ja, ich hab es vor ungefähr einem Monat empfangen.
+
+PEEK: Ich habe mein bestes gegeben, um es zu restaurieren und zu verbinden, aber es war schwierig.
+
+OAKEWOOD: Okay, jetzt hast du mein Interesse. Was ist es?
+
+PEEK: Dieses Buch ist sehr sehr alt. Du brauchst ganz ehrlich einen besseren Experten als mich, um hiervon viel was zu verstehen, aber...
+PEEK: Da du deine Nachforschungen ausweiten wolltest, hab ich mir gedacht, es könnte etwas dabei helfen.

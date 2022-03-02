@@ -1,17 +1,13 @@
 MILO: That's all very well, but perhaps we should still take this indoors?
-BELFRY: Well, we were on our way to Peek-A-Books so...
+BELFRY: Well, we were on our way to Peek-a-Books so...
 OAKEWOOD: How fortuitous, so were we.
 
-TAMBERLANE: We can go together??
+TAMBERLANE: We can go <em>together??</em>
 
-OAKEWOOD: Oof! I think that's a splended idea. 
+OAKEWOOD: Oof! I think that's a splendid idea. 
 
 MILO: You okay?
+
 BELFRY: Huh? Oh, yeah... I'm okay.
 
 BELFRY: I'm just glad that at least <em>Oakewood</em> can cheer her up. 
-
-
-
-
-

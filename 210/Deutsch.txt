@@ -1,0 +1,13 @@
+TAMBERLANE: Stop, bitte!
+TAMBERLANE: Ich will was sagen!
+
+TAMBERLANE: Ich habe über Draussen gefragt!
+
+OAKEWOOD: Und ihr hattet diese Unterhaltung in der <em>Öffentlichkeit??</em>
+BELFRY: Was sonst hätte ich tun sollen? Sie hat <em>gefragt!</em>
+BELFRY: Ich wollte ihr nicht einfach eine leere Antwort geben!
+
+TAMBERLANE: Unkel! Bitte sei nicht böse auf Mutti! Ich hab gefragt!!
+
+OAKEWOOD: Oh, nagut.
+OAKEWOOD: Da du ja so lieb gefragt hat, Herzchen.
