@@ -17,9 +17,10 @@ CALLIE: Wir sprechen nicht über Draussen! Dieses Verhalten ist inakzeptabel!
 
 JENTZEN: Callie.
 
-JENTZEN: Wieso sagst du es nicht ihnen? Es ist wichtig, dass sie darüber wissen.
+JENTZEN: Wieso sagst du es ihnen nicht? Es ist wichtig, dass sie darüber Bescheid wissen.
 
 CALLIE: Auf keinen Fall, Jentzen! Die Edikte sagen klar und deutlich, dass wir unter keinen Umständen Schülern darüber erzählen sollen...
+JENTZEN: Die Edikte sind falsch!!
 
 PIPER: Was sind die Edikte?
 MARIE: Keine Ahnung.
