@@ -1,15 +1,15 @@
 CALLIE: A-Also, wenn wir nach Bally Bluffs gehen, werde ich eine Menge Pergament für unsere Wurzelprojekte mitbringen...
 
-KIRA: Hey, Marie, du hattest voll Recht! Geiler Themenwechsel!
+KIRA: Hey, Marie, du hattest voll Recht! Netter Themenwechsel!
 SFX: HAHAHA
 
 MARIE: Oh, <em>bitte,</em> Frau Callie, sagen sie es uns einfach!
 
 ANTHONY: Erwachsene lassen es so <em>schrecklich</em> klingen...
-PIPER: Und <em>geil!</em>
+PIPER: Und <em>hammermäßig!</em>
 
-CALLIE: Das ist nicht geil! Wir reden nicht über...<em>diesen Ort...</em>
-KIRA: Vielleicht taten wir das mal nicht, aber seitdem Tamberlane hier ist, flüstert ihr Erwachsenen nur noch darüber!
+CALLIE: Das ist nicht "hammermäßig"! Wir reden nicht über...<em>diesen Ort...</em>
+KIRA: Vielleicht früher nicht, aber seit Tamberlane hier ist, flüstert ihr Erwachsenen nur noch darüber!
 CALLIE: Kinder, <em>bitte,</em> das gehört sich <em>überhaupt</em> nicht!
 
 ANTHONY: Warum gehen manche Kreaturen <em>freiwillig</em> dort hin?
