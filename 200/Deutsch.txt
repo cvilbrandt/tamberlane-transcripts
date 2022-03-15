@@ -1,10 +1,10 @@
 TAMBERLANE SFX: SCHLUCHZ
 
-BELFRY: Du bist kein böses Mädchen, es ist nicht deine Schuld, und du steckst auch nicht in Schwierigkeiten, okay?
+BELFRY: Ach, Schätzchen... Du bist kein böses Mädchen, es ist nicht deine Schuld, und du steckst auch nicht in Schwierigkeiten, okay?
 
 TAMBERLANE ...Okay.
 
-BELFRY: Tamberlane, es...Es's ist wirklich alles in Ordnung. Bitte sei nicht traurig...Ich bin da.
+BELFRY: Tamberlane, es... Es ist wirklich alles in Ordnung. Bitte sei nicht traurig...Ich bin da.
 
 SFX: WHUMPH
 
