@@ -2,14 +2,14 @@ BELFRY: Ja! Wie wärs, wenn wir zu Peek-a-Books gehen? Klingt das toll?
 
 TAMBERLANE: Oh! Ja, bitte.
 
-BELFRY: [denkend] Nicht einmal Bücher lenken sie ab? Es ist schlimmer als ich gedacht habe. Haben sie ihr wirklich wehgetan?? Versteckt sie ihre Schmerzen?!
+BELFRY: [denkend] Nicht einmal Bücher lenken sie ab? Es ist schlimmer als ich dachte. Hat er ihr wirklich wehgetan?? Versteckt sie ihre Schmerzen?!
 
 BELFRY: [denkend] Ich sollte doch wohl dazu in der Lage sein, zu erkennen, was mit meinem Kind los ist. Wieso bin ich dann so planlos?? Wieso kann ich sie nicht aufmuntern? Ich will nur, dass sie glücklich ist!
 
-BELFRY: [denkend] Okay, bleib cool! Lass sie bloss nicht wissen, dass du <em>die schlimmste Mutter auf Erden bist!</em> Ganz entspannt! <em>Atme!!</em>
+BELFRY: [denkend] Okay, bleib cool! Lass sie nicht merken, dass du <em>die schlimmste Mutter auf Erden bist!</em> Ganz entspannt! <em>Atme!!</em>
 
 BELFRY: [denkend] uuuund los!
 BELFRY: Worüber denkst du so nach, Schätzchen?
 BELFRY: [denkend] Volltreffer!
 
-TAMBERLANE: Äh…
+TAMBERLANE: Ähm…
