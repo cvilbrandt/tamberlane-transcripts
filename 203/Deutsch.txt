@@ -1,8 +1,8 @@
 BELFRY: Hey, Tamberlane...
 
-BELFRY: Wie wäre es für dich, wenn ich bei eurem Schulausflug mitkomme?
+BELFRY: Was hältst du davon, wenn ich zu eurem Schulausflug mitkomme?
 
 TAMBERLANE: Ja, bitte! Das wäre <em>TOLL!</em>
-BELFRY: Dann werde ich Frau Callie danach fragen, als Begleitperson mitzukommen.
+BELFRY: Dann frage ich Frau Callie, ob ich als Begleitperson mitkommen kann.
 
-TAMBERLANE: Und ich werde diesen kleinen Fiesling von meinem kleinem Baby fernhalten...
+TAMBERLANE: Und ich werde diesen kleinen Fiesling von meinem armen Baby fernhalten...
