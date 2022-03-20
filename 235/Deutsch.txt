@@ -1,10 +1,10 @@
-BELFRY: Schau, es wurde seit <em>Jahren</em> keiner mehr nach Draussen geschickt.
-BELFRY: Nicht seitdem meine Mum im Rat mitsitzt.
+BELFRY: Schau, es wurde seit <em>Jahren</em> keiner mehr nach Draussen verbannt.
+BELFRY: Nicht seitdem meine Mum mit im Rat sitzt.
 BELFRY: Jentzen hat nur etwas mit dir gestritten. Das ist kein Verbrechen für <em>Verbannung.</em>
 CALLIE: Ich... Ich hoffe es...
 
 BELFRY: Wenn es dir hilft, werde ich nach unserer Rückkehr mit dir zum Stadtrat gehen.
-BELFRY: Ich rede mit meiner Mum und du kannst dein Statement ändern.
+BELFRY: Ich rede mit meiner Mum und du kannst deine Aussage ändern.
 
 CALLIE: Bist du dir sicher, dass so etwas möglich ist?
 
