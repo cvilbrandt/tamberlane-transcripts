@@ -12,6 +12,6 @@ BELFRY: Callie konnte nicht einfach so tun, als wäre nichts geschehen!
 
 BELFRY: Ich meine, was hätte sie sonst tun sollen? Lügen?
 
-JASON: Ich glaub es gibt da noch <em>einige</em> Möglichkeiten zwischen Lügen und Jentzen bei den <em>Authoritäten anzeigen lassen.</em>
-BELFRY: "Authoritäten?"
+JASON: Ich glaub es gibt da noch <em>einige</em> Möglichkeiten zwischen Lügen und Jentzen bei der <em>Obrigkeit anzuzeigen.</em>
+BELFRY: Der "Obrigkeit"
 BELFRY: Jason, du bist wirklich nicht aus der Gegend!
