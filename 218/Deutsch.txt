@@ -13,9 +13,9 @@ OAKEWOOD: Sieht aus als hättest du also alles im Griff?
 BELFRY: Japp! Dieses kleine Monster entwischt mir nicht!
 
 OAKEWOOD: Dann gute Nacht, ihr beiden.
-BELFRY: Nacht Nacht!
+BELFRY: Nachti-Nacht!
 
 BELFRY: Also, was muss ich machen, damit du dich hinlegst, Schnuffi?
 TAMBERLANE: Geschichten!!!
-BELFRY: Okay, aber zuerst musst dich im Bett zurechtmachen...
+BELFRY: Okay, aber zuerst musst du es dir im Bett gemütlich machen...
 TAMBERLANE: Okay!
