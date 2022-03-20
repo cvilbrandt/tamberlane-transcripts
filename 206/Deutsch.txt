@@ -6,4 +6,4 @@ SFX: HRNNPHHH....
 
 SFX: mmmm
 
-TAMBERLANE: Bin ich aus Draussen?
+TAMBERLANE: Bin ich von Draussen?
