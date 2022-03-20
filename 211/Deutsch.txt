@@ -6,7 +6,7 @@ TAMBERLANE: Wir können <em>zusammen</em> gehen??
 
 OAKEWOOD: Uff! Ich denk, das ist eine wundervolle Idee.
 
-MILO: Alles in Ordnung?
-BELFRY: Wa? Oh, ja... mir geht's gut.
+MILO: Bei dir alles okay?
+BELFRY: Was? Oh, ja... mir geht's gut.
 
 BELFRY: Ich bin nur froh, dass zumindest <em>Oakewood</em> sie aufheitern kann. 
