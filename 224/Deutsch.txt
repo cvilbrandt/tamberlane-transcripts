@@ -1,4 +1,4 @@
-BELFRY: Da Kreaturen Draussen verdorben sind, können sie Werkzeuge benutzen, die wir nicht nutzen können.
+BELFRY: Da Kreaturen Draussen verdorben sind, können sie mit Werkzeugen arbeiten, die wir nicht nutzen können.
 
 BELFRY: Dank ihnen läuft also unser Abwasser. Und unser Leitungswasser!
 
@@ -10,7 +10,7 @@ BELFRY: Ja, Draussen haben sie bessere Medizin und Maschinen, um kranken Kreatur
 
 BELFRY: Aber dort hinzugehen, um sie zu benutzen, verderbt einen trotzdem.
 
-TAMBERLANE: Deswegen mussma sich entscheiden, wenn man krank wird.
+TAMBERLANE: Deswegen mussma sich entscheiden, wenn man schlimm krank wird.
 
 BELFRY: Genau.
 
