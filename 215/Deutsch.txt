@@ -1,9 +1,9 @@
 SFX: Sshhhf
-OAKEWOOD: Meine Güte, Peek! Was für ein Fund! Was schulde ich dir dafür
+OAKEWOOD: Meine Güte, Peek! Was für ein Fund! Was schulde ich dir dafür?
 
 PEEK: Ganz ehrlich? Du musst nächste Woche nur etwas auf Bean aufpassen, während Erin und ich etwas nach Little Aching gehen.
 
-OAKEWOOD: Du willst, dass ich für dieses unbezahlbare Buch auf deine <em>Katze</em> aufpasse?
+OAKEWOOD: Du willst, dass ich für dieses antike, unbezahlbare Buch auf deine <em>Katze</em> aufpasse?
 
 SFX: skrih skrih
 PEEK: Naja, das, und dass du dich weiterhin an unsere Vereinbarung hältst.
