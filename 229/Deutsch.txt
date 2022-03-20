@@ -11,7 +11,7 @@ TAMBERLANE: Stimmt!
 NORA: Tamberlane wird bei mir sicher sein, Bel.
 BELFRY: Danke, Nora.
 
-FINN: Also dann, Gesellen. Wir haben alles gepackt. Hüpft rauf!
+FINN: Also dann, Leute. Wir haben alles gepackt. Hüpft rauf!
 
 BELFRY: Ich werde in dem Wagen vor dir sein, okay? Wir sehen uns wieder bei den Klippen.
 TAMBERLANE: Okay, Mami, bye-bye.
