@@ -7,9 +7,9 @@ OAKEWOOD: Ja, das bin ich. Und ich glaube, Fräulein Tamberlane hat auch einige 
 TAMBERLANE: Hi Herr Scott!
 SCOTT: Na hallöchen Fräulein Tamberlane! Was kann ich für dich tun?
 
-TAMBERLANE: Mutti hat gesagt...Mutti hat gesagt, ich darf Bücher haben.
+TAMBERLANE: Mami hat gesagt...Mami hat gesagt, ich darf Bücher haben.
 
 BELFRY: Wir suchen nach ein paar Büchern, um sie nach einem rauen Tag etwas aufzuheitern.
 
-SCOTT: Ein schlechter Tag? Sowas können wir nicht zulassen, was? Wieso suchen wir uns nicht gemeinsam ein paar aus?
+SCOTT: Ein schlechter Tag? Das können wir nicht zulassen, was? Wieso suchen wir nicht gemeinsam ein paar aus?
 TAMBERLANE: Ja, bitte!
