@@ -1,0 +1,14 @@
+PEEK: Ich hab gehört, die Kinder gehen nächste Woche nach Bally Bluffs?
+BELFRY: Ja! Ich begleite sie!
+
+PEEK: Ah! Wenn das so ist...Es gibt in dieser Region reichlich Limonit und mir geht in letzter Zeit mein Umbra-Pigment aus. Wenn du ein paar orangene Steine aus dem Umfeld der Klippen für mich mitbringen könntest, würde ich dir echt was schulden.
+
+BELFRY: Hmm...einfach irgendwelche orangenen Steine?
+
+PEEK: Ich nehme alles. Es wird zwar nicht genau das sein, was ich brauche, aber es wird gut genug sein, dass ich zurechtkomme, bis ich selber etwas besorgen kann.
+
+BELFRY: Deal! Das krieg sogar ich hin!
+
+PEEK: Grossartig! Dann ist für euch alles bereit, Frau Belfry!
+SCOTT: Wenn du noch Fragen hast, kannst du jederzeit bei mir vorbeikommen, okay, Tamberlane?
+TAMBERLANE: Okay! Danke sehr, Herr Scott!

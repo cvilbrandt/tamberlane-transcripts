@@ -1,0 +1,25 @@
+KIRA: TAM! GEH RUNTER VOM EIS!
+CUR: RUNTER VON DEM EIS!!!
+
+TAMBERLANE: Okay!
+SFK: <i>Krrrkkkk</i>
+TAMBERLANE: Okay okay okay...
+
+SFX: <i>KKRAKKK</i>
+TAMBERLANE: Aaaa!!!
+ABSEITS: <i>STOP!</i>
+
+JONAS: STOP STOP STOP! Nicht... aufstehen!
+SFX: <i>keuch</i>
+CUR: Jonas, was machst du da?!
+
+SFX: <i>keuch</i>
+JONAS: Leg dich...
+JONAS: ...auf...
+JONAS: ...deinen Bauch!
+SFX: <i>keuch</i>
+ABSEITS: Jonas, komm zurück!! Du brauchst deinen Inhalator, Alter!!
+
+JONAS: Und breite...
+JONAS: ...deine...
+JONAS: ...Arme aus!
