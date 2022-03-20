@@ -7,8 +7,8 @@ BELFRY: Hmm...einfach irgendwelche orangenen Steine?
 
 PEEK: Ich nehme alles. Es wird zwar nicht genau das sein, was ich brauche, aber es wird gut genug sein, dass ich zurechtkomme, bis ich selber etwas besorgen kann.
 
-BELFRY: Deal! Sowas kann selbst ich machen!
+BELFRY: Deal! Das krieg sogar ich hin!
 
 PEEK: Grossartig! Dann ist für euch alles bereit, Frau Belfry!
-SCOTT: Wenn du weitere Fragen hast, kannst du jederzeit bei mir vorbeikommen, okay, Tamberlane?
+SCOTT: Wenn du noch Fragen hast, kannst du jederzeit bei mir vorbeikommen, okay, Tamberlane?
 TAMBERLANE: Okay! Danke sehr, Herr Scott!
