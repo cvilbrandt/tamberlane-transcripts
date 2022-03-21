@@ -9,7 +9,7 @@ OAKEWOOD: No, I don't know.
 
 MILO: Isn't she a little too young for this talk?
 BELFRY: There's a <em>good</em> time for this talk? 
-OAKEWOOD: One would assume since she's approaching puberty...
+OAKEWOOD: One would assume as she's approaching puberty...
 
 BELFRY: What?
 MILO: You didn't mean..?

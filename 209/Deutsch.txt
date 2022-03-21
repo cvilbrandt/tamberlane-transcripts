@@ -1,0 +1,16 @@
+MILO: Hey Frau Belfry! Hey kleine Tam!
+OAKEWOOD: Will ichs wissen?
+
+BELFRY: Wir waren auf dem Weg zum Bücherladen, aber...
+
+BELFRY: Dann stellte sie Fragen über...
+BEFLRY: ...du weisst schon...
+OAKEWOOD: Nein, weiss ich nicht.
+
+MILO: Ist sie nicht noch etwas zu jung für diese Unterhaltung?
+BELFRY: Gibt es eine eine <em>gute</em> Zeit für diese Unterhaltung?
+OAKEWOOD: Man würde doch meinen, sobald sie sich der Pubertät nähert...
+
+BELFRY: Was?
+MILO: Hast du etwa nicht..?
+OAKEWOOD: Jetzt bin ich verwirrt.

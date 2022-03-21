@@ -1,0 +1,17 @@
+BELFRY: WAS?!
+
+BELFRY: Natürlich nicht!! Keineswegs!!!
+
+TAMBERLANE: Aber alle sagen...
+BELFRY: ALLE LIEGEN FALSCH!
+
+SFX> Seeeuufz
+BELFRY: Tut mir leid. Ich meinte...
+
+BELFRY: Draussen ist...
+
+BELFRY: Nein, ich meine, <em>Dieser Ort</em> ist...
+
+BELFRY: Er ist... nun...
+
+BELFRY: Das ist nicht so.

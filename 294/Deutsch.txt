@@ -1,0 +1,15 @@
+CUR: <em>Scheiße!!!</em>
+KIRA: <em>Tamberlane!!</em>
+
+SFX: <i>KRAK</i>
+
+CUR: Tam, dir gehts gut, stimmts?? Stimmts???
+KIRA: Stehaufstehauf Stehaufstehauf!
+JONAS: Nicht... bewegen!
+
+OFF-SCREEN: Ihr gehts gut!
+SFK: <i>KrrrrrrrrrKKK</i>
+
+SFX: <i>KRAAKKKK</i>
+TAMBERLANE: <em>keuch!</em>
+TAMBERLANE: <em>AAAAAAAAAAA!!</em>
