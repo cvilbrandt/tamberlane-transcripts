@@ -1,0 +1,17 @@
+TESS: Ach, du dummes Ding, war zu erwarten, dass du noch einen kaputt machst!
+BELFRY: Das hab ich nicht gemacht! Er war bereits kaputt, als ich ihn aufgehoben habe!
+
+TERRA: Nicht schon wieder, Belfry!
+MAYA: Bald wirst du mehr Schlamm als Fledermaus sein!
+BELFRY: Aber die Steine sind uneben. Jeder hätte...
+
+WALTER: Ahhh, Ich hätte besser wissen sollen, als dich schneiden zu lassen.
+BELFRY: S-stimmt.
+
+TAMBERLANE: Ich werde ohne dich glücklicher sein, Mammi!
+TAMBERLANE: Das weißt du doch, oder?
+
+BELFRY: Ich weiß.
+BELFRY: <em>Ich weiß!<em>
+
+ABSEITS: <em><strong>BELFRY!</strong></em>
