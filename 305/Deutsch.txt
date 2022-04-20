@@ -1,5 +1,5 @@
 BELFRY: Wa...?
-ABSEITS: <s>Belfry, du <em>must</em> aufstehen!</s>
+ABSEITS: <s>Belfry, du <em>musst</em> aufstehen!</s>
 
 ABSEITS: <em><s>Schnell!</s></em>
 ABSEITS: <em>Tamberlane ist etwas passiert!</em>
