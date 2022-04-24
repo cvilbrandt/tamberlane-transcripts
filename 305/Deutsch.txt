@@ -1,0 +1,11 @@
+BELFRY: Wa...?
+ABSEITS: <s>Belfry, du <em>musst</em> aufstehen!</s>
+
+ABSEITS: <em><s>Schnell!</s></em>
+ABSEITS: <em>Tamberlane ist etwas passiert!</em>
+
+JASON: <s>Ich vermute, es gab einen Streit</s>
+JASON: <s>und</s> Tamberlane <s>und</s> Jonas <s>sind in den Fluss gefallen</s>
+
+JASON: <s> Halt durch,</s> Bel! Kira <s> wird uns zu ihnen führen!</s>
+KIRA: <em><strong>JETZT MACH DOCH MAL HINNE!</strong></em>
