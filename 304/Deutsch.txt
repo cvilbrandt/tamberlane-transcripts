@@ -3,16 +3,16 @@ BELFRY: Das war ich nicht! Der war schon kaputt, als ich ihn aufgehoben habe!
 
 TERRA: Nicht schon wieder, Belfry!
 MAYA: Bald wirst du mehr Schlamm als Fledermaus sein!
-BELFRY: Aber die Steine sind uneben. Jeder h‰tte...
+BELFRY: Aber die Steine sind uneben. Jeder h√§tte...
 
-WALTER: Ahhh, Ich h‰tte es besser wissen sollen, als dich schneiden zu lassen.
+WALTER: Ahhh, Ich h√§tte es besser wissen sollen, als dich schneiden zu lassen.
 BELFRY: S-stimmt.
 
-TAMBERLANE: Ich werde ohne dich gl¸cklicher sein, Mammi!
-TAMBERLANE: Das weiﬂt du doch, oder?
+TAMBERLANE: Ich werde ohne dich gl√ºcklicher sein, Mammi!
+TAMBERLANE: Das wei√üt du doch, oder?
 
-BELFRY: Ich weiﬂ.
-BELFRY: <em>Ich weiﬂ!<em>
+BELFRY: Ich wei√ü.
+BELFRY: <em>Ich wei√ü!<em>
 
 ABSEITS: <em><strong>BELFRY!</strong></em>
 SFX: keuch

@@ -1,10 +1,10 @@
-SFX: <em>GÄÄÄÄHHNN</em>
+SFX: <em>GÃ„Ã„Ã„Ã„HHNN</em>
 
 JASON: Kira...?
 JASON: HEY!
 
 KIRA: Herr Jason! Kommen sie schnell! !
-JASON: Warum zur Hölle bist du nicht im Bett?!
+JASON: Warum zur HÃ¶lle bist du nicht im Bett?!
 
 KIRA: Das is grad egal!
 KIRA: <em><strong>Bitte!</strong></em>
