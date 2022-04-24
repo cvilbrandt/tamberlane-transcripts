@@ -7,5 +7,5 @@ ABSEITS: <em>Tamberlane ist etwas passiert!</em>
 JASON: <s>Ich vermute, es gab einen Streit</s>
 JASON: <s>und</s> Tamberlane <s>und</s> Jonas <s>sind in den Fluss gefallen</s>
 
-JASON: <s> Halt durch,</s> Bel! Kira <s> wird uns zu ihnen führen!</s>
+JASON: <s> Halt durch,</s> Bel! Kira <s> wird uns zu ihnen fÃ¼hren!</s>
 KIRA: <em><strong>JETZT MACH DOCH MAL HINNE!</strong></em>
