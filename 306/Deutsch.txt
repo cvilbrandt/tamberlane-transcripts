@@ -8,5 +8,5 @@ JASON: Belfry, was ist <em>los</em> mit dir?!
 JASON: Wir haben bereits <em>genug</em> Kinder in Lebensgefahr!
 
 JASON: Kira wird uns zu Tamberlane führen.
-JASON: Schmoll so viel wie du willst, aber mach es während du rennst!
+JASON: Schmoll so viel du willst, aber mach es während du rennst!
 JASON: <em>LOS jetzt!</em>
