@@ -8,4 +8,4 @@ JASON: <strike>Eu acho que teve uma briga</strike>
 JASON: <strike>e a</strike> Tamberlane <strike>e o</strike> Jonas <strike>cairam no rio</strike>
 
 JASON: <strike>Coragem,</strike> Bel! A Kira <strike>vai trazer nós para eles!</strike>
-KIRA: <b><em>VAI LOGO, JÁ!</em></b>
+KIRA: <b><em>VAI, DE PRESSA!</em></b>
