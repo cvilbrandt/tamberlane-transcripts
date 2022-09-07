@@ -1,0 +1,16 @@
+JENTZEN: Eu achei que as coisas eram diferentes.
+
+GENEVIEVE: Eu também.
+
+GENEVIEVE: E elas são.
+GENEVIEVE: Elas tem que ser.
+
+JENTZEN: Me desculpa, Mãe. Me desculpa!
+GENEVIEVE: Você não tem <em>nada</em> para se desculpar sobre, Jentzen!
+GENEVIEVE: Você só...
+SFX: tum tum tum tum tum tum TUm
+FORA: <em>EMERGÊNCIA!</em>
+
+FORA: SAI DA FRENTE! CARRINHO PASSANDO!
+SFX: TUM TUM
+GENEVIEVE: Mas o quê?
