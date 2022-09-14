@@ -1,0 +1,19 @@
+BELFRY: Por favor viva...
+BELFRY: Por favor esteja bem...!
+
+WALTER: O quê aconteceu?
+TESS: Onde tá a Tamberlane?
+BRIAR: Você tá bem?
+TESS: Aconteceu alguma coisa na viajem?
+
+NORA: Teve um acidente.
+NORA: Tamberlane e Jonas ficaram embaixo do gelo no rio.
+TESS: Eles vão ficar bem??
+NORA: Estamos fazendo tudo que podemos.
+
+TESS: Belfry?
+TESS: Segura aí, amor. Vai ficar tudo bem.
+
+TESS: Estamos aqui.
+
+TESS: Estamos <em>todos</em> aqui.
