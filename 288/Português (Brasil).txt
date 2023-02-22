@@ -1,9 +1,9 @@
 SFX: KRNCHKRNCHHK
 
 SFX: KRNCHKRNCHKRNCHH
-CUR: Masoq-
+RAFEIRO: Masoq-
 
-CUR: Ah, volta pra cama! A gente num tá machucando ninguém!
+RAFEIRO: Ah, volta pra cama! A gente num tá machucando ninguém!
 KIRA: Agh! <em>Qual é</em> seu problema??
 TAMBERLANE: Você não pediu desculpa!
 

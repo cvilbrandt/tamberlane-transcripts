@@ -1,10 +1,10 @@
 PARSLEY: Talvez a gente deveria descansar. A pobre coisa tá tão sufocada.
 
 PENNY: Faz sentido. Mamãe disse que a Senhora Belfry encontrou ela na floresta ontem de noite e abrigou ela.
-PARSLEY: Senhora Belfry? Belfry <em>Baker?</em> Aquela Belfry?
+PARSLEY: Senhora Belfry? Belfry <em>Padeira?</em> Aquela Belfry?
 PENNY: Yup.
 
-PARSLEY: Quem deixou <em>Belfry Baker</em> tomar conta de um filhote?!
+PARSLEY: Quem deixou <em>Belfry Padeira</em> tomar conta de um filhote?!
 PENNY: Talvez é por isso que ela não consegue falar. A Senhora Bel deve ter derrubado ela de cabeça.
 PARSLEY: Nem isso, é um milagre que ela não foi esfaqueada acidentalmente!
 MARIE: Sim, a Senhora Belfry é bem legal, mas...

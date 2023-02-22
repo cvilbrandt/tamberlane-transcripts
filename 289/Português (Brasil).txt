@@ -1,17 +1,17 @@
 TAMBERLANE: Você <em>machucou</em> a Piper! Machucar criaturas é RUIM!
-CUR: Eu?? A Piper machuca criaturas <em>toda hora!</em>
-CUR: Você só não tá nem aí por quê ela não enche <em>você</em> mais!
+RAFEIRO: Eu?? A Piper machuca criaturas <em>toda hora!</em>
+RAFEIRO: Você só não tá nem aí por quê ela não enche <em>você</em> mais!
 TAMBERLANE: Ela não faz filhotes <em>chorarem!!</em> Eu só quero que você <em>PARE!!</em>
-CUR: <em>Óbvio!</em> Eu vi você fazendo um punho com a sua pata!
+RAFEIRO: <em>Óbvio!</em> Eu vi você fazendo um punho com a sua pata!
 
-CUR: Ooo, Eu sou a <em>Tamberlane!</em> Eu não machuco <em>ninguém!</em>
+RAFEIRO: Ooo, Eu sou a <em>Tamberlane!</em> Eu não machuco <em>ninguém!</em>
 
-CUR: <em>Mó besteira!</em>
+RAFEIRO: <em>Mó besteira!</em>
 
 TAMBERLANE: Bem, você tinha que PARAR!
-CUR: EU PAREI! Você ainda ia ME BATER!
+RAFEIRO: EU PAREI! Você ainda ia ME BATER!
 TAMBERLANE: PEDE DESCULPA!
-CUR: Oh, você quer que eu <em>peça desculpa??</em>
+RAFEIRO: Oh, você quer que eu <em>peça desculpa??</em>
 
 KIRA: Deixa ela, ela é esquisita! Bora dar o pé antes que a gente se encrenque!
 JONAS: É, quem se importa com oque ela pensa?

@@ -1,9 +1,9 @@
-CUR: Ouviram isso, parças?
+RAFEIRO: Ouviram isso, parças?
 KIRA: É, eles chamaram a gente de seus babacas!
 
 KIRA: Eu sou meu <em>próprio</em> babaca, muito obrigado.
 
-CUR: Tanto faz. Quem se importa com essa "caça ao fantasma" idiota deles de qualquer jeito?
+RAFEIRO: Tanto faz. Quem se importa com essa "caça ao fantasma" idiota deles de qualquer jeito?
 
 KIRA: Cara, nunca somos convidados pra nada.
 

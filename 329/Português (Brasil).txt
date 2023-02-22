@@ -7,6 +7,6 @@ MARIE: Kira! Se acalma!
 KIRA: <em>NÃO!</em>
 KIRA: Ela é CALVA! E ESTÚPIDA! E ela faz BARULHOS IRRITANTES! E ela NÃO PRESTA!
 
-CUR: <em>Por favor só</em> CALA A BOCA!
+RAFEIRO: <em>Por favor só</em> CALA A BOCA!
 
-CUR: Vamos só... calar a boca até a gente chegar em casa, tá bem?
+RAFEIRO: Vamos só... calar a boca até a gente chegar em casa, tá bem?
