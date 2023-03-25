@@ -15,7 +15,8 @@ BRIAR: Ehrlich, manchmal glaub ich, ich bin die einzige Erwachsene in dieser Fam
 
 WALTER: Добро пожаловать назад, оленька.
         (Willkommen zuhause, Olenka.)
-TESS: Спасибо, Папочка.
+
+BRIAR: Спасибо, Папочка.
       (Danke, Papa.)
 
 TAMBERLANE: Was?
