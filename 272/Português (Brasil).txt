@@ -1,4 +1,4 @@
-CUR: Qualé <em>a tua?</em>
+RAFEIRO: Qualé <em>a tua?</em>
 
 TAMBERLANE: Por que você--
 TAMBERLANE: Por que você fez isso?!
@@ -9,6 +9,6 @@ KIRA: Por que você tá tão brava sobre isso? Ela enche seu saco também!
 TAMBERLANE: Porque <em>NÃO É LEGAL!</em>
 TAMBERLANE: Não machuca criaturas, <em>NUNCA!</em>
 
-CUR: Saca só a Prodígio Pelada! Não machuca criaturas?
+RAFEIRO: Saca só a Prodígio Pelada! Não machuca criaturas?
 
-CUR: <em>Vê se cresce.</em> Criaturas se machucam todo dia.
+RAFEIRO: <em>Vê se cresce.</em> Criaturas se machucam todo dia.

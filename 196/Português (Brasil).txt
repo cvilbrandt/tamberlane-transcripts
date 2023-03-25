@@ -1,19 +1,19 @@
-JONAS: DESCE O CACETE NELA, CUR!
+JONAS: DESCE O CACETE NELA, RAFEIRO!
 ANTHONY: PIPER, NÃO!
 KIRA: LUTA! LUTA! LUTA!
 TAMBERLANE: SUSPIRO!
 PIPER: Talvez se você não fosse um <em>PUTO</em>, a Sra. Callie gostaria mais de você!!
-CUR: Conversa grande vindo de <em>você</em>, Piper Nanica!
+RAFEIRO: Conversa grande vindo de <em>você</em>, Piper Nanica!
 
 PIPER: RETIRA OQUÊ VOCÊ DISSE!
-CUR: NEM FERRANO!
+RAFEIRO: NEM FERRANO!
 
 TAMBERLANE: Não não não! Para! PARA! EU TÔ BEM! <em>PARA</em>!
 
 MARIE: Piper, não! Você vai entrar em encrenca de novo!
 PARSLEY: Já deu, parceiro!
 SFX (PIPER): @#$ 
-SFX (CUR): %@&#!
+SFX (RAFEIRO): %@&#!
 
 PIPER: EU VOU TE ENSINAR UMA LIÇÃO TÃO GRANDE, SEU BAFO DE MERDA!!
 

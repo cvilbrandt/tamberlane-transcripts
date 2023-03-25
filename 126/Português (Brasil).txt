@@ -1,6 +1,6 @@
 MILO: Você queria que eu olhasse pra alguma coisa?
 
-OAKEWOOD: Essa é Tamberlane. Belfry Baker achou ela na foresta e adotou ela.
+OAKEWOOD: Essa é Tamberlane. Belfry Padeira achou ela na foresta e adotou ela.
 OAKEWOOD: Mas não temos nenhuma noção do quê ela é.
 
 MILO: Que fascinante! Posso te examinar?

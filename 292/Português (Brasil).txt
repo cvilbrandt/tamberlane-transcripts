@@ -1,13 +1,13 @@
-CUR: Qu...
+RAFEIRO: Qu...
 
-CUR: Qual é o seu <em>PROBLEMA?</em>
+RAFEIRO: Qual é o seu <em>PROBLEMA?</em>
 
 TAMBERLANE: Nnngh...
 
 TAMBERLANE: Rrgh!!
 
-CUR: Que <em>é</em> isso??
+RAFEIRO: Que <em>é</em> isso??
 TAMBERLANE: <em>Rrrraaggh!!!</em>
 
-CUR: O que você tá <em>FAZENDO??</em>
+RAFEIRO: O que você tá <em>FAZENDO??</em>
 TAMBERLANE: Para de falar mal da <em>minha mamãe!</em>

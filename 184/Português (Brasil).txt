@@ -1,18 +1,18 @@
 CALLIE: Durante a próxima semana, nós vamos estar fazendo uma colagem de árvore com coisas que nos lembram de nossas raízes!
-CUR: E o <em>resto</em> de nóis que não sabe nossas raízes, eh? S gente nué todos "fantastasminhas" fofos tendo nossa pata segurada!
+RAFEIRO: E o <em>resto</em> de nóis que não sabe nossas raízes, eh? S gente nué todos "fantastasminhas" fofos tendo nossa pata segurada!
 
-CALLIE: CUR!! Eu vou ter que colocar você de castigo <em>de novo?!</em>
-CUR: Eu num tô sendo espertalhão essa vez, verdade!
+CALLIE: RAFEIRO!! Eu vou ter que colocar você de castigo <em>de novo?!</em>
+RAFEIRO: Eu num tô sendo espertalhão essa vez, verdade!
 
-CALLIE: Cur, a Tamberlane <em>precisa</em> de ter sua pata segurada para se integrar bem e acompanhar a classe!
+CALLIE: Rafeiro, a Tamberlane <em>precisa</em> de ter sua pata segurada para se integrar bem e acompanhar a classe!
 
-CUR: Ela parece bem integrada pra mim! Eu aposto que ela podia perguntar todo tipo de pergunta besta e tu ia <em>responder</em> elas!
+RAFEIRO: Ela parece bem integrada pra mim! Eu aposto que ela podia perguntar todo tipo de pergunta besta e tu ia <em>responder</em> elas!
 
-CALLIE: Já deu Cur! Se você quer ajuda, você só precisa pedir com <em>educação!</em> Não precisa ser rude com a Tamberlane!
-CUR: Eu não tava sendo rude! Eu só tava perguntano uma pergunta, não tava!
+CALLIE: Já deu Rafeiro! Se você quer ajuda, você só precisa pedir com <em>educação!</em> Não precisa ser rude com a Tamberlane!
+RAFEIRO: Eu não tava sendo rude! Eu só tava perguntano uma pergunta, não tava!
 CALLIE: Próxima vez, pergunte sem menosprezar outro aluno!
 
-CUR: Sim, <em>senhora</em>.
+RAFEIRO: Sim, <em>senhora</em>.
 
 
 

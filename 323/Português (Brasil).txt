@@ -1,0 +1,14 @@
+BRIAR: Vem, Belfry. É melhor você sentar.
+BELFRY: ...mas a Tamberlane está...
+
+BRIAR: Eu sei.
+
+ROSALYN: <em>JONAS!!</em>
+DANIEL: Ele está bem?!
+STOKER: Ele está em condição crítica. O doutor está vendo ele agora.
+BRIAR: Vai ficar tudo bem, Belfry. Respira fundo.
+BELFRY: ...ok...
+
+ROSALYN: Você pode tratar aqui, certo?
+
+ROSALYN: <em>...Certo?</em>

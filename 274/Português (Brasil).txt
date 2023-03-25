@@ -9,11 +9,11 @@ TAMBERLANE: Rrrgh!
 
 BELFRY: Vocês babaquinhas que fizeram isso, não?!
 BELFRY: E vocês chatearam a Tamberlane, também!!
-CUR: <em>Quê?!</em>
+RAFEIRO: <em>Quê?!</em>
 TAMBERLANE: rrrrRRR
 
 KIRA: Isso não é <em>justo!</em>
-CUR: É, ela tava encrencando com a gente!
+RAFEIRO: É, ela tava encrencando com a gente!
 JONAS: Dá uma olhada nela! Ela tá tentando matar a gente!
 
 TAMBERLANE: AWAARA

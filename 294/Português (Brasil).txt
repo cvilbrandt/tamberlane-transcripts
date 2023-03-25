@@ -1,9 +1,9 @@
-CUR: <em>Merda!!!</em>
+RAFEIRO: <em>Merda!!!</em>
 KIRA: <em>Tamberlane!!</em>
 
 SFX: <em>KRAK</em>
 
-CUR: Tam, você tá bem, né?? Né???
+RAFEIRO: Tam, você tá bem, né?? Né???
 KIRA: levantalevanta levantalevanta!
 JONAS: Não... se mexe!
 
