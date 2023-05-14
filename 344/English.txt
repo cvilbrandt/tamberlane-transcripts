@@ -1,0 +1,20 @@
+BRIAR: Hey папочка. Any news?
+WALTER: Hmm. Jonas will survive, it seems.
+WALTER: Good news, but I hear nothing yet of Tamberlane.
+
+BRIAR: Well, that's <em>some</em> good news.
+BELFRY: What if...
+BELFRY: What if she's too sick?
+WALTER: Now Belfry...
+
+BELFRY: What if they haven't found a way to treat her? It's been hours! Is she dead? Did I not come soon enough?
+WALTER: Do not think about it!
+
+BELFRY: How can I just <em>not think about it?!</em> My daughter is <em>DYING!</em>
+WALTER: You do not <em>know</em> that! All you <em>know</em> is she is in doctor's care!
+BELFRY: But I worry that
+WALTER: Worry is a waste of the imagination. We will handle what comes <em>when</em> it comes.
+
+NORA: Bakers?
+
+NORA: Tamberlane is ready for visitors.

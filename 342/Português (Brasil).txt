@@ -1,8 +1,8 @@
 GUNNER: Não houve um julgamento dessa forma faz quase duas décadas.
-GUNNER: Eu só desejo ir à julgamento se for absolutamete necessário.
+GUNNER: Eu só desejo ir à julgamento se for <em>absolutamete necessário.</em>
 
 TESS: O Gunner está certo.
-TESS: Nós realmente queremos colocar o Jentzen em julgamento de banimento? Só por ter empurrado por responder perguntas?
+TESS: Nós <em>realmente</em> queremos colocar o Jentzen em um julgamento de banimento? Só por ter empurrado por responder perguntas?
 
 TRISHA: Por o quê isso vale, a Callie retraiu a queixa! Não precisamos buscar julgamento por ela.
 
@@ -10,4 +10,4 @@ TIMMOTHY: Infelizmente isso não importa.
 TIMMOTHY: Por mais que eu queira, nessa instâcia não podemos usar o Estatuto 113-42.
 
 TIMMOTHY: Quando ele retrucou publicamente na frente dos filhotes, ele fez isso uma questão de interesse público.
-TIMMOTHY: Além de que, como Assistente para a professora da escola, ele é uma figura pública e um empregado do governo. Não podemos simplesmente empurrar isso de vaixo do carpete.
+TIMMOTHY: Além de que, como Assistente para a professora da escola, ele é uma figura pública e um empregado do governo. Não podemos simplesmente empurrar isso pra de baixo do tapete.

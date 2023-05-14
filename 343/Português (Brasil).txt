@@ -1,0 +1,19 @@
+GENEVIEVE: Você não pode estar sendo <em>sério!</em>
+GENEVIEVE: Ele é meu <em>filho!</em>
+
+HONEY: Mais razão para sermos justos.
+HONEY: Não devemos ter <em>nenhuma</em> execeção para membros do Conselho ou seus familiares.
+
+TESS: Mas nós arriscaremos arrasar uma família por algumas <em>perguntas?</em>
+TESS: Nós tomamos conta do Conselho para parar julgamentos como esses. Na minha opinião, deviamos <em>mudar</em> os Éditos.
+
+TIMMOTHY: Eu entendo seu desejo, Tess. Claro que eu entendo. Mas...
+TIMMOTHY: Você sabe tão bem quanto eu que os Éditos são do Parlamento. Eles são <em>sagrados.</em>
+TIMMOTHY: Mudar eles não está dentro de nosso poder.
+
+SCOTT: E eu devo te lembrar, Tess...
+SCOTT: Quando você colocou sua assinatura no Conselho, você jurou defender os Éditos.
+SCOTT: Assim como nós todos.
+
+TESS: ...para o julgamento, então.
+GENEVIEVE: Sim... para o julgamento.
