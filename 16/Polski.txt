@@ -1,0 +1,11 @@
+[SFX: wydech]
+
+BELFRY: DOBRA! Czas być ODPOWIEDZALNA! Nic nie może pójść źle!
+[SFX: yosh'!]
+
+BELFRY: W poszukiwaniu małych!
+
+ANTHONY: BELFRY!
+BELFRY: Czy to Anthony?
+
+BELFRY: Świetna robota detektywistyczna z mojej strony!
