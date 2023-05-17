@@ -1,0 +1,10 @@
+BELFRY: Jesteś cały zbity.
+BELFRY: I brudny.
+BELFRY: I chudy.
+
+BELFRY: Gdzie są twoi rodzice?
+
+BELFRY: Ty w ogóle masz rodziców?
+BELFRY: Są gdzieś w pobliżu?
+
+BELFRY: Jeśli masz rodziców to są to bardzo źli rodzice.
