@@ -4,11 +4,11 @@ BELFRY: Zapomniałam że piekarnik jest gorący.
 
 [SFX: ding-a-ling!!]
 
-BADGER: To musi być Coriander.
-BADGER: Walter, możesz ją obsłużyć? Ja zajmę się łapkami Belfry
+BORSUK: To musi być Coriander.
+BORSUK: Walter, możesz ją obsłużyć? Ja zajmę się łapkami Belfry.
 WALTER: Mmnhm.
 
-BADGER: Zaraz się tobą zajmę biedactwo.
+BORSUK: Zaraz się tobą zajmę biedactwo.
 BELFRY: Dziękuje mamo Tess.
 
 POZA EKRANEM: AINSLEY!!
