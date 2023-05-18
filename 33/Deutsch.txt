@@ -4,7 +4,7 @@ TESS: Belfry-
 
 BELFRY: NEIN!
 
-BELFRY: Kapierst Du es nicht?! Dieses Kind ist eine WAISE!
+BELFRY: Kapierst Du es nicht?! Dieses Kind ist VERWAIST!
 
 BELFRY: Seine Eltern haben es <em>AUSGESETZT</em> damit es in der Wildnis <em>VERHUNGERT</em>!
 
