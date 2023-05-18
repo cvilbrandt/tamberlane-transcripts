@@ -4,10 +4,10 @@ BELFRY: AUAUAU, MEIN BEIN!
 
 BELFRY: Ich werde sterben
 
-GHOST: Auwauwauwau?
+GEIST: Auwauwauwau?
 
 BELFRY: BLEIB ZURÜCK, GEIST! Ich will dir nicht wehtun müssen!
 
 BELFRY: BITTE TU MIR NICHTS!
 
-GHOST: bihze tumimix?
+GEIST: bihze tumimix?

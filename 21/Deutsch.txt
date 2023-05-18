@@ -8,7 +8,7 @@ GEIST: Awawarrr!
 
 BELFRY: BITTE HOLT HILFE!
 
-ANTHONY: Briar holt gerade seine Mutter!
+ANTHONY: Briar holt gerade ihre Mutter!
 
 PIPER: Stirb nicht, Belfry!
 

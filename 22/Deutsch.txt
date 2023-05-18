@@ -1,14 +1,14 @@
-GHOST: Awuu?
+GEIST: Awuu?
 
 [SFX: winsel]
 
-GHOST: Okee?
+GEIST: Okee?
 
 [SFX: PATSCH PATSCH]
 
-GHOST: Awaa wanna hungee fuh bih pills bi?
-BELFRY: Ähm...
+GEIST: Awaa wanna hungee fuh bih pills bi?
+BELFRY: Ã„hm...
 
-GHOST: Pills? Pills?
+GEIST: Pills? Pills?
 
 BELFRY: Du willst... einen Pilz?
