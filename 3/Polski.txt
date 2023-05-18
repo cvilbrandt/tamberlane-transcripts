@@ -4,10 +4,10 @@ NIETOPERZ: Kurki czy Enoki?
 
 JELEŃ: Kurki.
 NIETOPERZ: Napewno? Z tego co pamiętam...
-JELEŃ: Kurki.
+JELEŃ: <em>Kurki.</em>
 
 NIETOPERZ: Już się robi! Kurki już podaję!
 
 NIETOPERZ: Gdy robisz jedzenie dla Tess to ja pójdę się przygotować na wizytę pani Cori!
 
-POZA EKRANEM: ARGH!!
+POZA EKRANEM: <em>ARGH!!</em>
