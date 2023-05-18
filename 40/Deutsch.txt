@@ -1,10 +1,10 @@
 WALTER: Kümmere dich nicht um Tess, meine Bel.
 
-WALTER: Ich werde es Dir nicht wegnehmen.
+WALTER: Ich werde es dir nicht wegnehmen.
 BELFRY: Tust du nicht?
 
 WALTER: Es gibt Dinge, die wir tun müssen, um erwachsen zu werden.
 
-WALTER: Manchmal machen wir Fehler, aber wir lernen aus Ihnen.
+WALTER: Manchmal machen wir Fehler, aber wir lernen aus ihnen.
 
 WALTER: Ich nehm ihn dir nicht weg, deinen Fehler.
