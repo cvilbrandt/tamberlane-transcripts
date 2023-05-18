@@ -14,4 +14,4 @@ Z ZEWNĄTRZ: Potrzebujemy pomocy!
 [SFX: TRZASK]
 
 AINSLEY: UKRYJ MNIE!
-KOJOT: Biblioteka jest zamknięta!
+KOJOT: Biblioteka jest <em>zamknięta!</em>
