@@ -1,10 +1,10 @@
-BELFRY: To nie jest dzikie zwierzę!
+BELFRY: To <em>nie</em> jest dzikie zwierzę!
 
 BELFRY: Ono jest wystraszone, zimne i głodne
 
 BELFRY: i porzucone!
 
-TESS: Skąd ty niby wiesz że ono jest porzucone!
+TESS: Skąd ty <em>niby</em> wiesz że ono jest porzucone!
 
 BELFRY: Nie zostawie tego stworzenia na łaskę rodziców którzy nawet je nie karmią!
 
