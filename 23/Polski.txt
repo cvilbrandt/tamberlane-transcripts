@@ -1,0 +1,17 @@
+[SFX: PAT]
+
+BELFRY: Ty nie jesteś w cale duchem co?
+
+BELFRY: Jesteś taki mały!
+
+BELFRY: Jeśli nie jesteś duchem... to czym jesteś?
+
+TAMBERLANE: Tamberlane!
+
+BELFRY: A ty umiesz mówić! Trochę. Ale ja nie wiem co to jest.
+
+[SFX: WĄCHA WĄCHA]
+TAMBERLANE: Hee!
+
+BELFRY: Pachniesz tak świeżo.
+BELFRY: Jesteś czyimś młodym?

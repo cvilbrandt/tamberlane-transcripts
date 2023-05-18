@@ -1,0 +1,17 @@
+Z ZEWNĄTRZ: Belfry jest zraniona!
+Z ZEWNĄTRZ: Co? Co tym razem?
+
+Z ZEWNĄTRZ: To był ten duch!
+Z ZEWNĄTRZ: D-Duch?!
+Z ZEWNĄTRZ: O nie!
+Z ZEWNĄTRZ: Jak źle z nią jest?
+
+Z ZEWNĄTRZ: Idź po Henry'ego!
+Z ZEWNĄTRZ: Ale nie da się aresztować duchów...
+Z ZEWNĄTRZ: prawda?
+Z ZEWNĄTRZ: Potrzebujemy pomocy!
+
+[SFX: TRZASK]
+
+AINSLEY: UKRYJ MNIE!
+KOJOT: Biblioteka jest <em>zamknięta!</em>
