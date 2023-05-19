@@ -1,0 +1,16 @@
+BELFRY: Oakewood (niejasne)
+[SFX: WWWWAAAAAAAAAAAAAWAAAAAAAAAA]
+
+OAKEWOOD: (niejasne)
+
+[SFX: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]
+
+OAKEWOOD: (niejasne) ja?
+
+[SFX: AAAAAAAAAAmmph-!]
+
+OAKEWOOD: Fuj! To młode desperacko potrzebuje przewinięcia.
+OAKEWOOD: Weź kilka pieluszek z szafy.
+
+OAKEWOOD: O <em>tobie</em> mowa Belfry!
+OAKEWOOD: Tylko nie rozwal nic w tamtej szafie!
