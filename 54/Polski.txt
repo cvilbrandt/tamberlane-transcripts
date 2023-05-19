@@ -1,0 +1,20 @@
+PENNY: Jaka jest twoja ulubiona książka?
+TAMBERLANE: muh?
+
+PENNY: Wiesz, książki? Czytanie?
+
+PENNY: Ty w ogóle umiesz czytać?
+
+PENNY: Ile ty masz lat?
+TAMBERLANE: Tszy.
+PENNY: Wow! Ja też! I ty jeszcze nie umiesz czytać?
+
+PENNY: No...to jest okej!
+
+PENNY: Mama mówi że wszystkie kreatury dorastają we własnym tempie.
+
+PENNY: Wiesz, Parsley jest całkiem dobry w nauczaniu dzieci jak się czyta.
+
+PENNY: Poszukajmy go!
+
+PENNY: Ale musimy być ostrożni.
