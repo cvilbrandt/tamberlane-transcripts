@@ -1,0 +1,21 @@
+PENNY: Tak! Udało się!
+TAMBERLANE: Misiu!
+
+PENNY: Martwisz się o mojego tatę?
+TAMBERLANE: Ała!
+
+PENNY: Nie przejmuj się nim. Twardy z niego mężczyzna. Przeżyje to.
+
+PENNY: A teraz zanim nas złapią, biegnijmy!
+
+PENNY: Powiedziałam biegnijmy!
+TAMBERLANE: Oki!
+
+PENNY: Ugh! Zaczynam myśleć że ty nie umiesz <em>chodzić</em> a co dopiero <em>biegać!</em>
+TAMBERLANE: Ugh!
+
+PENNY: Guuhh... Dobra, nic nie szkodzi.
+PENNY: Nauczymy cię też jak się chodzi.
+
+PENNY: Tylko się pośpiesz! Nie chcę zostać złapana!
+PENNY: Kurde, nie wierzę że masz trzy lata.
