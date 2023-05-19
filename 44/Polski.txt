@@ -1,0 +1,13 @@
+[SFX: aaaaa]
+[SFX: walenie walenie]
+
+[SFX: aaa]
+[SFX: ker-klik]
+[SFX: AAAAAAAAWAAAAA]
+
+[SFX: AAA buch buch BUCH BUCH BUCH A AA AA A]
+
+BELFRY: Ta da...
+OAKEWOOD: Zapomniałaś o swojej nodze co?
+TAMBERLANE: (jęk)
+BELFRY: m-może.
