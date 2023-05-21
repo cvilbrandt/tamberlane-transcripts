@@ -1,0 +1,16 @@
+MARIE: Najlepiej będzie do niego iść tędy!
+MARIE: Po co chcesz w ogóle zobaczyć Parsleya?
+
+TAMBERLANE: Penny!
+
+MARIE: Nie wiedziałam że znasz Penny!
+MARIE: Co z Penny?
+
+TAMBERLANE: P...Penny!
+
+TAMBERLANE: Penny tszy nie zła Tamberlane.
+MARIE: Przepraszam, nie rozumiem. Co to Tamberlane?
+
+TAMBERLANE: Zła Tamberlane, <em>nie!</em>
+
+MARIE: O nie! Proszę nie płacz! Przepraszam! Ty jesteś Tamberlane?
