@@ -1,0 +1,16 @@
+PARSLEY: Chyba powinniśmy zrobić przerwę. To biedactwo wygląda na takie przytłoczone.
+
+PENNY: To ma sens. Moja mama powiedziała że Pani Belfry znalazła ją w lesie tej nocy i ją przygarnęła.
+PARSLEY: Pani Belfry? Belfry <em>Baker?</em> Ta Belfry?
+PENNY: Ta.
+
+PARSLEY: Kto pozwolił Belfry Baker <em>zająć się młodym?!</em>
+PENNY: Pewnie dlatego nie umie mówić. Pani Bel musiała upuścić ją na główkę.
+PARSLEY: To nieważne, cudem jest to że jeszcze jej przypadkowo nie zadźgali!
+MARIE: Tak, Pani Belfry jest bardzo miła ale...
+
+MARIE: Wiesz co... narazie po prostu zapomnijmy o tym wszystkim, hm?
+MARIE: Zróbmy sobie przerwę i pobawmy się w rzecznych piratów.
+
+MARIE: Chciałabyś się w to pobawić, Tamberlane?
+TAMBERLANE: tak
