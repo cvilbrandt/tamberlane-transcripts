@@ -1,0 +1,13 @@
+TAMBERLANE: Ach!! Puszysa!
+
+BELFRY: Tamberlane!!
+
+BELFRY: Tamberlane, już idę!
+
+TAMBERLANE: Eee! Yah! Hej puszysa!
+
+BELFRY: Dzięki Bogu jesteś cała! Tak się martwiłam!!
+
+TAMBERLANE: Yah!
+
+BELFRY: <em>aaAAWAAAGH!!</em>
