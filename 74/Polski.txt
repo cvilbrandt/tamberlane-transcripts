@@ -1,0 +1,22 @@
+PARSLEY: No cóż, to twój szczęśliwy dzień Fall, ty mój stary druhu! Akceptuję twoją zapłatę.
+
+PARSLEY: To co, na piątek te lekcje tańca?
+FALLON: Tak! Dzięki Parse!
+
+PARSLEY: Oj czy to nie jest nasza ulubiona Marie!
+
+PARSLEY: Kogo ze sobą przyniosłaś?
+MARIE: To mój nowy przyjaciel, Tamberlane! Ale chyba niezbyt lubi mówić.
+
+PARSLEY: Nie bój się kochanie!
+PARSLEY: No to czego potrzebujesz?
+
+TAMBERLANE: Ummm...
+
+TAMBERLANE: ...umumum...
+
+TAMBERLANE: <em>awuhmumuww</em>
+
+PARSLEY: Hej słońce, wszystko jest dobrze!
+POZA EKRANEM: TAMBERLANE!
+[SFX: AWUUWUUWUWAAA]

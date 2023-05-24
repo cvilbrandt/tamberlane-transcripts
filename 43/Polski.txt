@@ -1,0 +1,19 @@
+[SFX: AAAWAAAAWAAA]
+BELFRY: w każdej chwili...
+BELFRY: w każdej chwili przestaniesz...
+
+[SFX:AWAAAAWAAAA]
+BELFRY: Nie przestajesz!
+BELFRY: Czemu nie przestajesz?!
+
+BELFRY: Nie mówię po krzyczącemu!
+BELFRY: Proszę po prostu powiedz czego chcesz!!
+
+BELFRY: okej
+
+[SFX: AAAAWAA]
+BELFRY: ...Może Oakewood będzie coś wiedział.
+[SFX:AWAAAAAW]
+
+[SFX: AWAAAAAAAAAWAAWAAA]
+(pod nosem: nie jestem porażką...)

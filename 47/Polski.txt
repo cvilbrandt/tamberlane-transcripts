@@ -1,0 +1,17 @@
+OAKEWOOD: Niech zgadnę: jest rozwalona.
+
+BELFRY: um...
+OAKEWOOD: Mrrgh.
+
+OAKEWOOD: I tak trzeba było ją przeorganizować.
+BELFRY: Przepraszam.
+
+OAKEWOOD: Więc przyniosłaś zaopatrzenie. Teraz to zaopatrz.
+BELFRY: Ale ja nie wiem jak!
+
+OAKEWOOD: Zdejmujesz brudną pieluchę i zakładasz nową.
+OAKEWOOD: To nie jest <em>takie</em> trudne.
+
+[SFX: rozwinąć?]
+
+[SFX: UrP]
