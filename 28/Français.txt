@@ -1,0 +1,13 @@
+AINSLEY : D'accord, Oakewood !
+AINSLEY: Si vous allez y jeter un coup d'œil, je vous parie cinq mois de récupération que vous n'avez jamais rien vu de tel auparavant.
+
+OAKEWOOD : Euh, non. Vous d&eacute:lirez et j'ai une vie.
+
+OAKEWOOD: Et elle implique une nuit agr&eacute;able et confortable loin de cingl&eacute;s importuns comme vous.
+
+OAKEWOOD : Et en parlant de &ccedil;a, il est temps de partir.
+
+AINSLEY : Vous me jetteriez aux loups ?
+OAKEWOOD : Certains de mes meilleurs amis sont des loups. Dehors.
+
+[SFX : SLAM]
