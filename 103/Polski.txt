@@ -1,0 +1,14 @@
+BELFRY: Briar!!
+TAMBERLANE: ah!
+
+BRIAR: Hej, Bel.
+TAMBERLANE: Groszek!
+
+BELFRY: Co cię tu przynosi? Chcesz herbaty?
+BELFRY: O! Albo nawet mamy trochę mięsa!
+BRIAR: Nie... dziękuje.
+TAMBERLANE: Chcę groszek!
+
+BELFRY: Och! Więc... co mogę dla ciebie zrobić?
+
+BRIAR: Mama mnie przysłała.
