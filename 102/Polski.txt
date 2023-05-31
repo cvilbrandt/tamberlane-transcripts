@@ -1,0 +1,22 @@
+BELFRY: Masz. Tylko jedz powoli, dobrze?
+
+OAKEWOOD: hrmmngghrr
+
+[SFX: SLAM!!]
+OAKEWOOD: SAME ŚLEPE ZAUŁKI!
+
+OAKEWOOD: Trzy miesiące!
+OAKEWOOD: Trzy miesiące a my wiemy praktycznie <em>nic!</em>
+OAKEWOOD: Nawet nie potrafię rozpoznać jakim rodzajem zwierzęcia ona jest!
+OAKEWOOD: Nawet nie wiem co ona je oprócz groszku i owsianki!
+
+OAKEWOOD: Co jeżeli skończy się sezon na groch?
+OAKEWOOD: <em>Co wtedy?</em>
+
+BELFRY: No to wtedy można ją nakarmić owsianką.
+OAKEWOOD: Belfry, mówię po raz kolejny, musisz posłuchać [niejasne]
+POZA EKRANEM: Hej.
+OAKEWOOD: Ona [niejasne] więcej niż te.
+
+[SFX: wzdeech]
+OAKEWOOD: Albo możesz zostać rozproszona. Tak też może być.
