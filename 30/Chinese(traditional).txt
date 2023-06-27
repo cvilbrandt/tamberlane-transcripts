@@ -1,0 +1,21 @@
+[SFX: 滴答滴]
+
+[SFX: plip]
+
+[SFX: plip]
+
+[SFX: fffssshhh]
+
+[SFX_: ffsssshhhhh]
+TAMBERLANE: 哇!
+
+[SFX_: ffsssshhhhh]
+TAMBERLANE: 嗚！嗚！
+
+[SFX_: ffsssshhhhh]
+BELFRY: 哦!
+
+[SFX_: ffsssshhhhh]
+
+[SFX_: ffsssshhhhh]
+OFFSCREEN: BELFRY!
