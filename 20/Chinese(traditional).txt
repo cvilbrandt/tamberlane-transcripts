@@ -10,4 +10,4 @@ BELFRY: 退後，鬼！我不想傷害你！
 
 BELFRY: 請不要傷害我!
 
-GHOST: beezwohn bahwee?
+GHOST: 比茲沃恩 巴維?
