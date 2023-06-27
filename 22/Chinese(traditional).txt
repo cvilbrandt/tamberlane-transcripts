@@ -9,6 +9,6 @@ GHOST: 好的?
 GHOST: 嗚嗚，想吃飯飯，嗶嗶?
 BELFRY: 嗯...
 
-GHOST: Peez? Peez?
+GHOST: 請求? 請嗎?
 
 BELFRY: 你想要...豌豆嗎?
