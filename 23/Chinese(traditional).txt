@@ -1,0 +1,17 @@
+[SFX: 輕拍]
+
+BELFRY: 原來你一點都不是鬼，對吧?
+
+BELFRY: 你好小哦!
+
+BELFRY: 如果你不是鬼的話...那你是什麼?
+
+TAMBERLANE: Tamberlane!
+
+BELFRY: 喔，你會說話！有點像是。但我不知道那是什麼。
+
+[SFX: 聞 聞]
+TAMBERLANE: 嘻!
+
+BELFRY: 但你聞起來很年輕。
+BELFRY: 你只是個孩子嗎?
