@@ -1,0 +1,13 @@
+KRUK: Cóż, twoja "wnuczka" ma Follybrook wyryty wszędzie na sobie!
+OAKEWOOD: Jak <em>możesz!</em>
+
+KRUK: Wybacz ale nie chce zostać skażonym przez jakiegoś <em>mutanta</em> bez smyczy!
+
+OAKEWOOD: Skoro masz taki problem to wynoś się stąd do cholery!
+KRUK: A żebyś wiedział że to zrobię!
+
+SFX: RRRRRRRRR...
+TAMBERLANE: Wujku?
+
+MILO: Więc... "wnuczka," ta[niejasne]
+OAKEWOOD: <em>ZAMKNIJ SIĘ JAMITON!!</em>
