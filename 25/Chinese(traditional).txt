@@ -1,0 +1,17 @@
+OUTSIDE: Belfry受傷了!
+OUTSIDE: 哦，天哪，怎麼回事?
+
+OUTSIDE: 是鬼害的!
+OUTSIDE: 鬼...鬼魂?!
+OUTSIDE: 噢不!
+OUTSIDE: 情況有多糟?
+
+OUTSIDE: 去找Henry!
+OUTSIDE: 但你不能逮捕鬼魂...
+OUTSIDE: 還是可以?
+OUTSIDE: 我們需要幫助!
+
+[SFX: SLAM]
+
+AINSLEY: 把我藏起来!
+COYOTE: 圖書館 <em>關門了!</em>

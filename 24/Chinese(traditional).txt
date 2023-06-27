@@ -1,0 +1,10 @@
+BELFRY: 你全身都是傷...
+BELFRY: 而且骯髒。
+BELFRY: 又瘦弱。
+
+BELFRY: 你的父母在哪裡?
+
+BELFRY: 你有父母嗎?
+BELFRY: 它們在這附近嗎?
+
+BELFRY: 如果你有父母，它們一定是非常糟糕的父母，對吧。

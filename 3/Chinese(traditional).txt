@@ -1,0 +1,13 @@
+OFFSCREEN: 蘑菇，請給我蘑菇！
+
+BAT: 雞油菌菇還是鹿茸菇?
+
+DEER: 雞油菌菇。
+BAT: 雞油菌菇。 確定嗎？ 我好像記得…
+DEER: <em>雞油菌菇。</em>
+
+BAT: 那好吧！雞油菌菇馬上就來！
+
+BAT: 在你準備Tess的餐點時，我會為Cori小姐做準備！
+
+OFFSCREEN: <em>啊!!</em>
