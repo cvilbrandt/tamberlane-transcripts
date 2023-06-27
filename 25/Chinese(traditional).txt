@@ -14,4 +14,4 @@ OUTSIDE: 我們需要幫助!
 [SFX: SLAM]
 
 AINSLEY: 把我藏起来!
-COYOTE: The library is <em>closed!</em>
+COYOTE: 圖書館 <em>關門了!</em>
