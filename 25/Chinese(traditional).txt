@@ -1,5 +1,5 @@
 OUTSIDE: Belfry受傷了!
-OUTSIDE: 哦，親愛的，怎麼回事?
+OUTSIDE: 哦，天哪，怎麼回事?
 
 OUTSIDE: 是鬼害的!
 OUTSIDE: 鬼...鬼魂?!
