@@ -1,0 +1,12 @@
+OAKEWOOD: 茶裡加蜂蜜嗎？
+BELFRY: 好的，謝謝。
+BELFRY: 謝謝你，Oakewood。你今晚真的救了我的命。
+OAKEWOOD: 哼.
+
+BELFRY: 對不起，讓妳跟我一起。妳應該找到更好的人。
+
+BELFRY: 但我保證我會盡力成為一個好媽媽。
+
+BELFRY: ...為了妳...
+
+BELFRY: ...我的小女孩...
