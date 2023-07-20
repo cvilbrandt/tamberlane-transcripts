@@ -1,0 +1,20 @@
+PENNY: 那你最喜歡的書是什麼？
+TAMBERLANE: 嗯?
+
+PENNY: 妳知道，書？閱讀？
+
+PENNY: 妳知道如何閱讀嗎？
+
+PENNY: 你幾歲了？
+TAMBERLANE: 三歲。
+PENNY: 哇！我也是！妳還不會閱讀？
+
+PENNY: 嗯...沒關係！
+
+PENNY: 媽媽說所有生物都會以自己的步調成長。
+
+PENNY: 妳知道嗎，Parsley很擅長教小朋友閱讀。
+
+PENNY: 我們去找他吧！
+
+PENNY: 但是我們要小心一點。
