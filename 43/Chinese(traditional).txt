@@ -16,4 +16,4 @@ BELFRY: ...我最好看看Oakewood知道該怎麼辦。
 [SFX:AWAAAAAW]
 
 [SFX: AWAAAAAAAAAWAAWAAA]
-(muttered: 我不是失敗者...)
+(喃喃低語: 我不是失敗者...)
