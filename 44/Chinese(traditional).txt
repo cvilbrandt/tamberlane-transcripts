@@ -1,0 +1,13 @@
+[SFX: aaaaa]
+[SFX: 撲通撲通]
+
+[SFX: aaa]
+[SFX: ker-click]
+[SFX: AAAAAAAAWAAAAA]
+
+[SFX: AAA thud thud THUD THUD THUD A AA AA A]
+
+BELFRY: 塔達...
+OAKEWOOD: 你忘記了妳的腿，對吧？
+TAMBERLANE: (啜泣)
+BELFRY: 或...或許。
