@@ -1,0 +1,17 @@
+OAKEWOOD: 讓我猜猜。搞砸了吧。
+
+BELFRY: 嗯...
+OAKEWOOD: <em>嗯嗯。</em>
+
+OAKEWOOD: 反正需要重新整理一下。
+BELFRY: 抱歉。
+
+OAKEWOOD: 好吧，妳帶來了用品。現在換它的尿布。
+BELFRY: 但我不知道該怎麼做！
+
+OAKEWOOD: 你脫掉骯髒的，然後換上乾淨的。
+OAKEWOOD: 這沒有 <em>那麼</em> 難。
+
+[SFX: 攤開?]
+
+[SFX: UrP]
