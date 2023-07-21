@@ -1,0 +1,8 @@
+TAMBERLANE: <em>毛茸茸的！</em>
+BELFRY: 等等，回來！
+
+BELFRY: 別動！我來了！
+
+BELFRY: 我抓住妳了。我抓住妳了。
+
+HENRY: 看來這次你的意外收穫不少啊！
