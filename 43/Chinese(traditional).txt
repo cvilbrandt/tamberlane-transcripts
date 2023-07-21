@@ -1,0 +1,19 @@
+[SFX: AAAWAAAAWAAA]
+BELFRY: 馬上就要了...
+BELFRY: 馬上就要停下來了...
+
+[SFX:AWAAAAWAAAA]
+BELFRY: 你沒有停下來！
+BELFRY: 為什麼你不停下來？！
+
+BELFRY: 我不懂你在尖叫什麼！
+BELFRY: 請告訴 <em>我你想要什麼！！</em>
+
+BELFRY: 好吧
+
+[SFX: AAAAWAA]
+BELFRY: ...我最好看看Oakewood知道該怎麼辦。
+[SFX:AWAAAAAW]
+
+[SFX: AWAAAAAAAAAWAAWAAA]
+(喃喃低語: 我不是失敗者...)

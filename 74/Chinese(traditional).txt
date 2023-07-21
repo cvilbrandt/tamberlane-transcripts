@@ -1,0 +1,22 @@
+PARSLEY: 好的，Fall 夥計，今天真是你的幸運日！我接受你的交易。
+
+PARSLEY: 那麼，星期五的舞蹈課怎麼樣？
+FALLON: 太好了！謝謝你，Parse！
+
+PARSLEY: 哇，這不是可愛的Marie嗎！
+
+PARSLEY: 妳帶來了誰？
+MARIE: 這是我的新朋友Tamberlane！很可惜，她不太說話。
+
+PARSLEY: 別害怕，親愛的！
+PARSLEY: 那麼妳需要什麼呢？
+
+TAMBERLANE: 嗯...
+
+TAMBERLANE: ...嗯嗯嗯...
+
+TAMBERLANE: <em>啊嗚嗯嗯嗚嗯</em>
+
+PARSLEY: 哦，寶貝，沒關係！
+OFFSCREEN: TAMBERLANE!
+[SFX: AWUUWUUWUWAAA]

@@ -1,0 +1,13 @@
+TAMBERLANE: 啊！！ 毛茸茸的！
+
+VOICE: Tamberlane!!
+
+BELFRY: Tamberlane，我來了！
+
+TAMBERLANE: 誒誒！呀！毛茸茸 你好！
+
+BELFRY: 謝天謝地妳平安無事！我一直非常擔心妳！
+
+TAMBERLANE: 呀！
+
+BELFRY: <em>啊啊啊啊！！</em>
