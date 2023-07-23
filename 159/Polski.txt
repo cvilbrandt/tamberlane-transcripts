@@ -1,0 +1,19 @@
+OAKEWOOD: Państwo Tagg, Państwo Danger, jeśli możecie poświęcić chwilę, mam pewną zagwozdkę z którą możecie mi pomóc...
+
+MILO: W...Wujku!
+
+MILO: Wujku my nie...nie powinniśmy rozmawiać z...
+
+OAKEWOOD: <em>Milo Jamiton, nie bądź niegrzecznym bachorem!</em> Gdyby twój ojciec mógł cię usłyszeć, <em>wstydziłby</em> się!
+
+MILO: A-Ale...my nie...powinniśmy...
+
+OAKEWOOD: Dorośnij, chłopcze!
+MILO: T...Tak, proszę pana.
+
+OAKEWOOD: Przepraszam za mojego durnego chrześniaka. Jest młody. Jeżeli nie chcecie pomóc to nie ma problemu, ale musimy wiedzieć coś więcej o Tamberlane.
+TAMBERLANE: Jestem Tamberlane!
+OAKEWOOD: Chcę tylko wiedzieć, widzieliście coś podobnego do niej na Follybrooku?
+
+TAGG: Ja tylko chcę do domu.
+DANGER; Tagg, on <em>był</em> dla nas miły...
