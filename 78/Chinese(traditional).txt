@@ -1,0 +1,16 @@
+PARSLEY: 也許我們應該休息一下。可憐的小家伙已經不知所措了。
+
+PENNY: 這是有道理的。媽咪說Belfry小姐昨晚在樹林裡找到她並收留了她。
+PARSLEY: Belfry小姐？ Belfry <em>Baker?</em> 那位Belfry？
+PENNY: 對啊。
+
+PARSLEY: 誰會讓Belfry Baker <em>來照顧小孩啊？！</em>
+PENNY: 也許這就是她不能說話的原因。Bel小姐可能不小心讓她摔到了頭。
+PARSLEY: 先別管這個了，她竟然還沒有意外被刺傷真是奇蹟！
+MARIE: 是啊，Belfry小姐人很好，但是…
+
+MARIE: 好了，讓我們...讓我們暫時忘記這些，好嗎？
+MARIE: 我們來休息一下，玩玩河流海盜吧。
+
+MARIE: 妳想一起玩嗎，Tamberlane？
+TAMBERLANE: 想

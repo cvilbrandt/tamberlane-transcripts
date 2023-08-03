@@ -1,0 +1,16 @@
+BELFRY: Oakewood (模糊的)
+[SFX: WWWWAAAAAAAAAAAAAWAAAAAAAAAA]
+
+OAKEWOOD: (模糊的)
+
+[SFX: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]
+
+OAKEWOOD: (模糊的) 我嗎?
+
+[SFX: AAAAAAAAAAmmph-!]
+
+OAKEWOOD: 呃！這孩子急需換尿布。
+OAKEWOOD: 去贊助人用品櫃裡拿一些尿布。
+
+OAKEWOOD: 那就是 <em>妳</em>, Belfry!
+OAKEWOOD: 盡量不要把儲物櫃弄亂！

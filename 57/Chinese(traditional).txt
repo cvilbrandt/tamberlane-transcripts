@@ -1,0 +1,21 @@
+PENNY: 是的！成功了！我們出來了！
+TAMBERLANE: 藍色的！
+
+PENNY: 哦，你擔心我爸爸嗎？
+TAMBERLANE: 痛！
+
+PENNY: 別擔心他。他是個堅強的傢伙。他會挺過來的。
+
+PENNY: 現在，在我們被抓住之前，快跑！
+
+PENNY: 我說，快跑！
+TAMBERLANE: 好的！
+
+PENNY: 唉！我開始覺得你連 <em>走路都不會</em>, 更別說 <em>跑步了！</em>
+TAMBERLANE: 唉!
+
+PENNY: 呃...好吧，沒關係。
+PENNY: 我們會教你怎麼走路的。
+
+PENNY: 只是快點！我不想被抓住！
+PENNY: 天啊，我真不敢相信你已經三歲了。

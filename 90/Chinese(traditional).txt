@@ -1,0 +1,11 @@
+BELFRY: <em>哎呀！</em>
+
+TAMBERLANE: <em>哇啊！！</em>
+
+[SFX: 摔倒聲!]
+
+TAMBERLANE: <em>啊啊！！！</em>
+
+[SFX: 撲通]
+
+PENNY: wow
