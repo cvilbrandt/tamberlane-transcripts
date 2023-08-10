@@ -1,0 +1,12 @@
+SFX: Głęboki Wzdech
+
+BELFRY: Mamo. Wiem że nienawidzisz Tamberlane ale musisz ulec temu że ona już tu jest i zostaje.
+
+TESS: <em>Co?!</em> Ja lubię Tamberlane!
+
+BELFRY: Ta, jasne.
+TESS: <em>Tak,</em> jasne! Ona jest słodka!
+
+TESS: Szczerze, zaczynam ją coraz bardziej lubić. TROSZECZKĘ.
+
+TESS: Ale ona jest <em>problemem!</em>
