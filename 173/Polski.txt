@@ -1,0 +1,15 @@
+SFX: KLANG KLANG KLANG KLANG
+TESS: Ja po prostu nie chcę cię stracić przez jedną nagłą decyzję.
+
+SFX: KLANG KLANG KLANG
+BELFRY: Mamo...
+
+SFX: KLANG KLANG KLANG KLANG
+TESS: O-oł, to ceremonie otwierające, muszę iść.
+BELFRY: Mamo, czekaj!
+
+SFX: KLANG KLANG KLANG
+BELFRY: Nie martw się, okej? Nie będziemy musieli tam iść. Przysięgam.
+
+SFX: KLANG KLANG KLANG
+TESS: Och Belfry. Mam nadzieję na każdego Boga że będziesz mieć rację.
