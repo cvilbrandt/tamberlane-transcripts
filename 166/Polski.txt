@@ -1,0 +1,20 @@
+CALLIE: Poproszę dwa truskawkowe ciasteczka!
+TESS: ZWOLNIJ ZANIM NIE BĘDZIE CO SPRZEDAWAĆ!!
+
+BRIAR: Przepraszam za to, Callie.
+BELFRY: NO <em>NIE!!!</em> CO Z TOBĄ DZISIAJ JEST MAMO?!
+
+TESS: NIC ZE MNĄ NIE JEST
+BELFRY: CIĄGLE NA MNIE KRZYCZYSZ BEZ POWODU!
+CALLIE: Och, nie ma sprawy!
+TESS: <em>WIEM!!!</em> PO PROSTU RÓB CIASTO OKEJ?!
+BELFRY: <em>DOBRA!!!!</em>
+
+BRIAR: Życzę Pani powodzenia na straganie.
+CALLIE: Tobie też, Briar.
+BELFRY: BĘDĘ OSTROŻNIEJSZA NIŻ WCZEŚNIEJ! JESTEŚ SZCZĘŚLIWA?!
+
+TESS: TAK JESTEM!
+BELFRY: ŚWIETNIE!!!
+TESS: ALE NIE UPUŚC ICH PRZYPADKIEM!
+BELFRY: O MÓJ BOŻE

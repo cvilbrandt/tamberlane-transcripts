@@ -1,0 +1,19 @@
+WALTER: Wraca ciocia Briar!
+TAMBERLANE: Briar!
+
+TESS: Belfry! Zrujnowałaś te ciasta!
+BELFRY: A kto to zaczął?!
+TESS: No może jakbyś na mnie nie krzyczała!
+
+PANTERA: Bakerowie nadal się kłócą?
+WIEWIÓRKA: Nadal dostarczam im pocztę więc...
+JELEŃ: Biedna Briar!
+KANGURO-MYSZ: Może kwiatki pomogą?
+
+BRIAR: <em>CZY WY WKOŃCU DOROŚNIECIE!?</em>
+BRIAR: Przysięgam że czasami wydaje mi się że jestem tu jedynym dorosłym.
+
+WALTER: Добро пожаловать назад, оленька
+BRIAR: Спасибо, Папочка
+
+TAMBERLANE: Co?

@@ -1,0 +1,26 @@
+ANTHONY: Nie chcę żebyś odszedł!
+JASON: C-czekajcie!
+PIPER: Po co tam popłynąłeś?!
+ANTHONY: Obiecałeś! Obiecałeś!
+PIES: Jason.
+
+PIES: Oszczędź im tych lęków. Jeszcze im dasz jakąś traumę.
+
+JASON: Ale ja nie chciałem ich aż tak przestraszyć.
+PIES: Pff. Nieźle ci poszło, głuptasie.
+PIES: Nie martwcie się, dzieciaki. Nie podpłyneliśmy tak blisko. Tylko widzieliśmy w oddali.
+
+JASON: Anthony, Piper, to jest moja nowa przyjaciółka, Amber. Ona jest nawigatorem na Guppym.
+AMBER: Siema!
+JASON: Ona jest bardzo mądra, więc nie macie o co się martwić!
+
+PIPER: Pani Amber, <em>przysięga</em> pani że nie podpłyneliście blisko?
+
+JASON: Płynąc tutaj nigdy bym nie zrobiła czegoś tak głupiego.
+PIPER: A nie walczyliście z jakimiś potworami z głebin?
+JASON: Ani jednym, moja droga.
+PIPER: T-to takie nudne.
+
+JASON: [niejasne] to?
+[SFX: BOOM!]
+AMBER: Co do...

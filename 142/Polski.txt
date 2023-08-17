@@ -1,0 +1,15 @@
+OAKEWOOD: Malutka, wszystko dobrze?
+
+TAMBERLANE: On nie chciał pomocy.
+
+OAKEWOOD: Nie, nie chciał. Niektóre kreatury nie chcą.
+TAMBERLANE: Ale ja chciałam pomóc.
+OAKEWOOD: Nie, jesteś młoda. Po prostu sobie bądź.
+
+OAKEWOOD: Ale oprócz pomagania, jesteś cała?
+
+TAMBERLANE: Tak... a wujek jest okej?
+
+OAKEWOOD: Tak. Ale co przed chwilą mówiłem?
+TAMBERLANE: Nie pomagaj, po prostu bądź!
+OAKEWOOD: Bardzo dobrze.

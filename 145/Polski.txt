@@ -1,0 +1,8 @@
+TAMBERLANE: <em>AH!! NO!!</em>
+PIPER: <em>!!!</em>
+
+SFX: KRAK
+
+PIPER: Przepraszam! Przepraszam! Przepraszam!
+
+TAMBERLANE: To dziadek!

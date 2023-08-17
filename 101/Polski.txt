@@ -1,0 +1,22 @@
+POZA EKRANEM: To sarnina?
+POZA EKRANEM: Tak, zamówiłem trochę więcej od rzeźnika.
+TAMBERLANE: ...bleh...
+POZA EKRANEM: Myślisz że może być mięsożerna?
+POZA EKRANEM: No albo przynajmniej wszystkożerna.
+POZA EKRANEM: Ma do tego specjalne zęby.
+
+[SFX: PTEUGH]
+
+TAMBERLANE: Groszki!
+POZA EKRANEM: Okej, okej! Dam ci groszek, słodka.
+
+BELFRY: Ale zrobisz mi proszę malutką przysługę?
+TAMBERLANE: Groszek <em>proszę.</em>
+BELFRY: Bardzo ładnie! A weźmiesz proszę dla mnie jeszcze jednego gryza?
+
+TAMBERLANE: Mllleeehh...
+
+TAMBERLANE: <em>BLE!</em> Nie!! Nie <em>LUBIĘ!</em>
+BELFRY: Okej! Bardzo ładnie!
+BELFRY: Co powiesz na ten groszek?
+OAKEWOOD: Uwaga wstępna: ani owadożerca ani mięsożerca.
