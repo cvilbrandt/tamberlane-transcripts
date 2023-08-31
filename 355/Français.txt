@@ -1,0 +1,16 @@
+<p>BRIAR&#160;: Je sais que tu essayes, Belfry.<br>
+BRIAR&#160;: Ce n'est pas grave de ne pas aller bien.<br>
+BRIAR&#160; Mais tu ne peux pas mettre &ccedil;a sur le dos de Tamberlane.</p>
+
+<p>BRIAR&#160;: Tu te souviens comme maman le faisait&#160;?</p>
+
+<p>BRIAR&#160;: Elle se mettait tellement <em>en col&egrave;re</em> et ensuite elle nous rejetait la faute.</p>
+
+<p>BRIAR&#160;:&#160;Tu sais que j'aime maman, mais elle disait toujours qu'elle &eacute;tait si col&eacute;rique parce que tu &eacute;tais difficile &agrave; &eacute;lever.<br>
+BRIAR&#160;:&#160;Mais elle <em>t'a utilis&eacute;e</em> pour &eacute;viter toute responsabilit&eacute;. Son caract&egrave;re n'a jamais &eacute;t&eacute; de ta faute.</p>
+
+<p>BRIAR&#160;: <em>Tu</em> ne peux pas &ecirc;tre comme &ccedil;a, Belfry&#160;! Tu ne peux pas reporter tes probl&egrave;mes sur Tamberlan&#160;!<br>
+BRIAR&#160;: Elle en subit d&eacute;j&agrave; trop comme &ccedil;a !<br>
+BRIAR&#160;: Je parie que <em>ton stress</em> est la raison pour laquelle elle t'a repouss&eacute;e &agrave; Bally Bluffs&#160;!</p>
+
+<p>BELFRY&#160;: <em>Qu'est-ce que <strong>tu</strong> pourrais savoir de ce qui s'est pass&eacute; &agrave; Bally Bluffs&#160;?!</em></p>
