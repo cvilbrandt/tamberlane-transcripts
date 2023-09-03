@@ -1,0 +1,12 @@
+SFX: klmp klmp klmp
+
+BRIAR: Vai ficar tudo bem, Bel.
+BELFRY: Mm...
+
+BRIAR: Só respira fundo.
+BELFRY: Eu não acho que <em>eu respirar</em> vai consertar alguma coisa.
+
+BRIAR: Mas vai te ajudar a se acalmar.
+
+BELFRY: Como é pra eu estar <em><b>CALMA</b></em> quando eu <em><b>ARRUÍNO</b></em> tudo que eu toco?!
+BRIAR: Oh, Belfry...

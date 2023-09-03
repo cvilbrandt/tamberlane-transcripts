@@ -1,0 +1,16 @@
+BRIAR: Eu sei que você está tentando, Belfry.
+BRIAR: Não tem problema em não estar bem.
+BRIAR: Mas você não pode colocar isso na Tamberlane.
+
+BRIAR: Lembra que a Mãe fazia isso?
+
+BRIAR: Ela ficava tão <em>brava,</em> e depois ela colocava toda a culpa em nós.
+
+BRIAR: Eu sei que você ama a Mãe, mas ela sempre dizia que o pavio curto dela era por que você era uma pata cheia de se criar.
+BRIAR: Mas ela <em>usou você</em> pra evitar responsabilidade. O temperamento dela nunca foi sua culpa.
+
+BRIAR: <em>Você</em> não pode ser assim, Belfry! Você não pode colocar seus problemas na Tamberlane!
+BRIAR: Ela já carrega demais do jeito que está!
+BRIAR: Eu aposto que tomar o <em>seu stress</em> é o porquê dela ter te empurrado pra fora em Bally Bluffs!
+
+BELFRY: <em>O que <b>você</b> saberia sobre o que aconteceu em Bally Bluffs?!</em>
