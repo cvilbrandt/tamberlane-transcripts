@@ -1,13 +1,13 @@
-<p>BRIAR&#160;: Quel est le diagnostic ? Aura-t-elle des s&eacute;quelles&#160;?</p>
+BRIAR&#160;: Quel est le diagnostic ? Aura-t-elle des s&eacute;quelles&#160;?
 
-<p>NORA&#160;: Elle a un cas assez grave de pneumonie et elle a du mal &agrave; respirer.<br />
-TAMBERLANE&#160;: hggh kff ghffkf</p>
+NORA&#160;: Elle a un cas assez grave de pneumonie et elle a du mal &agrave; respirer.
+TAMBERLANE&#160;: hggh kff ghffkf
 
-<p>WALTER&#160;: J'imagine, avec un museau aussi trapu.<br />
-NORA&#160;: La bonne nouvelle, c'est qu'elle r&eacute;agit mieux que je ne l'aurais esp&eacute;r&eacute; &agrave; ses m&eacute;dicaments.</p>
+WALTER&#160;: J'imagine, avec un museau aussi trapu.
+NORA&#160;: La bonne nouvelle, c'est qu'elle r&eacute;agit mieux que je ne l'aurais esp&eacute;r&eacute; &agrave; ses m&eacute;dicaments.
 
-<p>NORA&#160;: Elle devrait bien r&eacute;cup&eacute;rer.</p>
+NORA&#160;: Elle devrait bien r&eacute;cup&eacute;rer.
 
-<p>NORA&#160;: Mais elle devrait rester à l'h&ocirc;pital un peu plus longtemps pour qu'on puisse garder un &oelig;il sur <strong><em>BELFRY, NON&#160;!</em></strong><br />
-BELFRY&#160;: <strong><em>ELLE EST MOURANTE, NORA&#160;! R&Eacute;PARE-LA&#160;!!!</em></strong><br />
-TAMBERLANE&#160;: hh HGHKkff Kuffkhhh sngh hh</p>
+NORA&#160;: Mais elle devrait rester à l'h&ocirc;pital un peu plus longtemps pour qu'on puisse garder un &oelig;il sur ***BELFRY, NON&#160;!***
+BELFRY&#160;: ***ELLE EST MOURANTE, NORA&#160;! R&Eacute;PARE-LA&#160;!!!***
+TAMBERLANE&#160;: hh HGHKkff Kuffkhhh sngh hh
