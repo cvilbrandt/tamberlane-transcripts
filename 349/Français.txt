@@ -1,13 +1,13 @@
-TESS&#160;: Où <em>&eacute;tais-tu</em> plus t&ocirc;t&#160;?&#160;!
+TESS&#160;: Où *&eacute;tais-tu* plus t&ocirc;t&#160;?&#160;!
 
-TESS&#160;: <em>Milo</em> &eacute;tait l&agrave; mais pas toi ?! Belfry avait <em>BESOIN</em> de toi&#160;!
-TESS&#160;: Si tu veux faire comme si tu faisais partie de sa famille, alors <em>fais comme si c'&eacute;tait le cas</em>&#160;!
+TESS&#160;: *Milo* &eacute;tait l&agrave; mais pas toi ?! Belfry avait *BESOIN* de toi&#160;!
+TESS&#160;: Si tu veux faire comme si tu faisais partie de sa famille, alors *fais comme si c'&eacute;tait le cas*&#160;!
 
 TESS&#160;: Qu'est-ce qui &eacute;tait si important pour que tu ne puisses pas la soutenir, hein&#160;?!
-TESS&#160;: Tu ne pouvais m&ecirc;me pas pu rendre visite &agrave; ton soi-disant <em>sujet de recherche</em>&#160;?!
-TESS&#160;: <b>Sujet de recherche.</b> Je n'arrive pas &agrave; croire que tu appelles un <em>petit</em> ton <em>sujet de recherche&#160;!</em>
+TESS&#160;: Tu ne pouvais m&ecirc;me pas rendre visite &agrave; ton soi-disant *sujet de recherche*&#160;?!
+TESS&#160;: **Sujet de recherche.** Je n'arrive pas &agrave; croire que tu appelles un *petit* ton *sujet de recherche&#160;!*
 
-TESS&#160;: <b><em>CLAUDE&#160;!</em> R&Eacute;PONDS-MOI&#160;!</b>
+TESS&#160;: ***CLAUDE&#160;!** R&Eacute;PONDS-MOI&#160;!*
 
 TAMBERLANE&#160;: Oncl...
 

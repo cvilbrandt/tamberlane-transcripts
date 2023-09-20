@@ -1,8 +1,12 @@
-<p>TESS&#160;: Claude&#160;! Quel est ton <strong>probl&egrave;me?!</strong></p>
-<p>TESS&#160;: Tu ne veux vraiment pas me parler m&ecirc;me dans un moment <em>pareil&#160;?&#160;!</em><br>
-TESS&#160;: <strong>Pour l'amour du ciel, Claude&#160;! C'était <em>il y a vingt ans&#160;!</p></strong></em>
-<p>TAMBERLANE&#160;: Onc&#160;? Q-qu'est-ce qui ne va pas&#160;?
-TAMBERLANE&#160;: Je peux aider ?</p>
-<p>SFX&#160;: hnk</p>
-<p>TESS&#160;: Qu'est-- <em>Où diable vas-tu&#160;?&#160;!</em></p>
-<p>TESS&#160;: <strong><em>CLAUDE&#160;!!!</strong></em></p>
+TESS&#160;: Claude&#160;! Quel est ton **probl&egrave;me?!**
+
+TESS&#160;: Tu ne veux vraiment pas me parler m&ecirc;me dans un moment *pareil&#160;?&#160;!*
+TESS&#160;: **Pour l'amour du ciel, Claude&#160;! C'était *il y a vingt ans&#160;!***
+
+TAMBERLANE&#160;: Onc&#160;? Q-qu'est-ce qui ne va pas&#160;?
+TAMBERLANE&#160;: Je peux aider&#160;?
+
+SFX&#160;: hnk
+
+TESS&#160;: Qu'est-- *Où diable vas-tu&#160;?&#160;!*
+TESS&#160;: ***CLAUDE&#160;!!!***
