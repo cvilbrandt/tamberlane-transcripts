@@ -1,4 +1,4 @@
-TESS&#160;: Et elle a tra&icirc;n&eacute; Tamberlane&#160;? Avec l'oxyg&egrave;ne et tout ?
+TESS&#160;: Et elle a tra&icirc;n&eacute; Tamberlane&#160;? Avec l'oxyg&egrave;ne et tout&#160;?
 WALTER&#160;: да. Mais &ccedil;a s'est bien pass&eacute;. Terra a arrang&eacute; la petite Tamberlane et Briar a ramen&eacute; Belfry &agrave; la maison avant que &ccedil;a n'empire.
 TESS&#160;: Oh, Belfry...
 
@@ -14,4 +14,4 @@ Effets sonores&#160;: krnch krnch Krnch
 
 Effets sonores&#160;: KRNCH KRNCH
 
-TESS&#160;: Claude ??
+TESS&#160;: Claude&#160;??
