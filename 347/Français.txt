@@ -1,21 +1,21 @@
-TERRA&#160;: Ne la tire pas comme &ccedil;a ! Tu retires le masque de son visage !
-BELFRY&#160;: Mais elle ne peut pas respirer ! Regarde-la, Terra, elle est en train de mourir !!
-TERRA&#160;: PARCE QUE TU RETIRES LE MASQUE À OXYG&Egrave;NE DE SON VISAGE !
+TERRA&#160;: Ne la tire pas comme &ccedil;a&#160;! Tu retires le masque de son visage&#160;!
+BELFRY&#160;: Mais elle ne peut pas respirer&#160;! Regarde-la, Terra, elle est en train de mourir&#160;!!
+TERRA&#160;: PARCE QUE TU RETIRES LE MASQUE À OXYG&Egrave;NE DE SON VISAGE&#160;!
 TAMBERLANE&#160;: HAHHkh Hh HHghH
 
-TERRA&#160;: Remets-la au lit, tout de suite ! Tu pourrais aggraver son &eacute;tat comme &ccedil;a !
-BELFRY&#160;: N-non ! Mais je- je ne voulais pas-
+TERRA&#160;: Remets-la au lit, tout de suite&#160;! Tu pourrais aggraver son &eacute;tat comme &ccedil;a&#160;!
+BELFRY&#160;: N-non&#160;! Mais je- je ne voulais pas-
 TAMBERLANE&#160;: hHHkH HhH HNHKhh
 
 BELFRY&#160;: T-Tamberlane, je suis d&eacute;sol&eacute;e-
-BRIAR&#160;: Allez, Bel. Tamberlane a juste besoin de temps pour r&eacute;cup&eacute;rer, d'accord ?
+BRIAR&#160;: Allez, Bel. Tamberlane a juste besoin de temps pour r&eacute;cup&eacute;rer, d'accord&#160;?
 BELFRY&#160;: Mais mais mais-
 TAMBERLANE&#160;: hggh mamm fhKKff d&eacute;hhhso hKk
 TERRA&#160;: Chut. Respire.
 
 TAMBERLANE&#160;: hhhAh hhAa
 
-BELFRY&#160;: Elle a besoin de moi !
+BELFRY&#160;: Elle a besoin de moi&#160;!
 BRIAR&#160;: Elle a besoin de repos, Belfry.
 BRIAR&#160;: Et toi aussi. Allons y. Rentrons &agrave: la maison.
 
