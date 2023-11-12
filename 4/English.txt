@@ -1,12 +1,12 @@
-BAT: Oh sod it, what happened?!
+BAT: Oh no, what happened?!
 DEER: You give me <em>velvet foots!</em>
 [SFX: Cough Cough]
 
 BAT: I must have missorted them again!
 
-BAT: Oh, Papa, I'm so sorry.
+BAT: Oh, Walter, I'm so sorry.
 
-WALTER: Belfry, someday you will take over our bakery.
+WALTER: Belfry, someday you will take over this place.
 WALTER: You must be taking more responsibility!
 
 BELFRY: I know, I know! I'll fix it right now! I promise!
