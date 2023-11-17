@@ -1,14 +1,15 @@
-PIPER: Never would have thought that the child of the two best pit fighters in all Silver Sage would be a big fat chicken!
+PIPER: Never would have thought that the child of the two best pit fighters in all Silver Sage would be a <em>big, fat chicken!</em>
 ANTHONY: Piper, please!
 
-BRIAR: I'm not scared! This is just STUPID!
+BRIAR: They're retired!
+BRIAR: And I'm not scared! This is just <em>STUPID!</em>
 
-PIPER: Oh, okay. I see now. Scaredy cat.
+PIPER: Oh, okay. I see now. You're just a <em>scaredy cat.</em>
 
-BRIAR: I'm not!!!
+BRIAR: I'm <em>not!!!</em>
 
 PIPER: Prove it.
 
-ANTHONY: Please, can we go to school?
-ANTHONY: We're learning about rocks today.
-ANTHONY: I like rocks.
+ANTHONY: Y'know, Miss Agnes is teaching us about rocks today.
+ANTHONY: I <em>like</em> rocks. I've been reading about basalt all week.
+ANTHONY: It's very interesting.

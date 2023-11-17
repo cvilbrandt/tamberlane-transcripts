@@ -1,10 +1,10 @@
 BADGER-DEER: You know there's no such thing as ghosts, right?
-PIPER: Yeah but there's gotta be something getting Ainsley all riled up.
+PIPER: 'Course! But even though Ainsley is a <em>teensy</em> bit superstitious on a good day, <em>something</em> has to be there if they're <em>that</em> rattled.
 
-PIPER: And we're going to CATCH it, and get RICH and FAMOUS!
+PIPER: And whatever it is, we're going to <em>CATCH</em> it, and we'll be <em>FAMOUS!</em>
 
 BADGER-DEER: Whatever. I'm going to school.
 
-PIPER: What's the matter, Briar? Chicken?
-BRIAR: No, I'm responsible.
-ANTHONY: Piper, can't we just go to school?
+PIPER: What's the matter, Briar? <em>Chicken?</em>
+BRIAR: No, I'm <em>responsible.</em>
+ANTHONY: Piper, can't we just go to class?
