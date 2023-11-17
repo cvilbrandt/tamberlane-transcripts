@@ -1,9 +1,9 @@
 AINSLEY: GHOST! In the woods!
 
-OFFSCREEN: <em>Barely escaped with my life!!</em>
-ANTHONY: <em>Piper!</em>
+OFFSCREEN: *Barely escaped with my life!!*
+ANTHONY: *Piper!*
 
-AINSLEY: Just the most <em>dreadful wailing...</em>
+AINSLEY: Just the most *dreadful wailing...*
 PIPER: What kind of ghost?
 ANTHONY: Piper, don't be rude!
 
@@ -11,10 +11,10 @@ PIPER: Did it have big bitey teeth?
 ANTHONY: Piper.
 
 ANTHONY: Piper!
-PIPER: You should know, I <em>am</em> a professional ghost-catcher.
+PIPER: You should know, I *am* a professional ghost-catcher.
 
 ANTHONY: Piper-
-PIPER: ANTHONY, <em>WHAT!</em>
+PIPER: ANTHONY, *WHAT!*
 
 ANTHONY: Quit it! Can't you see they've already gone through a lot!
 

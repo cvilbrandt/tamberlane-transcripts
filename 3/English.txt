@@ -4,10 +4,10 @@ BAT: Chanterelles or velvets?
 
 DEER: Chanterelles.
 BAT: Are you sure? I thought velvets were...
-DEER: <em>Chanterelles.</em>
+DEER: *Chanterelles.*
 
 BAT: All right, then! Chanterelles, coming right up!
 
 BAT: While you work on Mum's omelet, I'll get Miss Cori's morning pie ready!
 
-OFFSCREEN: <em>ARGH!!</em>
+OFFSCREEN: *ARGH!!*

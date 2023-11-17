@@ -2,17 +2,17 @@ BADGER-DEER: Mum, I saw Ainsley run in here. Are they alright?
 
 [SFX: SHOVE]
 PIPER: Get back to me on that, Ainsley!
-TESS: To school, <em>all of you!</em>
+TESS: To school, *all of you!*
 
 [SFX: SLAM!!]
-PIPER: <em>You're not my mum!!!</em>
+PIPER: *You're not my mum!!!*
 
 ANTHONY: I guess we'd better get to school.
-PIPER: ARE YOU <em>CRAZY?!</em>
+PIPER: ARE YOU *CRAZY?!*
 
 PIPER: We have a GHOST to catch!
 
 BADGER-DEER: What.
 
-ANTHONY: <em>PIPER!!!</em>
+ANTHONY: *PIPER!!!*
 PIPER: Come on already!!
