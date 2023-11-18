@@ -1,0 +1,14 @@
+COYOTE: Qual'è il problema <em>stavolta</em>?
+AINSLEY: Vogliono che li porti dal fantasma, ma non voglio farlo! Non posso tornare là!
+
+COYOTE: Fortunatamente per te, i fantasmi non esistono.
+COYOTE: Idiota fanatico delle cospirazioni.
+
+AINSLEY: Oh, davvero molto gentile, Oakewood!
+AINSLEY: Parli così solo perchè non hai visto quello che io ho visto!
+
+OAKEWOOD: Hai ragione! non ho visto nulla!
+OAKEWOOD: Accidenti, se avessi visto qualcosa...
+
+OAKEWOOD: <em>COMUNQUE NON LO CHIAMEREI FANTASMA PERCHÈ NON ESISTONO!</em>
+AINSLEY: O forse sei solo uno stupido dalla mentalità chiusa.

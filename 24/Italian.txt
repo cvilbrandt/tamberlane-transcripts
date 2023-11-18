@@ -1,0 +1,10 @@
+BELFRY: Sei tutta malconcia...
+BELFRY: E sporca.
+BELFRY: E magra.
+
+BELFRY: Dove sono i tuoi genitori?
+
+BELFRY: Ce li <em>hai</em> i genitori?
+BELFRY: Sono da qualche parte qua vicino?
+
+BELFRY: Se hai dei genitori, sono davvero pessimi, non è vero?

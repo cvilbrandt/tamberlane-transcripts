@@ -1,0 +1,13 @@
+AINSLEY: E va bene, Oakewood!
+AINSLEY: Se vai a controllare, scommetto cinque mesi di raccolta che non hai mai visto niente del genere prima d'ora.
+
+OAKEWOOD: Scordatelo. Tu sei delirante ed io ho la mia vita.
+
+OAKEWOOD: Che include una piacevole serata in casa lontano da fastidiosi matti come te.
+
+OAKEWOOD: Ed a proposito, è tempo che te ne vada.
+
+AINSLEY: Mi getteresti in mezzo ai lupi?
+OAKEWOOD: Alcuni dei miei migliori amici sono lupi. <em>Fuori.</em>
+
+[SFX: SLAM]
