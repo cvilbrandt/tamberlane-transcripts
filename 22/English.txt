@@ -11,6 +11,7 @@ BELFRY: Um...
 
 [SFX: SLIDE]
 
-GHOST: Peez? Peez?
+GHOST: Peez? 
+GHOST: Peez?
 
 BELFRY: You want... peas?

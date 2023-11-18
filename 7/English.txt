@@ -1,7 +1,8 @@
-AINSLEY: GHOST! In the woods!
+AINSLEY: ***GHOST!***
+AINSLEY: In the ***woods!***
 
-OFFSCREEN: *Barely escaped with my life!!*
 ANTHONY: *Piper!*
+ANTHONY: ***Barely escaped with my life!!***
 
 AINSLEY: Just the most *dreadful wailing...*
 PIPER: What kind of ghost?
@@ -14,9 +15,10 @@ ANTHONY: Piper!
 PIPER: You should know, I *am* a professional ghost-catcher.
 
 ANTHONY: Piper-
-PIPER: ANTHONY, *WHAT!*
+PIPER: ANTHONY, ***WHAT!***
 
-ANTHONY: Quit it! Can't you see they've already gone through a lot!
+ANTHONY: Quit it!
+ANTHONY: Can't you see they've already gone through a lot?
 
 TESS: Why don't you ask Walter to bring Ainsley a cuppa?
 PIPER: My talents are wasted.

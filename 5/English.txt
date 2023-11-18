@@ -1,4 +1,6 @@
-DEER: Now, Belfry.... Don't forget to use the *oven mitts!*
+DEER: Now, Belfry.... 
+DEER: Don't forget to use the 
+DEER: *oven mitts!*
 
 [SFX: paff]
 

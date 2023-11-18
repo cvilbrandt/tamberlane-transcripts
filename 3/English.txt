@@ -8,6 +8,7 @@ DEER: *Chanterelles.*
 
 BAT: All right, then! Chanterelles, coming right up!
 
-BAT: While you work on Mum's omelet, I'll get Miss Cori's morning pie ready!
+BAT: While you work on Mum's omelet,
+BAT: I'll get Miss Cori's morning pie ready!
 
-OFFSCREEN: *ARGH!!*
+OFFSCREEN: ***ARGH!!***

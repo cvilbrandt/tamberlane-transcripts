@@ -13,5 +13,5 @@ OUTSIDE: We need help!
 
 [SFX: SLAM]
 
-AINSLEY: HIDE ME!
+AINSLEY: **HIDE ME!**
 COYOTE: The library is *closed!*

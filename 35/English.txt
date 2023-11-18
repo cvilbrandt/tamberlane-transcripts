@@ -5,10 +5,12 @@ TAMBERLANE: Awoo?
 
 TAMBERLANE: wah
 
-PIPER: That's the ghost, alright! I pushed it down there!
+PIPER: That's the ghost, alright!
+PIPER: I pushed it down there!
 
 OAKEWOOD: errgh
 
-PIPER: What's wrong? Do you got a headache, Library Grampa?
-OAKEWOOD: Ainsley won a bet.
-OAKEWOOD: I hate when Ainsley wins a bet.
+PIPER: What's wrong?
+PIPER: Do you got a headache, Library Grampa?
+OAKEWOOD: Ainsley won the bet.
+OAKEWOOD: I *hate* playing chess before the sun's up.
