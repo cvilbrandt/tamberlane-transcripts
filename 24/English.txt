@@ -4,7 +4,8 @@ BELFRY: And thin.
 
 BELFRY: Where are your parents?
 
-BELFRY: Do you even have parents?
+BELFRY: Do you even *have* parents?
 BELFRY: Are they somewhere around here?
 
-BELFRY: If you do have parents, they're very bad ones, aren't they.
+BELFRY: Surely they wouldn't have wandered too far from their kit...
+BELFRY: But if they *abandoned* you, they don't deserve to have you.
