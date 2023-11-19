@@ -1,17 +1,18 @@
-OAKEWOOD: Let me guess. It's messed up.
+OAKEWOOD: Let me guess: it's a mess.
 
 BELFRY: um...
-OAKEWOOD: <em>Mrrgh.</em>
+OAKEWOOD: *Mrrgh.*
 
 OAKEWOOD: It needed to be reorganized anyway.
 BELFRY: Sorry.
 
-OAKEWOOD: Well, you brought the supplies. Now change its nappy.
+OAKEWOOD: Well, you brought the supplies.
+OAKEWOOD: Now change its nappy.
 BELFRY: But I don't know how!
 
 OAKEWOOD: You take off the dirty one and put on a clean one.
-OAKEWOOD: It's not <em>that</em> hard.
+OAKEWOOD: It's not *that* hard.
 
 [SFX: unfold?]
 
-[SFX: UrP]
+[SFX: urp]

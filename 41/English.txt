@@ -1,7 +1,9 @@
+[SFX: ffffssshhh]
+
 BELFRY: You're not a mistake.
 
 BELFRY: No...
 
 BELFRY: You're my Tamberlane.
 
-BELFRY: I'll never abandon you.
+BELFRY: And I'll never abandon you.
