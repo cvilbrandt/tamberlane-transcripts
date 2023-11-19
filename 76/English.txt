@@ -13,9 +13,12 @@ PENNY: You sure are quiet!
 TAMBERLANE: awwaaAAAAAAA
 MARIE: No, wait! Don't hit yourself again!!
 
-PARSLEY: She's not hitting herself, Marie! She's calling herself stupid.
-MARIE: <em>THAT'S NOT ANY BETTER, PARSLEY</em>
+PARSLEY: She's not hitting herself, Marie!
+PARSLEY: She's calling herself stupid.
+MARIE: ***THAT'S NOT ANY BETTER, PARSLEY***
+TAMBERLANE: no no gab paw peez
 
 PARSLEY: No, of course, you're quite right.
 
-PARSLEY: Well, me Trissol's a bit rusty, but... Let's give 'er a go, shall we, Tam?
+PARSLEY: Well, me Trissol's a bit rusty, but...
+PARSLEY: Let's give 'er a go, shall we, Tam?

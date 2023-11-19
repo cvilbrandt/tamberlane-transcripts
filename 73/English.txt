@@ -1,12 +1,14 @@
-MARIE: Don't be scared! We're almost there!
+MARIE: Don't be scared!
+MARIE: We're almost there!
 
-MARIE: Yeah, there he is! And Fallon is with him!
+MARIE: Yeah, there he is!
+MARIE: And Voltair is with him!
 
 PARSLEY: Hmmm...
 
-PARSLEY: This is a pretty nice old thing, Fall, but I don't know.
+PARSLEY: This is a pretty nice old thing, Volt, but I dunno...
 
-FALLON: I've taken real good care of it!
+VOLTAIR: I've taken real good care of it!
 PARSLEY: That's true.
 
 MARIE: Hi guys!

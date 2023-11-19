@@ -1,15 +1,20 @@
-NORA: You can do this. I <em>know</em> you can.
+NORA: You can do this. I *know* you can.
 
-NORA: I know you think this is a Belfry problem, but this is normal. If you haven't noticed, Penny is missing too.
+NORA: I know you think this is a Belfry problem, but this is normal.
+NORA: If you haven't noticed, Penny is missing, too.
 
-NORA: Just this morning, she was trying to get my attention. But I was worried about you and not in the mood.
-PENNY: <em>mum mum mum mummy mum mum mum mummy</em>
+NORA: Just this morning, she was trying to get my attention.
+NORA: But I was worried about you and not in the mood.
+PENNY: *mum mum mum mummy mum mum mum mummy*
 
 NORA: So I snapped at her.
-NORA: PENNY! Quit it! Mummy is doing important things!
+NORA: ***PENNY!*** Quit it! Mummy's busy right now!
 
-NORA: The look on her face... It's enough to make me wonder if I'm a bad parent.
+NORA: The look on her face...
+NORA: It's enough to make me wonder if I'm a bad parent.
 
-NORA: I mean, I'm not, probably, but she only wanted my attention for a moment. Did I have to shout at her?
+NORA: And I *know* I shouldn't think things like that...
+NORA: But she only wanted my attention for a *moment.*
+NORA: Did I *have* to shout at her?
 
-NORA: There's no rulebook for any of us, Bel.
+NORA: There's no rulebook for *any* of us, Bel.

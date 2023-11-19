@@ -1,12 +1,16 @@
 VOICE: My goodness.
 
-VOICE: You're sprouting like a weed, snapdragon.
+VOICE: You're sprouting like a weed, Little Snapdragon.
 
-OAKEWOOD: Sixteen centimeters is a lot of growth for a single season.
+OAKEWOOD: Sixteen centimeters in only a season.
+OAKEWOOD: Incredible growth.
 
-BELFRY: Well, maybe she's just ambitious!
+OAKEWOOD: But considering she came to us so neglected, perhaps that makes sense.
 
-TAMBERLANE: Hungry!
+BELFRY: She's *so* good at catching up!
+[SFX: eeee!]
+
+TAMBERLANE: Fuffy, hungry!
 BELFRY: Again??
 
 OAKEWOOD: That reminds me.  I have a new thing to test.

@@ -1,9 +1,10 @@
-OAKEWOOD: ... I take it you're going to keep the tyke.
+OAKEWOOD: ...I take it you're going to keep the tyke.
 BELFRY: Yes.
 
-OFFSCREEN: Thank goodness.  All that 'will they, won't they' was getting tedious.
+OAKEWOOD: Thank goodness. All that 'will they, won't they' was getting tedious.
 
-OFFSCREEN: And of course you'd end up keeping her. You're the biggest bleeding heart in Treehollow. Just had to get past the bloody whinging.
+OAKEWOOD: *Obviously* you were always going to keep her. You're a matched pair, the two of you.
+OAKEWOOD: Just had to get past all the bloody whinging.
 
 BELFRY: Thanks, Oakewood.
 OAKEWOOD: Bah. I need tea.

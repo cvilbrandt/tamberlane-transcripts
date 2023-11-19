@@ -1,8 +1,10 @@
-TAMBERLANE: <em>FUFFY!</em>
+TAMBERLANE: *FUFFY!*
 BELFRY: Wait, come back!
 
-BELFRY: Stop moving! I'm coming!
+BELFRY: Stop moving!
+BELFRY: I'm coming!
 
-BELFRY: I've gotcha. I've gotcha.
+BELFRY: I've gotcha.
+BELFRY: I've gotcha.
 
 HENRY: Looks like your accident paid off this time!

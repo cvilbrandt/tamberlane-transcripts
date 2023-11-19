@@ -1,6 +1,7 @@
-PARSLEY: Aye, y' peacock poppinjay! Have at ye!
+PARSLEY: Avast, y'walker!
+PARSLEY: Have at ye!
 
-PENNY: Avast, y'walker! I'm a pirate!!
+PENNY: Rarrr, matey! A pirate I be!
 
 PARSLEY: Scurrilous child!
 PENNY: Heehee!
@@ -8,7 +9,7 @@ PENNY: Heehee!
 PARSLEY: You can't run away on a ship!
 PENNY: Try me!
 
-MARIE: Come on, Tam, let's batten the hatches!
+MARIE: Come on, Tam, let's flatten the hatches!
 TAMBERLANE: Weh?
 
 MARIE: I think that means open the windows!
