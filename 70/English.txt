@@ -1,7 +1,7 @@
 MARIE: Aw, don't feel sad!
 
-MARIE: I probably just don't know what kind of animal you are.
+MARIE: I probably just don't know your species!
 MARIE: I'm not a grown-up, after all!
 
 MARIE: But Parsley might know!
-MARIE: He spends his time behind the Jackal.
+MARIE: He's quite clever, and he *so* loves helping creatures!

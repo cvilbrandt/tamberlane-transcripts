@@ -1,9 +1,10 @@
 HENRY: Girls, I'm here!
 
 FOX: Oh, Henry! I missed you, Big Blue!
-FOX: Did you get the items?
+FOX: Did you find everything?
 
-HENRY: Yes, my strawberry, I diiIIIID-!
+HENRY: Yes, my strawberry,
+HENRY: I diiIIIID-!
 
 [SFX: CRASH!!!]
 [SFX: ha ha!]
@@ -12,10 +13,11 @@ OFFSCREEN: Henry, are you okay??
 OFFSCREEN: Henry!!
 OFFSCREEN: That looks like it hurt!
 OFFSCREEN: Oh, gosh, it's everywhere!
-OFFSCREEN: Oh, no! Are you okay??
+OFFSCREEN: Oh, no! You poor thing!
 PENNY: Come on!
 
 HENRY: I'm okay, I'm okay.
 HENRY: Only thing bruised is my ego.
 
-BELFRY: Geez, Hen. That was quite a fall. Seems you've spent too much time around me.
+BELFRY: Geez, Hen. That was quite a fall.
+BELFRY: Seems you've spent too much time around me.

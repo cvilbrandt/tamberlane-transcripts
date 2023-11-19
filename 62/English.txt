@@ -1,14 +1,14 @@
-PIPER: Now, learning to walk is all about <em>motivation.</em>
+PIPER: Now, learning to walk is all about *motivation.*
 
 PIPER: I see you're still scared of me.
 
 PIPER: Look, I've got no reason to hurt you. You're safe.
 
-PIPER: I can't help you if you don't trust me.
+PIPER: How can I help you if you don't trust me?
 
-PIPER: <em>PSYCH!</em>
-TAMBERLANE: <em>WAAAGH!!!</em>
+PIPER: ***PSYCH!***
+TAMBERLANE: ***WAAAGH!!!***
 
 PENNY: Piper!!
-PIPER: Well, it worked, didn't it?
-TAMBERLANE: <em>AAAAAA!!!</em>
+PIPER: Well, it *worked,* didn't it?
+TAMBERLANE: ***AAAAAA!!!***

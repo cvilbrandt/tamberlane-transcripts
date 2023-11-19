@@ -1,21 +1,22 @@
-PENNY: Yes! It worked! We made it out!
-TAMBERLANE: Blue!
+PENNY: Our trap worked! They'll never catch us now!
+TAMBERLANE: Bwoo!
 
 PENNY: Oh, are you worried about my Papa?
 TAMBERLANE: Owie!
 
-PENNY: Don't worry about him. He's a sturdy bloke. He'll survive.
+PENNY: Don't worry about him.
+PENNY: He's a sturdy bloke. He'll survive.
 
-PENNY: Now, before we get caught, let's run!
+PENNY: Now let's run, before we get caught!
 
 PENNY: I said, let's run!
 TAMBERLANE: Okie!
 
-PENNY: Ugh! I'm starting to think you don't even know how to <em>walk</em>, much less <em>run!</em>
+PENNY: Ugh! I'm starting to think you don't even know how to *walk,* much less *run!*
 TAMBERLANE: Ugh!
 
 PENNY: Guuhh... Fine, it's okay.
 PENNY: We'll just teach you how to walk, too.
 
 PENNY: Just hurry! I don't wanna get caught! 
-PENNY: Gosh, I can't believe you're three.
+PENNY: Cor blimey, I can't believe you're three.

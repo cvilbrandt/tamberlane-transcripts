@@ -2,15 +2,15 @@ PANDADOG: Is someone looking for you?
 
 PANDADOG: Oh, darling, you're shivering!
 
-PANDADOG: Marie, would you please lend them your dress?
-MARIE: Of course, Mum!
+SKUNK: Mum, they can wear my dress, if it'll help!
+PANDADOG: That would be lovely, Marie! Thank you!
 
-PANDADOG: Now, who shall I return you too?
+PANDADOG: Now, whom shall I return you too?
 
 TAMBERLANE: ...ummm...
 
 TAMBERLANE: Pawsley!
 
-MARIE: Oh! Parsley? He spends a lot of time down by the river!
+MARIE: Oh! Parsley? He spends a lot of time behind the Wealthy Jackal!
 
-MARIE: If you want, I can take them!
+MARIE: I can take you, if you want!
