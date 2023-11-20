@@ -4,7 +4,7 @@ TAMBERLANE: ah!
 BRIAR: Hey, Bel.
 TAMBERLANE: Peas!
 
-BELFRY: What brings you here? Would you like some tea?
+BELFRY: What brings you here? Would you like a spot of tea?
 BELFRY: Oh! Or we have some meat, even!
 BRIAR: No... no thanks.
 TAMBERLANE: Want peas!

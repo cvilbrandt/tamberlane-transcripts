@@ -1,22 +1,23 @@
 OFFSCREEN: Is that venison?
-OFFSCREEN: Yes, I ordered a little bit extra from the butcher.
+OFFSCREEN: Yes, freshly cut from the butcher.
 TAMBERLANE: ...bleh...
 OFFSCREEN: You think she might be a carnivore?
 OFFSCREEN: Well, at least an omnivore.
-OFFSCREEN: She has the teeth for it.
+OFFSCREEN: She has the dentition for it.
 
 [SFX: PTEUGH]
 
-TAMBERLANE: Peas!
-OFFSCREEN: Okay, okay! You'll get you peas, sweetie.
+TAMBERLANE: *Peas!*
+OFFSCREEN: Okay, okay! You'll get your peas, sweetie.
 
 BELFRY: Just do me a little favor, okay?
-TAMBERLANE: Peas, <i>please</i>,
+TAMBERLANE: Peas, *please.*
 BELFRY: Very good! But will you please try one more bite for me?
 
 TAMBERLANE: Mllleeehh...
 
-TAMBERLANE: <em>YUCK!</em> No!! Don't <em>LIKE!</em>
+TAMBERLANE: *YUCK!* No!! Don't *LIKE!*
 BELFRY: That's okay! You did a great job!
-BELFRY: How about some peas?
-OAKEWOOD: Preliminary findings: neither insectivore nor carnivore.
+BELFRY: You've *earned* those peas.
+OAKEWOOD: Preliminary findings: did *not* enjoy raw venison.
+OAKEWOOD: Perhaps other types of meat or preparation would appeal to her.

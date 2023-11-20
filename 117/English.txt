@@ -1,9 +1,9 @@
 AVERY: Unfortunately, I'm going to be too busy with last-minute booth preparations tomorrow to take Piper and Anthony to meet him at the docks.
 
-AVERY: I don't suppose <i>you'd</i> be able to take them, would you?
+AVERY: I don't suppose *you'd* be able to take them, would you?
 
-BELFRY: <i>Ugn.</i>
-BELFRY: I would love to, but I have to help my <i>Mum</i> tomorrow morning.
+BELFRY: *Ugh.*
+BELFRY: I would love to, but *apparently* my *mum* can't run a booth without me.
 
 BELFRY: But...
 
