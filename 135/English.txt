@@ -1,15 +1,15 @@
 OAKEWOOD: Who died?
 
-TAMBERLANE: Unca, Fuffy Nanna yelling cuz my fault stopping peez!
+TAMBERLANE: Unca, fuffy Nanna yelling cuz my fault stopping peez!
 
-OAKEWOOD: <em>OH, YOU TWO NINNES!</em>
+OAKEWOOD: ***OY, YOU TWO NINNES!***
 OAKEWOOD: Leave the tyke out of your fighting!
-OAKEWOOD: You <i>both</i> know better than that!
+OAKEWOOD: You *both* know better than that!
 
 BELFRY: Ah...
 BELFRY: I'm sorry, Tam. Mummy shouldn't have yelled.
 
 TESS: I'm... sorry, too, little one.
-TESS: My temper ran away with me.
+TESS: My temper got away from me.
 
 TAMBERLANE: It okay.

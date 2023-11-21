@@ -1,13 +1,13 @@
-OAKEWOOD: Well, now that rubbish is taken care of, I'd like to take the niblet off your hands for the day.
+OAKEWOOD: Well, now that *that* rubbish is taken care of, I'd like to take the niblet off your hands for the day.
 MILO: ...recovers...quickly...from...emotional...turmoil.
 
-BELFRY: Oh, Oakewood, that would be wonderful
+BELFRY: Oh, Oakewood, that would be wonderful-
 TESS: Why?
 
-OAKEWOOD: So you don't believe I'd do it to help you out?
-TESS: No.
+OAKEWOOD: So you don't believe I'd do it out of the goodness of my heart?
+TESS: You? No.
 OAKEWOOD: Fair enough.
 
 OAKEWOOD: We're going to take her around the festival and observe her.
 
-TESS: We? Who's this bloke?
+TESS: *We?* Who's this bloke?

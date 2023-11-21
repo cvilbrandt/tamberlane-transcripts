@@ -2,16 +2,17 @@ MILO: You wanted me to look at something?
 
 OAKEWOOD: This is Tamberlane. Belfry Baker found her in the forest and adopted her.
 OAKEWOOD: But we haven't the faintest clue what she is.
+OAKEWOOD: We were wondering if you might have seen anything like her in your studies.
 
 MILO: How fascinating! May I examine you?
 
 TAMBERLANE: OkAGH!
 MILO: Omnivorous dentition...
 
-MILO: Front-facing visual range... Likely a predator...
+MILO: Unusual fur pattern... And she's unlike anything I've read about.
 MILO: She's perfect!
 
-OAKEWOOD: Now hold up a tick!
-OAKEWOOD: What do you mean, <i>"perfect"</i>?
+OAKEWOOD: Now hold on a tick!
+OAKEWOOD: What do you mean, "*perfect*"?
 
-MILO: For my <i>research project!<i>
+MILO: For my *research project!*

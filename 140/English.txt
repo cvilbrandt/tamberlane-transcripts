@@ -4,17 +4,17 @@ OAKEWOOD: She hasn't met any strangers.
 MILO: You mean she knows everyone?
 OAKEWOOD: I mean she has never treated any creature as anything other than family.
 
-CROW: Damn wheels.
+CROW: Damn wheels...
 TAMBERLANE: Hi! I help!
 
 TAMBERLANE: I help you!
-CROW: <em>WHAT IN GREAT GAIA'S NAME!</em>
+CROW: ***WHAT IN GREAT GAIA'S NAME!***
 
 CROW: GET AWAY FROM ME!
 TAMBERLANE: But I help!
 
 CROW: If you touch me, I will break every bone in your ugly paw!
 
-OAKEWOOD: <em>OI!</em> How DARE you speak to my granddaughter like that?!
+OAKEWOOD: *OI!* How DARE you speak to my granddaughter like that?!
 OAKEWOOD: You have a lot of nerve!
 TAMBERLANE: I'm sorry!
