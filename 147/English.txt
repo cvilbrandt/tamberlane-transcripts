@@ -1,11 +1,13 @@
 PEGASUS: Okay, careful, Twitchel, back up, back up...
 
-TAMBERLANE: <em>PIPER, NO!!!</em>
+TAMBERLANE: ***PIPER, NO!!!***
 
-PEGASUS: <em>OH SUGARSNAP!!</em>
-PIPER: <em>I'm sorry I'm sorry I'm sorry!!</em>
+PEGASUS: ***OH SUGARSNAP!!***
+PIPER: *I'm sorry I'm sorry I'm sorry!!*
 
-SFX: clink clink clink clink clink clink clink
+[SFX: clink clink clink clink clink clink clink]
 
+[SFX: CRASH!!]
 TWITCHEL: Tamberlane!!
 RHODE: Where'd you come from, lass??
+Tamberlane: Help!

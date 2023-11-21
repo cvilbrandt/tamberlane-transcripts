@@ -1,7 +1,8 @@
-RHODE: I'm taking your splinters out, okay? This might pinch a little.
+RHODE: I'm taking your splinters out, okay?
+RHODE: This might pinch a little.
 TAMBERLANE: Owww!
 
-MILO: Aw, She'll be fine Uncle Claude!
+MILO: Aw, She'll be fine, Uncle Claude!
 
 OAKEWOOD: I need a drink.
 
@@ -10,4 +11,3 @@ TAMBERLANE: Thanks, Miss Rhode.
 
 TAMBERLANE: All better now, Unca!
 OAKEWOOD: I'm glad.
-

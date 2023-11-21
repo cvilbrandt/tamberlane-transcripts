@@ -1,10 +1,10 @@
-OAKEWOOD: Snapdragon, are you quite alright?
+OAKEWOOD: Tamberlane, are you quite alright?
 
 TAMBERLANE: He didn't want help.
 
 OAKEWOOD: No, he did not. Some creatures don't.
 TAMBERLANE: But I help.
-OAKEWOOD: No, you're a kit. You just be.
+OAKEWOOD: No, you're a kit. You just *be.*
 
 OAKEWOOD: But aside from helping, are you alright?
 

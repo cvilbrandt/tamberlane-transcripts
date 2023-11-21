@@ -1,15 +1,16 @@
-OAKEWOOD: <em>TAMBERLANE!!</em>
+OAKEWOOD: ***TAMBERLANE!!***
 
 TAMBERLANE: It okay, Unca!
 RHODE: She's alright!
 
 OAKEWOOD: This cub is going to bring me to an early grave.
-SFX: WHEEZE
+[SFX: WHEEZE]
 
-OAKEWOOD: What did I <em>just</em> tell you about helping? 
+OAKEWOOD: What did I *just* tell you about helping? 
 TAMBERLANE: But it fall!
 OAKEWOOD: No buts...!
 
-OAKEWOOD: That's it. Experiment's over for today.
+OAKEWOOD: That's it.
+OAKEWOOD: Experiment's over for today.
 TAMBERLANE: But I'm okay!
 TWITCHEL: Mister Oakewood, let us patch her up before you go!
