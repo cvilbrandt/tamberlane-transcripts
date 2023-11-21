@@ -1,16 +1,22 @@
 OAKEWOOD: So.
 TAGG: So.
 
-TAGG: Here's the deal. We en't seen anything like her before.
+TAGG: Here's the deal.
+TAGG: We en't seen anything like her before.
 
-OAKEWOOD: You <em>WHAT?!</em> I just put your drinks on my tab!
+OAKEWOOD: You *WHAT?!*
+OAKEWOOD: I just put your drinks on my docket!
 
-TAGG: Don't get your ruff in a huff. I think I know where she comes from.
+TAGG: Don't get your ruff in a huff.
+TAGG: I think I know where she comes from.
 
 OAKEWOOD: Well?
 TAGG: I don't think you'll quite like my theory.
-OAKEWOOD: <em> Out with it </em> Follybrook!
+OAKEWOOD: *Out with it,* Follybrook!
 
 TAGG: It's your funeral.
 
-TAGG: Listen. Your cub is malformed. She doesn't come from Follybrook or it's outlying areas. That leaves only one place she could be from. Your cub is from Abroad.
+TAGG: Listen. The kid's an odd bod.
+TAGG: She doesn't come from Follybrook or it's outlying areas.
+TAGG: That leaves only one place she could be from.
+TAGG: Your cub is from Abroad.

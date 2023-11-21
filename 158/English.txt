@@ -1,17 +1,18 @@
-MILO: You know, she reminds me of the kits with Williams Syndrome, but she lacks the physical markers, you know what I mean?
-OAKEWOOD: That's a good p...Where's Tamberlane?
-SFX: GONE
+MILO: You know, I'd say she has Williams Syndrome, if she had more physical indicators. Overly friendly, highly empathetic...
+OAKEWOOD: That's a good p... where's Tamberlane?
+[SFX: GONE]
 
-OAKEWOOD: TAMBERLANE! STAY AWAY FROM THEM!
+OAKEWOOD: ***TAMBERLANE!***
+OAKEWOOD: ***STAY AWAY FROM THEM!***
 
 TAGG: Hello, Claude.
-OAKEWOOD: Hello..Tagg...and Danger...
-SFX: Pant Pant
+OAKEWOOD: Hello.. Tagg... and Danger...
+[SFX: Pant Pant]
 TAGG: We didn't touch her.
-OAKEWOOD: That's...good.
+OAKEWOOD: That's ... good.
 TAMBERLANE: Unca!
 
-OAKEWOOD: If you're...looking for...Councilman Timmothy, the last time I saw him...he was in the...Trade Alley.
-SFX: Pant Pant 
+OAKEWOOD: If you're... looking for... Councilman Timmothy, the last... time I saw him... he was in the... Trade Alley.
+[SFX: Pant]
 
-TAGG: Brilliant. As soon as we can track 'im down we can make our trade and get out of this backwards hellhole.
+TAGG: Brilliant. We'll track 'im down, make this trade, and get out of this backwards hellhole.

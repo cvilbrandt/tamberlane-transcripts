@@ -1,8 +1,10 @@
-OAKEWOOD: I just don't think it has any bearing whatsoever. You've got a hammer, and all you see are nails. There is a whole wide world outside our islands. There's simply no need to believe she's from Abroad.
+OAKEWOOD: Tamberlane was found *here,* in *our* Rattleglen Forest. I think you've got a hammer, and all you see are nails.
+OAKEWOOD: There is a whole wide world outside of our islands. There's simply no reason to believe she's from Abroad.
 
-TAGG: And I'm sayin' there is! But you don't wanna hear me? Fine by me. We're leaving. 
+TAGG: I think she's a *plant.*
+TAGG: But you want to stay blind? Fine by me. We're leaving.
 
-OAKEWOOD: Thanks for the dangerous fear-mongering!
-TAGG: Oh Sod off, you nob!
-OAKEWOOD: Don't mind if I do! And get that metal out of your face you disrespecting nitwit!
+OAKEWOOD: Keep your fear-mongering to yourself!
+TAGG: Oh sod off, you knob!
+OAKEWOOD: Watch me! And get that metal out of your face, you profligate nitwit!
 TAGG: I'll do what I want!!

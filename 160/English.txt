@@ -1,8 +1,7 @@
-TAGG: Egh,<em>fine</em>. We still have to trade off all our metals, So...meet my brother and I at the Jackal in one hour.
+TAGG: Egh, *fine.*
+TAGG: We still have to trade off our metals, so... Meet my brother and I at the Jackal in one hour.
 
-TAGG: <em>Don't</em> be late
+TAGG: *Don't* be late.
 DANGER: You're buying the drinks!
-
-And so...
 
 DANGER: Barkeep! Over here!

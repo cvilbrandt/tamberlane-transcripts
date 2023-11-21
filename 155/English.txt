@@ -1,19 +1,17 @@
-MILO: Uncle, I notice she's rather tall for a three year old.
-OAKEWOOD:Indeed. It's unlikely that she's in the rodentia height class.
+MILO: Uncle, given her size, do you suppose she's in the ursine height class?
+OAKEWOOD: Milo. She barely comes up to my waist. An ursine cub her age would be nearly twice as tall.
 
-MILO: Perhaps the ursine class?
-SFX: Mutter Mutter Mutter
+MILO: Perhaps the canid class, then?
+[SFX: Mutter Mutter Mutter]
 
-CROWD: I need to go...wash my fur...
+CROWD: i... i think i left my kettle on...
 CROWD: Look at the time!
 CROWD: Let's go over there!
-CROWD: I have somewhere to be!
+CROWD: I... have somewhere to be!
 CROWD: Don't look!
 
-CROWD: Do you think they noticed?
-CROWD: Hey let's check out the area.
+CROWD: Do you think they notice?
+CROWD: eww
+CROWD: Hey, let's check out that area.
 CROWD: Don't touch the....
-CROWD: Get out...
-
-
-
+CROWD: Get out!

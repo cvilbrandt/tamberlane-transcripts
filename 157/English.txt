@@ -1,14 +1,14 @@
-TAMBERLANE: I like your shinies!
+TAMBERLANE: I like your shiny!
 
-TAGG: STOP!!! Don't touch me!
+TAGG: ***STOP!!! DON'T TOUCH ME!***
 
-TAMBERLANE: Oh... I'm sorry...
+TAMBERLANE: Oh... I sorry...
 
-TAMBERLANE: Why are your tails so different?
+TAMBERLANE: Why you tails so differen'?
 
-TAGG: It's called "docking." I cut my tail off.
+TAGG: It's called "docking."
+TAGG: I cut my tail off.
 
-TAMBERLANE: WHAT?! WHY??
+TAMBERLANE: ***WHAT?! WHY??***
 
-TAGG: Because only I have a say in what happens to my body.
-
+TAGG: Because only *I* have a say in what happens to my body.
