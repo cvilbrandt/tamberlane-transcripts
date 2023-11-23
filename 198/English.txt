@@ -4,6 +4,7 @@ BELFRY: Tamberlane, no! No, no! You're not stupid and it's not your fault!
 
 BELFRY: Oh!! I forgot not to grab your paws! I'm sorry!
 
-BELFRY: Oh, muppet, it's okay. It's okay, I'm here. I'm so sorry.
+BELFRY: Oh, moppet, it's okay. It's okay, I'm here.
+BELFRY: I'm so sorry.
 
 TAMBERLANE: AAAWWmmmuuuuhhmm

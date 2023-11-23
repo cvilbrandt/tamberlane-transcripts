@@ -1,10 +1,11 @@
-PARSLEY: Oi, what's happened with you, Marie, luv?
+PARSLEY: Marie, are you crying?? What's happened, luv?
+PARKER: Hi Penny!
 
-MARIE: <em>PARSLEY!!</em>
+MARIE: *Parsley!!*
 
-MARIE: Parsley, Mr Jentzen <em>quit!!!</em>
-PARSLEY: He <em>what??</em>
+MARIE: Parsley, Mister Jentzen *quit!!*
+PARSLEY: He *what??*
 
-CUR: Ey, he didn' <em>quit! </em>He were <em>fired!</em>
+CUR: Ey, he didn' *quit!* He were *fired!*
 
-PARSLEY: And it's all <em>this mudsucker's fault!</em>
+PARSLEY: And it's all *this mudsucker's fault!*
