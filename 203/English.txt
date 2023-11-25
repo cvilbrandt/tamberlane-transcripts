@@ -2,8 +2,7 @@ BELFRY: Hey, Tamberlane...
 
 BELFRY: How would you feel if I came along on your school trip?
 
-TAMBERLANE: Yes, please! It would be <em>GREAT!</em>
-BELFRY: Then I'll ask Miss Callie to be a chaperone. 
+TAMBERLANE: Yes, please! It would be *GREAT!*
+BELFRY: Then I'll ask Miss Callie if I can be a chaperone!
 
-TAMBERLANE: And I'll keep that little jerk away from my poor baby...
-
+BELFRY (thinking): And I'll keep that little jerk away from my poor baby...

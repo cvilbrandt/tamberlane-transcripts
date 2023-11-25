@@ -1,8 +1,9 @@
-BELFRY: Tamberlane is awfully quiet right now... she must still be upset.
+BELFRY (thinking): Tamberlane is awfully quiet right now...
+BELFRY (thinking): She must still be upset.
 
-BELFRY: Yup, still upset. Quick, Belfry, think of something!
+BELFRY (thinking): Yup, still upset! Quick, Belfry, think of something!
 
-BELFRY: Gotta cheer her up, come on, think!
+BELFRY (thinking): Gotta cheer her up, come on, think!
 
 BELFRY: BOOKS!
 

@@ -1,11 +1,12 @@
-TAMBERLANE: What <em>is</em> it like?
-BELFRY: Well, I don't know <em>personally...</em>
+TAMBERLANE: What is it *like?*
+BELFRY: Well, I don't know *personally...*
 
-BELFRY: It's...It's like...
+BELFRY: It's... It's like...
 
-BELFRY: You see, every society needs...<em>certain things...</em>to... to thrive!
+BELFRY: You see, every society needs... *certain things*... to... to thrive!
 
 BELFRY: And sometimes, those things are...
+[SFX: ???]
 BELFRY: They're... How... How do I put this...
 
 TAMBERLANE: Maybe I go ask Unca?

@@ -1,22 +1,14 @@
-PEEK: Well, let's see what we have here...
+PEEK: Let's see what we have here...
 
-PEEK: Ah, <strong>I'll Love You Forever</strong></em>... and the old standby, <strong>Ivan Saves the Town?</strong><em>
-PEEK: This one's popular lately..
+PEEK: Ah, "I'll Love You Forever"...
+PEEK: and the updated edition of "Inquisitive Ivan"?
 
 PEEK: Did you pick these out yourself, Tamberlane?
-TAMBERLANE: No, Mister Scott helped!
+TAMBERLANE: No, Miss Scott helped!
 
-PEEK: Well, I hope you enjoy them!
-PEEK: And I hope they answer some of your questions.
+PEEK: Miss Scott, huh? Well, I hope you enjoy them!
+PEEK: Make sure you read them with your mum!
 
 BELFRY: What would you like for these books, Peek?
-PEEK: Well.. I still owe you for Erin's birthday cake, but...
-
-
-
-
-
-
-
-
-
+PEEK: Well...
+PEEK: I still owe you for Erin's birthday cake, but...

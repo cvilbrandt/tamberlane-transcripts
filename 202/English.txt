@@ -1,13 +1,16 @@
-AVERY: Aw, he'll come around little bug.
+AVERY: Aw, he'll come around, little bug.
 
-AVERY: But seriously, that cub is a <em>menace</em>.
+AVERY: But seriously, that cub is a *menace.*
 BELFRY: Yeah...
 
-BELFRY: But he doesn't have a family, so we should be understanding.
+BELFRY: But he's a foster kit, so we should be understanding.
 
-AVERY: He makes <em>understanding </em>really hard. he's a terror to everyone who tries to take him in.
+AVERY: Well, he makes *understanding* really bloody hard!
+AVERY: He's a terror to everyone who tries to take him in.
+AVERY: And poor Coriander is his latest victim. Have you *seen* her lately?
+AVERY: She's been put through the ringer!
+
 BELFRY: He's been through a lot...
+BELFRY: But... I guess that doesn't excuse his behavior.
 
-BELFRY: But...I guess that doesn't excuse his behavior.
-
-BELFRY: <em>Especially</em> if he's bullying my kit.
+BELFRY: *Especially* if he's bullying my kit.

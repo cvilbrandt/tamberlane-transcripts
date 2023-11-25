@@ -1,17 +1,18 @@
-BELFRY: WHAT?!
+BELFRY: ***WHAT?!***
 
-BELFRY: <em>Of course not!! Absolutely not!!!</em>
+BELFRY: *Of course not!!*
+BELFRY: *Absolutely not!!!*
 
 TAMBERLANE: But everyone says...
-BELFRY: EVERYONE'S <em>WRONG!</em>
+BELFRY: EVERYONE'S *WRONG!*
 
-SFX: Siiiiigh
+[SFX: Siiiiigh]
 BELFRY: Sorry, sorry. I mean...
 
 BELFRY: Abroad is...
 
-BELFRY: No, I mean, <em>That Place</em> is...
+BELFRY: No, I mean, *That Place* makes you...
 
-BELFRY: It's like... Like...
+BELFRY: You know... you're so... *good,* and...
 
-BELFRY: It's not like that. 
+BELFRY: I'm not explaining this well.
