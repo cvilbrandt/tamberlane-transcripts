@@ -1,12 +1,11 @@
-BELFRY: <em>WHAT DID YOU DO TO MY KIT?!</em>
-KIRA: N-nuffin'! <em>I s-swear!</em>
+BELFRY: Wha...?
+OFFSCREEN: Belfry, you *have* to get up!
 
-BELFRY: <em>LIAR!</em>
-BELFRY: <em><strong>RUFFIAN!!</em></strong>
+OFFSCREEN: *Come on!*
+OFFSCREEN: *Something's happened to Tamberlane!*
 
-JASON: Belfry, what is <em>wrong</em> with you?!
-JASON: We have <em>enough</em> kits in mortal peril!
+JASON: I guess there was a fight
+JASON: and **Tamberlane** and **Jonas** fell into the river
 
-JASON: Kira's going to lead us to Tamberlane.
-JASON: Pout at me all you like, but do it while you're running!
-JASON: <em>Let's GO!</em>
+JASON: Stiff upper lip, **Bel!** **Kira's** going to take us to them!
+KIRA: ***HURRY UP, ALREADY!***
