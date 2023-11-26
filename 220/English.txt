@@ -5,8 +5,8 @@ NARRATOR: But Pa whispered: "There is a beast in the Thicket That knows many thi
 NARRATOR: That night in the woods, amidst crawdads and crickets, The kit found the home of this Thing in the Thicket. A cave full of shadows, and whispers of dread, a dwelling where good little kits mustn't tread.
 NARRATOR: "Oh child, do not be afraid," soothed a voice. "I give you a gift. I offer you *choice!* Your poor sickly Papa must come to my side. With all of my knowledge, I'll keep him alive!"
 
-NARRATOR: "Who are you?" asked Ivan, with uneasy tummy. The voice answered softly, as sweetly as honey: "I hold all the knowledge that you've ever sought. It's lovely to meet you!"
-NARRATOR: "Please call me **ABROAD**"
+NARRATOR: "Who are you?" asked Ivan, with uneasy tummy. The voice answered softly, as sweetly as honey: "I hold all the knowledge that you've ever sought. It's lovely to meet you!
+NARRATOR: Please call me **ABROAD**"
 
 TAMBERLANE: This is scary…
 BELFRY: All I recalled was the nice pictures...
