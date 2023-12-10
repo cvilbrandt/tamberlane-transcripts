@@ -1,11 +1,7 @@
-KIRA: Sie werden <em>STERBEN!!</em>
-KIRA: Sie werden <b><em>WIRKLICH STERBEN!</em></b>
+SFX: <em>HAKK HAKK</em>
 
-KIRA: Wir müssen die Erwachsenen holen, <em>jetzt!</em>
+TAMBERLANE: f-f-f-fuff-ffy?
 
-KIRA: <b><em>CUR!!!!</em></b>
+GEHEIMNISVOLLE GESTALT: <em>Verdammt.</em>
 
-KIRA: Ich lauf los und hol sie!
-CUR: A-Aber-
-
-KIRA: <b><em>DU BLEIBST HIER!</em></b>
+GEHEIMNISVOLLE GESTALT: ...Bleib stark, Kai.

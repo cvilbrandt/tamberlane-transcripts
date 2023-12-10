@@ -1,16 +1,18 @@
-<p>BELFRY&#160;: Ce n'est pas ma faute, Briar&#160;!<br>
-BRIAR&#160;: Eh bien, ce n’est pas ma faute non plus&#160;! Ou celle de Tamberlane ! Parce qu'il ne <em>s'agit pas</em> d'une faute&#160;!</p>
+<p>BRIAR&#160;: Tu es la <em>maman</em> de Tamberlane. Tu dois rester forte pour elle.<br>
+BRIAR&#160;: Tu ne peux pas t'enfermer loin d'elle&#160;!<br>
+BELFRY&#160;: Ce n'est pas juste&#160;!</p>
 
-<p>BRIAR&#160;: Tu ne peux pas continuer &agrave; nous utiliser pour justifier ta fragilit&eacute;&#160;!<br>
-BELFRY&#160;: <strong><em>Utiliser-?!</em></strong><br>
-BELFRY&#160;: Je n'ai jamais <em>utilis&eacute;</em> personne&#160;! Comment peux-tu dire &ccedil;a ?!</p>
+<p>BRIAR&#160;: Peu importe ce qui est <em>juste,</em> Belfry&#160;! Tu as besoin d'entendre &ccedil;a&#160;!<br>
+BRIAR&#160;: Parfois, il faut simplement de se ressaisir&#160;! Pour ton petit&#160;!</p>
 
-<p>BRIAR&#160;: Belfry, tu utilise Tamberlane <em>en ce moment m&ecirc;me.</em><br>
-BRIAR&#160;: Depuis que nous avons quitt&eacute; l'hôpital, tout tourne autour de <em>toi.</em> Comment <em>tu</em> as tout g&acirc;ch&eacute;. Comment son &eacute;tat <em>te</em> concerne.<br>
-BRIAR&#160;: Tu ne l'as m&ecirc;me pas mentionn&eacute;e une seule fois.</p>
+<p>BELFRY&#160;: Oh, simplement "me ressaisir"&#160;? C'est facile à dire pour <em>toi</em>, Briar&#160;!<br>
+BELFRY : Tu ne sais pas ce que c'est ! Tout est <em>si dur,</em> tout le temps&#160;! Et quand j'essaie quelque chose, je g&acirc;che tout&#160;! <em>Toujours&#160;!</em></p>
 
-<p>SFX&#160;: K.O. !!!</p>
+<p>BRIAR&#160;: Belfry, STOP&#160;! Tu dois arr&ecirc;ter de faire &ccedil;a&#160;!<br>
+BELFRY&#160;: <em>Je sais&#160;!</em> J'essaie d'arr&ecirc;ter de tout g&acirc;cher, <em>j'essaie&#160;!</em><br>
+BRIAR&#160;: <strong><em>NON&#160;!</em></strong></p>
 
-<p>BELFRY&#160;: Je viens de...<br>
-BELFRY&#160;: C'est juste que je dois me corriger pour pouvoir prendre soin d'elle.<br>
-BELFRY&#160;: Je ne suis pas assez bien pour elle.</p>
+<p>BRIAR&#160;: Tu ne peux pas tout bonnement dire que tu es nulle en tout comme une excuse pour ne jamais travailler sur quoi que ce soit&#160;!</p>
+
+<p>BRIAR&#160;: Tu n'es <em>pas</em> la cr&eacute;ature la plus path&eacute;tique du monde&#160;! Tu n'es <em>plus</em> le petit rejeton de Maman&#160;!<br>
+BRIAR&#160;: Tu es une adulte et une <em>m&egrave;re</em>, et tu dois <em>arr&ecirc;ter</em> de t'effondrer à chaque fois que les choses deviennent difficiles&#160;!</p>

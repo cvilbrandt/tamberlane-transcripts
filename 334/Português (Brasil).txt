@@ -1,13 +1,13 @@
-KIRA: Tu acha que eles vão deixar a gente ver o Jonal?
-RAFEIRO: Não sei por que eles não deixariam. Somos parças, não?
+TRISHA: Nós tomamos conta do conselho por uma razão.
 
-RAFEIRO: Bora, vamos lá ver.
-PARSLEY: Espera, Ellis! Você não pode!
+TRISHA: Nunca se esqueça que nós não somos o antigo conselho, Callie.
 
-PARSLEY: A mãe já vai estar agitada.
-PARSLEY: Ela vai querer ver que nós dois estamos bem.
+TRISHA: Quando nós viemos ao poder, nós prometemos que fariamos o que fosse preciso para proteger Treehollow e seus cidadãos.
+TRISHA: Jentzen é uma parte amada de Treehollow.
+TRISHA: Ele <em>pertence</em> aqui.
 
-RAFEIRO: É <em>Rafeiro.</em>
-RAFEIRO: E por quê você se importa?!
-RAFEIRO: Ela não é minha mãe real, e você não é meu irmão real!
-KIRA: OOOOOOOOOOOOO!!!
+TRISHA: Vamos fazer tudo que pudermos para ele.
+TRISHA: Não se preocupe, meu bem.
+
+CALLIE: Graças a Deus.
+CALLIE: Graças a Deus.

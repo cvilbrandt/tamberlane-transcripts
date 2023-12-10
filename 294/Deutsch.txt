@@ -1,15 +1,10 @@
-CUR: <em>Scheiße!!!</em>
-KIRA: <em>Tamberlane!!</em>
+CUR: Versuchst du mich zu schubsen? Ist das dein Plan?
+CUR: Schau nur, du versuchst dein bestes und ich spür es kaum!
+CUR: Wie erbärmlich kann man sein?
+KIRA: Haha... <em>Super</em> erbärmlich.
 
-SFX: <i>KRAK</i>
+CUR: Ich glaub ich sollte...
 
-CUR: Tam, dir gehts gut, stimmts?? Stimmts???
-KIRA: Stehaufstehauf Stehaufstehauf!
-JONAS: Nicht... bewegen!
+CUR: ...dir zeigen wie man's <em>RICHTIG MACHT!</em>
 
-OFF-SCREEN: Ihr gehts gut!
-SFK: <i>KrrrrrrrrrKKK</i>
-
-SFX: <i>KRAAKKKK</i>
-TAMBERLANE: <em>keuch!</em>
-TAMBERLANE: <em>AAAAAAAAAAA!!</em>
+TAMBERLANE: Wa-

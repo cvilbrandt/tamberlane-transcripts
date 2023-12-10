@@ -1,13 +1,11 @@
-OAKEWOOD: Tamberlane <em>kann nicht</em> einzigartig sein! Sie kann nicht einfach aus dem Nichts aufgetaucht sein!
+MILO: Bitt sehr, Onkel!
 
-OAKEWOOD: Aber mir gehen die Ideen aus!
-MILO: Mmhmm.
-OAKEWOOD: Ich hab fast jedes Buch durchsucht, dass mir einfällt!
+MILO: Und hier ein paar Digestive für dich!
+OAKEWOOD: Ah--
+OAKEWOOD: Danke dir, Milo.
 
-OAKEWOOD: Wir brauchen eine neue Taktik. Komm schon, Junge, lass mal ein paar gute Ideen hören.
-MILO: Mmm.
+SFX: Tap Tap Tap
 
-OAKEWOOD: Was liest du da so interessantes, dass es dich derart fesselt?
+SFX: TapTapTapTapTapTapTap
 
-MILO: Oh, äh-- Sorry, Onkel!
-MILO: Es ist garnichts, wirklich!
+OAKEWOOD: <em>NICHTS.</em>

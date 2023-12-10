@@ -1,19 +1,16 @@
-BELFRY: Por favor viva...
-BELFRY: Por favor esteja bem...!
+JENTZEN: Eu achei que as coisas eram diferentes.
 
-WALTER: O quê aconteceu?
-TESS: Onde tá a Tamberlane?
-BRIAR: Você tá bem?
-TESS: Aconteceu alguma coisa na viajem?
+GENEVIEVE: Eu também.
 
-NORA: Teve um acidente.
-NORA: Tamberlane e Jonas ficaram embaixo do gelo no rio.
-TESS: Eles vão ficar bem??
-NORA: Estamos fazendo tudo que podemos.
+GENEVIEVE: E elas são.
+GENEVIEVE: Elas tem que ser.
 
-TESS: Belfry?
-TESS: Segura aí, amor. Vai ficar tudo bem.
+JENTZEN: Me desculpa, Mãe. Me desculpa!
+GENEVIEVE: Você não tem <em>nada</em> para se desculpar sobre, Jentzen!
+GENEVIEVE: Você só...
+SFX: tum tum tum tum tum tum TUm
+FORA: <em>EMERGÊNCIA!</em>
 
-TESS: Estamos aqui.
-
-TESS: Estamos <em>todos</em> aqui.
+FORA: SAI DA FRENTE! CARRINHO PASSANDO!
+SFX: TUM TUM
+GENEVIEVE: Mas o quê?

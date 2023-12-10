@@ -1,18 +1,17 @@
-<p>BRIAR&#160;: Tu es la <em>maman</em> de Tamberlane. Tu dois rester forte pour elle.<br>
-BRIAR&#160;: Tu ne peux pas t'enfermer loin d'elle&#160;!<br>
-BELFRY&#160;: Ce n'est pas juste&#160;!</p>
+<p>BRIAR&#160;: Tu ne <em>ruines</em> pas tout<br>
+BELFRY&#160;: <strong>J'ai pris une d&eacute;cision&#160;!!!</strong></p>
 
-<p>BRIAR&#160;: Peu importe ce qui est <em>juste,</em> Belfry&#160;! Tu as besoin d'entendre &ccedil;a&#160;!<br>
-BRIAR&#160;: Parfois, il faut simplement de se ressaisir&#160;! Pour ton petit&#160;!</p>
+<p>BELFRY&#160;: Papa avait raison depuis le d&eacute;but. Je dois assumer davantage la responsabilit&eacute; de mes erreurs&#160;!<br>
+BELFRY&#160;: Alors &agrave; partir de maintenant, je vais &ecirc;tre plus responsable&#160;! Je ferai en sorte de ne plus jamais faire d'erreur&#160;!</p>
 
-<p>BELFRY&#160;: Oh, simplement "me ressaisir"&#160;? C'est facile à dire pour <em>toi</em>, Briar&#160;!<br>
-BELFRY : Tu ne sais pas ce que c'est ! Tout est <em>si dur,</em> tout le temps&#160;! Et quand j'essaie quelque chose, je g&acirc;che tout&#160;! <em>Toujours&#160;!</em></p>
+<p>BELFRY&#160;: Si je r&eacute;fl&eacute;chis vraiment &agrave; tout ce que je fais avant de le faire, je serai s&ucirc;re de rep&eacute;rer les erreurs avant de les commettre&#160;!<br>
+BELFRY&#160;: Mais je perds les choses de vue quand je suis contrari&eacute;e. C'est un probl&egrave;me&#160;!<br>
+BRIAR&#160;: Belfry...<br>
+BELFRY&#160;: Alors &agrave; partir de maintenant, chaque fois que je serai contrari&eacute;e, je m'enfermerai dans ma chambre&#160;!<br>
+BELFRY&#160;: Comme &ccedil;a, je ne blesserai plus jamais personne <em>plus jamais&#160;!</em></p>
 
-<p>BRIAR&#160;: Belfry, STOP&#160;! Tu dois arr&ecirc;ter de faire &ccedil;a&#160;!<br>
-BELFRY&#160;: <em>Je sais&#160;!</em> J'essaie d'arr&ecirc;ter de tout g&acirc;cher, <em>j'essaie&#160;!</em><br>
-BRIAR&#160;: <strong><em>NON&#160;!</em></strong></p>
+<p>BRIAR&#160;: Oh pour l'amour de...<br>
+BRIAR&#160;: Belfry, <em>&ccedil;a suffit&#160;!</em></p>
 
-<p>BRIAR&#160;: Tu ne peux pas tout bonnement dire que tu es nulle en tout comme une excuse pour ne jamais travailler sur quoi que ce soit&#160;!</p>
-
-<p>BRIAR&#160;: Tu n'es <em>pas</em> la cr&eacute;ature la plus path&eacute;tique du monde&#160;! Tu n'es <em>plus</em> le petit rejeton de Maman&#160;!<br>
-BRIAR&#160;: Tu es une adulte et une <em>m&egrave;re</em>, et tu dois <em>arr&ecirc;ter</em> de t'effondrer à chaque fois que les choses deviennent difficiles&#160;!</p>
+<p>BRIAR&#160;: <em>Arr&ecirc;te de tourner en rond&#160;!</em><br>
+BRIAR&#160;: &Ccedil;a n'aide <em>personne&#160;!!</em></p>

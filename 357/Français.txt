@@ -1,16 +1,18 @@
-<p>BELFRY&#160;: ...Quoi ?<br />
-BRIAR&#160;:&#160;Eh bien. Je ne peux pas dire que je n'ai pas essay&eacute;.</p>
+<p>BRIAR&#160;: J'ai juste entendu<br />
+BELFRY&#160;: En fait, qu'est-ce que tu sais &agrave; propos de <strong><em>QUOI QUE CE SOIT</em></strong> de tout &ccedil;a&#160;?!<br />
+BELFRY&#160;: Tu n'as jamais eu &agrave; t'occuper de quoi que ce soit dans ta <strong><em>VIE&#160;!</em></strong><br />
+BRIAR&#160;: Je- <em>quoi ?!</em></p>
 
-<p>BELFRY&#160;: Attends, où vas-tu&#160;? Nous n'en avons pas termin&eacute;&#160;!<br />
-BRIAR&#160;: <em>Tu</em> n'en as pas termin&eacute;. J'en ai vraiment fini.</p>
+<p>BRIAR&#160;: Ce n'est <strong><em>PAS</em></strong> ce que je<br />
+BELFRY&#160;: Nous ne pouvons pas tous &ecirc;tre Mademoiselle Parfaite&#160;! La <strong><em>pr&eacute;f&eacute;r&eacute;e de maman et papa !!</em></strong><br />
+BRIAR&#160;: BELFRY&#160;!</p>
 
-<p>BELFRY&#160;: Briar, attends&#160;! Il faut qu'on r&egrave;gle &ccedil;a !</p>
+<p>BEFFRO&#160;: Eh bien, que sais-tu de moi, de Tamberlane, ou du fait d'&ecirc;tre <strong><em>m&egrave;re&#160;?</em></strong><br />
+BELFRY : <strong><em>RIEN !</em></strong><br />
+BELFRY&#160;: Et tu ne le sauras <strong><em>JAMAIS</em></strong> jusqu'&agrave; ce que tu <strong><em>Grandisses&#160;!</em></strong></p>
 
-<p>BRIAR&#160;: Non, tu dois r&eacute;gler &ccedil;a. J'ai dit tout ce que j'avais &agrave; dire.<br />
-BRIAR&#160;: J'en ai fini d'&ecirc;tre ton punching-ball ce soir.<br />
-BELFRY : Punching... ?? Briar&#160;!</p>
+<p>SFX&#160;: hahh hh haah hh hha h</p>
 
-<p>SFX&#160;: PROFOND soupir </p>
-
-<p>BRIAR&#160;: Je t'aime tellement, Belfry.<br />
-BRIAR&#160;: Mais j'ai juste besoin d'un peu d'espace.</p>
+<p>SFX&#160;: hha haah hh hahh h h<br />
+BRIAR&#160;: L&agrave;.<br />
+BRIAR&#160;: Voil&agrave; c'est exactement ce que je veux dire.</p>

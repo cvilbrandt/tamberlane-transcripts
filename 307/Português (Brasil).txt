@@ -1,16 +1,12 @@
-BELFRY: <em>TAMBERLANE!</em>
-FINN: Gritem para a gente, crianças!
-NORA: Jonas?
-KIRA: Eles estavam por aqui...
+BELFRY: <em>O QUE VOCÊ FEZ COM A MINHA FILHOTE?!</em>
+KIRA: N-nada! <em>Eu j-juro!</em>
 
-BELFRY: Vai logo!!
-KIRA: Ãa...
+BELFRY: <em>MENTIROSA!</em>
+BELFRY: <em><b>MALANDRA!!</b></em>
 
-KIRA: Era...
-KIRA: Eu <em>acho</em> que era...
-KIRA: O-ou...
+JASON: Belfry, qual é seu problema?!
+JASON: A gente já tem filhotes em perigo mortal o bastante!
 
-NORA: Respira fundo, Kira. Tá tudo bem.
-
-KIRA: Eu- Eu acho que eu me lembro daquele monte de galhos...
-KIRA: Talvez por aqui?
+JASON: A Kira vai trazer a gente para Tamberlane.
+JASON: Pode olhar feio pra mim, mas corre enquanto isso!
+JASON: <em>VAMOS!</em>

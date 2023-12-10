@@ -1,8 +1,12 @@
-GENEVI&Egrave;VE&#160;: Nous... devons te juger.
+ROSIE&#160;: Rawwwwrr&#160;! Donne-moi mon &eacute;charpe&#160;!
+MINNA&#160;: H&eacute; h&eacute;&#160;! Attrape-moi!
 
-JENTZEN&#160;: Oh.
+JENTZEN&#160;: Oh&#160;!
+JENTZEN&#160;: Maman, tu es de retour.
 
-JENTZEN&#160;: Mais quand j'&eacute;tais un petit, tu disais que les choses seraient diff&eacute;rentes si tu &eacute;tais au Conseil.
-JENTZEN&#160;: Et maintenant, je vais &ecirc;tre jug&eacute;.
+GENEVI&Egrave;VE&#160;: Je...
+GENEVI&Egrave;VE&#160;: Oui.
 
-JENTZEN&#160;: Tout comme mes parents.
+GENEVI&Egrave;VE&#160;: Jentzen...
+
+JENTZEN&#160;: Que s'est-il pass&eacute;.

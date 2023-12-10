@@ -1,18 +1,12 @@
-TESS: Ach, du dummes Ding, war zu erwarten, dass du noch einen kaputt machst!
-BELFRY: Das war ich nicht! Der war schon kaputt, als ich ihn aufgehoben habe!
+SFX: <em>GÄÄÄÄHHNN</em>
 
-TERRA: Nicht schon wieder, Belfry!
-MAYA: Bald wirst du mehr Schlamm als Fledermaus sein!
-BELFRY: Aber die Steine sind uneben. Jeder hätte...
+JASON: Kira...?
+JASON: HEY!
 
-WALTER: Ahhh, Ich hätte es besser wissen sollen, als dich schneiden zu lassen.
-BELFRY: S-stimmt.
+KIRA: Herr Jason! Kommen sie schnell! !
+JASON: Warum zur Hölle bist du nicht im Bett?!
 
-TAMBERLANE: Ich werde ohne dich glücklicher sein, Mammi!
-TAMBERLANE: Das weißt du doch, oder?
+KIRA: Das is grad egal!
+KIRA: <em><strong>Bitte!</strong></em>
 
-BELFRY: Ich weiß.
-BELFRY: <em>Ich weiß!<em>
-
-ABSEITS: <em><strong>BELFRY!</strong></em>
-SFX: keuch
+JASON: Was ist passiert?

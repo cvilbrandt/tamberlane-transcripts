@@ -1,12 +1,4 @@
-BELFRY: Tamberlane...!
+BELFRY: <em>NEIN!</em>
 
-BELFRY: Bitte sag mir was los ist!
-
-BELFRY: <em>Tamberlane</em>!
-
-BELFRY: Wa...
-BELFRY: Wage es nicht, einfach so wegzugehen!
-BELFRY: Ich bin deine <em>Mutter</em>!
-
-BELFRY: Ich bin...
-BELFRY: deine Mutter...
+BELFRY: Tamberlane, es tut mir so leid! Hast du dir wehgetan?
+TAMBERLANE: NEIN.

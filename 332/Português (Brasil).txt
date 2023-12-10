@@ -1,20 +1,15 @@
-CALLIE: Trisha, você está no conselho...
-CALLIE: O Jentzen tá ferrado?
-CALLIE: Tipo, realmente ferrado?
+CALLIE: Foi em um tempo horrível.
+CALLIE: Eu estava com gripe a primeira semana inteira.
+CALLIE: Ele não teve nenhuma supervisão. Nenhuma ajuda. No primeiro trabalho dele!
+CALLIE: Consegue imaginar?
 
-TRISHA: A doença atingiu a gente que nem uma onda.
-TRISHA: Destruiu tudo em seu rastro.
-TRISHA: Familias...
-TRISHA: Suprimentos...
-TRISHA: Confiança...
+TRISHA: Conhecendo nossos filhotes, deve ter sido um caos!
 
-TRISHA: Você lembra do último banimento? Durante a epidemia?
-CALLIE: Um pouco.
-TRISHA: Eu lembro de um monte de criaturas doentes ou saindo, principalmente.
-TRISHA: Você é bem nova...
+CALLIE: Eu pensei que seria assim, também, mas não, na verdade.
+CALLIE: Eu esperava em motim quando eu voltei, mas...
 
-CALLIE: Eu lembro dos protestos.
-TRISHA: O antigo Conselho era muito rígido.
-TRISHA: Baniram tantos...
-TRISHA: E então o incidente com os prévios Ferreiros...
-TRISHA: Foi irracional.
+CALLIE: Ele fez a Kira fazer divisão longa! A Kira!
+TRISHA: Que maravilhoso!
+
+TRISHA: Ele é um garoto tão inteligente e bondoso.
+CALLIE: Ele é. Ele realmente é.

@@ -1,13 +1,16 @@
-TESS: Claude! Qual é seu <b>problema?!</b>
+TESS: Onde você <em>tava</em> mais cedo?!
 
-TESS: Você realmente não vai falar comigo em uma situação como <em>essa?!</em>
-TESS: <b>Pelamor, Claude! Faz <em>vinte anos!</em></b>
+TESS: O <em>Milo</em> estava aqui mas você não?! A Belfry <em>PRECISAVA</em> de você!
+TESS: Se você vai fazer como se fosse parte da família dela, então <em>aja como tal!</em>
 
-TAMBERLANE: Tio? O-O que foi?
-TAMBERLANE: Posso ajudar?
+TESS: O que era tão importante que você não podia dar suporte pra ela, hm?!
+TESS: Nem pode visitar o seu tal de <em>sujeito de pesquisa?!</em>
+TESS: <b>Sujeito de pesquisa.</b> Eu não consigo acreditar que você chamaria um <em>filhote</em> seu <b><em>sujeito de pesquisa!</em></b>
 
-SFX: hrnk
+TESS: <b><em>CLAUDE!</em> ME RESPONDE!</b>
 
-TESS: Que-- <em>Aonde diabos você está indo?!</em>
+TAMBERLANE: Tio...
 
-TESS: <b><em>CLAUDE!!!</em></b>
+OAKEWOOD: Oi Chu...ch...
+
+TAMBERLANE: Tio...?

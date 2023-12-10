@@ -1,32 +1,26 @@
-PARSLEY&#160;: Depuis combien de temps lances-tu des cailloux, mon amour&#160;?
-MARIE&#160;: Un moment&#160;!
-PARSLEY&#160;: Vraiment&#160;?? Je n'ai entendu que le dernier, je pense.
-MARIE&#160;: Eh bien, je ne voulais pas casser ta vitre&#160;!
+CORIANDER&#160;:&#160;Ellis, nous ne quitterons PAS cette pi&egrave;ce tant que nous n'en aurons pas discut&eacute;&#160;!
+Effets sonores&#160;: tnk
+CUR&#160;: C'est *CUR*&#160;!
+Effets sonores&#160;: tak
 
-CORIANDER&#160;: Tr&egrave;s bien&#160;! Tu veux que je sois stricte&#160;? Je serai stricte&#160;!
-CUR&#160;: Ooo, tu vas *t'affirmer*&#160;??
-CORIANDER&#160;: Tu ne te l&egrave;veras *PAS* de cette table avant d’avoir dîn&eacute;&#160;!
-PARSLEY&#160;:&#160;Alors, monte.
-MARIE&#160;: Oooh, il fait tellement *plus chaud* ici&#160;!
+CORIANDER&#160;: Je ne t'appellerai pas par ce nom affreux&#160;! Tu n'es *pas* un errant&#160;; tu es mon *fils*&#160;!
+CUR&#160;: J'suis pas *ton* fils&#160;! Fiche-moi dehors et finissons-en&#160;!
+Effets sonores&#160;: tnk
+CORIANDER&#160;: Oh, Ellis, s'il te plaît, calme-toi&#160;!
 
-CUR&#160;: Je ne vais pas manger ta foutue *bouillie*&#160;!
-CORIANDER&#160;: Tu *peux* et tu *vas*&#160;! Ellis, tu *devras* bien manger un jour&#160;!
-CUR&#160;: J'vais *rien du tout*&#160;!
-PARSLEY&#160;: Comment tes m&egrave;res ont-elles pris la nouvelle de Bally Bluffs&#160;?
-MARIE&#160;: Oh, elles se sont agit&eacute;es autour de moi pendant des heures, mais d&egrave;s que j'ai &eacute;t&eacute; libre, je suis venue te rendre visite.
+CORIANDER&#160;:&#160;S'il te plaît, assieds-toi et dis-moi ce qui s'est pass&eacute;.
+Effets sonores&#160;: tnk
+CUR&#160;: y'a rien &agrave; dire, *Coriander*.
+CUR&#160;: Je l'ai pouss&eacute;e dans la rivi&egrave;re&#160;! Bannis-moi&#160;! Signale-moi au foutu Conseil&#160;! *Qu'est-ce que &ccedil;a m'importe*&#160;?
+Effets sonores&#160;: **TONK**
+MARIE&#160;: Oups&#160;!
 
-CORIANDER&#160;:&#160;S'il te plaît, je t'en *supplie*, Ellis. Que dois-je faire pour que tu manges&#160;?
-MARIE&#160;: Comment vas-*tu*&#160;?
-CUR&#160;:&#160;Rien&#160;! Je suis ma propre cr&eacute;ature et si je veux mourir de faim, *laisse-moi mourir de faim*&#160;!
-PARSLEY&#160;: Absolument top.
+CORIANDER&#160;: Je ne ferai rien de tel. Viens l&agrave;, ch&eacute;ri.
+CUR&#160;: Quoi, pour que tu puisses me serrer dans tes bras et tout arranger&#160;?? *CONNERIE*&#160;!
+CORIANDER&#160;: *LANGAGE*&#160;!
+MARIE&#160;: D&eacute;sol&eacute;e&#160;! D&eacute;sol&eacute;e! Je n'ai pas cass&eacute; ta fen&ecirc;tre, n'est-ce pas&#160;?
 
-CORIANDER&#160;: Tu ne mourras pas de faim sous mon toit&#160;!
-CUR&#160;: C'est d&eacute;j&agrave; le cas&#160;!
-CORIANDER&#160;: Mange un morceau&#160;! Tout de suite!
-PARSLEY&#160;:&#160;D’accord, d’accord. Arr&ecirc;te de me faire ces yeux.
-
-CORIANDER&#160;: Ouvre&#160;!
-CUR&#160;:&#160;**Mmrggh**&#160;!
-PARSLEY&#160;: J'avoue, je suis un peu inquiet pour Cur...
-CORIANDER&#160;: *Tu vas manger des patates crois-moi*
-PARSLEY&#160;: Mais ce petit connard nous *tape sur les nerfs* &agrave; maman et moi.
+CUR&#160;:&#160;RIEN &Agrave; FICHE&#160;?! Je jurerai tout ce que je veux&#160;! Merde! Putain&#160;! Putain de conneries&#160;!
+CORIANDER&#160;:&#160;Ellis&#160;! Ellis, s'il te plaît&#160;! Ellis!
+PARSLEY&#160;:&#160;Non, &ccedil;a me semble bien.
+MARIE&#160;: Oh, g&eacute;nial&#160;! Ce dernier caillou &eacute;tait plus gros que je ne le pensais.

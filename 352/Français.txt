@@ -1,17 +1,12 @@
-<p>BRIAR&#160;: Tu ne <em>ruines</em> pas tout<br>
-BELFRY&#160;: <strong>J'ai pris une d&eacute;cision&#160;!!!</strong></p>
+<p>SFX&#160;: krrr krrr krrr</p>
 
-<p>BELFRY&#160;: Papa avait raison depuis le d&eacute;but. Je dois assumer davantage la responsabilit&eacute; de mes erreurs&#160;!<br>
-BELFRY&#160;: Alors &agrave; partir de maintenant, je vais &ecirc;tre plus responsable&#160;! Je ferai en sorte de ne plus jamais faire d'erreur&#160;!</p>
+<p>BRIAR&#160;: &Ccedil;a ira, Bel.<br>
+BELFRY&#160;: Mm...</p>
 
-<p>BELFRY&#160;: Si je r&eacute;fl&eacute;chis vraiment &agrave; tout ce que je fais avant de le faire, je serai s&ucirc;re de rep&eacute;rer les erreurs avant de les commettre&#160;!<br>
-BELFRY&#160;: Mais je perds les choses de vue quand je suis contrari&eacute;e. C'est un probl&egrave;me&#160;!<br>
-BRIAR&#160;: Belfry...<br>
-BELFRY&#160;: Alors &agrave; partir de maintenant, chaque fois que je serai contrari&eacute;e, je m'enfermerai dans ma chambre&#160;!<br>
-BELFRY&#160;: Comme &ccedil;a, je ne blesserai plus jamais personne <em>plus jamais&#160;!</em></p>
+<p>BRIAR&#160;: Respire juste profond&eacute;ment.<br>
+BELFRY&#160;: Je ne pense pas que <em>ma respiration</em> r&eacute;soudra quoi que ce soit.</p>
 
-<p>BRIAR&#160;: Oh pour l'amour de...<br>
-BRIAR&#160;: Belfry, <em>&ccedil;a suffit&#160;!</em></p>
+<p>BRIAR&#160;: &Ccedil;a <em>va</em> pourtant t'aider &agrave; te calmer.</p>
 
-<p>BRIAR&#160;: <em>Arr&ecirc;te de tourner en rond&#160;!</em><br>
-BRIAR&#160;: &Ccedil;a n'aide <em>personne&#160;!!</em></p>
+<p>BELFRY&#160;: Comment puis-je &ecirc;tre <strong><em>CALME</em></strong> quand je <strong><em>RUINE</em></strong> tout ce que je touche&#160;?&#160;!<br>
+BRIAR&#160;: Oh, Belfry...</p>

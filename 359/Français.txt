@@ -1,26 +1,3 @@
-CORIANDER&#160;:&#160;Ellis, nous ne quitterons PAS cette pi&egrave;ce tant que nous n'en aurons pas discut&eacute;&#160;!
-Effets sonores&#160;: tnk
-CUR&#160;: C'est *CUR*&#160;!
-Effets sonores&#160;: tak
+BELFRY&#160;: *J'ai* mentionn&eacute; Tamberlane...
 
-CORIANDER&#160;: Je ne t'appellerai pas par ce nom affreux&#160;! Tu n'es *pas* un errant&#160;; tu es mon *fils*&#160;!
-CUR&#160;: J'suis pas *ton* fils&#160;! Fiche-moi dehors et finissons-en&#160;!
-Effets sonores&#160;: tnk
-CORIANDER&#160;: Oh, Ellis, s'il te plaît, calme-toi&#160;!
-
-CORIANDER&#160;:&#160;S'il te plaît, assieds-toi et dis-moi ce qui s'est pass&eacute;.
-Effets sonores&#160;: tnk
-CUR&#160;: y'a rien &agrave; dire, *Coriander*.
-CUR&#160;: Je l'ai pouss&eacute;e dans la rivi&egrave;re&#160;! Bannis-moi&#160;! Signale-moi au foutu Conseil&#160;! *Qu'est-ce que &ccedil;a m'importe*&#160;?
-Effets sonores&#160;: **TONK**
-MARIE&#160;: Oups&#160;!
-
-CORIANDER&#160;: Je ne ferai rien de tel. Viens l&agrave;, ch&eacute;ri.
-CUR&#160;: Quoi, pour que tu puisses me serrer dans tes bras et tout arranger&#160;?? *CONNERIE*&#160;!
-CORIANDER&#160;: *LANGAGE*&#160;!
-MARIE&#160;: D&eacute;sol&eacute;e&#160;! D&eacute;sol&eacute;e! Je n'ai pas cass&eacute; ta fen&ecirc;tre, n'est-ce pas&#160;?
-
-CUR&#160;:&#160;RIEN &Agrave; FICHE&#160;?! Je jurerai tout ce que je veux&#160;! Merde! Putain&#160;! Putain de conneries&#160;!
-CORIANDER&#160;:&#160;Ellis&#160;! Ellis, s'il te plaît&#160;! Ellis!
-PARSLEY&#160;:&#160;Non, &ccedil;a me semble bien.
-MARIE&#160;: Oh, g&eacute;nial&#160;! Ce dernier caillou &eacute;tait plus gros que je ne le pensais.
+BELFRY&#160;: ... Ou pas&#160;?

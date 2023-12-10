@@ -1,16 +1,18 @@
-BELFRY: Não é minha culpa, Briar!
-BRIAR: Bem, não é minha culpa, também! Ou da Tamberlane! Porque não é <em>sobre</em> culpa!
+BRIAR: Você é a <em>mãe</em> da Tamberlane. Você tem que continuar forte por ela.
+BRIAR: Você não pode só se trancar pra longe dela!
+BELFRY: Isso não é justo!
 
-BRIAR: Você não pode continuar nos usando pra justificar seus defeitos!
-BELFRY: <em><b>Usar-?!</b></em>
-BELFRY: Eu nunca <em>usei</em> ninguém! Como você pode falar isso?!
+BRIAR: Não importa o que é <em>justo,</em> Belfry! Você precisa ouvir isso!
+BRIAR: As vezes você só tem que se virar! Como pra sua filhote!
 
-BRIAR: Belfry, você está usando a Tamberlane <em>agora mesmo.</em>
-BRIAR: Desde que nós saímos do hospital, tem sido tudo sobre <em>você.</em> Como <em>você</em> errou. A condição dela não é sobre <em>você.</em>
-BRIAR: Você não mencionou ela uma vez.
+BELFRY: Oh, só "me virar"? Isso é fácil de <em>você</em> dizer, Briar!
+BELFRY: Você não sabe como é! Tudo é <em>tão difícil,</em> toda hora! E quando eu tento, eu zoo tudo! <em>Sempre!</em>
 
-SFX: K.O.!!!
+BRIAR: Belfry, PARA! Você tem que parar de fazer isso!
+BELFRY: <em>Eu sei!</em> Eu estou tentando parar de errar, <em>eu estou!</em>
+BRIAR: <em>NÃO!</em>
 
-BELFRY: Eu só...
-BELFRY: É só que eu tenho que me consertar pra eu poder tomar conta dela.
-BELFRY: Eu não sou boa o bastante para ela.
+BRIAR: Você não pode só falar que é terrível em tudo como uma desculpa pra nunca trabalhar em nada!
+
+BRIAR: Você <em>não</em> é a criatura mais patética do mundo! Você <em>não</em> é mais a coitadinha da Mamãe!
+BRIAR: Você é uma adulta e uma <em>mãe,</em> e você precisa <em>parar</em> de só dar as costas quando as coisas ficam difíceis!

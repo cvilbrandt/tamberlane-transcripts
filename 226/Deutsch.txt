@@ -1,15 +1,13 @@
-BELFRY: Okay?
+TAMBERLANE: Wenn ich von Draussen bin... hab ich dann auch Verderbnis?
 
-TAMBERLANE: Okay.
+BELFRY: Oh, Süße, nei-
 
-TAMBERLANE: Wenn du jemals sehr krank wirst...
+TAMBERLANE: Hab ich alle verdorben? Hab ich Böses gemacht??
 
-TAMBERLANE: ...wirst du mich dann auch verlassen, Mami?
+BELFRY: Nein. Absolut nicht.
 
-BELFRY: Oh, Tamberlane, nein. Niemals.
+BELFRY: Du hast das Buch gesehen. Wenn du verdorben wärst, würdest du wie ein Monster aussehen, richtig?
 
-BELFRY: Wir werden zusammenbleiben, egal was passiert.
+BELFRY: Du bist kein Monster.
 
-BELFRY: Wie wärs, wenn ich dir eine bessere Geschichte erzähl?
-
-TAMBERLANE: Ja, bitte.
+BELFRY: Du bist meine Tamberlane.

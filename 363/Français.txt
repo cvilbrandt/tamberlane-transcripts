@@ -1,12 +1,19 @@
-ROSIE&#160;: Rawwwwrr&#160;! Donne-moi mon &eacute;charpe&#160;!
-MINNA&#160;: H&eacute; h&eacute;&#160;! Attrape-moi!
+PARSLEY&#160;: Tr&egrave;s bien, ça suffit&#160;! Tu as assez &eacute;cout&eacute; mes radotages pour la journ&eacute;e&#160;!
+MARIE&#160;: Tu sais que je suis heureuse d'&eacute;couter tes probl&egrave;mes à tout moment&#160;!
 
-JENTZEN&#160;: Oh&#160;!
-JENTZEN&#160;: Maman, tu es de retour.
+PARSLEY&#160;: Ouais, mais quelqu'un doit &eacute;couter les tiens. Comment vas-tu?
+[SFX&#160;: doki doki]
 
-GENEVI&Egrave;VE&#160;: Je...
-GENEVI&Egrave;VE&#160;: Oui.
+MARIE&#160;: Oh... tu sais... Inqui&egrave;te pour Tamberlane et Jonas. Rien à dire là-dessus.
+[SFX&#160;: doki doki doki]
+PARSLEY&#160;: Tu peux me dire tout ce que tu veux, Mar-Mar.
 
-GENEVI&Egrave;VE&#160;: Jentzen...
+MARIE&#160;: Mar-Mar&#160;? Tu ne m'as pas appel&eacute;e comme ça depuis longtemps, Par-Par.
+CORIANDER&#160;: *ELLIS&#160;! REVIENS ICI&#160;! ELLIS&#160;!!*
+PARSLEY&#160;: Eh bien, je dois faire quelque chose pour te remonter le moral, n'est-ce pas&#160;?
 
-JENTZEN&#160;: Que s'est-il pass&eacute;.
+CUR&#160;:*JAMAIS DE LA VIE&#160;!*
+
+CORIANDER&#160;: *MANGE LA PUR&Eacute;E, ELLIS*
+PARSLEY&#160;: La maison Carver a officiellement perdu la boule.
+MARIE&#160;: Ne t'inqui&egrave;te pas, Par-Par. Nous trouverons une solution.

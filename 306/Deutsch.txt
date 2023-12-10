@@ -1,12 +1,11 @@
-BELFRY: <em>WAS HAST DU MEINEM KIND ANGETAN?!</em>
-KIRA: G-Garnichts'! <em>Ich s-schwörs!</em>
+BELFRY: Wa...?
+ABSEITS: <s>Belfry, du <em>musst</em> aufstehen!</s>
 
-BELFRY: <em>LÜGNER!</em>
-BELFRY: <strong><em>RÜPEL!!</em></strong>
+ABSEITS: <em><s>Schnell!</s></em>
+ABSEITS: <em>Tamberlane ist etwas passiert!</em>
 
-JASON: Belfry, was ist <em>los</em> mit dir?!
-JASON: Wir haben bereits <em>genug</em> Kinder in Lebensgefahr!
+JASON: <s>Ich vermute, es gab einen Streit</s>
+JASON: <s>und</s> Tamberlane <s>und</s> Jonas <s>sind in den Fluss gefallen</s>
 
-JASON: Kira wird uns zu Tamberlane führen.
-JASON: Schmoll so viel du willst, aber mach es während du rennst!
-JASON: <em>LOS jetzt!</em>
+JASON: <s> Halt durch,</s> Bel! Kira <s> wird uns zu ihnen führen!</s>
+KIRA: <em><strong>JETZT MACH DOCH MAL HINNE!</strong></em>

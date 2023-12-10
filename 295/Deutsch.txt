@@ -1,25 +1,15 @@
-KIRA: TAM! GEH RUNTER VOM EIS!
-CUR: RUNTER VON DEM EIS!!!
+CUR: <em>Scheiße!!!</em>
+KIRA: <em>Tamberlane!!</em>
 
-TAMBERLANE: Okay!
-SFK: <i>Krrrkkkk</i>
-TAMBERLANE: Okay okay okay...
+SFX: <i>KRAK</i>
 
-SFX: <i>KKRAKKK</i>
-TAMBERLANE: Aaaa!!!
-ABSEITS: <i>STOP!</i>
+CUR: Tam, dir gehts gut, stimmts?? Stimmts???
+KIRA: Stehaufstehauf Stehaufstehauf!
+JONAS: Nicht... bewegen!
 
-JONAS: STOP STOP STOP! Nicht... aufstehen!
-SFX: <i>keuch</i>
-CUR: Jonas, was machst du da?!
+OFF-SCREEN: Ihr gehts gut!
+SFK: <i>KrrrrrrrrrKKK</i>
 
-SFX: <i>keuch</i>
-JONAS: Leg dich...
-JONAS: ...auf...
-JONAS: ...deinen Bauch!
-SFX: <i>keuch</i>
-ABSEITS: Jonas, komm zurück!! Du brauchst deinen Inhalator, Alter!!
-
-JONAS: Und breite...
-JONAS: ...deine...
-JONAS: ...Arme aus!
+SFX: <i>KRAAKKKK</i>
+TAMBERLANE: <em>keuch!</em>
+TAMBERLANE: <em>AAAAAAAAAAA!!</em>
