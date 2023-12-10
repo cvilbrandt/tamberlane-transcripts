@@ -1,11 +1,13 @@
+***[OUTDATED]***
+
 BELFRY: Oh, bestimmt sind sie hier irgendwo!
 
 BELFRY: Tamberlane?
 
-NORA: Terra, bitte sag mir, dass <em>Du</em> diese Tür geöffnet hast!
+NORA: Terra, bitte sag mir, dass <em>Du</em> diese TÃ¼r geÃ¶ffnet hast!
 TERRA: Die war schon offen!
 
-BELFRY: Aber weit können sie nicht sein, richtig?
+BELFRY: Aber weit kÃ¶nnen sie nicht sein, richtig?
 BELFRY: Sie sind ja nur Kinder!
 
 HENRY: Genau genommen kommt es drauf an, wie lang sie schon weg sind.

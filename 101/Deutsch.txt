@@ -1,14 +1,16 @@
+***[OUTDATED]***
+
 OFFSCREEN: Ist das Wildfleisch?
 OFFSCREEN: Ja, ich habe ein bisschen was extra beim Metzger bestellt.
 TAMBERLANE: ...bleh...
-OFFSCREEN: Denkst du, sie könnte ein Fleischfresser sein?
+OFFSCREEN: Denkst du, sie kÃ¶nnte ein Fleischfresser sein?
 OFFSCREEN: Na, zumindest ein Allesfresser.
-OFFSCREEN: Sie hat die Zähne dafür.
+OFFSCREEN: Sie hat die ZÃ¤hne dafÃ¼r.
 
 [SFX: PTEUGH]
 
 TAMBERLANE: Erbsen!
-OFFSCREEN: Okay, okay! Du bekommst deine Erbsen, Süße.
+OFFSCREEN: Okay, okay! Du bekommst deine Erbsen, SÃ¼ÃŸe.
 
 BELFRY: Tu mir nur einen kleinen Gefallen, okay?
 TAMBERLANE: Erbsen, <i>bitte</i>,
@@ -18,5 +20,5 @@ TAMBERLANE: Mllleeehh...
 
 TAMBERLANE: <em>BAH!</em> Nein!! Mag das nich'!
 BELFRY: In Ordnung! Das hast du toll gemacht!
-BELFRY: Wie wär's jatzt mit Erbsen?
-OAKEWOOD: Vorläufiges Ergebnis: weder Insekten- noch Fleischfresser.
+BELFRY: Wie wÃ¤r's jatzt mit Erbsen?
+OAKEWOOD: VorlÃ¤ufiges Ergebnis: weder Insekten- noch Fleischfresser.

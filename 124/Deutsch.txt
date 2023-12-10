@@ -1,16 +1,18 @@
+***[OUTDATED]***
+
 OAKEWOOD: Milo?
 JASON: So ein Eierkopf, den wir in Piou aufgegabelt haben.
-JASON: Liest <i>drei Bücher am Tag.</i> Glaubt man's?.
+JASON: Liest <i>drei BÃ¼cher am Tag.</i> Glaubt man's?.
 
 OAKEWOOD: Ich <i>bin</i> ein Bibliothekar.
-JASON: Na, dann werdet ihr euch ja prächtig verstehen!
+JASON: Na, dann werdet ihr euch ja prÃ¤chtig verstehen!
 
 TAMBERLANE: Ich hab Hunger. Erbsen?
 OAKEWOOD: Wenn wir zuhause sind, Kleines.
 
 JASON: Grosser Scott! Es spricht!
 
-OAKEWOOD: Natürlich kann sie sprechen, du Trottel! Sieht sie für dich wie ein einfaches <i>Tier</i> aus?
+OAKEWOOD: NatÃ¼rlich kann sie sprechen, du Trottel! Sieht sie fÃ¼r dich wie ein einfaches <i>Tier</i> aus?
 JASON: Nunja, nein...
 
 OFFSCREEN: Onkel Claude?

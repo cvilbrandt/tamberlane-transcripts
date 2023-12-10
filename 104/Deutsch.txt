@@ -1,3 +1,5 @@
+***[OUTDATED]***
+
 BELFRY: Was will <em>die</em> denn?
 BRIAR: Komm schon, beiss nicht den Boten. Du weisst, wie sie sein kann.
 
@@ -5,10 +7,10 @@ BRIAR: Schau. Sie wollte nur, dass ich dich bitte, morgen auf dem Fest am Stand 
 
 BELFRY:  Dann richte Mum aus, dass sie, wenn ich ihr am Stand helfen soll, <em>selber</em> herkommen und mich fragen soll!
 
-BELFRY: Das ist doch wieder mal <i>typisch für sie!</i>
+BELFRY: Das ist doch wieder mal <i>typisch fÃ¼r sie!</i>
 BELFRY: Sich selbst zu fein sein und meine kleine Schwester vorschicken! 
 
-BELFRY: Konnte sich ja nicht selbst herbemühen, <i>oh nein!</i>
+BELFRY: Konnte sich ja nicht selbst herbemÃ¼hen, <i>oh nein!</i>
 
 BRIAR: Bel, <i>stop!</i>
 BRIAR: Echt jetzt!

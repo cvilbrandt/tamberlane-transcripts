@@ -1,3 +1,5 @@
+***[OUTDATED]***
+
 SFX: CLANG CLANG CLANG CLANG
 TESS: Ich will dich nur nicht wegen <i>einer</i> spontanen Entscheidung verlieren. 
 
@@ -5,11 +7,11 @@ SFX:CLANG CLANG CLANG
 BELFRY: Mum...
 
 SFX: CLANG CLANG CLANG CLANG 
-TESS: Ach herrje, die Eröffnungszeremonie. Ich muss los.
+TESS: Ach herrje, die ErÃ¶ffnungszeremonie. Ich muss los.
 BELFRY: Mum, warte! 
 
 SFX: CLANG CLANG CLANG
-BELFRY: Leine Sorge, okay? Wir werden nicht gehen müssen. Versprochen.
+BELFRY: Leine Sorge, okay? Wir werden nicht gehen mÃ¼ssen. Versprochen.
 
 SFX: CLANG CLANG CLANG
-TESS: Oh Belfry. Ich hoffe bei allen Göttern, dass du Recht behältst.
+TESS: Oh Belfry. Ich hoffe bei allen GÃ¶ttern, dass du Recht behÃ¤ltst.

@@ -1,9 +1,11 @@
-AVERY: Dummerweise werde ich morgen zu sehr mit den letzten Vorbereitungen für den Feststand beschäftigt sein, um Piper und Anthony zu den Docks zu bringen.
+***[OUTDATED]***
 
-AVERY: Du hättest nicht <i>zufällig</i> Zeit, sie hinzubringen, oder?
+AVERY: Dummerweise werde ich morgen zu sehr mit den letzten Vorbereitungen fÃ¼r den Feststand beschÃ¤ftigt sein, um Piper und Anthony zu den Docks zu bringen.
+
+AVERY: Du hÃ¤ttest nicht <i>zufÃ¤llig</i> Zeit, sie hinzubringen, oder?
 
 BELFRY: <i>Seufz</i>
-BELFRY: Würd ich ja, aber morgen früh muss ich schon meiner <i>Mum</i> mit dem Stand helfen.
+BELFRY: WÃ¼rd ich ja, aber morgen frÃ¼h muss ich schon meiner <i>Mum</i> mit dem Stand helfen.
 
 BELFRY: Obwohl...
 

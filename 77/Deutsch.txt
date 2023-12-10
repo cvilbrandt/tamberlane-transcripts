@@ -1,13 +1,15 @@
+***[OUTDATED]***
+
 PARSLEY: Wo ist deine Mutter?
 
 PARSLEY: Du verstehst nicht?
 
-PARSLEY: Deine Mutter! Du weiﬂt schon, warm und weich und gibt dir Essen and k¸mmert sich um dich? Trˆstet dich nach bˆsen Tr‰umen?
-PARSLEY: Verstehst mich nicht, oder? Ich bin furchtbar schlecht im Erkl‰ren..
+PARSLEY: Deine Mutter! Du wei√üt schon, warm und weich und gibt dir Essen and k√ºmmert sich um dich? Tr√∂stet dich nach b√∂sen Tr√§umen?
+PARSLEY: Verstehst mich nicht, oder? Ich bin furchtbar schlecht im Erkl√§ren..
 
 TAMBERLANE: Eh?
 
 PARSLEY: Oh, ah... Sorry, Tam, das zeichen kenn ich nicht.
 
 PARSLEY: Ah, armer kleiner Schatz.
-PARSLEY: Jetzt w¸nsch ich mir grade, Coriander w‰re nicht nach Three Rivers gezogen.
+PARSLEY: Jetzt w√ºnsch ich mir grade, Coriander w√§re nicht nach Three Rivers gezogen.

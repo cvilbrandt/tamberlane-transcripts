@@ -1,9 +1,11 @@
-BELFRY: Wie wär's damit: ich schreibe Mum einen Brief, den du ihr nur zu geben brauchst, und bist raus aus der Schusslinie?
-BRIAR: Du weisst, dass sie mich fragen wird, warum ich dich nicht versucht habe zu überreden?
+***[OUTDATED]***
+
+BELFRY: Wie wÃ¤r's damit: ich schreibe Mum einen Brief, den du ihr nur zu geben brauchst, und bist raus aus der Schusslinie?
+BRIAR: Du weisst, dass sie mich fragen wird, warum ich dich nicht versucht habe zu Ã¼berreden?
 
 BELFRY: Dann schreib ich dazu auch was in den Brief.
 
 BRIAR: Okay, einverstanden.
 
 BRIAR: Danke, Bel.
-BELFRY: Alles für meine kleine Schwester!
+BELFRY: Alles fÃ¼r meine kleine Schwester!

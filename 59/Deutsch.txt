@@ -1,3 +1,5 @@
+***[OUTDATED]***
+
 PENNY: <em>Piper.</em>
 PIPER: Penny.
 
@@ -10,4 +12,4 @@ PENNY: Warum hat sie so Angst vor dir?!
 PIPER: Oh, wahrscheinlich, weil ich sie in die Schlucht geschubst hab?
 
 PENNY: Du hast <em>WAS?!</em>
-PIPER: Nun, da dachte ich ja auch noch, es w‰r ein Geist.
+PIPER: Nun, da dachte ich ja auch noch, es w√§r ein Geist.

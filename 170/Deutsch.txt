@@ -1,15 +1,17 @@
-BELFRY: ICH BRING SIE NICHT WIEDER IN DEN WALD ZUR‹CK!
+***[OUTDATED]***
+
+BELFRY: ICH BRING SIE NICHT WIEDER IN DEN WALD ZUR√úCK!
 TESS: Nein, WEISS ich doch! Ich...
 
-TESS: Das kommt irgendwie falsch r¸ber.
+TESS: Das kommt irgendwie falsch r√ºber.
 BRIAR: Belfry, lass Mum ausreden.
 
-TESS: Bel, mein liebes Kind, versteh' doch, dass ich einfach nur....Angst habe. Angst, dass du zu einer Auﬂenseiterin wirst.
+TESS: Bel, mein liebes Kind, versteh' doch, dass ich einfach nur....Angst habe. Angst, dass du zu einer Au√üenseiterin wirst.
 
 BELFRY: MUM! Jeder hier LIEBT Tamberlane!
 
-TESS: Ich weiss! Ich weiss! Aber sollte sie mal krank werden, wie behandeln wir sie? Woher wissen wir, dass unsere Medizin kein Gift f¸r sie ist?
+TESS: Ich weiss! Ich weiss! Aber sollte sie mal krank werden, wie behandeln wir sie? Woher wissen wir, dass unsere Medizin kein Gift f√ºr sie ist?
 TESS: Sie ist kein normales Junges, Belfry. Und das ist gut so, bis auf... Die Wahrscheinlichkeit ist ziemlich gross, dass sie spezielle medizinische Hilfe braucht. 
 
-TESS: Wenn das geschieht, musst du dich entscheiden, ob du sie sterben l‰sst oder sie nach Drauﬂen bringst. 
+TESS: Wenn das geschieht, musst du dich entscheiden, ob du sie sterben l√§sst oder sie nach Drau√üen bringst. 
 BELFRY: Ach, Mum..!

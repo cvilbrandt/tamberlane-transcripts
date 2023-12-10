@@ -1,10 +1,12 @@
-OAKEWOOD: Nun, jetzt, wo das geklärt ist, würde ich euch beiden die Kleine den Rest des Tages entführen.
+***[OUTDATED]***
+
+OAKEWOOD: Nun, jetzt, wo das geklÃ¤rt ist, wÃ¼rde ich euch beiden die Kleine den Rest des Tages entfÃ¼hren.
 MILO: ...verarbeitet...emotionalen...Stress...sehr...schnell.
 
-BELFRY: Oh, Oakewood, das wäre wundervo...
+BELFRY: Oh, Oakewood, das wÃ¤re wundervo...
 TESS: Warum?
 
-OAKEWOOD: Du glaubst also nicht, dass ich euch einfach einen Gefallen tun möchte?
+OAKEWOOD: Du glaubst also nicht, dass ich euch einfach einen Gefallen tun mÃ¶chte?
 TESS: Nein.
 OAKEWOOD: Auch egal.
 
