@@ -1,13 +1,13 @@
-TIMMOTHY: Tess, aí você está!
+HONEY: Oh, Tess!
+TESS: Tarde, Honey.
 
-TIMMOTHY: Ah, sem bolinhos hoje?
-TIMMOTHY: Suponho que <em>foi</em> por que adiantamos nosso encontro...
+HONEY: Como está a Tamberlane? Alguma notícia?
 
-SCOTT: Mano, a Tamberlane está no hospital.
-TIMMOTHY: <em>QUÊ?!</em> É por isso que mudamos de horário?! Me desculpa!
+TESS: Ainda não.
 
-TESS: Tudo bem, Timmothy.
+HONEY: Oh, meu bem. Como você está?
 
-TIMMOTHY: Oh, Tess! Tem certeza? Como elá está? O quê aconteceu? Aqui, talvez um pouco de chá vai te animar?
+TESS: Não importa. Temos um trabalho para fazer e eu estou pronta pra ter certeza que vai ser feito certo.
 
-TESS: Timmothy, eu disse que tá <em>tudo bem</em>. Eu <em>só</em> quero trabalhar logo.
+HONEY: Só nos avise se tem alguma coisa que nós podemos fazer, certo?
+TESS: Certo... Obrigada.

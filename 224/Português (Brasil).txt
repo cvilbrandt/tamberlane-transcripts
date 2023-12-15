@@ -1,23 +1,20 @@
-BELFRY: Por causa das criaturas do Exterior serem manchadas, elas podem trabalhar com ferramentas que não podemos.
+***[OUTDATED]***
 
-BELFRY: Então elas fazem nosso encanamento ir. E nossa água corrente!
+BELFRY: Ninguém acha que você é um monstro. O Exterior é só... um bicho-papão.
+TAMBERLANE: Então não é real?
+BELFRY: Não, é real. É só... o Exterior é só um lugar, boneca.
 
-TAMBERLANE: E os remédios.
+TAMBERLANE: Mas e as Manchas?
+BELFRY: As Manchas também são reais, eu acho. Ou a Vovó Tess diz que são. Eu só não acho que é desse jeito.
 
-BELFRY: Muito bem!
+TAMBERLANE: Não faz monstros?
+BELFRY: Bem, eu nunca vi um, pelo menos.
 
-BELFRY: Sim, no Exterior eles tem remédios melhores e máquinas para ajudar criaturas doentes.
+BELFRY: Eu não sei exatamente o que faz o Exterior tão perigoso. Eu sei que é importante ter cuidado; senão não teriamos tantas regras sobre ele! Mas eu sei algumas outras coisas sobre o Exterior!
+TAMBERLANE: Tipo oquê?
 
-BELFRY: Mas ir pra lá e usar essas coisas ainda mancha elas.
+BELFRY: O Exterior é na verdade realmente importante para Silver Sage! É por causa do exterior que temos alguns serviços importantes aqui em Treehollow.
+TAMBERLANE: Como oquê?
 
-TAMBERLANE: Então é por isso que você tem que escolhê se você ficar muito doente.
-
-BELFRY: Exatamente.
-
-BELFRY: Mas se você for, mesmo se você não poder voltar pra casa, você ainda pode ajudar sua família!
-
-BELFRY: Você pode ajudar a fazer os banheiros funcionarem, por exemplo.
-
-BELFRY: Por isso que mandamos pessoas ruins lá, também. Desse jeito elas podem melhorar ajudando!
-
-BELFRY: Isso faz sentido?
+BELFRY: Como... água encanada! Se não fosse pelo Exterior, nós teriamos que fazer cocô fora de casa!
+TAMBERLANE: Eca!

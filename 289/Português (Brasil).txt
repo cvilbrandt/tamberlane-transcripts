@@ -1,17 +1,19 @@
-TAMBERLANE: Você <em>machucou</em> a Piper! Machucar criaturas é RUIM!
-RAFEIRO: Eu?? A Piper machuca criaturas <em>toda hora!</em>
-RAFEIRO: Você só não tá nem aí por quê ela não enche <em>você</em> mais!
-TAMBERLANE: Ela não faz filhotes <em>chorarem!!</em> Eu só quero que você <em>PARE!!</em>
-RAFEIRO: <em>Óbvio!</em> Eu vi você fazendo um punho com a sua pata!
+***[OUTDATED]***
 
-RAFEIRO: Ooo, Eu sou a <em>Tamberlane!</em> Eu não machuco <em>ninguém!</em>
+SFX: KRNCHKRNCHHK
 
-RAFEIRO: <em>Mó besteira!</em>
+SFX: KRNCHKRNCHKRNCHH
+RAFEIRO: Masoq-
 
-TAMBERLANE: Bem, você tinha que PARAR!
-RAFEIRO: EU PAREI! Você ainda ia ME BATER!
-TAMBERLANE: PEDE DESCULPA!
-RAFEIRO: Oh, você quer que eu <em>peça desculpa??</em>
+RAFEIRO: Ah, volta pra cama! A gente num tá machucando ninguém!
+KIRA: Agh! <em>Qual é</em> seu problema??
+TAMBERLANE: Você não pediu desculpa!
 
-KIRA: Deixa ela, ela é esquisita! Bora dar o pé antes que a gente se encrenque!
-JONAS: É, quem se importa com oque ela pensa?
+KIRA: Cai na real!
+JONAS: É, os adultos já castigaram a gente!
+
+TAMBERLANE: <em>NÃO.</em>
+KIRA: Sai fora!
+TAMBERLANE: Você não se <em>desculpou!</em>
+
+TAMBERLANE: Você tem que se <em>DESCULPAR!</em>

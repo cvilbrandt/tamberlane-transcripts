@@ -1,8 +1,17 @@
-OAKEWOOD: Nun?
-OAKEWOOD: Worauf wartest du, Federhirn?
+***[OUTDATED]***
 
-OAKEWOOD: Hilf mir, etwas relevante Mythologie zu finden!
-MILO: J-Ja, sir!
-OAKEWOOD: Vielleicht haben wir Glück und finden endlich ein paar <em>Hinweise</em> zu unserem Rätsel.
+MILO: W-Wie dem auch sei. Ich versprech dir, dass ich es nur während meiner Pause gelesen habe, Onkel.
+MILO: Tut mir Leid deswegen.
+OAKEWOOD: Blödsinn. Dein Buch hat mich auf eine Idee gebracht.
 
-OAKEWOOD: Namentlich, was <em>ist</em> Tamberlane?
+MILO: I- Ich hab geholfen?!
+OAKEWOOD: Was? Natürlich hast du geholfen.
+OAKEWOOD: Glaubst du etwa, du wärst die ganze Zeit nur eine Last? Sei nicht dumm.
+
+OAKEWOOD: Die Sache ist die, wir haben das Mysterium über Tamberlane die ganze Zeit nur aus dem Blickwinkel der Biologie betrachtet.
+
+OAKEWOOD: Dein Geschwafel hat mich jedoch daran erinnert, dass es weitere, weniger wissenschafftliche Betrachtungsweisen gibt, die wir noch erkunden müssen.
+OAKEWOOD: Namentlich, Mythologie.
+
+MILO: Ich hab geholfen??
+OAKEWOOD: Och, meine Güte, Milo!

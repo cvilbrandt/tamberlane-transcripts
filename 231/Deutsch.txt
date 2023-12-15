@@ -1,18 +1,12 @@
-CALLIE: Es ist nur so... dass Jener Ort im Unterricht aufkam.
-BELFRY: Oh, nein...
-CALLIE: Und ich hatte versucht, das Thema davon wegzulenken, aber Jentzen war... eindringlich.
+***[OUTDATED]***
 
-CALLIE: Er hatte sich darüber aufgeregt, dass ich nicht... offener war.
-CALLIE: Und ich...
+JASON: Hey, Callie, was ist eigentlich mit Jentzen passiert?
 
-CALLIE: ich habe...
-CALLIE: unangemessen reagiert.
+BELFRY: Oh, ja! Tamberlane hatte etwas in der Art erwähnt.
 
-CALLIE: Ich bin nicht stolz darauf. Wir haben vor den Kindern gestritten!
-CALLIE: Die Armen waren so aufgewühlt!
+CALLIE: Es... Es ist eine lange Geschichte.
+JASON: Hey, es wird eine lange Fahrt zu den Klippen! Warum erzählst du sie uns nicht?
 
-CALLIE: Aber hat mich einfach ignoriert! Und die Edikte! Wir können darüber nicht im Unterricht sprechen!
-CALLIE: Wenn er mich nur zuerst privat darauf angesprochen hätte...
+BELFRY: Jason hat Recht. Und die Kinder werden sich darüber unterhalten...
 
-CALLIE: Ich wusste nicht, was ich tun sollte. Ich weiß es immer noch nicht.
-CALLIE: Ich wünsche, es wäre einfach nie passiert.
+CALLIE: Na gut...

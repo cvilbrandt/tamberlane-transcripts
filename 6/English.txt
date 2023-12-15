@@ -5,13 +5,13 @@ BELFRY: I forgot the oven was hot.
 [SFX: ding-a-ling!!]
 
 BADGER: That must be Coriander.
-BADGER: Walter, can you serve her up while I take care of Belfry's paws?
-WALTER: Mmnhm.
+BADGER: Walter, can you cover her while I take care of Belfry's paws?
+WALTER: Спасибо, Tess, love.
 
-BADGER: Let's get you bandaged up, you poor waif.
-BELFRY: Thanks, Mama Tess.
+TESS: Now, let's get you bandaged up, you poor waif.
+BELFRY: Thanks, Mum.
 
-OFFSCREEN: AINSLEY!!
+OFFSCREEN: ***AINSLEY!!***
 
 ANTHONY: Piper, shouldn't we...
-PIPER: Shut up, Anthony.
+PIPER: Shut it, Anthony.

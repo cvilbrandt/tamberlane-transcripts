@@ -1,12 +1,12 @@
-<p>SFX&#160;: krrr krrr krrr</p>
+TESS&#160;: Claude&#160;! Quel est ton **probl&egrave;me?!**
 
-<p>BRIAR&#160;: &Ccedil;a ira, Bel.<br>
-BELFRY&#160;: Mm...</p>
+TESS&#160;: Tu ne veux vraiment pas me parler m&ecirc;me dans un moment *pareil&#160;?&#160;!*
+TESS&#160;: **Pour l'amour du ciel, Claude&#160;! C'était *il y a vingt ans&#160;!***
 
-<p>BRIAR&#160;: Respire juste profond&eacute;ment.<br>
-BELFRY&#160;: Je ne pense pas que <em>ma respiration</em> r&eacute;soudra quoi que ce soit.</p>
+TAMBERLANE&#160;: Onc&#160;? Q-qu'est-ce qui ne va pas&#160;?
+TAMBERLANE&#160;: Je peux aider&#160;?
 
-<p>BRIAR&#160;: &Ccedil;a <em>va</em> pourtant t'aider &agrave; te calmer.</p>
+SFX&#160;: hnk
 
-<p>BELFRY&#160;: Comment puis-je &ecirc;tre <strong><em>CALME</em></strong> quand je <strong><em>RUINE</em></strong> tout ce que je touche&#160;?&#160;!<br>
-BRIAR&#160;: Oh, Belfry...</p>
+TESS&#160;: Qu'est-- *Où diable vas-tu&#160;?&#160;!*
+TESS&#160;: ***CLAUDE&#160;!!!***

@@ -1,15 +1,18 @@
-JASON: De qualquer forma.
+***[OUTDATED]***
 
-JASON: Vai provavelmente estar tudo bem, Callie.
-JASON: Só bate um papo com o Conselho assim que puder.
-JASON: Se a Belfry está certa, vai tudo passar.
+JASON: Escuta a Belfry. Ela saberia melhor que algum lobo do mar sobre o Conselho de Treehollow.
+BELFRY: Jason, você tem 30 anos.
+JASON: Meu ponto continua válido.
 
-CALLIE: Sim, absolutamente. Eu vou fazer isso imediatamente após nosso retorno.
+JASON: Eu só quero fizer pra você tomar cuidado.
 
-CALLIE: Eu não tinha...considerado...como ia refletir pro Jentzen quando eu fiz minha denúncia.
-CALLIE: Eu só estava seguindo o protocolo...
+JASON: Nos outros lugares que eu naveguei para, aquele lugar não é uma coisa pra se brincar.
+JASON: E na minha experiência?
 
-BELFRY: É só um mal-entendido. Eu prometo.
-JASON: É, vai ficar tudo bem.
-JASON: Não se preocupe.
-CALLIE: Obrigada...
+JASON: Conselhos e autoridades sempre se inclinam a serem <em>pesados</em> no assunto.
+
+JASON: Ah, mas não deixe eu te assustar. Eu tenho certeza que vai ficar tudo bem--
+SFX: PLAP
+
+JASON: <em>PIPER!!</em>
+PIPER: <em>DESCULPA, PAI!!</em>

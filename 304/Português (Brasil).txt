@@ -1,17 +1,14 @@
-TESS: Oh, sua bobona, eu devia saber que você ia quebrar outro!
-BELFRY: Não fui eu! Estava quebrado quando eu peguei!
+***[OUTDATED]***
 
-TERRA: De novo não, Belfry!
-MAYA: Desse jeito, você vai ser mais lama do que morcego!
-BELFRY: Mas o pedregulhos são irregulares. Qualquer um podia ter...
+SFX: <em>UAAAAAH</em>
 
-WALTER: Ahhh, eu não devia ter deixado você cortar.
-BELFRY: V-você tá certo.
+JASON: Kira...?
+JASON: EI!
 
-TAMBERLANE: Eu vou ser mais feliz longe de você, Mamãe!
-TAMBERLANE: Você sabe isso, certo?
+KIRA: Senhor Jason! Vem logo! !
+JASON: Mas que diabos 'cê tá fazendo fora da cama?!
 
-BELFRY: Eu sei.
-BELFRY: <em>Eu sei!</em>
+KIRA: Isso não importa!
+KIRA: <em>Por favor!</em>
 
-FORA: BELFRY!
+JASON: O que aconteceu?

@@ -1,12 +1,13 @@
-BELFRY: Was genau meinst du mit "Kinderlaune"?
-NORA: Ach, du weisst schon...
+***[OUTDATED]***
 
-NORA: Tamberlane hat sich in den letzten anderthalb Jahren sehr gut in Treehollow eingelebt.
-NORA: Sie entwickelt jetzt sicherlich langsam ihre eigene Identität.
+NORA: Mach dir keine Sorgen, Schätzchen. Tamberlane wird sich schon beruhigen, dann kannst du sie fragen.
 
-NORA: Während sie älter wird, wird sie auch unabhängiger werden, Belfry.
+BELFRY: Du hast nicht den <i>Hass</i> gesehen, mit dem sie mich angeschaut hat, Nora!
+BELFRY: Ich muss etwas <i>schreckliches</i> getan haben... Sie wird mir nie verzeihen!
 
-BELFRY: Ja, natürlich wird sie das, aber noch nicht <i>jetzt!</i> Zudem ist sie was <i>besonderes</i>! Sie <i>braucht</i> mich!
-NORA: Sie wird dich immer brauchen, du dumme Gans.
+NORA: Sei nicht albern, Bel.
+NORA: Sie liebt dich, genau wie du sie liebst.
 
-NORA: Aber sie wird auch ihr eigenes Leben leben müssen.
+NORA: Ich würde sagen, dass ist einfach typische Kinderlaune.
+
+NORA: Mach dir nichts draus. Das ist nur ein kleiner Stolperstein auf eurem gemeinsamen Weg.

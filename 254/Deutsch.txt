@@ -1,12 +1,18 @@
-CUR: Finden wir einen <em>besseren</em> Zeitvertreib.
-KIRA: <em>Oder...</em>
+***[OUTDATED]***
 
-KIRA: Ich habe die <em>beste</em> Idee.
+CUR: Habt ihr das gehört, Leute?
+KIRA: Ja, die haben uns deine Idioten genannt!
 
-CUR: Was für eine, Kumpel?
-KIRA: Die jagen Geister, richtig?
+KIRA: Ich bin mein <i>eigener</i> Idiot, danke vielmals.
 
-CUR: Ja, als ob das denen was nützen wird.
-JONAS: Tchja, Geister <em>gibts nicht.</em>
+CUR: Was soll's. Wen interessiert schon ihre blöde "Geisterjagd"?
 
-KIRA: Oh, es gibt sie <em>sehr wohl.</em>
+KIRA: Mann, wir werden nie <em>nirgendwo</em> eingeladen.
+
+JONAS: Richtig wäre "irgendwo".
+KIRA: Häh?
+
+JONAS: Richtig heißt es "wir werden nie <i>irgend</i>wo eingeladen".
+
+KIRA: Klappe, Jonas.
+JONAS: Aggghhh!!! <em>Kira!!!</em>

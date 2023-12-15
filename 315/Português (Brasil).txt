@@ -1,8 +1,13 @@
-MILO: Tio?
-OAKEWOOD: ...vai sem mim.
+***[OUTDATED]***
 
-MILO: Como assim você não vai?
-MILO: Tio Claude, o que você está olhando-
+MILO: Desculpa, é a Tamberlane.
+MILO: Ela está no hospital.
 
-OAKEWOOD: <em>EU DISSE VAI SEM MIM!!!!</em>
-MILO: <em>AAGGH!!</em>
+OAKEWOOD: Quê?
+
+MILO: Aparentemente houve um acidente no passeio.
+MILO: Ela e outro filhote caíram no rio.
+
+MILO: Tá ruim, Tio.
+
+MILO: Vamos!

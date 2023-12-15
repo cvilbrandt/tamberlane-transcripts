@@ -1,14 +1,16 @@
-MILO: Aber ich <i>bin</i> kein Anf‰nger mehr! Das w‰re der Schlussstein f¸r meine Promotion!
-OAKEWOOD: Anf‰nger.
+***[OUTDATED]***
+
+MILO: Aber ich <i>bin</i> kein Anf√§nger mehr! Das w√§re der Schlussstein f√ºr meine Promotion!
+OAKEWOOD: Anf√§nger.
 
 MILO: Ich recherchiere zu diesen Themen schon seit <i>Jahren!</i>
-OAKEWOOD: Anf‰nger!
+OAKEWOOD: Anf√§nger!
 
-MILO: <i>Bitte</i> gim mir eine Chance, Onkel Claude! Ich verspreche, ich werde sie nicht bel‰stigen!
+MILO: <i>Bitte</i> gim mir eine Chance, Onkel Claude! Ich verspreche, ich werde sie nicht bel√§stigen!
 
-OAKEWOOD: Aus was <i>genau</i> w¸rde diese Forschung bestehen?
+OAKEWOOD: Aus was <i>genau</i> w√ºrde diese Forschung bestehen?
 
-MILO: Beobachtung, haupts‰chlich?
+MILO: Beobachtung, haupts√§chlich?
 
-OAKEWOOD: HAUPTSƒCHLICH?!
+OAKEWOOD: HAUPTS√ÑCHLICH?!
 MILO: A-AUSSCHLIESSLICH!

@@ -1,16 +1,18 @@
-BELFRY: Tamberlane!
+***[OUTDATED]***
 
-JASON: Kira, geh und bring Cur zurück zum Lager bevor ihr euch noch den Schwanz abfriert.
-JASON: Sagt Callie, sie soll sicherstellen, dass das Feuer warm und gemütlich ist, okay?
-KIRA: Okay!
+BELFRY: <em>TAMBERLANE!</em>
+FINN: Ruft, wenn ihr uns hören könnt!
+NORA: Jonas?
+KIRA: Sie waren hier langgelaufen...
 
-NORA: Jonas!
-FINN: Tamberlane!
+BELFRY: Beeilung!!
+KIRA: Äh...
 
-NORA: <em>Bitte</em>, könnt ihr uns hören?!
-NORA: Jonas!
-NORA: Wo seid ihr?!
-BELFRY: Tamberlane!
+KIRA: Es ging...
+KIRA: Ich <em>glaub</em> es ging...
+KIRA: O-oder doch...
 
-ABSEITS: HAB SIE GEFUNDEN!
-BELFRY: TAMBERLANE!
+NORA: Atme tief durch, Kira. Mach dir keine Sorgen.
+
+KIRA: I- Ich glaub, ich erkenn die Äste da wieder...
+KIRA: Vielleicht da lang?

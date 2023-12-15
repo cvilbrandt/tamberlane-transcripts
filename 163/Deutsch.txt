@@ -1,13 +1,15 @@
-MILO, TAMBERLANE, OAKEWOOD: Von Drauﬂen?
+***[OUTDATED]***
+
+MILO, TAMBERLANE, OAKEWOOD: Von Drau√üen?
 
 OAKEWOOD: Das ist absoluter Quatsch.
 
-TAGG: Bevor du mich L¸gen strafst, lass mich ausreden. Drauﬂen ist etwas seltsames im Gange.
+TAGG: Bevor du mich L√ºgen strafst, lass mich ausreden. Drau√üen ist etwas seltsames im Gange.
 
-DANGER: Ganze Gebiete werden abgeriegelt oder unter Quarant‰ne gestellt. Niemand will sagen, warum. 
+DANGER: Ganze Gebiete werden abgeriegelt oder unter Quarant√§ne gestellt. Niemand will sagen, warum. 
 
 TAGG: Und Bewohner von Follybrook verschwinden spurlos.
 
-OAKEWOOD: Ach komm schon! Das hat doch alles nichts mit Tamberlane zu tun! Quarant‰ne? Vermisste Leute? Das ist totaler Schwachsinn!
+OAKEWOOD: Ach komm schon! Das hat doch alles nichts mit Tamberlane zu tun! Quarant√§ne? Vermisste Leute? Das ist totaler Schwachsinn!
 
 TAGG: Du <em>willst</em> mir nur nicht glauben! 

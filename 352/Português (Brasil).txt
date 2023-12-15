@@ -1,17 +1,12 @@
-BRIAR: Você não <em>arruína</em> tudo
-BELFRY: <b>Eu fiz uma decisão!</b>
+SFX: klmp klmp klmp
 
-BELFRY: O pai estava certo todo esse tempo. Eu tenho que me responsabilizar mais por meus erros!
-BELFRY: Então daqui em diante eu vou ser mais responsável. Eu vou me certificar que eu nunca mais vou fazer um erro de novo!
+BRIAR: Vai ficar tudo bem, Bel.
+BELFRY: Mm...
 
-BELFRY: Se eu pensar muito bem sobre tudo que eu fizer antes de eu fazer, eu com certeza vou pegar os erros antes de fazer eles!
-BELFRY: Mas eu me esqueço das coisas quando eu fico emocionada. Isso é um problema!
-BRIAR: Belfry...
-BELFRY: Então daqui em diante, quando eu estiver emocionada, eu simplesmente vou me trancar no meu quarto!
-BELFRY: Assim eu <em>nunca mais</em> vou machucar alguém!
+BRIAR: Só respira fundo.
+BELFRY: Eu não acho que <em>eu respirar</em> vai consertar alguma coisa.
 
-BRIAR: Ah pelo amor de...
-BRIAR: Belfry, <em>já BASTA!</em>
+BRIAR: Mas vai te ajudar a se acalmar.
 
-BRIAR: <em>Para de se desesperar!</em>
-BRIAR: <em>Isso não tá ajudando ninguém!</em>
+BELFRY: Como é pra eu estar <em><b>CALMA</b></em> quando eu <em><b>ARRUÍNO</b></em> tudo que eu toco?!
+BRIAR: Oh, Belfry...

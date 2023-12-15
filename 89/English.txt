@@ -1,6 +1,6 @@
 TAMBERLANE: Ah!! Fuffy!
 
-VOICE: Tamberlane!!
+OFFSCREEN: Tamberlane!!
 
 BELFRY: Tamberlane, I'm coming!
 
@@ -10,4 +10,4 @@ BELFRY: Thank goodness you're safe! I've been so worried!!
 
 TAMBERLANE: Yah!
 
-BELFRY: <em>aaAAWAAAGH!!</em>
+BELFRY & TAMBERLANE: ***aaAAWAAAGH!!***

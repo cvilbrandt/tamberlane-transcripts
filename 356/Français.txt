@@ -1,18 +1,16 @@
-<p>BRIAR&#160;: J'ai juste entendu<br />
-BELFRY&#160;: En fait, qu'est-ce que tu sais &agrave; propos de <strong><em>QUOI QUE CE SOIT</em></strong> de tout &ccedil;a&#160;?!<br />
-BELFRY&#160;: Tu n'as jamais eu &agrave; t'occuper de quoi que ce soit dans ta <strong><em>VIE&#160;!</em></strong><br />
-BRIAR&#160;: Je- <em>quoi ?!</em></p>
+<p>BRIAR&#160;: Je sais que tu essayes, Belfry.<br>
+BRIAR&#160;: Ce n'est pas grave de ne pas aller bien.<br>
+BRIAR&#160; Mais tu ne peux pas mettre &ccedil;a sur le dos de Tamberlane.</p>
 
-<p>BRIAR&#160;: Ce n'est <strong><em>PAS</em></strong> ce que je<br />
-BELFRY&#160;: Nous ne pouvons pas tous &ecirc;tre Mademoiselle Parfaite&#160;! La <strong><em>pr&eacute;f&eacute;r&eacute;e de maman et papa !!</em></strong><br />
-BRIAR&#160;: BELFRY&#160;!</p>
+<p>BRIAR&#160;: Tu te souviens comme maman le faisait&#160;?</p>
 
-<p>BEFFRO&#160;: Eh bien, que sais-tu de moi, de Tamberlane, ou du fait d'&ecirc;tre <strong><em>m&egrave;re&#160;?</em></strong><br />
-BELFRY : <strong><em>RIEN !</em></strong><br />
-BELFRY&#160;: Et tu ne le sauras <strong><em>JAMAIS</em></strong> jusqu'&agrave; ce que tu <strong><em>Grandisses&#160;!</em></strong></p>
+<p>BRIAR&#160;: Elle se mettait tellement <em>en col&egrave;re</em> et ensuite elle nous rejetait la faute.</p>
 
-<p>SFX&#160;: hahh hh haah hh hha h</p>
+<p>BRIAR&#160;:&#160;Tu sais que j'aime maman, mais elle disait toujours qu'elle &eacute;tait si col&eacute;rique parce que tu &eacute;tais difficile &agrave; &eacute;lever.<br>
+BRIAR&#160;:&#160;Mais elle <em>t'a utilis&eacute;e</em> pour &eacute;viter toute responsabilit&eacute;. Son caract&egrave;re n'a jamais &eacute;t&eacute; de ta faute.</p>
 
-<p>SFX&#160;: hha haah hh hahh h h<br />
-BRIAR&#160;: L&agrave;.<br />
-BRIAR&#160;: Voil&agrave; c'est exactement ce que je veux dire.</p>
+<p>BRIAR&#160;: <em>Tu</em> ne peux pas &ecirc;tre comme &ccedil;a, Belfry&#160;! Tu ne peux pas reporter tes probl&egrave;mes sur Tamberlan&#160;!<br>
+BRIAR&#160;: Elle en subit d&eacute;j&agrave; trop comme &ccedil;a !<br>
+BRIAR&#160;: Je parie que <em>ton stress</em> est la raison pour laquelle elle t'a repouss&eacute;e &agrave; Bally Bluffs&#160;!</p>
+
+<p>BELFRY&#160;: <em>Qu'est-ce que <strong>tu</strong> pourrais savoir de ce qui s'est pass&eacute; &agrave; Bally Bluffs&#160;?!</em></p>

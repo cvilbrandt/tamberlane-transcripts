@@ -1,23 +1,27 @@
 OAKEWOOD: Allow me to introduce my godson, Milo Jamiton of Tangled Branch.
-MILO: Ah... It's Milo Academique of Lumiens now. Terribly sorry.
+MILO: Ah... It's Milo Academique of Lumiens now.
+MILO: The one in Piou.
+MILO: Terribly sorry.
 
-OAKEWOOD: Ah, right. You have a career now. (sort of)
+OAKEWOOD: Ah, right. You have a career now.
+OAKEWOOD: (Sort of.)
 
 OAKEWOOD: Milo, this lot is... Well.
 OAKEWOOD: That's Belfry.
-BELFRY: Wow! I didn't even know Oakewood had family!
+BELFRY: Wow! I didn't even know Oakewood *had* family!
 OAKEWOOD: Tess.
 TESS: Nice... to meet you.
 OAKEWOOD: Walter.
-WALTER: It's a pleasure.
-OAKEWOOD: And Briar. She's not much younger than you.
+WALTER: It is a pleasure.
+OAKEWOOD: And Briar.
+OAKEWOOD: She's not much younger than you.
 BRIAR: Hey.
 
+[SFX: floof]
 MILO: Hey!
-FX: Floof
 
-FX: Doki doki
-FX: Tip
+[SFX: Doki doki]
+[SFX: Tip]
 
 OAKEWOOD: That's quite enough preening about, young man.
 MILO: Huh?

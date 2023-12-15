@@ -1,11 +1,13 @@
+***[OUTDATED]***
+
 WALTER: Die Welt ist kompliziert, kleine Briar.
 
-WALTER: Leute mögen Dinge nicht, die sie nicht verstehen.
+WALTER: Leute mÃ¶gen Dinge nicht, die sie nicht verstehen.
 
 WALTER: Manchmal bringt ein Segen Spannungen mit sich.
 
 WALTER: Aber manchmal sind Spannungen auch ein Segen.
 
-WALTER: Keine Sorge, Schätzchen, die kriegen sich wieder ein.
+WALTER: Keine Sorge, SchÃ¤tzchen, die kriegen sich wieder ein.
 BRIAR: Das hoffe ich. 
-WALTER: Das <i>weiss</i> ich. Die beiden lieben sich sehr. Manchmal können sie es nur nicht so gut zeigen.
+WALTER: Das <i>weiss</i> ich. Die beiden lieben sich sehr. Manchmal kÃ¶nnen sie es nur nicht so gut zeigen.

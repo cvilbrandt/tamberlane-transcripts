@@ -1,22 +1,24 @@
-PARSLEY: Well, it's your luck day, Fall ol' chap! I'll accept your payment.
+PARSLEY: Well, it's your lucky day, Voltair ol' chap!
+PARSLEY: I'll accept your trade.
 
-PARSLEY: How's Friday for dance lessons, then?
-FALLON: Perfect! Thanks, Parse!
+PARSLEY: How's Friday for swim lessons, then?
+VOLTAIR: Perfect! Thanks, Parse!
 
-PARSLEY: Well, if it isn't the lovely Marie!
+PARSLEY: Mar-Mar! Good to see you, luv!
 
-PARSLEY: Who's this you've brought then?
-MARIE: That's my new friend, Tamberlane! They don't talk much, I'm afraid.
+PARSLEY: What's this you've brought, then?
+MARIE: That's my new friend, Tamberlane!
+MARIE: They're a bit shy, but they need your help.
 
-PARSLEY: Don't be afraid, luv!
-PARSLEY: Now what's that you need?
+PARSLEY: Don't be afraid, little Tamberlane!
+PARSLEY: How can I help?
 
 TAMBERLANE: Ummm...
 
 TAMBERLANE: ...umumum...
 
-TAMBERLANE: <em>awuhmumuww</em>
+TAMBERLANE: *awuhumumuww*
 
-PARSLEY: Oh, darling, it's okay!
-OFFSCREEN: TAMBERLANE!
+PARSLEY: Oh, don't fret, my dove-
+OFFSCREEN: ***TAMBERLANE!***
 [SFX: AWUUWUUWUWAAA]

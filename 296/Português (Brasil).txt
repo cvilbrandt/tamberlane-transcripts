@@ -1,32 +1,27 @@
-SFX: <em>KKKKKKKRRRRKKK</em>
-TAMBERLANE: De barriga pra b-baixo?
+***[OUTDATED]***
 
-JONAS: Aham!
+KIRA: TAM! SAI DO GELO!
+RAFEIRO: SAI DO GELO!!!
+
+TAMBERLANE: Tá bem!
+SFK: <em>Krrrkkkk</em>
+TAMBERLANE: tá bem tá bem tá bem...
+
+SFX: <em>KKRAKKK</em>
+TAMBERLANE: Aaaa!!!
+FORA: <em>PARA!</em>
+
+JONAS: PARA PARA PARA! Não... se levanta!
 SFX: <em>ofega</em>
-JONAS: Que nem...
-JONAS: ...uma...
-JONAS: ...estrela do mar!
-SFX: KKKKRRRRKKKKK
+RAFEIRO: Jonas, o que você tá fazendo?!
 
 SFX: <em>ofega</em>
-JONAS: Minha mãe...
-JONAS: me disse...
-JONAS: que é assim...
-JONAS: ...que você sai do gelo.
-SFX: <em>KKKrKK</em>
-
-JONAS: Engatinha...
-JONAS: ...de barriga pra baixo!
+JONAS: Deita...
+JONAS: ...de...
+JONAS: ...barriga pra baixo!
 SFX: <em>ofega</em>
-JONAS: Tudo bem. Vai ficar...
-JONAS: tudo bem.
-SFX: <em>KKKKKKrrrrrKKK</em>
+FORA: Jonas, volta aqui!! Você precisa da sua bombinha, mano!!
 
-FORA: JONAS! VOLTA AQUI!
-JONAS: Vai ficar tudo bem...
-SFX: <em>KKKKrRrKKK</em>
-FORA: VOCÊ PRECISA DA SUA BOMBINHA! VOCÊ VAI SFIXIAR!!!
-
-SFX: <em>OFEGA!</em>
-JONAS: Vai-!
-SFX: <em>KRAAAKKK</em>
+JONAS: E extende...
+JONAS: ...suas...
+JONAS: ...patas!

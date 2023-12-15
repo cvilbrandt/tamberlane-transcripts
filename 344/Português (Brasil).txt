@@ -1,20 +1,19 @@
-BRIAR: Ei папочка. Alguma notícia?
-WALTER: Hmm. Parece que o Jonas vai sobreviver.
-WALTER: Boas notícias, mas eu ainda não ouvi nada da Tamberlane.
+GENEVIEVE: Você não pode estar sendo <em>sério!</em>
+GENEVIEVE: Ele é meu <em>filho!</em>
 
-BRIAR: Bem, isso é <em>alguma</em> boa notícia.
-BELFRY: E se...
-BELFRY: E se ela estiver doente demais?
-WALTER: Vamos, Belfry...
+HONEY: Mais razão para sermos justos.
+HONEY: Não devemos ter <em>nenhuma</em> execeção para membros do Conselho ou seus familiares.
 
-BELFRY: E se eles não tiverem achado uma forma de tratar ela? Já fazem horas! Ela morreu? Será que eu não vim rápido o bastante?
-WALTER: Não pense sobre isso!
+TESS: Mas nós arriscaremos arrasar uma família por algumas <em>perguntas?</em>
+TESS: Nós tomamos conta do Conselho para parar julgamentos como esses. Na minha opinião, deviamos <em>mudar</em> os Éditos.
 
-BELFRY: Como que eu posso só <em>não pensar sobre?!</em> Minha filha está <em>MORRENDO!</em>
-WALTER: Você não <em>sabe</em> disso! Tudo que você <em>sabe</em> é que ela está em cuidado médico!
-BELFRY: Mas eu estou preocupada que
-WALTER: Preocupação é um desperdício de imaginação. Vamos lidar com isso <em>quando</em> vier.
+TIMMOTHY: Eu entendo seu desejo, Tess. Claro que eu entendo. Mas...
+TIMMOTHY: Você sabe tão bem quanto eu que os Éditos são do Parlamento. Eles são <em>sagrados.</em>
+TIMMOTHY: Mudar eles não está dentro de nosso poder.
 
-NORA: Padeiros?
+SCOTT: E eu devo te lembrar, Tess...
+SCOTT: Quando você colocou sua assinatura no Conselho, você jurou defender os Éditos.
+SCOTT: Assim como nós todos.
 
-NORA: A Tamberlane está pronta para visitantes.
+TESS: ...para o julgamento, então.
+GENEVIEVE: Sim... para o julgamento.

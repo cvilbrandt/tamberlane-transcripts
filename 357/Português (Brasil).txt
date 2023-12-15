@@ -1,16 +1,18 @@
-BELFRY: ...Quê?
-BRIAR: Bem. Não posso dizer que não tentei.
+BRIAR: Eu só ouvi
+BELFRY: Na verdade, o quê você saberia sobre <em>QUALQUER</em> coisa disso?!
+BELFRY: Você nunca teve que tomar conta de nada na sua <em>VIDA!</em>
+BRIAR: Eu- <em>quê?!</em>
 
-BELFRY: Espera, onde você tá indo? A gente não acabou ainda!
-BRIAR: <em>Você</em> ainda não acabou. Eu acabei faz tempo.
+BRIAR: Isso <em>NÃO</em> é o que eu
+BELFRY: Nem todo mundo pode ser a Senhorita Perfeita!! <em>Preferida</em> do Papai e da Mamãe!!
+BRIAR: BELFRY!
 
-BELFRY: Briar, calma! A gente tem que resolver isso!
+BELFRY: Bem, o que você sabe sobre mim, ou a Tamberlane ou ser uma <em>mãe?</em>
+BELFRY: <em>NADA!</em>
+BELFRY: E você nunca vai saber até você <em>CRESCER!</em>
 
-BRIAR: Não, você tem que resolver isso. Eu disse tudo que precisava dizer.
-BRIAR: Já deu de ser seu alvo de tiro pra mim hoje.
-BELFRY: Alvo...?? Briar!
+SFX: hahh hh haah hh hha h
 
-SFX: suspiro FUNDO
-
-BRIAR: Eu te amo demais, Belfry.
-BRIAR: Mas eu só preciso de um espaço.
+SFX: hha haah hh hahh h h
+BRIAR: Isso.
+BRIAR: Isso é o que eu estava falando sobre.

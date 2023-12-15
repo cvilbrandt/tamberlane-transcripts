@@ -9,4 +9,4 @@ OAKEWOOD: Eh. Could be worse.
 PIPER: DAD!!!
 
 JASON: What is it, princess?
-PIPER: Did you go anywhere <i>COOL??</i>
+PIPER: Did you go anywhere *COOL??*

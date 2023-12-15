@@ -1,18 +1,16 @@
-BRIAR: Eu só ouvi
-BELFRY: Na verdade, o quê você saberia sobre <em>QUALQUER</em> coisa disso?!
-BELFRY: Você nunca teve que tomar conta de nada na sua <em>VIDA!</em>
-BRIAR: Eu- <em>quê?!</em>
+BRIAR: Eu sei que você está tentando, Belfry.
+BRIAR: Não tem problema em não estar bem.
+BRIAR: Mas você não pode colocar isso na Tamberlane.
 
-BRIAR: Isso <em>NÃO</em> é o que eu
-BELFRY: Nem todo mundo pode ser a Senhorita Perfeita!! <em>Preferida</em> do Papai e da Mamãe!!
-BRIAR: BELFRY!
+BRIAR: Lembra que a Mãe fazia isso?
 
-BELFRY: Bem, o que você sabe sobre mim, ou a Tamberlane ou ser uma <em>mãe?</em>
-BELFRY: <em>NADA!</em>
-BELFRY: E você nunca vai saber até você <em>CRESCER!</em>
+BRIAR: Ela ficava tão <em>brava,</em> e depois ela colocava toda a culpa em nós.
 
-SFX: hahh hh haah hh hha h
+BRIAR: Eu sei que você ama a Mãe, mas ela sempre dizia que o pavio curto dela era por que você era uma pata cheia de se criar.
+BRIAR: Mas ela <em>usou você</em> pra evitar responsabilidade. O temperamento dela nunca foi sua culpa.
 
-SFX: hha haah hh hahh h h
-BRIAR: Isso.
-BRIAR: Isso é o que eu estava falando sobre.
+BRIAR: <em>Você</em> não pode ser assim, Belfry! Você não pode colocar seus problemas na Tamberlane!
+BRIAR: Ela já carrega demais do jeito que está!
+BRIAR: Eu aposto que tomar o <em>seu stress</em> é o porquê dela ter te empurrado pra fora em Bally Bluffs!
+
+BELFRY: <em>O que <b>você</b> saberia sobre o que aconteceu em Bally Bluffs?!</em>

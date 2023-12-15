@@ -1,12 +1,21 @@
-BELFRY: Tamberlane!
-TAMBERLANE: PARA!
-BELFRY: Tamberlane, calma! Eu estou <em>aqui!</em>
-TAMBERLANE: <em>PARA! PARA! PARA!</em>
+***[OUTDATED]***
 
-BELFRY: Já acabou! Tá tudo ok! <em>Eu te salvei!</em>
-TAMBERLANE: <em.PARA! PPAAAAARAAA!</em>
+BELFRY: Você tá machucada?!
+BELFRY: Eles não te machuram, não?!
 
-BELFRY: Por favor, docinho, para de brigar! Me diz o que aconteceu!
-TAMBERLANE: PPPPPAAAAAAAARAAAAAAA!!!!!
+BELFRY: Ainda bem! Eu estava tão preocupada!
 
-BELFRY: Por favor fica calma...
+ANTHONY: Senhora Belfry, eles machucaram a Piper!
+BELFRY: <em>Quem machucou a Piper??</em>
+TAMBERLANE: Rrrgh!
+
+BELFRY: Vocês babaquinhas que fizeram isso, não?!
+BELFRY: E vocês chatearam a Tamberlane, também!!
+RAFEIRO: <em>Quê?!</em>
+TAMBERLANE: rrrrRRR
+
+KIRA: Isso não é <em>justo!</em>
+RAFEIRO: É, ela tava encrencando com a gente!
+JONAS: Dá uma olhada nela! Ela tá tentando matar a gente!
+
+TAMBERLANE: AWAARA

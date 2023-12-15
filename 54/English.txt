@@ -3,18 +3,19 @@ TAMBERLANE: muh?
 
 PENNY: You know, books? Reading?
 
-PENNY: Do you even know how to read?
+PENNY: Do you even know *how* to read?
 
 PENNY: How old are you?
 TAMBERLANE: Tree.
-PENNY: Wow! Me too! And you don't know how to read yet?
+PENNY: Wow! Me too! But you don't know how to read yet?
+PENNY: But I thought kits were s'posed to read before three.
 
 PENNY: Well...that's okay!
 
 PENNY: Mum says all creatures grow at their own pace.
 
-PENNY: Y'know, Parsley's quite good at teaching little kids how to read.
+PENNY: Y'know, Parsley's quite good at teaching little kits how to read.
 
 PENNY: Let's go find him!
 
-PENNY: But we've got to be careful.
+PENNY: Follow my lead.

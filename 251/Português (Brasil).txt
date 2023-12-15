@@ -1,19 +1,22 @@
-PARSLEY: Quem é esse Vê que te ensinou Trissol?
-TAMBERLANE: Vê!
+***[OUTDATED]***
 
-PARSLEY: Mas Vê era, tipo, seu Pai ou Mãe então?
-TAMBERLANE: Não, a Mamãe é Belfry!
+PARSLEY: Ah, desculpa, miga! Eu só tava falando pra ela que é dibas ser diferente!
+MARIE: Desculpa, meu Trissol é um <em>lixo!</em>
 
-MARIE: Mas e <em>antes</em> de você ter vindo para Treehollow? Quem era sua Mamãe então?
+PARSLEY: Mas falando de Trissol, eu sei que devem ter te perguntado isso pra caramba, Tam, mas...
+PARSLEY: Como você aprendeu?
+PARSLEY: Tu não tem os ouvidos ruins, então... foi alguém que você conheceu?
 
-TAMBERLANE: Ã...
+TAMBERLANE: Um...
+TAMBERLANE: Bê!
 
-TAMBERLANE: Num sei.
-MARIE: Sem problemas, Tamberlane. Eu sei que o Senhor Oakewood te perguntou essas coisas por <em>dias.</em>
+PARSLEY: Cê quer dizer Vê?
+TAMBERLANE: Não, Bê.
+PARSLEY: Cê tá sinalizando Vê, mano.
 
-PARSLEY: Certo, mas o que <em>era</em> Vê? Eles eram... como você?
+TAMBERLANE: Ah... Vê?
+TAMBERLANE: Você está certo.
 
-TAMBERLANE: Não... Vê era... ve<em>[illegible]</em>
-
-PIPER: OI, BOCÓS! QUALÉ?
-TODOS: <em>AAAAAAA!!!!</em>
+PARSLEY: Ah! Você aprendeu Trissol bem nova, que nem eu.
+PARSLEY: Você tinha o que, três anos? Quando você chegou aqui?
+PARSLEY: Eu não conseguia pronunciar os sinais direito nessa idade, também.

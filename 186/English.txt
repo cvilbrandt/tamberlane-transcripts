@@ -1,21 +1,20 @@
-CALLIE: S-so, when we go to Bally Bluffs, I'll have brought plenty of parchment for our roots projects...
+CALLIE: Th-that's enough, children!
+CALLIE: So, w-when we go to Bally Bluffs, be sure to bring your best s-stories about your roots...
 
-KIRA: Hey, Marie, you were right! Nice subject change, Teach!
-SFX: HAHAHA
+KIRA: Hey, Marie, you were right! She's *dodgin'* us!
+[SFX: HAHAHA]
 
-MARIE: Oh, <em>please</em>, Miss Callie, just tell us!
+MARIE: Oh, *please,* Miss Callie, just tell us!
 
-ANTHONY: Grown-ups make it sound so <em>terrifying</em>... 
-PIPER: And <em>awesome</em>!
+ANTHONY: Grown-ups make it sound so *terrifying*... 
+PIPER: And *wicked!*
 
-CALLIE: It is not awesome! We don't talk about...<em>that place</em>...
-KIRA: Maybe we didn't before, but since Tamberlane got here, it's all you grown-ups ever whisper about!
-CALLIE: Children, <em>please</em>, this is <em>highly</em> innapropriate!
+CALLIE: It is not wicked! We don't talk about...*that place.*
+KIRA: Ever since Tamberlane got here, it's all you grown-ups *ever* whisper about!
+CALLIE: Children, *please,* there is a time and a place for this! A-ask your parents!
 
-ANTHONY: Why do some creatures <em>choose</em> to go there?
+ANTHONY: But why do some creatures *choose* to go there?
 
 MARIE: How come being sick is just as bad as being a traitor?
 
-PIPER: And why do you get tainted so you can't come back?
-
-
+PIPER: And why do you get Tainted so you can't come back?

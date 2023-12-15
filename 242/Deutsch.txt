@@ -1,11 +1,17 @@
-MILO: Bitt sehr, Onkel!
+***[OUTDATED]***
 
-MILO: Und hier ein paar Digestive für dich!
-OAKEWOOD: Ah--
-OAKEWOOD: Danke dir, Milo.
+TRISHA: Das ist eine gute Frage, Jason.
+PIPER: Der <em>Plan</em> ist, <em>ich geh Geister jagen!</em>
 
-SFX: Tap Tap Tap
+TRISHA: Geister jagen! Klingt, als bräuchtest du dafür einen guten Stützpunkt.
+PIPER: <em>Ja klar!</em> Dafür seit <em>ihr</em> ja da!
 
-SFX: TapTapTapTapTapTapTap
+TRISHA: Warum stellen wir Erwachsene nicht ein ordentlichen Lager auf, während ihr <em>außerhalb</em> der Ruinen erkundet?
 
-OAKEWOOD: <em>NICHTS.</em>
+PIPER: <em>AUßERHALB?!</em> Aber die Geister sind <em>DRINNEN!</em>
+TRISHA: Geister können sich bewegen! Ich wette, ihr könnt viele Spuren draußen finden.
+
+PIPER: Ooh, <em>Geisterspuren!</em>
+TRISHA: Dann machen wir es so. Wir bereiten das Lager vor während ihr nach "Geisterspuren" sucht.
+
+TRISHA: ...Und kann bitte jemand Belfry retten?

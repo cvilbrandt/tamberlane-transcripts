@@ -1,15 +1,17 @@
-SFX: CLANG CLANG CLANG CLANG
-TESS: I just don't want to lose you because of an impulsive decision. 
+[SFX: CLANG CLANG CLANG CLANG]
+TESS: I love you, and I respect the choice you made.
+TESS: I promise I'll try harder.
+TESS: For you, and for... for Tamberlane.
 
-SFX:CLANG CLANG CLANG
+[SFX:CLANG CLANG]
 BELFRY: Mum...
 
-SFX: CLANG CLANG CLANG CLANG 
-TESS: O-oh, that's opening ceremonies, I have to go.
+[SFX: CLANG CLANG CLANG CLANG]
+TESS: O-oh, that's opening ceremonies. I have to go.
 BELFRY: Mum, wait! 
 
-SFX: CLANG CLANG CLANG
-BELFRY: Don't worry, okay? We won't have to go. I promise.
+[SFX: CLANG CLANG]
+BELFRY: Don't worry so much, okay? We're not going anywhere. I *promise.*
 
-SFX: CLANG CLANG CLANG
-TESS: Oh Belfry. I hope to every god that you're right.
+[SFX: CLANG CLANG CLANG]
+TESS: Oh, Belfry. I hope to God you're right.

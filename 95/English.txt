@@ -3,12 +3,14 @@ OAKEWOOD: Well, alright then.  Go put her back.
 BELFRY: What?! But I can't do that!
 
 OAKEWOOD: Why not?  You just said you can't do it.
-BELFRY: Yeah, but I can't just leave her to die!
+BELFRY: Yeah, but I can't just leave her to *die!*
 
-OAKEWOOD: Fair enough.  Give her to someone else, then.
+OAKEWOOD: Fair enough. 
+OAKEWOOD: Give her to someone else, then.
 
 BELFRY: But I... they wouldn't...
 
-BELFRY: No one else cared, and... I can't.
+BELFRY: No one else understands her like...
+BELFRY: ...like I do.
 
 OAKEWOOD: My goodness! I guess you'll just have to do it yourself!

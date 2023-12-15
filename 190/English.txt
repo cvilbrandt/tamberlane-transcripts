@@ -1,7 +1,10 @@
-Callie: W-Well then! <em>I</em> will be bringing snacks to the campout, but if you have any favorite snacks, bring some too!
+CALLIE: W-Well then!
+CALLIE: If your dietary needs have changed, please tell *me* before our campout!
 
-Callie: I think that's all for today!
+CALLIE: And I think that's all for today!
 
-Anthony: B...But... ... isn't there still some time before sunhigh...?
+ANTHONY: B...But...
+ANTHONY: ...isn't there still a little time before sunhigh...?
 
-Callie: Early release!!! Isn't that nice?!
+CALLIE: Early release!!!
+CALLIE: Isn't that nice?!

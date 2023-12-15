@@ -1,18 +1,12 @@
-BELFRY: Niemand denkt, du wärst ein Monster. Draussen ist nur...ein Schreckgespenst.
-TAMBERLANE: Es gibt es also nicht?
-BELFRY: Nein, es ist echt. Es ist nur... Draussen ist nur ein Ort, Püppchen.
+***[OUTDATED]***
 
-TAMBERLANE: Aber was ist mit der Verderbnis?
-BELFRY: Die Verderbnis ist auch echt, glaub ich. Oder Tante Tess hat es so gesagt. Ich glaub aber nicht, dass sie so ist.
+BELFRY: Okay! Das ist... nicht das, woran ich mich erinnert habe!
 
-TAMBERLANE: Sie macht keine Monster?
-BELFRY: Naja, ich hab zumindest noch keine gesehen.
+BELFRY: Das war kein sehr tolles Buch, oder?
+TAMBERLANE: ne eh
 
-BELFRY: Ich weiss nicht, was Draussen so gefährlich macht. Ich weiss, dass es wichtig ist, vorsichtig zu sein, sonst hätten wir nicht so viele Regeln darüber! Ich weiss jedoch auch ein paar andere Dinge über Draussen.
-TAMBERLANE: Was denn?
+BELFRY: Tamberlane? Was ist los?
 
-BELFRY: Draussen ist tatsächlich sehr wichtig für Silver Sage! Wir können es Draussen verdanken, dass wir wichtige Dienste hier in Treehollow haben.
-TAMBERLANE: Was denn?
+TAMBERLANE: Ich bin ein Monster!
 
-BELFRY: Zum Beispiel... Abwasserleitungen! Wenn es Draussen nicht gäbe, müssten wir unsere Häufchen noch im Wald machen!
-TAMBERLANE: Bäh!
+BELFRY: Oh, oh nein, Schnuffi, nein! Na komm. Lass uns reden.

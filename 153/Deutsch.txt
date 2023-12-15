@@ -1,4 +1,6 @@
-WALTER: Wir sind nicht bereit für ein Kind.
+***[OUTDATED]***
+
+WALTER: Wir sind nicht bereit fÃ¼r ein Kind.
 TESS: Ich weiss.
 WALTER: Unser Kampfturnier ist in zwei Wochen.
 TESS: Ich weiss.
@@ -8,11 +10,11 @@ TESS: Ich weiss.
 
 TESS: Ich weiss, wir wollten es erst in zwei Jahren versuchen. Aber sie braucht <em>jetzt</em> Hilfe.
 
-WALTER: Gibt es niemand anderen, der sich um eine kleine Fledermaus kümmern kann?
+WALTER: Gibt es niemand anderen, der sich um eine kleine Fledermaus kÃ¼mmern kann?
 
 TESS: Sie wurde aber <em>uns</em> anvertraut.
 
-WALTER: Wir sind beide zu erschöpft für so ein Gespräch. Lass uns morgen früh darüber reden..
+WALTER: Wir sind beide zu erschÃ¶pft fÃ¼r so ein GesprÃ¤ch. Lass uns morgen frÃ¼h darÃ¼ber reden..
 
 TESS: Alles wird gut werden. Wir haben einander. Und Walter... Wir haben ein Kind!
 WALTER: Vielleicht. Vielleicht haben wir ein Kind. Aber... ganz sicher haben wir einander.

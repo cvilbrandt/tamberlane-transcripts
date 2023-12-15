@@ -1,15 +1,21 @@
-PARSLEY: Ei, Piper! A gente tá tentando descobrir mais sob--
-PIPER: Não me importo!
+***[OUTDATED]***
 
-PIPER: CAÇA FANTASMA! Em 10 minutos! Encontrem-se pelas ruinas da capela. Passa pra frente!
+PARSLEY: Quem é esse Vê que te ensinou Trissol?
+TAMBERLANE: Vê!
 
-PIPER: Ah, exceto pro Rafeiro e os babacas dele.
+PARSLEY: Mas Vê era, tipo, seu Pai ou Mãe então?
+TAMBERLANE: Não, a Mamãe é Belfry!
 
-PIPER: Eles estão absotivamente posilutamente não convidados.
+MARIE: Mas e <em>antes</em> de você ter vindo para Treehollow? Quem era sua Mamãe então?
 
-MARIE: Oh, fantasmas! Que assustador!
-PARSLEY: Pode deixar, Pipes. Agora, se você não se importar...
-PIPER: É, é. Eu tenho que ir achar a Artie, de qualquer jeito.
+TAMBERLANE: Ã...
 
-PARSLEY: Então, sobre seu tempo antes de Treehollow...
-TAMBERLANE: Não lembro. Desculpa...
+TAMBERLANE: Num sei.
+MARIE: Sem problemas, Tamberlane. Eu sei que o Senhor Oakewood te perguntou essas coisas por <em>dias.</em>
+
+PARSLEY: Certo, mas o que <em>era</em> Vê? Eles eram... como você?
+
+TAMBERLANE: Não... Vê era... ve<em>[illegible]</em>
+
+PIPER: OI, BOCÓS! QUALÉ?
+TODOS: <em>AAAAAAA!!!!</em>

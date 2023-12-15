@@ -1,21 +1,23 @@
-OAKEWOOD: Oh. That Milo.
+OAKEWOOD: Oh. *That* Milo.
 MILO: Yeah... it's me.
+OAKEWOOD: You've grown.
+MILO: Heh, kits often do.
 
 ANTHONY: Who's that?
 TAMBERLANE: I dunno!
 
-PIPER: Who ever heard of a bird-horse with a coyote for an uncle?!
-ANTHONY: <b>PIPER!</b>
+PIPER: A bird-horse with a *coyote* for an uncle? Does he have an elephant for a mum too??
+ANTHONY: ***PIPER!***
 TAMBERLANE: I like him!
 
 OAKEWOOD: So...
 OAKEWOOD: How's your mother?
-MILO: She actually asked about you!
-OAKEWOOD: Pah. That's a lie and you know it.
+MILO: She... actually asked about you!
+OAKEWOOD: Pah. Just as rubbish of a liar as when you were young.
 
-MILO:  Well. yeah. But <i>I</i> missed you...
+MILO: Fair enough.
+MILO: But *I* missed you...
 
-PIPER: This is so <i>boring!</i>
+PIPER: This is *so boring!*
 ANTHONY: I think it's sweet!
 TAMBERLANE: Me too!
-

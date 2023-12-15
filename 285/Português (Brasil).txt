@@ -1,14 +1,14 @@
-BELFRY: Eu só estou tentando deixar ela segura e feliz.
+***[OUTDATED]***
 
-NORA: Você não pode deixar ela segura contra tudo, Belfry! Certamente não das próprias emoções dela!
+BELFRY: Como assim, "temperamento de criança"?
+NORA: Ah, você sabe...
 
-NORA: Provavelmente não tem nada a ver com você. Só política de criança.
-BELFRY: Política de criança?
+NORA: A Tamberlane ficou bem confortável em Treehollow no último ano e meio.
+NORA: Sem dúvida que ela está começando a desenvolver sua própria identidade agora.
 
-NORA: Você não se lembra de quando nós também eramos filhotes?
-NORA: Os adultos nunca entenderam <em>metade</em> dos nossos dramas sociais.
+NORA: Enquanto ela crescer, ela vai ficar mais independente, Belfry.
 
-NORA: Não importa o que acontecer, se lembre: tudo que a Tam precisa é amor, alguém para tomar responsabilidade por ela...
-BELFRY: ...e um lugar seguro pra pousar.
+BELFRY: Bem, claro que ela vai, mas <em>ainda não</em>! Ainda mais, ela é <em>especial!</em> Ela <em>precisa</em> de mim!
+NORA: Ela sempre vai precisar de você, bobona.
 
-NORA: Ela vai ficar bem, Bel. Vocês duas vão.
+NORA: Mas ela vai precisar ser sua própria criatura, também.

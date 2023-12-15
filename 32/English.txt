@@ -1,11 +1,12 @@
-BELFRY: It's <em>not</em> a wild animal!
+BELFRY: They're *not* a wild animal!
+BELFRY: They're intelligent, like a creature!
 
-BELFRY: It's cold and scared and hurt and hungry
+BELFRY: And they're cold and scared and hurt and hungry
 
-BELFRY: and abandoned!
+BELFRY: and worse, they're *abandoned!*
 
-TESS: You couldn't <em>possibly</em> know if it's abandoned!
+TESS: You have no way of knowing that! *It's* parents are probably off foraging!
 
-BELFRY: I'm not going to leave it to the mercy of parents who don't feed or help it!
+BELFRY: They're tired, and hungry, and they're all alone in the rain! They've been abandoned, I'm *sure of it!*
 
-TESS: Belfry, just leave the kit alone!
+TESS: Belfry, just leave the damn animal alone!

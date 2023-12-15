@@ -1,10 +1,12 @@
+***[OUTDATED]***
+
 PENNY: Yes! Es hat geklappt! Wir habens rausgeschafft!
 TAMBERLANE: Blue!
 
 PENNY: Oh, machst du dir Sorgen um meinen Papa?
 TAMBERLANE: Autschie!
 
-PENNY: Mach dir keinen Kopf. Er ist ein robuster Kerl. Der überlebt das.
+PENNY: Mach dir keinen Kopf. Er ist ein robuster Kerl. Der Ã¼berlebt das.
 
 PENNY: Aber jetzt lass uns wegrennen, bevor man uns erwischt!
 
@@ -14,7 +16,7 @@ TAMBERLANE: Okie!
 PENNY: Menno! Langsam glaube ich, du kannst gar nicht <em>laufen</em>, geschweige denn <em>rennen!</em>
 TAMBERLANE: Gnah!
 
-PENNY: Stöhn... Fein, also schön.
+PENNY: StÃ¶hn... Fein, also schÃ¶n.
 PENNY: Bringen wir dir also auch das Laufen bei.
 
 PENNY: Aber beeil dich! Ich will nicht doch noch erwischt werden! 

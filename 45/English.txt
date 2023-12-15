@@ -10,7 +10,7 @@ OAKEWOOD: (obscured) me?
 [SFX: AAAAAAAAAAmmph-!]
 
 OAKEWOOD: Eugh! This kit desperately needs a change.
-OAKEWOOD: Go get some nappies from the Patron Supply closet.
+OAKEWOOD: Go get some nappies from the supply closet.
 
-OAKEWOOD: That means <em>you</em>, Belfry!
-OAKEWOOD: And try not to mess up the closet!
+OAKEWOOD: That means *you,* Belfry!
+OAKEWOOD: And try not to make a mess of it!

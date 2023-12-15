@@ -6,9 +6,12 @@ GHOST: Okee?
 
 [SFX: PAT PAT]
 
-GHOST: Awaa wanna hungee foo bee peez bee?
+GHOST: Awaa wanna hungee foo bee peez bee
 BELFRY: Um...
 
-GHOST: Peez? Peez?
+[SFX: SLIDE]
+
+GHOST: Peez? 
+GHOST: Peez?
 
 BELFRY: You want... peas?

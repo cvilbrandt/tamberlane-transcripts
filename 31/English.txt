@@ -10,7 +10,8 @@ BELFRY: I mean- the ghost!
 
 DOG: Is it really a ghost??
 
-BELFRY: No, I don't think so. I think it's an abandoned kit.
+BELFRY: No, I don't think so. 
+BELFRY: I think they're an abandoned kit.
 
 DOG: An abandoned kit?!
 

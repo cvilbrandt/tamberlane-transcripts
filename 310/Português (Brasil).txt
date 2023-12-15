@@ -1,10 +1,12 @@
-FINN: A Nora está certa. Deixa comigo.
-JASON: Certeza, Finn?
-FINN: Eu posso até ser um velhote, mas eu ainda nado que nem um peixe!
+***[OUTDATED]***
 
-SFX: PLASH
+BELFRY: Cadê?! Cadê ela?!
+FINN: Ali!
+JASON: Isso é uma ...corda...?
 
-JASON: Eles estão vivos?
-FINN: Você vai ter que checar!
+BELFRY: <em>MINHA BEBÊ! ELA TÁ MACHUCADA!</em>
+NORA: BELFRY, NÃO!!
 
-JASON: Hora de subir então, crianças...
+NORA: Belfry, a agua está congelando e a corrente está forte demais pra você!
+
+NORA: Nós não queremos ter que te resgatar também!

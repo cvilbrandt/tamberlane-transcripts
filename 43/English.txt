@@ -7,7 +7,7 @@ BELFRY: You're not stopping!
 BELFRY: Why aren't you stopping?!
 
 BELFRY: I don't speak screaming!
-BELFRY: Please just <em>tell me what you want!!</em>
+BELFRY: Please just *tell me what you want!!*
 
 BELFRY: okay
 
@@ -16,4 +16,4 @@ BELFRY: ...I better see if Oakewood knows what to do.
 [SFX:AWAAAAAW]
 
 [SFX: AWAAAAAAAAAWAAWAAA]
-(muttered: I'm not a failure...)
+BELFRY (muttered): ...I'm not a failure...

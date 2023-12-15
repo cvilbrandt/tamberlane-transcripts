@@ -1,16 +1,18 @@
-OFFSCREEN: BELFRY!
+OFFSCREEN: ***BELFRY!***
+BELFRY & TAMBERLANE: *AAHH!*
 
-FOX: How many fingers am I holding up?
+FOX: How many claws am I holding up?
 BELFRY: T...two?
 
-FOX: Whew! When I'd heard you fell down a cliff, I was worried!
+FOX: Whew! When I'd heard you fell down a cliff, I was worried.
 FOX: But as usual, you defy expectations in the best way.
 
 FOX: Since you don't appear to be concussed, I'm going to let Terra get some experience treating you.
 
-FOX: In the meantime, I'll feed Parker. Hello, my love.
+FOX: In the meantime, I'll feed Parker.
+FOX: Hello, my love.
 TERRA: He definitely wants his mama.
 
-BELFRY: Oh ho, you're finally letting your apprentice do your dirty work?
+BELFRY: Oh ho, finally letting your prentice into the field?
 
 TERRA: Hey, now! I'm going to have to keep up with you, eventually!

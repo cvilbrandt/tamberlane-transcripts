@@ -1,12 +1,12 @@
 AVERY: I'm guessing you're here to pick up Tam's festival attire.
 BELFRY: You guess correctly!
 
-BELFRY: And I brought you the muffins you asked for!
+BELFRY: And here's the muffins you asked for in exchange!
 
 AVERY: Wonderful! Let me just get her outfit!
 AVERY: Piper, get back on the stool or I'm adding another week to your grounding!
 
 BELFRY: Oh! Was she bothering you, Tamberlane?
 TAMBERLANE: Maybe.
-AVERY: Don't worry. We're protecting you, Tamberlane.
+AVERY: Don't worry. She'll behave. Won't you, Piper?
 PIPER: Ugh!

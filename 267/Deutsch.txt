@@ -1,15 +1,18 @@
-ARTIE: Aber genug darüber, <em>wie</em> sie ihre Beute jagen.
-HATTIE: Was denkt ihr machen sie, sobald sie euch <em>gefangen haben?</em>
+***[OUTDATED]***
 
-ARTIE: Sie fressen euch nicht sofort, oh nein...
-HATTIE: Ein Langwandler gräbt ein Loch für jedes seiner Opfer, gerade groß genug, sich darin umzudrehen.
+ARTIE: Sie leben in den Schatten, beobachten jeden deiner Schritte.
+HATTIE: Sie türmen höher als die höchsten Bäume, erscheinen jedoch <em>wie aus dem Nichts.</em>
 
-ARTIE: Denn wenn es etwas gibt, das sie mögen...
-HATTIE: ...dann ist es, mit ihrem Futter zu <em>spielen.</em>
-HATTIE: Denn sie fressen nicht eure <em>Körper.</em> Nein..
+ARTIE: Wenn sie dich bemerken, solltest du dich hüten!
+HATTIE: Denn wenn sie dich jagen, werden sie nicht Rasten, bis sie ihr Opfer gefangen haben!
+CUR: au! runner von meinem Schwanz!
+KIRA: sorry
 
-ARTIE: Weisst du, was sie fressen, Piper?
-PIPER: W-Was?
+ARTIE: Egal wie schnell du rennst, egal wie gut du dich versteckst!
+HATTIE: Ein knacksender Zweig, und du wirst sehen...
+JONAS: Ich seh nichts! Was machen die?
+KIRA: Die nerven Piper, heh heh heh 
 
-ARTIE: Sie...
-ARTIE: ...fressen...
+ARTIE: ...sie sind genau hinter dir, gehend, gehend, <em>greifend...!</em>
+PIPER: <em>IIEK!</em>
+KIRA: gott

@@ -1,14 +1,15 @@
-HONEY: Bleddyn, Have you seen Tess, today?
-BLEDDYN: Last I saw, she was arguing with Belfry.
+HONEY: Genevieve, have you seen Tess today?
+GENEVIEVE: Last I saw, she was arguing with Belfry again.
 
 HONEY: Of course she was.
 
-TIMMOTHY: Do we start the Sovereign Festival without all four council members?
-BLEDDYN: We may have to. Decision's yours Timmothy.
+TIMMOTHY: What now? Do we start the festival without the entire Council present?
+GUNNER: We may have to.
+GUNNER: Decision's yours, Timmothy.
 
 TESS: I'm sorry!
 
-TESS: I came as fast as I could!
+TESS: I'm sorry I'm late!
 TIMMOTHY: Oh thank goodness, no hard decisions today.
 
 TIMMOTHY: Let's do this.

@@ -1,13 +1,13 @@
-OAKEWOOD: A Tamberlane <em>não pode</em> ser única! Ela não ter aparecido do nada!
+***[OUTDATED]***
 
-OAKEWOOD: Mas eu estou ficando sem idéias!
-MILO: Mmhmm.
-OAKEWOOD: Eu já chequei todo livro que eu posso pensar!
+MILO: Aqui, Tio!
 
-OAKEWOOD: Precisamos de uma tática nova. Vamos lá, garoto, arrota umas idéias.
-MILO: Mmm.
+MILO: E alguns biscoitos pra você também!
+OAKEWOOD: Ah--
+OAKEWOOD: Obrigado, Milo.
 
-OAKEWOOD: O que você está lendo que é tão interessante?
+SFX: Toc Toc Toc
 
-MILO: Ah, ã-- Desculpa, Tio!
-MILO: Não é nada, realmente!
+SFX: TocTocTocTocTocTocToc
+
+OAKEWOOD: <em>NADA.</em>

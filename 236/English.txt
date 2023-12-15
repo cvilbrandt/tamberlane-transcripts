@@ -1,0 +1,15 @@
+BELFRY: Look, no one's been sent to Abroad in *years.*
+BELFRY: Not since Mum joined the Council.
+BELFRY: Jentzen didn't *really* teach anything bad. He just argued with you a little!
+BELFRY: That's *not* a banishable offense!
+CALLIE: I... I hope so...
+
+BELFRY: When we get back, you should talk to the Council and retract your report!
+BELFRY: That should stop any processes in play.
+
+CALLIE: Are you quite certain?
+
+BELFRY: I promise you, *everything* will be fine!
+
+BELFRY: ***Right?***
+JASON: Right, right.

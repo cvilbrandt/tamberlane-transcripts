@@ -1,12 +1,13 @@
-BELFRY: Como assim, "temperamento de criança"?
-NORA: Ah, você sabe...
+***[OUTDATED]***
 
-NORA: A Tamberlane ficou bem confortável em Treehollow no último ano e meio.
-NORA: Sem dúvida que ela está começando a desenvolver sua própria identidade agora.
+NORA: Não se preocupa, meu bem. A Tamberlane vai se acalmar e você pode perguntar pra ela depois.
 
-NORA: Enquanto ela crescer, ela vai ficar mais independente, Belfry.
+BELFRY: Você não viu o olhar de <em>ódio</em> que ela me deu, Nora!
+BELFRY: Eu devo ter feito algo <em>horrível...</em> Ela nunca vai me perdoar.
 
-BELFRY: Bem, claro que ela vai, mas <em>ainda não</em>! Ainda mais, ela é <em>especial!</em> Ela <em>precisa</em> de mim!
-NORA: Ela sempre vai precisar de você, bobona.
+NORA: Não seja idiota, Bel.
+NORA: Ela te ama, do mesmo jeito que você ama ela.
 
-NORA: Mas ela vai precisar ser sua própria criatura, também.
+NORA: Eu aposto que isso é só o temperamento normal de uma criança.
+
+NORA: Não se preocupa. Isso é só uma lombada no caminho.

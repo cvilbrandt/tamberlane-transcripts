@@ -1,15 +1,21 @@
-PARSLEY: Ey, Piper! Wir versuchen grade, meh--
-PIPER: Mir egal!
+***[OUTDATED]***
 
-PIPER: GEISTERJAGD! In 10 Minuten! Treffplatz bei den Kapellenruinen. Sagt es weiter!
+PARSLEY: Wer ist diese "Vi", die dir Trissol beigebracht hat?
+TAMBERLANE: Vi!
 
-PIPER: Oh, erzählt nur Cur und seinen Idioten nichts.
+PARSLEY: Aber war Vi deine Mama oder dein Papa oder so?
+TAMBERLANE: Nein, Mama ist <i>Belfry</i>!
 
-PIPER: Die sind absotiv posilut <em>nicht</em> eingeladen.
+MARIE: Aber was ist mit der Zeit, <i>bevor</i> du nach Treehollow kamst? Wer war damals deine Mama?
 
-MARIE: Oh, Geister! Wie gruselig!
-PARSLEY: Alles klar, Pipes. Wenn du uns nun entschuldigen würdest...
-PIPER: Ja, ja. Ich muss sowieso noch Artie finden.
+TAMBERLANE: Äh...
 
-PARSLEY: Also nochmal zu deiner Zeit vor Treehollow...
-TAMBERLANE: Erinner mich nicht. Sorry...
+TAMBERLANE: Weiß nicht.
+MARIE: Das ist okay, Tamberlane. Ich weiß, dass Herr Oakewood dich darüber <em>tagelang</em> ausgefragt hatte.
+
+PARSLEY: Okay, aber was <em>war</em> Vi? War sie... wie du?
+
+TAMBERLANE: Nein... Vi war... R<i>[unleserlich]</i>
+
+PIPER: OI, IHR DEPPEN! WAS LÄUFT?
+ALL: AAAAAAA!!!!

@@ -1,12 +1,19 @@
-ROSIE: Rawwwrr! Me dá seu cachecol!
-MINNA: Hee hee! Me pega!
+PARSLEY: Tá bom, já deu disso! Você já escutou minhas baboseiras o bastante para um dia!
+MARIE: Você sabe que eu fico feliz em escutar seus problemas qualquer hora que você precisar!
 
-JENTZEN: Oh!
-JENTZEN: Mãe, você tá de volta.
+PARSLEY: É, mas alguém tem que escutar os seus. Como <em>você</em> tá?
+[SFX: doki doki]
 
-GENEVIEVE: Eu...
-GENEVIEVE: Eu estou.
+MARIE: Oh... você sabe... Preocupada sobre a Tamberlane e o Jonas. Não muito a dizer mais sobre.
+[SFX: doki doki doki]
+PARSLEY: Você pode dizer quando você quiser pra mim, Mar-Mar.
 
-GENEVIEVE: Jentzen...
+MARIE: Mar-Mar? Você não me chama disso faz tempo, <em>Par-Par.</em>
+CORIANDER: <em>ELLIS! VOLTA AQUI! ELLIS!!</em>
+PARSLEY: Bem, eu tenho que fazer alguma coisa pra te animar, não?
 
-JENTZEN: O quê aconteceu.
+RAFEIRO: <em>NEM FERRANDO!</em>
+
+CORIANDER: <em>COME O PURÊ, ELLIS</em>
+PARSLEY: A casa dos Entalhadores está oficialmente faltando uns parafusos.
+MARIE: Não se preocupa, Par-Par. A gente vai pensar em alguma coisa.

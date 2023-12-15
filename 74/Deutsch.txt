@@ -1,6 +1,8 @@
-PARSLEY: Nun, heut ist dein Glückstag, Fall, alter Kumpel! Ich nehme die Bezahlung an.
+***[OUTDATED]***
 
-PARSLEY: Wie wär's mit Freitag für deine Tanzstunde?
+PARSLEY: Nun, heut ist dein GlÃ¼ckstag, Fall, alter Kumpel! Ich nehme die Bezahlung an.
+
+PARSLEY: Wie wÃ¤r's mit Freitag fÃ¼r deine Tanzstunde?
 FALLON: Perfekt! Danke, Parse!
 
 PARSLEY: Na, wenn das nicht die liebe Marie ist!
@@ -17,6 +19,6 @@ TAMBERLANE: ...umumum...
 
 TAMBERLANE: <em>awuhmumuww</em>
 
-PARSLEY: Oh, Schätzchen, es ist okay!
+PARSLEY: Oh, SchÃ¤tzchen, es ist okay!
 OFFSCREEN: TAMBERLANE!
 [SFX: AWUUWUUWUWAAA]

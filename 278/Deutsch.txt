@@ -1,11 +1,14 @@
-PIPER: Wooow, das war <em>übelst cool!</em>
+***[OUTDATED]***
 
-PIPER: Du hast es diesen Schurken <em>richtig gezeigt!</em> 
+BELFRY: Tamberlane...!
 
-PIPER: Und dann nahm deine Mutter dir deinen großen Moment weg!
-PIPER: Und du hast quasi gesagt "HEUTE NICHT, MAMI"!
+BELFRY: Bitte sag mir was los ist!
 
-PIPER: Und dann hast du ihr eine <em>verpasst!!!</em>
+BELFRY: <em>Tamberlane</em>!
 
-PIPER: Au! Au au, das tut weh!
-TAMBERLANE: Hör bitte auf.
+BELFRY: Wa...
+BELFRY: Wage es nicht, einfach so wegzugehen!
+BELFRY: Ich bin deine <em>Mutter</em>!
+
+BELFRY: Ich bin...
+BELFRY: deine Mutter...

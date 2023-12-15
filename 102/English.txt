@@ -5,18 +5,19 @@ OAKEWOOD: hrmmngghrr
 [SFX: SLAM!!]
 OAKEWOOD: MORE DEAD ENDS!
 
-OAKEWOOD: Three months!
-OAKEWOOD: Three months and we still know nearly <em>nothing!</em>
-OAKEWOOD: I can't even determine her <i>genus</i>!
-OAKEWOOD: I can't even figure out what she eats besides oatmeal and peas!
+OAKEWOOD: It's been almost *four months* and we still know nearly *nothing!*
+OAKEWOOD: She's *clearly* met other creatures before but can't remember anything *about* them!
+OAKEWOOD: She's growing so quickly, but behaves like a kit half her age! Her Growl sounds like she's choking on a frog!
+OAKEWOOD: Maybe her *genus* would explain it, but I can't figure *that* out either!
 
-OAKEWOOD: What happens when peas go out of season?
-OAKEWOOD: <em>What then?</em>
+OAKEWOOD: Does she only eat peas and oatmeal because she's a *child* or because of *digestive adaptation?*
+OAKEWOOD: And what happens when peas go out of season, eh?!
+OAKEWOOD: *WHAT THEN?*
 
 BELFRY: Well, then we can just feed her oatmeal.
-OAKEWOOD: Belfry, for the last time, I need you to listen [obscured]
+OAKEWOOD: Belfry, for the last time, I need you to listen-
 OFFSCREEN: Hey.
-OAKEWOOD: She [obscured] more than that.
+OAKEWOOD: She needs more than that.
 
 [SFX: siiigh]
 OAKEWOOD: Or you can get distracted. That's fine, too.

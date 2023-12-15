@@ -1,18 +1,13 @@
-KIRA: preciso trazer os adultos
-KIRA: preciso trazer os adultos
+***[OUTDATED]***
 
-KIRA: De qual...
-KIRA: De qual lado a gente veio?
-KIRA: Não! A-a a neve cobriu...
+KIRA: Eles vão <em>MORRER!!</em>
+KIRA: Eles vão <b><em>LITERALMENTE MORRER!</em></b>
 
-KIRA: Eu...
-KIRA: Eu não...
+KIRA: A gente tem que trazer os adultos, <em>agora!</em>
 
-SFX: <em>HIC</em>
-SFX: <em>HIC</em>
-SFX: <em>SNFF</em>
+KIRA: <b><em>RAFEIRO!!!!</em></b>
 
-KIRA: Não, não não não, eu não posso, eu preciso...
-KIRA: Eu preciso trazer os adultos ou o Jonas e a Tamberlane realmente vão...
+KIRA: Eu vou trazer os adultos!
+RAFEIRO: M-Mas-
 
-KIRA: E-Eu acho que nós viemos por aqui!
+KIRA: <b><em>FICA AQUI!</em></b>

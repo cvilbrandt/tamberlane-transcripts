@@ -1,3 +1,11 @@
-PARSLEY: Ich mein ja nur, ich glaube, deine Ohren sind ungefähr hier, oder?
+***[OUTDATED]***
 
-MARIE: Tamberlane kann sich ausdrücken wie sie will! Das sagen meine Muttis mir auch immer!
+PARSLEY: Sieht richtig gut aus, Mädels!
+
+MARIE: Ooh, hübsch!
+PARSLEY: Dann ist das also deine Mutter?
+
+TAMBERLANE: Nein, das bin ich!
+
+PARSLEY: Biste dir da sicher, Tam?
+MARIE: <em>Parsley!</em>

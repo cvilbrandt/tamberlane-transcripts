@@ -3,13 +3,14 @@ BELFRY: Aaand...
 BELFRY: Done! Here you go!
 
 BRIAR: Thanks, Bel.
-BELFRY: I'll see you at the festival, one way or another.
-BELFRY: And we should have tea, soon!
-OAKEWOOD: stop that.
+BELFRY: Hopefully mum will give it a rest now.
+BELFRY: And we should get together soon for a cuppa!
+OAKEWOOD (muttered): Stop that.
 
 BELFRY: Tamberlane should get to know her auntie!
 TAMBERLANE: Eh?
 
-BRIAR: Yeah. Okay.
+BRIAR: ...Sure.
+BRIAR: Just let me get through this first.
 
-BRIAR: I'll give this to Mum. See you at the festival, Belfry.
+BRIAR: I'll give this to Mum. See you at the Sovereign Festival, Belfry.

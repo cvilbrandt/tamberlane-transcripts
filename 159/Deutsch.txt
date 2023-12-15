@@ -1,19 +1,21 @@
-OAKEWOOD: Mx. Tagg, Mr. Danger, wenn Sie einen Moment Zeit haben, ich habe ein Anliegen, bei dem Sie mir helfen könnten....
+***[OUTDATED]***
+
+OAKEWOOD: Mx. Tagg, Mr. Danger, wenn Sie einen Moment Zeit haben, ich habe ein Anliegen, bei dem Sie mir helfen kÃ¶nnten....
 
 MILO: O...Onkel!
 
 MILO: Onkel, wir sollen doch nicht... es ist doch verboten...
 
-OAKEWOOD: <em> Milo Jamiton, sei nicht so ein respektloser Idiot!</em> Wenn dein Vater dich jetzt hören könnte, er würde sich für dich <em>schämen!</em>
+OAKEWOOD: <em> Milo Jamiton, sei nicht so ein respektloser Idiot!</em> Wenn dein Vater dich jetzt hÃ¶ren kÃ¶nnte, er wÃ¼rde sich fÃ¼r dich <em>schÃ¤men!</em>
 
-MILO: a-aber...wir dürfen...doch nicht...
+MILO: a-aber...wir dÃ¼rfen...doch nicht...
 
-OAKEWOOD: Zeig mal Rückgrat, Junge!
+OAKEWOOD: Zeig mal RÃ¼ckgrat, Junge!
 MILO: J...ja, Sir.
 
-OAKEWOOD: Ich entschuldige mich für meinen einfältigen Patensohn. Er ist noch jung. Auf jeden Fall verstehe ich, wenn Sie nicht helfen wollen, aber wir müssen mehr über Tamberlane erfahren.
+OAKEWOOD: Ich entschuldige mich fÃ¼r meinen einfÃ¤ltigen Patensohn. Er ist noch jung. Auf jeden Fall verstehe ich, wenn Sie nicht helfen wollen, aber wir mÃ¼ssen mehr Ã¼ber Tamberlane erfahren.
 TAMBERLANE: Ich bin ein Tamberlane!
-OAKEWOOD: Ich möchte nur wissen: haben Sie in Follybrook je ein Wesen wie sie gesehen?
+OAKEWOOD: Ich mÃ¶chte nur wissen: haben Sie in Follybrook je ein Wesen wie sie gesehen?
 
 TAGG: Ich will nur wieder heim.
-DANGER: Tagg, <i>er</i> war wenigstens anständig zu uns... 
+DANGER: Tagg, <i>er</i> war wenigstens anstÃ¤ndig zu uns... 

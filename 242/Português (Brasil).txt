@@ -1,11 +1,17 @@
-MILO: Aqui, Tio!
+***[OUTDATED]***
 
-MILO: E alguns biscoitos pra você também!
-OAKEWOOD: Ah--
-OAKEWOOD: Obrigado, Milo.
+TRISHA: Essa é uma boa pergunta, Jason.
+PIPER: O plano é que <em>caço fantasmas!</em>
 
-SFX: Toc Toc Toc
+TRISHA: Caça de fantasmas! Parece que você vai precisar de uma base boa pra começar.
+PIPER: Duh! É por isso que vocês estão aqui!
 
-SFX: TocTocTocTocTocTocToc
+TRISHA: Que tal nós adultos prepararem o acampamento direito enquanto vocês filhotes exploram a parte de fora das ruínas?
 
-OAKEWOOD: <em>NADA.</em>
+PIPER: <em>FORA?!</em> Mas os fantasmas estão <em>DENTRO!</em>
+TRISHA: Fantasmas podem se mover! Eu aposto que você vai achar várias pistas fora.
+
+PIPER: Ooo, <em>pistas de fantasma!</em>
+TRISHA: Então está decidido. Vamos preparar o acampamento enquanto você procura por 'pistas de fantasma.'
+
+TRISHA: ...E alguém resgata a Belfry, por favor.

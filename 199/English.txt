@@ -1,14 +1,17 @@
-BELFRY: Anthony, what happened??
-ANTHONY: W-well...Cur said some mean things about Tamberlane, Miss Belfry.
+BELFRY: Penny, what happened??
+PENNY: Cur said some mean things about Tamberlane, Miss Belfry!
 
-BELFRY: <em>WHAT?!</em> What sort of mean things did he <em>say?!</em>
+BELFRY: *WHAT?!* What sort of mean things did he *say?!*
 
-ANTHONY: Just...mean things. He called her names and said it's her fault Mister Jentzen got fired.
-Belfry: Jentzen got <em>FIRED?!</em>
+PENNY: He called her a freak and a mudsucker!
+BELFRY : *WHAT?!*
+PENNY: And he said it's *her* fault Mister Jentzen got fired!
+BELFRY: Wait, Jentzen got *FIRED?!*
 
-ANTHONY: It's not her fault, though! Piper was just defending her. But well...it's Piper.
+PENNY: It's *not* her fault, though!
+PENNY: Piper was just defending her. But well... it's *Piper.*
 
-PIPER: Hey! What's <em>that</em> s'pposed to mean?!
-ANTHONY: That you'll take any chance to start a fight, no matter what it's about.
+PIPER: Hey! What's *that* s'pposed to mean, *Penny?!*
+PENNY: That you'll take any chance to start a fight, no matter what it's about.
 
 PIPER: Eh, it's a fair cop.

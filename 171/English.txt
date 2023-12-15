@@ -1,11 +1,17 @@
-BELFRY: Oh, Mum that's so old-fashioned! <em>IF</em> that happened, no one would care, Mum. We'd be going for <em>medical care</em>, not treason.
+BELFRY: I know the Great Outbreak wigged you lot out, but it's been *years.*
+BELFRY: It's one thing to go to Abroad for treason. *Of course* you can't come back from *that.*
+BELFRY: But we're talking about *treatment.*
 
-TESS: You'd be surprised, my Bel.
-BELFRY: Sure, but you're on the council. You'd vouch for me, right?
+TESS: Under the Edicts, it's the same, my Bel.
+BELFRY: Mum, you're on the Council.
+BELFRY: You know you wouldn't truly *enforce* that.
 
-BELFRY: <em>YOU WOULDN'T VOUCH FOR ME?! </em>
+BELFRY: *YOU CAN'T BE SERIOUS!*
 
-TESS: No, No! Of course I would!!
-BELFRY: <em>LEAD WITH THAT!!</em>
+BELFRY: *YOU WOULDN'T EVEN STAND UP FOR US?!*
+TESS: Of *course* I would! You *know* I would!
 
-TESS: I was just thinking it wouldn't matter if I vouched for you. If you go Abroad, I can't help you. No matter how hard I try.
+TESS: But you have to understand...
+TESS: It wouldn't matter whether or not I vouched for you.
+TESS: If you choose to go to Abroad, it doesn't matter how hard I try.
+TESS: Do you really think I didn't *try* to bring Koss and Jeremy back?

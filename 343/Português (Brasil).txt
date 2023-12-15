@@ -1,19 +1,13 @@
-GENEVIEVE: Você não pode estar sendo <em>sério!</em>
-GENEVIEVE: Ele é meu <em>filho!</em>
+GUNNER: Não houve um julgamento dessa forma faz quase duas décadas.
+GUNNER: Eu só desejo ir à julgamento se for <em>absolutamete necessário.</em>
 
-HONEY: Mais razão para sermos justos.
-HONEY: Não devemos ter <em>nenhuma</em> execeção para membros do Conselho ou seus familiares.
+TESS: O Gunner está certo.
+TESS: Nós <em>realmente</em> queremos colocar o Jentzen em um julgamento de banimento? Só por ter empurrado por responder perguntas?
 
-TESS: Mas nós arriscaremos arrasar uma família por algumas <em>perguntas?</em>
-TESS: Nós tomamos conta do Conselho para parar julgamentos como esses. Na minha opinião, deviamos <em>mudar</em> os Éditos.
+TRISHA: Por o quê isso vale, a Callie retraiu a queixa! Não precisamos buscar julgamento por ela.
 
-TIMMOTHY: Eu entendo seu desejo, Tess. Claro que eu entendo. Mas...
-TIMMOTHY: Você sabe tão bem quanto eu que os Éditos são do Parlamento. Eles são <em>sagrados.</em>
-TIMMOTHY: Mudar eles não está dentro de nosso poder.
+TIMMOTHY: Infelizmente isso não importa.
+TIMMOTHY: Por mais que eu queira, nessa instâcia não podemos usar o Estatuto 113-42.
 
-SCOTT: E eu devo te lembrar, Tess...
-SCOTT: Quando você colocou sua assinatura no Conselho, você jurou defender os Éditos.
-SCOTT: Assim como nós todos.
-
-TESS: ...para o julgamento, então.
-GENEVIEVE: Sim... para o julgamento.
+TIMMOTHY: Quando ele retrucou publicamente na frente dos filhotes, ele fez isso uma questão de interesse público.
+TIMMOTHY: Além de que, como Assistente para a professora da escola, ele é uma figura pública e um empregado do governo. Não podemos simplesmente empurrar isso pra de baixo do tapete.

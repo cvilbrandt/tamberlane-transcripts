@@ -1,4 +1,6 @@
-MARIE: Es tut mir so leid! Oh, bitte hör auf, dich selbst zu hauen!
+***[OUTDATED]***
+
+MARIE: Es tut mir so leid! Oh, bitte hÃ¶r auf, dich selbst zu hauen!
 
 MARIE: Alles wird gut, Kleines. Ich bin sicher, Parsley kann dir helfen.
 MARIE: Was hast du ihm mitgebracht?
@@ -8,13 +10,13 @@ TAMBERLANE: h-huh?
 MARIE: Ach ja...Du bist nicht von hier, richtig?
 
 TAMBERLANE: uwwWAAAHH
-MARIE: Oh nein, nein, alles gut! Ich erklärs dir!
+MARIE: Oh nein, nein, alles gut! Ich erklÃ¤rs dir!
 
-MARIE: Parsley ist ein älteres Kind das viele Dinge weiß.
+MARIE: Parsley ist ein Ã¤lteres Kind das viele Dinge weiÃŸ.
 
-MARIE: Er hilft den Leuten, aber er nimmt einen Gegenstand von persönlicher Bedeutung dafür.
+MARIE: Er hilft den Leuten, aber er nimmt einen Gegenstand von persÃ¶nlicher Bedeutung dafÃ¼r.
 
 MARIE: Aber keine Sorge! Er hat auch ein Herz.
-MARIE: Ich bin sicher, für einen Neuankömmling macht er mal eine Ausnahme.
-MARIE: Also, keine Tränen mehr, okay?
+MARIE: Ich bin sicher, fÃ¼r einen NeuankÃ¶mmling macht er mal eine Ausnahme.
+MARIE: Also, keine TrÃ¤nen mehr, okay?
 TAMBERLANE: okee

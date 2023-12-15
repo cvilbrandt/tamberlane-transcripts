@@ -1,12 +1,21 @@
-BELFRY: Tamberlane!
-TAMBERLANE: STOP!
-BELFRY: Tamberlane, beruhige dich! Ich bin doch <em>da!</em>
-TAMBERLANE: <em>STOP! STOP! STOP!</em>
+***[OUTDATED]***
 
-BELFRY: Es ist vorbei! Es ist okay! <em>Ich hab dich gerettet!</em>
-TAMBERLANE: <em>STOP! STTTOOOPP!</em>
+BELFRY: Bist du verletzt?!
+BELFRY: Sie haben dir nichts getan, oder?!
 
-BELFRY: Bitte, Schätzchen, kämpf nicht so! Sag mir was passiert ist!
-TAMBERLANE: STTTTTTOOOOOOPPPP!!!!!
+BELFRY: Dem Himmel sei Dank, ich hab mir solche Sorgen gemacht!
 
-BELFRY: Bitte beruhige dich...
+ANTHONY: Frau Belfry, sie haben Piper wehgetan!
+BELFRY: <em>Wer</em> hat das getan??
+TAMBERLANE: Rrrgh!
+
+BELFRY: Ihr kleinen Fieslinge wart das, nicht wahr?!
+BELFRY: Und ihr habt Tamberlane traurig gemacht!!
+CUR: <em>Was?!</em>
+TAMBERLANE: rrrrRRR
+
+KIRA: Das ist nicht <em>fair!</em>
+CUR: Ja, <em>sie</em> hat <em>uns</em> geärgert!
+JONAS: Schau sie nur an! Sie wollte uns umbringen!
+
+TAMBERLANE: AWAARA

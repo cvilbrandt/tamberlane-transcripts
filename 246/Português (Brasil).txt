@@ -1,8 +1,17 @@
-OAKEWOOD: Bem?
-OAKEWOOD: O que você está esperando, cabeça de pássaro?
+***[OUTDATED]***
 
-OAKEWOOD: Me ajude a caçar alguma mitologia relevante!
-MILO: S-Sim, senhor!
-OAKEWOOD: Talvez vamos ser sortudos e finalmente conseguir pelo menos <em>algumas</em> dicas para nosso mistério.
+MILO: D-de qualquer jeito, eu prometo que eu só estava lendo no meu descanso, Tio.
+MILO: Desculpa por isso.
+OAKEWOOD: Nada a ver. Seu livro me deu uma idéia.
 
-OAKEWOOD: Nomeadamente, o que é a Tamberlane? 
+MILO: E- Eu ajudei?!
+OAKEWOOD:O quê? Claro que você ajudou.
+OAKEWOOD: Você pensou que estava sendo peso morto o tempo todo? Não seja besta.
+
+OAKEWOOD: A coisa é, nós estivemos olhando para o mistério da espécie da Tamberlane por só um ângulo: Biologia.
+
+OAKEWOOD: Mas a sua divagação me lembra que ainda tem vetores menos científicos que ainda temos que explorar. 
+OAKEWOOD: Nomeadamente, mitologia.
+
+MILO: Eu ajudei??
+OAKEWOOD: Ah, pelamor, Milo!

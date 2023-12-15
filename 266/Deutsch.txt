@@ -1,16 +1,18 @@
-ARTIE: Sie leben in den Schatten, beobachten jeden deiner Schritte.
-HATTIE: Sie türmen höher als die höchsten Bäume, erscheinen jedoch <em>wie aus dem Nichts.</em>
+***[OUTDATED]***
 
-ARTIE: Wenn sie dich bemerken, solltest du dich hüten!
-HATTIE: Denn wenn sie dich jagen, werden sie nicht Rasten, bis sie ihr Opfer gefangen haben!
-CUR: au! runner von meinem Schwanz!
-KIRA: sorry
+ARTIE: Versammelt euch und hört gut zu, meine Kinder, denn wir werden euch eine Geschichte erzählen.
+HATTIE: Eine Geschichte, welche euch durch Mark und Bein gehen wird.
 
-ARTIE: Egal wie schnell du rennst, egal wie gut du dich versteckst!
-HATTIE: Ein knacksender Zweig, und du wirst sehen...
-JONAS: Ich seh nichts! Was machen die?
-KIRA: Die nerven Piper, heh heh heh 
+ARTIE: Gebt keine Acht der flackernden Kerze...
+HATTIE: oder den Schatten entlang der Wände.
 
-ARTIE: ...sie sind genau hinter dir, gehend, gehend, <em>greifend...!</em>
-PIPER: <em>IIEK!</em>
-KIRA: gott
+ARTIE: Denn ihr kennt ihre Namen bereits.
+HATTIE: Jedes Kind weiss, wie sie Nachts durch eure Träume kriechen.
+
+HATTIE: Mit ihren Riesenmäulern voller krummer Zähne...
+
+ARTIE: Und ihren endlosen Beinen, welche nie ruhen, <em>egal wie weit du rennst...</em>
+
+ARTIE: Nur wenige sprechen ihren Namen, sonst bemerken sie <em>dich.</em>
+
+ARTIE&HATTIE: Ja, liebe Kinder... Wir reden von... <em>DEN LANGWANDLERN!</em>

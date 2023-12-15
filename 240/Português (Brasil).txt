@@ -1,18 +1,12 @@
-PARKER: Senhora Trisha, biscoito por favor?
-TRISHA: Aw, Parker, eu não tenho mais biscoitos comigo, amor. Depois?
-PENNY: Finn! Finn! Você já achou minha mala?
-PENNY: Eu tenho que mostrar minha boneca pra Tamberlane!
-FINN: Calma aí, jovem. Deixa eu dar uma olhada.
+***[OUTDATED]***
 
-PIPER: Gente, <em>vamos lá!</em> Eu aposto que tem <em>FANTASMAS</em> alí dentro!
+PIPER: E então foi tipo FWOOOOSH!
+ANTHONY: Você viu a cara do pai? Foi brilhante!
 
-PIPER: Bora caçar eles!
+BELFRY: Eu não vi a Tamberlane desde que chegamos...
+BELFRY: Eu espero que o resto da viajem foi ok...
+FORA: Belfry!
 
-SFX: YOINK!
-PIPER: <em>ACK! EI!</em>
+NORA: A Tamberlane ficou bem.
 
-PIPER: Papai, me <em>soltaaa!</em> Eu tenho que <em>caçar fantasmas!</em>
-JASON: Ainda não, pirralha. Nós não sabemos o plano.
-
-PIPER: <em>PLANO IDIOTA!</em>
-JASON: Então, ã... Qual <em>é</em> o plano? 
+NORA (Fora): Ela se divertiu bastante com a Penny e a Marie.

@@ -1,16 +1,16 @@
-JASON: Escuta a Belfry. Ela saberia melhor que algum lobo do mar sobre o Conselho de Treehollow.
-BELFRY: Jason, você tem 30 anos.
-JASON: Meu ponto continua válido.
+***[OUTDATED]***
 
-JASON: Eu só quero fizer pra você tomar cuidado.
+BELFRY: Olha, niguém foi mandado pro Exterior em <em>anos.</em>.
+BELFRY: Não desde que minha mãe entrou no Conselho.
+BELFRY: Tudo que Jentzen fez foi discutir com você um pouco. Isso <em>não</em> é uma ofensa banível.
+CALLIE: Eu... Eu espero que sim...
 
-JASON: Nos outros lugares que eu naveguei para, aquele lugar não é uma coisa pra se brincar.
-JASON: E na minha experiência?
+BELFRY: Se faz você se sentir melhor, quando nós voltarmos, eu vou com você para o Conselho da Cidade.
+BELFRY: Eu vou falar com minha mãe, e você pode editar sua declaração!
 
-JASON: Conselhos e autoridades sempre se inclinam a serem <em>pesados</em> no assunto.
+CALLIE: Você está certa que isso vai ser possível?
 
-JASON: Ah, mas não deixe eu te assustar. Eu tenho certeza que vai ficar tudo bem--
-SFX: PLAP
+BELFRY: Eu te prometo, <em>tudo</em> vai ficar bem!
 
-JASON: <em>PIPER!!</em>
-PIPER: <em>DESCULPA, PAI!!</em>
+BELFRY: <em>Certo?</em>
+JASON: Certo, certo.

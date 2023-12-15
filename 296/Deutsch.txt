@@ -1,32 +1,27 @@
-SFX: KKKKKKKRRRRKKK
-TAMBERLANE: Auf meinen B-bauch?
+***[OUTDATED]***
 
-JONAS: Jup!
-SFX: keuch
-JONAS: Wie ein...
-JONAS: ...großer...
-JONAS: ...Seestern!
-SFX: KKKKRRRRKKKKK
+KIRA: TAM! GEH RUNTER VOM EIS!
+CUR: RUNTER VON DEM EIS!!!
 
-SFX: keuch
-JONAS: Meine Mum...
-JONAS: hat mir...
-JONAS: gesagt, dass...
-JONAS: ...man so vom Eis kommt.
-SFX: KKKrKK
+TAMBERLANE: Okay!
+SFK: <i>Krrrkkkk</i>
+TAMBERLANE: Okay okay okay...
 
-JONAS: Kriech...
-JONAS: ...auf deinem Bauch!
-SFX: keuch
-JONAS: Alles wird gut. Alles...
-JONAS: wird gut.
-SFX: KKKKKKrrrrrKKK
+SFX: <i>KKRAKKK</i>
+TAMBERLANE: Aaaa!!!
+ABSEITS: <i>STOP!</i>
 
-ABSEITS: JONAS! KOMM ZURÜCK!
-JONAS: Alles wird gut...
-SFX: KKKKrRrKKK
-ABSEITS: DU BRAUCHST DEINEN INHALATOR! DU ERSTICKST UNS NOCH!!!
+JONAS: STOP STOP STOP! Nicht... aufstehen!
+SFX: <i>keuch</i>
+CUR: Jonas, was machst du da?!
 
-SFX: KEUCH!
-JONAS: Alles-!
-SFX: KRAAAKKK
+SFX: <i>keuch</i>
+JONAS: Leg dich...
+JONAS: ...auf...
+JONAS: ...deinen Bauch!
+SFX: <i>keuch</i>
+ABSEITS: Jonas, komm zurück!! Du brauchst deinen Inhalator, Alter!!
+
+JONAS: Und breite...
+JONAS: ...deine...
+JONAS: ...Arme aus!

@@ -1,24 +1,19 @@
-ABSEITS: Na los! Bringen wir unsere Taschen auf den Wagen!
+***[OUTDATED]***
 
-ABSEITS: Sei ein lieber kleiner Junge für Frau Callie, okay?
+BELFRY: Es war einmal eine kleine Fledermaus, welche ganz viele Fehler machte.
 
-ABSEITS: Kann ich die Pferde füttern, Frau Trisha?
+BELFRY: Sie fühlte sich, als würde ihr etwas Wichtiges fehlen, dass alle anderen scheinbar hatten.
 
-ABSEITS: Ich kann es kaum abwarten, die Klippen zu erkunden!
+BELFRY: Doch eines Tages fand sie eine wundervolle Kreatur in den Wäldern.
 
-PENNY: Marie! Anthony! Wartet auf mich!
+BELFRY: Und obwohl ihr jeder sagte, dass sie es nicht konnte, übernahm sie die Verantwortung und kümmerte sich um die kleine Kreatur.
 
-KIRA: Oi, Jonas, biste aufgeregt?
-JONAS: Hey, Leute! Ja!
+BELFRY: Und weist du, was sie dabei gelernt hat?
 
-CORIANDER: Hab Spaß an den Bally Bluffs, okay?
+TAMBERLANE: was?
 
-PARSLEY: Aye, Mum, versprochen!
+BELFRY: Diese kleine Kreatur war das, was ihr diese ganze Zeit über gefehlt hatte.
 
-BELFRY: Also dann, Tamberlane? Bereit, auf den Wagen zu steigen?
+BELFRY: Ich hab dich Lieb, Tamberlane.
 
-TAMBERLANE: Nööööö.
-
-BELFRY: Was soll das heissen, 'nö'?
-
-TAMBERLANE: <em>NÖÖÖÖ!!</em>
+TAMBERLANE: ...ich dich auch, Mami...

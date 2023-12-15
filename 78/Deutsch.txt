@@ -1,10 +1,12 @@
-PARSLEY: Vielleicht sollten wir eine Pause machen. Das arme Ding ist total überwältigt.
+***[OUTDATED]***
+
+PARSLEY: Vielleicht sollten wir eine Pause machen. Das arme Ding ist total Ã¼berwÃ¤ltigt.
 
 PENNY: Das macht aber Sinn. Mami sagte, Miss Belfry hat sie letzte Nacht im Wald gefunden und mit heimgebracht.
 PARSLEY: Miss Belfry? Belfry <em>Baker? DIESE</em> Belfry?
 PENNY: Yup.
 
-PARSLEY: Wer bitte lässt Belfry Baker <em>sich um ein Kind kümmern?!</em>
+PARSLEY: Wer bitte lÃ¤sst Belfry Baker <em>sich um ein Kind kÃ¼mmern?!</em>
 PENNY: Vielleicht redet sie deswegen nicht. Bestimmt hat Miss Bel sie auf den Kopf fallen lassen.
 PARSLEY: Auf Jeden! Es ist ein Wunder, dass sie nicht aus Versehen erstochen wurde!
 MARIE: Jaaa, Miss Belfry ist ja sehr nett, aber...
@@ -12,5 +14,5 @@ MARIE: Jaaa, Miss Belfry ist ja sehr nett, aber...
 MARIE: Nun, lasst... lasst uns all das erstmal vergessen, hm?
 MARIE: Ich schlag vor, wir machen eine Pause und spielen Flusspiraten.
 
-MARIE: Möchtest du mitspielen, Tamberlane?
+MARIE: MÃ¶chtest du mitspielen, Tamberlane?
 TAMBERLANE: yeh

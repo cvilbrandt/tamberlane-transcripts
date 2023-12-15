@@ -1,16 +1,18 @@
-BELFRY: Tamberlane!
+***[OUTDATED]***
 
-JASON: Kira, traz o Rafeiro de volta pro acampamento antes que vocês congelem o rabo.
-JASON: Fala pra Callie ter certeza que aquela fogueira tá boa e quentinha, beleza?
-KIRA: Okay!
+BELFRY: <em>TAMBERLANE!</em>
+FINN: Gritem para a gente, crianças!
+NORA: Jonas?
+KIRA: Eles estavam por aqui...
 
-NORA: Jonas!
-FINN: Tamberlane!
+BELFRY: Vai logo!!
+KIRA: Ãa...
 
-NORA: <em>Por favor,</em> vocês conseguem nos ouvir?!
-NORA: Jonas!
-NORA: Cadê você?!
-BELFRY: Tamberlane!
+KIRA: Era...
+KIRA: Eu <em>acho</em> que era...
+KIRA: O-ou...
 
-FORA: ACHEI ELES!
-BELFRY: TAMBERLANE!
+NORA: Respira fundo, Kira. Tá tudo bem.
+
+KIRA: Eu- Eu acho que eu me lembro daquele monte de galhos...
+KIRA: Talvez por aqui?

@@ -1,9 +1,11 @@
-BRIAR: So. Who wants to go first?
+BRIAR: So.
+BRIAR: Who wants to go first?
 
 BRIAR: FOR CRYING OUT LOUD!!
 
-BRIAR: Mum, Belfry adopted Tamberlane. Stop being an arse about it.
+BRIAR: Mum, Tamberlane's here to stay. Stop being an arse to Belfry about it.
 
-BRIAR: Belfry, Mum has years of experience. You should listen to what she has to say, or whatever.
+BRIAR: Belfry, Mum probably has some actually good points to make, or whatever.
 
-BRIAR: Now <em>talk.</em> Or I'll dunk you both in the frying oil.
+BRIAR: Now *talk.*
+BRIAR: Or I'll dunk you both in the frying oil.

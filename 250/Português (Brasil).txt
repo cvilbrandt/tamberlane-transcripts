@@ -1,20 +1,7 @@
-PARSLEY: Ah, desculpa, miga! Eu só tava falando pra ela que é dibas ser diferente!
-MARIE: Desculpa, meu Trissol é um <em>lixo!</em>
+***[OUTDATED]***
 
-PARSLEY: Mas falando de Trissol, eu sei que devem ter te perguntado isso pra caramba, Tam, mas...
-PARSLEY: Como você aprendeu?
-PARSLEY: Tu não tem os ouvidos ruins, então... foi alguém que você conheceu?
+PARSLEY: Aí, olha, a Marie está certa! Tu pode colocar elas onde quiser!
 
-TAMBERLANE: Um...
-TAMBERLANE: Bê!
+TAMBERLANE: Não...
 
-PARSLEY: Cê quer dizer Vê?
-TAMBERLANE: Não, Bê.
-PARSLEY: Cê tá sinalizando Vê, mano.
-
-TAMBERLANE: Ah... Vê?
-TAMBERLANE: Você está certo.
-
-PARSLEY: Ah! Você aprendeu Trissol bem nova, que nem eu.
-PARSLEY: Você tinha o que, três anos? Quando você chegou aqui?
-PARSLEY: Eu não conseguia pronunciar os sinais direito nessa idade, também.
+MARIE: OK, O QUE VOCÊS TÃO DIZENDO?

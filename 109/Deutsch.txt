@@ -1,16 +1,18 @@
+***[OUTDATED]***
+
 OAKEWOOD: Na, <i>da</i> ist aber jemand launisch.
 TAMBERLANE: Bye-bye, Briar!
 
-BELFRY: Ich kanns ihr nicht verübeln.
-BELFRY: Klingt, als wäre es zu Hause schwierig geworden, seit ich weg bin..
+BELFRY: Ich kanns ihr nicht verÃ¼beln.
+BELFRY: Klingt, als wÃ¤re es zu Hause schwierig geworden, seit ich weg bin..
 
-BELFRY: Ich weiß nicht. Vielleicht <i>sollte</i> ich mich entschuldigen.
+BELFRY: Ich weiÃŸ nicht. Vielleicht <i>sollte</i> ich mich entschuldigen.
 
 OAKEWOOD: Und die alte Meckerziege gewinnen lassen??
 TAMBERLANE: Meggatiede!
 
-OAKEWOOD: Wenn du mich fragst, muss dieser mürrische Dachs endlich lernen, dass ihre Kinder erwachsen sind.
-OAKEWOOD: Und sie wird dir sowieso raten, das Kind zurück zu bringen.
+OAKEWOOD: Wenn du mich fragst, muss dieser mÃ¼rrische Dachs endlich lernen, dass ihre Kinder erwachsen sind.
+OAKEWOOD: Und sie wird dir sowieso raten, das Kind zurÃ¼ck zu bringen.
 TAMBERLANE: Nja!
 
 BELFRY: Wahrscheinlich hast du Recht.

@@ -1,15 +1,15 @@
-BELFRY: Ok?
+***[OUTDATED]***
 
-TAMBERLANE: Ok.
+TAMBERLANE: Se eu sou do Exterior... eu sou Manchada também?
 
-TAMBERLANE: Se você ficar muito doente...
+BELFRY: Oh, doce, não-
 
-TAMBERLANE: ...você vai sair e me deixar, Mamãe?
+TAMBERLANE: Eu manchei todo mundo? Eu fiz mal??
 
-BELFRY: Oh, Tamberlane, não. Nunca.
+BELFRY: Não. Absolutamente não.
 
-BELFRY: Vamos estar juntas não importa o quê.
+BELFRY: Você viu o livro. Se você fosse Manchada, você pareceria com um monstro, certo?
 
-BELFRY: Que tal eu te contar uma história melhor? Você gostaria disso?
+BELFRY: Você não é nenhum monstro.
 
-TAMBERLANE: Sim, por favor.
+BELFRY: Você é minha Tamberlane.

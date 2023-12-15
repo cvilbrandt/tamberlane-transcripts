@@ -1,10 +1,10 @@
-BELFRY: <em>TAMBERLANE!</em>
+BELFRY: *TAMBERLANE!*
 NORA: Where are you?
 TERRA: Penny! Tamberlane!
 HENRY: Come on, darlings, we're not mad!
 
 NORA: John, has Penny been by today?
-JOHN: Not today.  Is everything alright?
+JOHN: Not today. Is everything alright?
 
 TERRA: Have you seen a little furless kit?
 CALLIE: No, Terra, sorry!

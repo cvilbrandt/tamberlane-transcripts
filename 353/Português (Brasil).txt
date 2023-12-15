@@ -1,18 +1,17 @@
-BRIAR: Você é a <em>mãe</em> da Tamberlane. Você tem que continuar forte por ela.
-BRIAR: Você não pode só se trancar pra longe dela!
-BELFRY: Isso não é justo!
+BRIAR: Você não <em>arruína</em> tudo
+BELFRY: <b>Eu fiz uma decisão!</b>
 
-BRIAR: Não importa o que é <em>justo,</em> Belfry! Você precisa ouvir isso!
-BRIAR: As vezes você só tem que se virar! Como pra sua filhote!
+BELFRY: O pai estava certo todo esse tempo. Eu tenho que me responsabilizar mais por meus erros!
+BELFRY: Então daqui em diante eu vou ser mais responsável. Eu vou me certificar que eu nunca mais vou fazer um erro de novo!
 
-BELFRY: Oh, só "me virar"? Isso é fácil de <em>você</em> dizer, Briar!
-BELFRY: Você não sabe como é! Tudo é <em>tão difícil,</em> toda hora! E quando eu tento, eu zoo tudo! <em>Sempre!</em>
+BELFRY: Se eu pensar muito bem sobre tudo que eu fizer antes de eu fazer, eu com certeza vou pegar os erros antes de fazer eles!
+BELFRY: Mas eu me esqueço das coisas quando eu fico emocionada. Isso é um problema!
+BRIAR: Belfry...
+BELFRY: Então daqui em diante, quando eu estiver emocionada, eu simplesmente vou me trancar no meu quarto!
+BELFRY: Assim eu <em>nunca mais</em> vou machucar alguém!
 
-BRIAR: Belfry, PARA! Você tem que parar de fazer isso!
-BELFRY: <em>Eu sei!</em> Eu estou tentando parar de errar, <em>eu estou!</em>
-BRIAR: <em>NÃO!</em>
+BRIAR: Ah pelo amor de...
+BRIAR: Belfry, <em>já BASTA!</em>
 
-BRIAR: Você não pode só falar que é terrível em tudo como uma desculpa pra nunca trabalhar em nada!
-
-BRIAR: Você <em>não</em> é a criatura mais patética do mundo! Você <em>não</em> é mais a coitadinha da Mamãe!
-BRIAR: Você é uma adulta e uma <em>mãe,</em> e você precisa <em>parar</em> de só dar as costas quando as coisas ficam difíceis!
+BRIAR: <em>Para de se desesperar!</em>
+BRIAR: <em>Isso não tá ajudando ninguém!</em>

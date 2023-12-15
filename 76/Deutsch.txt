@@ -1,3 +1,5 @@
+***[OUTDATED]***
+
 PENNY: Bist du taub?
 MARIE: Hast du schon immer mit den Pfoten gesprochen?
 PENNY: Wow!
@@ -6,7 +8,7 @@ PENNY: Kannst du deswegen nicht sprechen?
 
 PENNY: Tun dir davon die Pfoten weh?
 MARIE: (verdeckt) dir das beigebracht?
-PENNY: Bring mir ein paar Schimpfwörter bei!
+PENNY: Bring mir ein paar SchimpfwÃ¶rter bei!
 MARIE: Heisst das, du bist doch von hier?
 PENNY: Du bist echt sehr still!
 
@@ -16,6 +18,6 @@ MARIE: Nein warte! Nicht wieder dich selber hauen!!
 PARSLEY: Sie haut sich nicht wirklich, Marie! Damit nennt sie sich selbst 'dumm'.
 MARIE: <em>DAS IST AUCH NICHT BESSER, PARSLEY</em>
 
-PARSLEY: Nein, natürlich, du hast Recht.
+PARSLEY: Nein, natÃ¼rlich, du hast Recht.
 
 PARSLEY: Nun, mein Trissol is ein bisschen eingerostet, aber... Probiern wirs mal, oder, Tam?

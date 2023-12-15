@@ -2,12 +2,16 @@ PARSLEY: Where's your mum?
 
 PARSLEY: You don't understand?
 
-PARSLEY: Your mum! You know, warm and soft and feeds you and takes care of you? Hugs you after nightmares?
-PARSLEY: Still don't understand, huh? I'm awfully bad at explaining this.
+PARSLEY: Your mum! You know, warm and soft and feeds you and takes care of you?
+PARSLEY: Hugs you when you're scared?
+PARSLEY: Still don't understand, huh?
+PARSLEY: Never met a kit who didn't know what a *mum* was...
 
 TAMBERLANE: Eh?
 
-PARSLEY: Oh, ah... I'm sorry, Tam, I don't know that one.
+PARSLEY: Oh, ah...
+PARSLEY: You want to help me? I'm sorry, Tam, I don't quite know what you mean.
 
 PARSLEY: Ah, poor little luv.
 PARSLEY: Now I rather wish Cilantro hadn't moved to Three Rivers.
+[SFX: bwuuuuuuuu]

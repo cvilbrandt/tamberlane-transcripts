@@ -1,20 +1,19 @@
 OAKEWOOD: So I take it you and your crew haven't run into anything like her, then?
-
 GILLIAN: I'm afraid not, chap.
 GILLIAN: It... she?
 GILLIAN: ...is quite unfamiliar to me. Terribly sorry.
-GILLIAN: [whispered] yuck.
+GILLIAN (muttered): yuck.
 
-SMALL BAT 2: Captain, I have an idea of who might know.
+SMALL BAT 2: Captain, maybe the smart bloke would know.
 GILLIAN: Siiiigh...
 GILLIAN: True...
 
-GILLIAN: Say, since you were so kind to mention it, Artie, why don't <i>you</i> go fetch Milo?
+GILLIAN: Since you were so kind to mention him, Artie, why don't *you* go fetch Milo?
 
-ARTIE: Do I have to? He sicked up all over his cabin earlier.
+ARTIE: Do I *have* to? He sicked up all over his cabin earlier.
 
-GILLIAN: Someone must, and it won't be me.
+GILLIAN: *Someone* has to, and it won't be me.
 GILLIAN: Consider it Captain's orders.
 
-ARTIE: grumble, grumble
+ARTIE (muttered): grumble grumble grumble
 ARTIE: ...aye, Captain...

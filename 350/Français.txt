@@ -1,12 +1,16 @@
-TESS&#160;: Claude&#160;! Quel est ton **probl&egrave;me?!**
+TESS&#160;: Où *&eacute;tais-tu* plus t&ocirc;t&#160;?&#160;!
 
-TESS&#160;: Tu ne veux vraiment pas me parler m&ecirc;me dans un moment *pareil&#160;?&#160;!*
-TESS&#160;: **Pour l'amour du ciel, Claude&#160;! C'était *il y a vingt ans&#160;!***
+TESS&#160;: *Milo* &eacute;tait l&agrave; mais pas toi ?! Belfry avait *BESOIN* de toi&#160;!
+TESS&#160;: Si tu veux faire comme si tu faisais partie de sa famille, alors *fais comme si c'&eacute;tait le cas*&#160;!
 
-TAMBERLANE&#160;: Onc&#160;? Q-qu'est-ce qui ne va pas&#160;?
-TAMBERLANE&#160;: Je peux aider&#160;?
+TESS&#160;: Qu'est-ce qui &eacute;tait si important pour que tu ne puisses pas la soutenir, hein&#160;?!
+TESS&#160;: Tu ne pouvais m&ecirc;me pas rendre visite &agrave; ton soi-disant *sujet de recherche*&#160;?!
+TESS&#160;: **Sujet de recherche.** Je n'arrive pas &agrave; croire que tu appelles un *petit* ton *sujet de recherche&#160;!*
 
-SFX&#160;: hnk
+TESS&#160;: ***CLAUDE&#160;!** R&Eacute;PONDS-MOI&#160;!*
 
-TESS&#160;: Qu'est-- *Où diable vas-tu&#160;?&#160;!*
-TESS&#160;: ***CLAUDE&#160;!!!***
+TAMBERLANE&#160;: Oncl...
+
+OAKEWOOD&#160;: Bonjour Gueule-de-l... ou...
+
+TAMBERLANE&#160;: Oncl...&#160;?

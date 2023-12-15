@@ -1,18 +1,12 @@
-BELFRY: Ninguém acha que você é um monstro. O Exterior é só... um bicho-papão.
-TAMBERLANE: Então não é real?
-BELFRY: Não, é real. É só... o Exterior é só um lugar, boneca.
+***[OUTDATED]***
 
-TAMBERLANE: Mas e as Manchas?
-BELFRY: As Manchas também são reais, eu acho. Ou a Vovó Tess diz que são. Eu só não acho que é desse jeito.
+BELFRY: Ok! Isso...não foi o que eu me lembrava!
 
-TAMBERLANE: Não faz monstros?
-BELFRY: Bem, eu nunca vi um, pelo menos.
+BELFRY: Esse não foi um livro muito bom, foi?
+TAMBERLANE: nuh uh
 
-BELFRY: Eu não sei exatamente o que faz o Exterior tão perigoso. Eu sei que é importante ter cuidado; senão não teriamos tantas regras sobre ele! Mas eu sei algumas outras coisas sobre o Exterior!
-TAMBERLANE: Tipo oquê?
+BELFRY: Tamberlane? O que há de errado?
 
-BELFRY: O Exterior é na verdade realmente importante para Silver Sage! É por causa do exterior que temos alguns serviços importantes aqui em Treehollow.
-TAMBERLANE: Como oquê?
+TAMBERLANE: Eu sou um monstro!
 
-BELFRY: Como... água encanada! Se não fosse pelo Exterior, nós teriamos que fazer cocô fora de casa!
-TAMBERLANE: Eca!
+BELFRY: Oh, oh não, pimpolha, não! Vem aqui, então. Vamos conversar.

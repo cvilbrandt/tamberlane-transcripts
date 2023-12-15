@@ -1,25 +1,32 @@
-PARSLEY&#160;: Tu sais, il ne laisse jamais personne s'approcher de lui...
-PERSLEY&#160;: Il &eacute;tait d&eacute;j&agrave; un peu dur quand maman a accept&eacute; de l'h&eacute;berger.
+PARSLEY&#160;: Depuis combien de temps lances-tu des cailloux, mon amour&#160;?
+MARIE&#160;: Un moment&#160;!
+PARSLEY&#160;: Vraiment&#160;?? Je n'ai entendu que le dernier, je pense.
+MARIE&#160;: Eh bien, je ne voulais pas casser ta vitre&#160;!
 
-PARSLEY&#160;: Mais cette affaire &agrave; Bally Bluffs... c'est comme s'il &eacute;tait devenu dix fois pire du jour au lendemain&#160;!
+CORIANDER&#160;: Tr&egrave;s bien&#160;! Tu veux que je sois stricte&#160;? Je serai stricte&#160;!
+CUR&#160;: Ooo, tu vas *t'affirmer*&#160;??
+CORIANDER&#160;: Tu ne te l&egrave;veras *PAS* de cette table avant d’avoir dîn&eacute;&#160;!
+PARSLEY&#160;:&#160;Alors, monte.
+MARIE&#160;: Oooh, il fait tellement *plus chaud* ici&#160;!
 
-MARIE&#160;: Il se sent probablement mal &agrave; propos de ce qui s'est pass&eacute;.
-PARSLEY&#160;: Hah ! Cur&#160;??
-CUR&#160;: *&Eacute;LOIGNE CETTE CUILL&Egrave;RE DE MOI, FEMME&#160;!*
-PARSLEY&#160;: Il ne cesse de d&eacute;lirer sur la fa&ccedil;on dont il recommencerait si on lui en donnait une demi-chance&#160;!
-PARSLEY&#160;: Je doute qu'il ressente un soup&ccedil;on de remords.
+CUR&#160;: Je ne vais pas manger ta foutue *bouillie*&#160;!
+CORIANDER&#160;: Tu *peux* et tu *vas*&#160;! Ellis, tu *devras* bien manger un jour&#160;!
+CUR&#160;: J'vais *rien du tout*&#160;!
+PARSLEY&#160;: Comment tes m&egrave;res ont-elles pris la nouvelle de Bally Bluffs&#160;?
+MARIE&#160;: Oh, elles se sont agit&eacute;es autour de moi pendant des heures, mais d&egrave;s que j'ai &eacute;t&eacute; libre, je suis venue te rendre visite.
 
-CORIANDER&#160;: *ELLIS, MANGE LES POMMES DE TERRE&#160;!*
-CUR&#160;: *&Agrave; L'AIDE&#160;! &Agrave; L'AIDE! ELLE ESSAYE DE M'EMPOISONNER*
-MARIE&#160;: Cur a toujours sembl&eacute; &ecirc;tre du genre &agrave; se d&eacute;charger de sa douleur sur lui-m&ecirc;me comme &ccedil;a.
-PERSLEY : On parle du m&ecirc;me enfant&#160;! Il d&eacute;charge sa douleur sur tout le monde *sauf* lui-m&ecirc;me&#160;!
+CORIANDER&#160;:&#160;S'il te plaît, je t'en *supplie*, Ellis. Que dois-je faire pour que tu manges&#160;?
+MARIE&#160;: Comment vas-*tu*&#160;?
+CUR&#160;:&#160;Rien&#160;! Je suis ma propre cr&eacute;ature et si je veux mourir de faim, *laisse-moi mourir de faim*&#160;!
+PARSLEY&#160;: Absolument top.
 
-CORIANDER&#160;: *ASSOYEZ-VOUS&#160;! JEUNE! HOMME&#160;!*
-CUR&#160;: *L&Acirc;CHE-MOI&#160;!*
-MARIE&#160;: Eh bien, la seule chose que je *sais*, c'est que tu ne peux pas abandonner.
-MARIE&#160;: Peu importe &agrave; quel point cela devient difficile. Tu *dois* continuer d'essayer.
+CORIANDER&#160;: Tu ne mourras pas de faim sous mon toit&#160;!
+CUR&#160;: C'est d&eacute;j&agrave; le cas&#160;!
+CORIANDER&#160;: Mange un morceau&#160;! Tout de suite!
+PARSLEY&#160;:&#160;D’accord, d’accord. Arr&ecirc;te de me faire ces yeux.
 
-PARSLEY&#160;: Ouais... T'as raison, comme toujours. C'est juste...
-CORIANDER&#160;: *JE JURE DEVANT LES ESPRITS QUE TU NE MOURRAS PAS DE FAIM SOUS MON TOIT*
-PERSLEY&#160;: Est-ce mal de souhaiter que ce ne soit pas n&eacute;cessairement nous&#160;? Maman est &agrave; bout de nerfs et j'en ai marre de les &eacute;couter se disputer.
-CUR&#160;: *TIENS, REGARDE*
+CORIANDER&#160;: Ouvre&#160;!
+CUR&#160;:&#160;**Mmrggh**&#160;!
+PARSLEY&#160;: J'avoue, je suis un peu inquiet pour Cur...
+CORIANDER&#160;: *Tu vas manger des patates crois-moi*
+PARSLEY&#160;: Mais ce petit connard nous *tape sur les nerfs* &agrave; maman et moi.

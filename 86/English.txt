@@ -1,11 +1,13 @@
-TERRA: I might be a little bit late for dinner.
-MAYA: Take your time, darling.
+TERRA: I'd best help Belfry gather her kit.
+MAYA: Stars know she needs a break.
 
-TERRA: I'll make sure that Marie is home on time.
-MAYA: All right, good luck, love!
+TERRA: Would you mind starting dinner without me?
+MAYA: Don't worry about a thing! I'll make Marie's favourite.
 
-NORA: So... Do you feel any better?
+NORA: So...
+NORA: Do you feel any better?
 
-BELFRY: Ah... I... yes, of course. Thank you.
+BELFRY: Ah...
+BELFRY: I... yes, of course. thank you.
 
 BELFRY: E... enough chat, though. Tamberlane needs me.

@@ -1,9 +1,9 @@
-SFX: mmmmm
+[SFX: mmmmm]
 
 TAMBERLANE: I was...
 
-SFX: HRNNPHHH....
+[SFX: HRNNPHHH....]
 
-SFX: mmmm
+[SFX: mmmm]
 
 TAMBERLANE: Am I from Abroad?

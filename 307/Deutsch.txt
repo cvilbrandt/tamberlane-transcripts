@@ -1,16 +1,14 @@
-BELFRY: <em>TAMBERLANE!</em>
-FINN: Ruft, wenn ihr uns hören könnt!
-NORA: Jonas?
-KIRA: Sie waren hier langgelaufen...
+***[OUTDATED]***
 
-BELFRY: Beeilung!!
-KIRA: Äh...
+BELFRY: <em>WAS HAST DU MEINEM KIND ANGETAN?!</em>
+KIRA: G-Garnichts'! <em>Ich s-schwörs!</em>
 
-KIRA: Es ging...
-KIRA: Ich <em>glaub</em> es ging...
-KIRA: O-oder doch...
+BELFRY: <em>LÜGNER!</em>
+BELFRY: <strong><em>RÜPEL!!</em></strong>
 
-NORA: Atme tief durch, Kira. Mach dir keine Sorgen.
+JASON: Belfry, was ist <em>los</em> mit dir?!
+JASON: Wir haben bereits <em>genug</em> Kinder in Lebensgefahr!
 
-KIRA: I- Ich glaub, ich erkenn die Äste da wieder...
-KIRA: Vielleicht da lang?
+JASON: Kira wird uns zu Tamberlane führen.
+JASON: Schmoll so viel du willst, aber mach es während du rennst!
+JASON: <em>LOS jetzt!</em>

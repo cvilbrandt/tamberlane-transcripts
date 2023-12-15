@@ -2,16 +2,16 @@ OUTSIDE: Belfry's hurt!
 OUTSIDE: Oh dear, what now?
 
 OUTSIDE: It was the ghost!
-OUTSIDE: G-Ghost?!
-OUTSIDE: Oh no!
+OUTSIDE: There's no such *thing* as ghosts!
+OUTSIDE: Are you sure?
 OUTSIDE: How bad is it?
 
 OUTSIDE: Go get Henry!
-OUTSIDE: But you can't arrest ghosts...
-OUTSIDE: or can you?
+OUTSIDE: What's *Henry* going to do to a ghost?
+OUTSIDE: Arrest them?
 OUTSIDE: We need help!
 
 [SFX: SLAM]
 
-AINSLEY: HIDE ME!
-COYOTE: The library is <em>closed!</em>
+AINSLEY: **HIDE ME!**
+COYOTE: The library is *closed!*

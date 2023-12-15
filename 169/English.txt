@@ -1,12 +1,15 @@
-SFX: Deep Sigh
+[SFX: Deep Sigh]
 
-BELFRY: Look, Mum. I know you hate Tamberlane, but you have to come to terms with the fact that she is here to stay.
+BELFRY: Look, Mum. I know you hate Tamberlane, but it's *my* decision and she's *my* kit.
 
-TESS: <em>What?!</em> I don't <em>hate</em> Tamberlane!
+TESS: *What?!*
+TESS: I don't *hate* Tamberlane!
 
 BELFRY: Oh, really.
-TESS: <em>Yes</em>, really! I actually think she's very sweet!
+TESS: *Yes,* really!
+TESS: She's a very sweet little kit!
 
-TESS: To be honest, she may have grown on me. <em> A LITTLE.</em> 
+TESS: To be honest, she may have grown on me.
+TESS: *A LITTLE.*
 
-TESS: <em>But that's a problem!</em>
+TESS: But that's the *problem!*

@@ -1,11 +1,28 @@
-SCOTT: E esse daqui? Eu acabei de prensar ele semana passada?
-MILO: Uau, sério, Scott? Parece ótimo!
-MILO: Comprar pro meu tio é <em>impossível</em>.
+***[OUTDATED]***
 
-MILO: Mas, romance histórico?
-SCOTT: Ele vai amar, eu prometo. No último Wulfnacht, ele...
-SFX: tutum tutum tutum tutum tutum tutum
+NORA: Ele não tá respirando!
+BELFRY: Ela tá bem?!
+JASON: Me dá espaço pra trabalhar!
 
-JASON: EMERGÊNCIA! SAI DA FRENTE!
-SCOTT: Aquele não é o carrinho do passeio...?
-SFX: UM TUTUM TUTUM TUTUM TU
+FORA: <strike>Os olhos dela estão abrindo!</strike>
+FORA: <strike>Graças aos deuses!!</strike>
+FORA: <strike>Como tá o Jonas?!</strike>
+FORA: <strike>Ele respirou muita água...</strike>
+
+JASON: Pronto, boneca. Tudo bem, então?
+FORA: <strike>Precisamos esquentar eles, imediatamente.</strike>
+FORA: <strike>Traz outro cobertor aqui!</strike>
+
+TAMBERLANE: F...f-f-fofa...?
+FORA: <strike>Esfrega as patas dele, rápido!</strike>
+FORA: <strike>Da Tamberlane também!</strike>
+
+JASON: Ela tá aqui.
+BELFRY: TAMBERLANE!
+FORA: <strike>Precisamos voltar pra Treehollow agora!</strike>
+FORA: <strike>Mas isso é horas daqui!</strike>
+FORA: <strike>Então é melhor irmos agora!</strike>
+
+BELFRY: Tamberlane?!
+FORA: <strike>Estamos perdendo ela, também?!</strike>
+FORA: <strike>Tamberlane!!</strike>

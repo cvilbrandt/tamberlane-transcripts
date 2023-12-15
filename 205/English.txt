@@ -1,15 +1,22 @@
-BELFRY: Yes! How about we go to Peek-a-Books? Does that sound good?
+BELFRY: Yes! How about we go to Peek-a-Books?
+BELFRY: Does that sound good?
 
-TAMBERLANE: Oh! Yes, please.
+TAMBERLANE: Oh!
+TAMBERLANE: Yes, please.
 
-BELFRY: [thinking] Not even books distracted her? It's worse than I thought! Did he really hurt her?? Is she hiding the pain?!
+BELFRY (thinking): Not even books distracted her? It's worse than I thought!
+BELFRY (thinking): Did he really hurt her??
+BELFRY (thinking): Is she hiding the pain?!
 
-BELFRY: [thinking] I should be able to tell what’s wrong with my own child! Why don’t I have a single clue?? Why can’t I cheer her up? I just want her to be happy!
+BELFRY (thinking): I should be able to tell what’s wrong with my own child!
+BELFRY (thinking): Why don’t I have a single clue??
+BELFRY (thinking): Why can’t I cheer her up? I just want her to be happy!
 
-BELFRY: [thinking] Okay, play it cool! Don’t let her know you're the <i>worst mother on the planet!</i> Be casual! <i>Breathe!!</i>
+BELFRY (thinking): Okay, play it cool! Don’t let her know you're the *worst mother on the planet!*
+BELFRY (thinking): Be casual! *Breathe!!*
 
-BELFRY: [thinking] aaaand go!
+BELFRY (thinking): aaaand go!
 BELFRY: What’s on your mind, honey?
-BELFRY: [thinking] Nailed it!
+BELFRY (thinking): Nailed it!
 
 TAMBERLANE: Um…

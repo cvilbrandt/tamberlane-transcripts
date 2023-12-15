@@ -1,11 +1,13 @@
-NORA: Não se preocupa, meu bem. A Tamberlane vai se acalmar e você pode perguntar pra ela depois.
+***[OUTDATED]***
 
-BELFRY: Você não viu o olhar de <em>ódio</em> que ela me deu, Nora!
-BELFRY: Eu devo ter feito algo <em>horrível...</em> Ela nunca vai me perdoar.
+NORA: Como você está, Bel?
 
-NORA: Não seja idiota, Bel.
-NORA: Ela te ama, do mesmo jeito que você ama ela.
+BELFRY: <em>De boa na lagoa.</em>
 
-NORA: Eu aposto que isso é só o temperamento normal de uma criança.
+BELFRY: Eu errei, mas eu nem sei o que <em>foi!</em>
+BELFRY: Agora a Tamberlane está tão magoada comigo que ela nem <em>olha</em> pra
+ mim!
 
-NORA: Não se preocupa. Isso é só uma lombada no caminho.
+BELFRY: O que eu fiz <em>dessa vez??</em>
+
+BELFRY: Ela nunca se distanciou de mim desse jeito antes...

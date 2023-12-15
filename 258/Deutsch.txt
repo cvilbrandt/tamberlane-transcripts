@@ -1,12 +1,13 @@
-PIPER: Nun, während meiner berühmten Karriere als Geisterjäger habe ich das Ein oder Andere über Geister gelernt.
+***[OUTDATED]***
 
-PIPER: Geister können <em>gemein</em> sein!
+PIPER: Als die Professionelle hier bin ich die tippy-top Geisterexpertin.
 
-PIPER: Geister können <em>wütend</em> sein!
+PIPER: Schließlich hab ich <em>diesen</em> Geist gefunden!
+ANTHONY: Aber, Piper, sie ist doch--
+PIPER: Klappe, Anthony.
 
-PIPER: Aber am allermeisten sind Geister...
-PIPER: ...sehr...
-PIPER: ...sehr...
+PIPER: Wenn euch eure <em>Leben</em> was wert sind...
 
-PIPER: <em>BISSIG!!!</em>
-ANTHONY: <em>AU!! PIPER!!!!</em>
+PIPER: Nein! Euer <em>Verstand!</em>
+
+PIPER: Dann folgt ihr mir <em>aufs Wort!</em>

@@ -1,16 +1,11 @@
-JENTZEN: Eu achei que as coisas eram diferentes.
+GENEVIEVE: Alguns de nós tem um plano, ok?
+GENEVIEVE: Nós vamos fazer que nada que nem isso aconteça de novo.
 
-GENEVIEVE: Eu também.
+GENEVIEVE: Eu prometo.
 
-GENEVIEVE: E elas são.
-GENEVIEVE: Elas tem que ser.
+GENEVIEVE: Tudo bem, amor?
 
-JENTZEN: Me desculpa, Mãe. Me desculpa!
-GENEVIEVE: Você não tem <em>nada</em> para se desculpar sobre, Jentzen!
-GENEVIEVE: Você só...
-SFX: tum tum tum tum tum tum TUm
-FORA: <em>EMERGÊNCIA!</em>
+JENTZEN: Estou com medo.
 
-FORA: SAI DA FRENTE! CARRINHO PASSANDO!
-SFX: TUM TUM
-GENEVIEVE: Mas o quê?
+GENEVIEVE: O Conselho não vai te banir, Jentzen.
+GENEVIEVE: Não enquanto eu estou lá.

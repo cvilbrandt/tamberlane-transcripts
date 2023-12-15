@@ -2,14 +2,16 @@ PENNY: Okay, this is far enough!
 
 PENNY: Let's start with standing!
 
-PENNY: Whoa, I didn't realize you were so <em>tall.</em>
+PENNY: Whoa. You're tall for a kit who can't talk yet.
 
 PENNY: Now just hold onto the wall...
 PENNY: Good!
 
-TAMBERLANE: <em>Awahwah!!</em>
+TAMBERLANE: ***Awahwah!!***
 PENNY: Wha-
 
-TAMBERLANE: <em>AWAHWAH BYEBYE!</em>
+TAMBERLANE: ***AWAHWAH BYEBYE!***
 
 PIPER: Whatcha doin'?
+KIT (muttered): Can we stop yet
+PIPER (muttered): no

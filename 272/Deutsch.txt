@@ -1,14 +1,16 @@
-CUR: Was bringt <em>dich</em> denn so auf die Palme?
+***[OUTDATED]***
 
-TAMBERLANE: Wieso hast--
-TAMBERLANE: Wieso hast du das <em>getan?!</em>
+CUR: Ihr hättet eure Gesichter sehen sollen!
+CUR: Unbezahlbar!
 
-JONAS: Weil Piper ein riesen Arsch ist, deswegen.
-KIRA: Wieso regst du dich so darüber auf? Sie ärgert dich auch ständig!
+PIPER: <em>Ha... Halt die Klappe!</em>
+PIPER: Das war nur wegen Arties und Hatties Geschichte!
 
-TAMBERLANE: Weil das <em>NICHT NETT IST!</em>
-TAMBERLANE: Tu <em>NIEMALS</em> Kreaturen weh!
+CUR: Denen ihre Geschichte über <em>Langwandler?</em>
+CUR: Das ist eine <i>Baby</i>geschichte, die <em>Babys</em> Angst machen soll!
+CUR: Bist du ein kleines Baby, Piper?
 
-CUR: Schaut euch nur das felllose Wundertier an! "Tu niemals Kreaturen weh"?
+PIPER: I-- Ich bin kein Baby!
+PIPER: Nimm das zurück!!
 
-CUR: <em>Werd Erwachsen.</em> Kreaturen wird <em>jeden Tag</em> wehgetan.
+TAMBERLANE: CUR! <em>STOP!!</em>

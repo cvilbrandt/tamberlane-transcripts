@@ -1,18 +1,19 @@
-BELFRY: Pfft, <em>Obrigkeit.</em>
-BELFRY: Du lässt es so klingen, als wäre der Stadtrat ein <em>namensloses Böses.</em>
-BELFRY: Der Rat besteht aus unseren Freunden und Familien!
+***[OUTDATED]***
 
-JASON: Ich war bereits überall in diesem Land unterwegs. Städte dieser Größe werden <em>immer</em> von Freunden und Familienmidgliedern geleitet.
+CALLIE: Es ist das <em>Gesetz,</em> Jason!
 
-JASON: Das hält sie jedoch nicht davon ab, die eigenen Leute zu verstoßen.
+CALLIE: Es ist ja nicht so, als hätte ich den Vorfall einfach verschweigen können!
+CALLIE: Kinder <em>reden.</em> Und dann wäre es trotzdem beim Rat angekommen.
+CALLIE: Das wäre <em>noch schlimmer gewesen!</em>
 
-CALLIE: Nein! Sie würden Jentzen doch nicht <em>verbannen,</em> oder?
-BELFRY: Nein! Natürlich nicht!
-JASON: Es würde mich nicht überraschen.
+BELFRY: Macht Sinn! Ein zweiter Fehler begleicht nicht den ersten und so.
+JASON: Aber war das, was Jentzen gemacht hat, wirklich <em>falsch?</em>
 
-BELFRY: Jason!
-JASON: Er hat Kinder dazu angestiftet, gegen die Edikte zu rebellieren.
-JASON: So werden sie es sich zumindest zurechtspinnen.
+BELFRY: Also so richtig falsch war es nicht. Aber die Edikte gibt es aus einem Grund, richtig?
+BELFRY: Callie konnte nicht einfach so tun, als wäre nichts geschehen!
 
-CALLIE: Das würden sie- das können sie-
-BELFRY: Das <em>werden</em> sie nicht.
+BELFRY: Ich meine, was hätte sie sonst tun sollen? Lügen?
+
+JASON: Ich glaub es gibt da noch <em>einige</em> Möglichkeiten zwischen Lügen und Jentzen bei der <em>Obrigkeit anzuzeigen.</em>
+BELFRY: Der "Obrigkeit"
+BELFRY: Jason, du bist wirklich nicht aus der Gegend!

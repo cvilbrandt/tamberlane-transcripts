@@ -1,11 +1,13 @@
-NORA: Mach dir keine Sorgen, Schätzchen. Tamberlane wird sich schon beruhigen, dann kannst du sie fragen.
+***[OUTDATED]***
 
-BELFRY: Du hast nicht den <i>Hass</i> gesehen, mit dem sie mich angeschaut hat, Nora!
-BELFRY: Ich muss etwas <i>schreckliches</i> getan haben... Sie wird mir nie verzeihen!
+NORA: Wie geht es dir, Bel?
 
-NORA: Sei nicht albern, Bel.
-NORA: Sie liebt dich, genau wie du sie liebst.
+BELFRY: Absolut <em>fabelhaft</em>.
+NORA: Das glaub ich dir, du armes Ding.
 
-NORA: Ich würde sagen, dass ist einfach typische Kinderlaune.
+BELFRY: Ich hab einen Fehler gemacht, weiss aber nicht mal, <em>welchen</em>!
+BELFRY: Jetzt ist Tamberlane so wütend auf mich, dass sie mich nicht mal mehr <em>anschaut</em>!
 
-NORA: Mach dir nichts draus. Das ist nur ein kleiner Stolperstein auf eurem gemeinsamen Weg.
+BELFRY: Was hab ich <em>dieses mal</em> gemacht??
+
+BELFRY: Sie hat mich noch nie <i>derart</i> abgewiesen...

@@ -1,10 +1,16 @@
-CUR: Warum versteckst du dich nicht hinter deiner doofen <em>Mami</em> wie sonst auch immer?
+***[OUTDATED]***
 
-CUR: Solang du noch eine Mutter <em>hast</em>, die dich beschützt.
-TAMBERLANE: STOP! STOP STOP!
+CUR: Nein. Die kleine Frau Wunderkind will, dass ich mich <em>entschuldige</em>. Nagut.
 
-TAMBERLANE: RED NICHT SO ÜBER MEINE MA-
+CUR: Es tut mir <em>so Leid</em>, dass dich jeder liebt und mit dir kuschelt.
 
-ROTER TEXT: NICHT
+CUR: Es tut mir <em>so Leid</em>, dass es Lebewesen nen Scheiss interessiert, was du willst.
 
-TAMBERLANE: ma
+CUR: Es tut mir <em>so Leid</em>, dass du die besonderste kleine Prinzessin dieses Dreckslochs sein darfst!!
+
+TAMBERLANE: Aber ich <em>will</em> doch nichtmal besonders sein!!
+
+CUR: Tja, Pech gehabt, Tamber<em>lahm</em>. Jeeeder denkt du bist <em>sooo</em> besonders.
+CUR: Aber rate mal was? 'Besonders' heisst einfach nur <i>'anders'</i>.
+
+CUR: Und du weisst, was mit Kreaturen geschieht, die <i>anders</i> sind.

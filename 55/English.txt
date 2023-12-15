@@ -1,19 +1,20 @@
 FOX: So, how'd your first night as a parent treat you?
-BELFRY: Oh, it's not that hard.
+BELFRY: Oh, it's not *that* hard.
 
 FOX: Oh, not that hard?
 FOX: In true Belfry fashion, you chose the hardest kind of parenting there is.
 FOX: Just you wait.
 
 BELFRY: The hardest?
-
 FOX: Adopted kits don't tend to attach very quickly.
 FOX: If it takes her a bit to warm up to you, that's normal.
 
 BELFRY: Oh, she took to me pretty much immediately!
 FOX: Really?
 
+[SFX: Achoo!]
 BELFRY: Yes! She came right up and hugged me.
 BELFRY: I think she could tell I was nice.
 
-FOX: That's so strange!
+FOX: That's unusual behavior!
+We really ought to keep an eye on her development.

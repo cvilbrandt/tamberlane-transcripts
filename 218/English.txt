@@ -4,19 +4,18 @@ BELFRY: Tamberlane, come snuggle with me!
 TAMBERLANE: I don't wanna!!!
 
 BELFRY: Get over here, you!
-TAMBERLANE: Nuh, uh!!
+TAMBERLANE: Nuh uh!!
 
-BELFRY: Gotcha!
+BELFRY: Gotcha!!
 TAMBERLANE: Eeeee!!!
 
 OAKEWOOD: Look's like you have this well in paw, then?
-BELFRY: Yep! I've got this little monster buttoned down!
+BELFRY: Yep, I've got this little monster buttoned down!
 
-OAKEWOOD: Good night then, you two.
-BELFRY: Night night!
+OAKEWOOD: Goodnight then, you two.
+BELFRY & TAMBERLANE: Night night!
 
-BELFRY: Now, what do I have to do to get you to settle down, munchkin?
+BELFRY: Now, what do I have to do to get you to settle down, muffin?
 TAMBERLANE: Stories!!!
 BELFRY: Okay, but you have to get all set up in bed by yourself...
 TAMBERLANE: Okay!
-

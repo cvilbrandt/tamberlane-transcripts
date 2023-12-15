@@ -1,12 +1,14 @@
-MILO: Onkel, mir f‰llt auf, dass sie f¸r eine Dreij‰hrige ziemlich groﬂ ist.
-OAKEWOOD:Ja, stimmt. Sie gehˆrt wohl eher nicht zur Grˆﬂenklasse der Nagetiere.
+***[OUTDATED]***
 
-MILO: Vielleicht eher zur Klasse der B‰ren?
+MILO: Onkel, mir f√§llt auf, dass sie f√ºr eine Dreij√§hrige ziemlich gro√ü ist.
+OAKEWOOD:Ja, stimmt. Sie geh√∂rt wohl eher nicht zur Gr√∂√üenklasse der Nagetiere.
+
+MILO: Vielleicht eher zur Klasse der B√§ren?
 SFX: murmel murmel murmel murmel...
 
-CROWD: Ich muss weg... hab noch W‰sche...
-CROWD: Oh, schon so sp‰t!
-CROWD: Lass mal da r¸ber gehen!
+CROWD: Ich muss weg... hab noch W√§sche...
+CROWD: Oh, schon so sp√§t!
+CROWD: Lass mal da r√ºber gehen!
 CROWD: Ich... hab noch was vor!
 CROWD: Sieh nicht hin!
 

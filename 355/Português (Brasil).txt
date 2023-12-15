@@ -1,16 +1,16 @@
-BRIAR: Eu sei que você está tentando, Belfry.
-BRIAR: Não tem problema em não estar bem.
-BRIAR: Mas você não pode colocar isso na Tamberlane.
+BELFRY: Não é minha culpa, Briar!
+BRIAR: Bem, não é minha culpa, também! Ou da Tamberlane! Porque não é <em>sobre</em> culpa!
 
-BRIAR: Lembra que a Mãe fazia isso?
+BRIAR: Você não pode continuar nos usando pra justificar seus defeitos!
+BELFRY: <em><b>Usar-?!</b></em>
+BELFRY: Eu nunca <em>usei</em> ninguém! Como você pode falar isso?!
 
-BRIAR: Ela ficava tão <em>brava,</em> e depois ela colocava toda a culpa em nós.
+BRIAR: Belfry, você está usando a Tamberlane <em>agora mesmo.</em>
+BRIAR: Desde que nós saímos do hospital, tem sido tudo sobre <em>você.</em> Como <em>você</em> errou. A condição dela não é sobre <em>você.</em>
+BRIAR: Você não mencionou ela uma vez.
 
-BRIAR: Eu sei que você ama a Mãe, mas ela sempre dizia que o pavio curto dela era por que você era uma pata cheia de se criar.
-BRIAR: Mas ela <em>usou você</em> pra evitar responsabilidade. O temperamento dela nunca foi sua culpa.
+SFX: K.O.!!!
 
-BRIAR: <em>Você</em> não pode ser assim, Belfry! Você não pode colocar seus problemas na Tamberlane!
-BRIAR: Ela já carrega demais do jeito que está!
-BRIAR: Eu aposto que tomar o <em>seu stress</em> é o porquê dela ter te empurrado pra fora em Bally Bluffs!
-
-BELFRY: <em>O que <b>você</b> saberia sobre o que aconteceu em Bally Bluffs?!</em>
+BELFRY: Eu só...
+BELFRY: É só que eu tenho que me consertar pra eu poder tomar conta dela.
+BELFRY: Eu não sou boa o bastante para ela.

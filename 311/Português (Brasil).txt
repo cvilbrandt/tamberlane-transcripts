@@ -1,26 +1,12 @@
-NORA: Ele não tá respirando!
-BELFRY: Ela tá bem?!
-JASON: Me dá espaço pra trabalhar!
+***[OUTDATED]***
 
-FORA: <strike>Os olhos dela estão abrindo!</strike>
-FORA: <strike>Graças aos deuses!!</strike>
-FORA: <strike>Como tá o Jonas?!</strike>
-FORA: <strike>Ele respirou muita água...</strike>
+FINN: A Nora está certa. Deixa comigo.
+JASON: Certeza, Finn?
+FINN: Eu posso até ser um velhote, mas eu ainda nado que nem um peixe!
 
-JASON: Pronto, boneca. Tudo bem, então?
-FORA: <strike>Precisamos esquentar eles, imediatamente.</strike>
-FORA: <strike>Traz outro cobertor aqui!</strike>
+SFX: PLASH
 
-TAMBERLANE: F...f-f-fofa...?
-FORA: <strike>Esfrega as patas dele, rápido!</strike>
-FORA: <strike>Da Tamberlane também!</strike>
+JASON: Eles estão vivos?
+FINN: Você vai ter que checar!
 
-JASON: Ela tá aqui.
-BELFRY: TAMBERLANE!
-FORA: <strike>Precisamos voltar pra Treehollow agora!</strike>
-FORA: <strike>Mas isso é horas daqui!</strike>
-FORA: <strike>Então é melhor irmos agora!</strike>
-
-BELFRY: Tamberlane?!
-FORA: <strike>Estamos perdendo ela, também?!</strike>
-FORA: <strike>Tamberlane!!</strike>
+JASON: Hora de subir então, crianças...

@@ -1,4 +1,6 @@
-MILO: Weisst du, sie erinnert mich an die Kinder mit dem Williams-Syndrom, aber dazu fehlen ihr die körperlichen Merkmale, verstehst du was ich meine?
+***[OUTDATED]***
+
+MILO: Weisst du, sie erinnert mich an die Kinder mit dem Williams-Syndrom, aber dazu fehlen ihr die kÃ¶rperlichen Merkmale, verstehst du was ich meine?
 OAKEWOOD: Das ist ein guter Pu-... wo ist Tamberlane?
 SFX: WEG
 
@@ -7,11 +9,11 @@ OAKEWOOD: TAMBERLANE! BLEIB WEG VON DENEN!
 TAGG: Hallo, Claude.
 OAKEWOOD: Hallo..Tagg...und Danger...
 SFX: keuch schnauf
-TAGG: Wir haben sie nicht angerührt.
+TAGG: Wir haben sie nicht angerÃ¼hrt.
 OAKEWOOD: Das... ist gut.
 TAMBERLANE: Onkel!
 
-OAKEWOOD: Wenn ihr nach... Stadtrat Timmothy sucht,... den hab ich zuletzt... in der Händlergasse... gesehen.
+OAKEWOOD: Wenn ihr nach... Stadtrat Timmothy sucht,... den hab ich zuletzt... in der HÃ¤ndlergasse... gesehen.
 SFX: keuch keuch 
 
-TAGG: Perfekt. Sobald wir ihn aufgespürt haben, ziehn wir unsern Handel durch und verschwinden aus diesem rückständigen Drecksloch.
+TAGG: Perfekt. Sobald wir ihn aufgespÃ¼rt haben, ziehn wir unsern Handel durch und verschwinden aus diesem rÃ¼ckstÃ¤ndigen Drecksloch.

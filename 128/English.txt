@@ -1,12 +1,12 @@
-MILO: But I'm <i>not</i> a novice! This is the capstone for my doctorate!
-OAKEWOOD: Novice.
+MILO: I'm *not* a child! This is the capstone for my doctoral thesis!
+OAKEWOOD: Child.
 
-MILO: I've been doing research on these issues for <i>years!</i>
-OAKEWOOD: Novice!
+MILO: I've been doing research on these issues for *years!*
+OAKEWOOD: Child!
 
-MILO: <i>Please</i> give me a chance, Uncle Claude! I promise I  won't bother her!
+MILO: *Please* give me a chance, Uncle Claude! What if *you* supervised?
 
-OAKEWOOD: What <i>exactly</i> would this research entail?
+OAKEWOOD: What *exactly* would this research entail?
 
 MILO: Observation, mostly?
 

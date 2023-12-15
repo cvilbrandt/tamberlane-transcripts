@@ -1,14 +1,8 @@
-JONAS: Schön hier draussen, oder? Frisch.
-KIRA: Ja. Schön, einfach mit euch abzuhängen, weg von den Andern.
+***[OUTDATED]***
 
-KIRA: Ich hasse Schulfahrten. Jeder sitzt dir die ganze Zeit im Nacken.
+OFFSCREEN: Shhh!
 
-CUR: Klar, aber der kleine Streich vorhin war ziemlich lustig, was?
-KIRA: Wie die gerannt sind! Echt cool!
-JONAS: Tchja!
+OFFSCREEN: Weck niemanden auf!
 
-CUR: Ich hätt' Piper vielleicht kein Bein stellen sollen. Wollt' sie ja nich' <i>richtig</i> verletzen...
-KIRA: Sie zum Weinen zu bringen ist weniger cool..
-JONAS: Ja...
-
-CUR: Ach naja. Geschieht ihr Recht dafür, so fies zu sein. 
+CUR: Beeil dich, Jonas!
+JONAS: Ich komme, ich komme!

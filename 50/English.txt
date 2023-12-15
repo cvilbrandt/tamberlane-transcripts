@@ -1,9 +1,11 @@
-OAKEWOOD: Honey in your tea?
+OAKEWOOD: Milk in your tea?
 BELFRY: Yes, please.
-BELFRY: Thank you, Oakewood. You've really saved my life tonight.
+BELFRY: Thank you, Oakewood.
+BELFRY: You've really saved my life tonight.
 OAKEWOOD: Bah.
 
-BELFRY: I'm sorry you got stuck with me. You deserve someone better.
+BELFRY: I'm sorry you got stuck with me.
+BELFRY: You deserve someone better.
 
 BELFRY: But I promise I'll do my very best to be a good mum.
 

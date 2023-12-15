@@ -1,13 +1,14 @@
-CALLIE: Jentzen, I will not <em>spread fear and paranoia.</em> The likelihood that they will have to know <em>anything</em> about that place is slim to <em>non-existent!</em>
-JENTZEN: That's inaccurate, Callie! You <em>know</em> this!
+CALLIE: Jentzen, you are on *thin ice.*
+CALLIE: If you want to discuss school policy with me, we can do so in *private.* This is not an appropriate conversation in front of our *students!*
+JENTZEN: But you're *wrong!* It's our *job* to prepare them!
 
-JENTZEN: Cur's family <em>left him</em> here to go Abroad!
+JENTZEN: Cur's family *left him here* to go to Abroad!
 
-JENTZEN: Kira's family died trying to <em>escape</em> Abroad!
+JENTZEN: Kira's family died trying to *escape* from Abroad!
 
-JENTZEN: Marie's biological parents <em>were banished</em> to Abroad!
+JENTZEN: And Marie's grandfather was *banished* to Abroad!
 
-JENTZEN: Even my family...
+JENTZEN: Even *my* birth parents...
 
-JENTZEN: Not telling them is wrong. The Edicts are old and outdated. We <em>have</em> to educate our youth! We can't just let our families and neighbors disappear into a... a social black hole!
-
+JENTZEN: Not telling them is *wrong.* The Edicts are old! They're outdated! We *have* to educate our youth!
+JENTZEN: We can't just let our families and neighbors disappear into a... a social *black hole!*

@@ -1,11 +1,6 @@
-MILO: Desculpa, é a Tamberlane.
-MILO: Ela está no hospital.
+***[OUTDATED]***
 
-OAKEWOOD: Quê?
+SFX: BUM
+MILO: <em>TIO!!!</em>
 
-MILO: Aparentemente houve um acidente no passeio.
-MILO: Ela e outro filhote caíram no rio.
-
-MILO: Tá ruim, Tio.
-
-MILO: Vamos!
+OAKEWOOD: <em>QUANTAS VEZES EU JÁ TE FALEI PRA NÃO BATER A PORTA?!</em>

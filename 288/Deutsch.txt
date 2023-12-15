@@ -1,17 +1,16 @@
-SFX: KRNCHKRNCHHK
+***[OUTDATED]***
 
-SFX: KRNCHKRNCHKRNCHH
-CUR: Wa-
+JONAS: Schön hier draussen, oder? Frisch.
+KIRA: Ja. Schön, einfach mit euch abzuhängen, weg von den Andern.
 
-CUR: Ach, geh doch wieder ins Bett! Wir tun keinem Weh!
-KIRA: Ugh! <i>Was</i> hast du für'n Problem??
-TAMBERLANE: Du hast dich nicht entschuldigt!
+KIRA: Ich hasse Schulfahrten. Jeder sitzt dir die ganze Zeit im Nacken.
 
-KIRA: Komm drüber weg!
-JONAS: Ja, die Erwachsenen haben uns schon bestraft!
+CUR: Klar, aber der kleine Streich vorhin war ziemlich lustig, was?
+KIRA: Wie die gerannt sind! Echt cool!
+JONAS: Tchja!
 
-TAMBERLANE: <em>NEIN</em>.
-KIRA: Lammich los!
-TAMBERLANE: Es tut dir nicht <i>Leid!</i>
+CUR: Ich hätt' Piper vielleicht kein Bein stellen sollen. Wollt' sie ja nich' <i>richtig</i> verletzen...
+KIRA: Sie zum Weinen zu bringen ist weniger cool..
+JONAS: Ja...
 
-TAMBERLANE: Es muss dir <em>LEID TUN!</em>
+CUR: Ach naja. Geschieht ihr Recht dafür, so fies zu sein. 
