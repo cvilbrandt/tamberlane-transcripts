@@ -1,15 +1,16 @@
-***[OUTDATED]***
+AINSLEY: Beleza, Oakewood! Eu vou dobrar nossa aposta normal.
+AINSLEY: Se você já viu *qualquer coisa* igual, nós jogamos xadrez no *meu* tempo por dois meses.
+AINSLEY: Se não, eu *te* devo dois meses de vasculhamente de prioridade.
 
-AINSLEY: Beleza, Oakewood!
-AINSLEY: Se você for ver, eu aposto 5 meses de vasculhamento que você não viu nada que nem isso antes.
+OAKEWOOD: Hoje não, Ainsley.
+OAKEWOOD: Eu já tenho planos.
 
-OAKEWOOD: Ã, não. Você é delirante e eu tenho uma vida.
+OAKEWOOD: E esses planos são uma noite boa e aconchegante, longe da balbúrdia desse figurantezinho imaginativo.
 
-OAKEWOOD: E isso envolve uma boa, aconchegante noite dentro longe de doidos atazanantes como você.
-
-OAKEWOOD: E falando nisso, hora de sair.
+OAKEWOOD: E esses planos começam *agora.*
 
 AINSLEY: Você me jogaria aos lobos?
-OAKEWOOD: Alguns dos meus melhores amigos são lobos. Fora.
+OAKEWOOD: Alguns dos meus melhores amigos são lobos.
+OAKEWOOD: *Boa noite.*
 
 [SFX: BLAM]
