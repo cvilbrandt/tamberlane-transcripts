@@ -14,7 +14,7 @@ TAMBERLANE: Ich werde ohne dich glücklicher sein, Mammi!
 TAMBERLANE: Das weißt du doch, oder?
 
 BELFRY: Ich weiß.
-BELFRY: <em>Ich weiß!<em>
+BELFRY: <em>Ich weiß!</em>
 
 ABSEITS: <em><strong>BELFRY!</strong></em>
 SFX: keuch
