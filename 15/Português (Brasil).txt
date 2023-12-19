@@ -1,5 +1,3 @@
-***[OUTDATED]***
-
 TESS: O quê?
 
 TESS: Belfry, você por favor pode ir ver só se as crianças chegaram na escola?
@@ -9,6 +7,6 @@ BELFRY: É pra já, senhora!
 
 [SFX: plop]
 
-BELFRY: AI MEU PAI MAMÃE TESS ME DESCULPA
+BELFRY: *AI MEU PAI MÃE ME DESCULPA*
 
-TESS: Só... vai ir checar as crianças.
+TESS: Só... vai checar as crianças.
