@@ -7,7 +7,7 @@ CALLIE: Crianças <em>falam</em>. E então teria acabado no Conselho de qualquer
 CALLIE: Isso seria <em>ainda pior!</em>
 
 BELFRY: Faz sentido! Dois errados não fazem um certo, e tal.
-JASON: Mas, o que o Jentzen fez foi <em>errado?/em>
+JASON: Mas, o que o Jentzen fez foi <em>errado?</em>
 
 BELFRY: Não errado, exatamente. Mas os Éditos estão lá por um motivo, certo?
 BELFRY: A Callie não podia ter fingido que não aconteceu!
