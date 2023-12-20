@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - html-validator
 
 jobs:
   build:
