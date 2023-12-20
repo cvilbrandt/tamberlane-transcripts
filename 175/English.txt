@@ -10,6 +10,6 @@ GUNNER: Decision's yours, Timmothy.
 TESS: I'm sorry!
 
 TESS: I'm sorry I'm late!
-TIMMOTHY: Oh thank goodness, no hard decisions today.
+TIMMOTHY: Oh thank goodness, no hard decisions today.<em>
 
 TIMMOTHY: Let's do this.
