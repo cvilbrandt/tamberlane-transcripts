@@ -14,7 +14,7 @@ BRIAR: WILL YOU ***TWO GROW UP!?***
 
 BRIAR: I swear, sometimes I feel like the only adult in this family.
 
-WALTER: <Russian>
+WALTER: [Russian]
 BRIAR: Спасибо, Папочка
 
 TAMBERLANE: What?

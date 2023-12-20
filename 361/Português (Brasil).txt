@@ -29,4 +29,4 @@ CORIANDER: Abre!
 RAFEIRO: <em><b>Mmrggh!</b></em>
 PARSLEY: Eu confesso, eu tô preocupado um teco com o Rafeiro...
 CORIANDER: <em>Você vai comer um pouco de batata ou deus me ajude</em>
-PARSLEY: Mas o ralézinha tá <em>enchendo o saco</em> de mim e da Mãe.</em>
+PARSLEY: Mas o ralézinha tá <em>enchendo o saco</em> de mim e da Mãe.
