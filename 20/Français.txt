@@ -1,15 +1,15 @@
-***[OUTDATED]***
 
-[SFX: AAGGHH]
 
-BELFRY: AIEAIEAIE MA JAMBE ! 
+[SFX&#160;: AAGGHH]
 
-BELFRY: Je vais mourir
+BELFRY&#160;: *AIEAIEAIE* MA JAMBE&#160;!
 
-GHOST: Aieaieaie ? 
+BELFRY&#160;: Je vais mourir
 
-BELFRY: RESTE LOIN, FANTOME ! Je ne veux pas te faire du mal !
+FANT&Ocirc;ME&#160;: avaiouioui&#160;?
 
-BELFRY: S'IL TE PLAIT NE ME FAIT PAS DE MAL ! 
+BELFRY&#160;: RESTE EN ARRI&Egrave;, FANT&Ocirc;ME&#160;! Je ne veux pas te faire du mal&#160;!
 
-GHOST: plaime pamale ? 
+BELFRY&#160;: *S'IL TE PLA&Icirc;T NE ME FAIS PAS DE MAL&#160;!*
+
+FANT&Ocirc;ME&#160;: plaifai pamale&#160;?
