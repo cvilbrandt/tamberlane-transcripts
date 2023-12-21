@@ -16,4 +16,4 @@ MILO: Ela é perfeita!
 OAKEWOOD: Agora calma um pouco!
 OAKEWOOD: O quê você quer dizer, <i>"perfeita"</i>?
 
-MILO: Para meu <i>projeto de pesquisa!<i>
+MILO: Para meu <i>projeto de pesquisa!</i>

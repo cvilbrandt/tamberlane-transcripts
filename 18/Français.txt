@@ -1,14 +1,15 @@
-***[OUTDATED]***
 
-[SFX: OUINOOOOUUUUUIIIIN]
-BELFRY: Qu...Qu'est-ce que c'est ?!
-ANTHONY: LE FANTOME EST DE RETOUR ! 
 
-ANTHONY: VA SAUVER MA SOEUR ! 
+[SFX&#160;: OUINOOOOUUUUUIIIIN]
+BELFRY&#160;: Qu...Qu'est-ce que c'est&#160;?!
+ANTHONY&#160;: LE FANT&Ocirc;ME EST DE RETOUR&#160;!
 
-BELFRY: Oh, salur les gars !
+ANTHONY&#160;: VA SAUVER PIPER&#160;! 
 
-BELFRY: Oh oh...
+BELFRY&#160;: Oh, salut frangine&#160;!
+BELFRY&#160;: Salut Piper&#160;!
 
-PIPER: J'ai la sensation, narrativement, que nous devions nous y attendre.
-BRIAR: BEL !!!
+BELFRY&#160;: Oh oh...
+
+PIPER&#160;: J'ai la sensation, narrativement, que nous devions nous y attendre.
+BRIAR&#160;: ***BEL&#160;!!!***

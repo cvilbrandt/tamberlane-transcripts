@@ -11,9 +11,9 @@ TESS: No.
 WALTER: So you see, your mother was very enthusiastic about keeping little Belfry.
 WALTER: We had many talks. But I did come around. Obviously.
 
-WALTER: She was our one and only pride and joy, until you came along, <Russian>.
+WALTER: She was our one and only pride and joy, until you came along, [Russian].
 WALTER: Now we have two prides!
-BRIAR: Aww, <Russian>...
+BRIAR: Aww, [Russian]...
 
 WALTER: So I say, Tess understands.
 WALTER: Her... ehm... *frustration* is from another place, I think.

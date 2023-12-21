@@ -1,12 +1,13 @@
-***[OUTDATED]***
 
-BELFRY: Tu as plein de blessures... (beat up means "battu" in french bu i translate more like wounds)
-BELFRY: Et sale.
-BELFRY: Et maigre.
 
-BELFRY: Où sont tes parents ?
+BELFRY&#160;: Tu es plein de coups...
+BELFRY&#160;: Et sale.
+BELFRY&#160;: Et maigre.
 
-BELFRY: Tu as bien des parents ?
-BELFRY: Sont-il quelque part ici ?
+BELFRY&#160;: Où sont tes parents&#160;?
 
-BELFRY: Si tu as des parents, ils sont vraiment mauvais et méchant.
+BELFRY&#160;: *As-tu* seulement des parents&#160;?
+BELFRY&#160;: Sont-il quelque part ici&#160;?
+
+BELFRY&#160;: Ils ne se seraient s&ucirc;rement pas aventur&eacute;s trop loin de leur petit...
+BELFRY&#160;: Mais s'ils t'ont *abandonn&eacute;*, ils ne m&eacute;ritent pas de t'avoir.
