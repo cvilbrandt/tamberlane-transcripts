@@ -1,0 +1,20 @@
+TESS&#160;: Belfry&#160;! Est-ce que &ccedil;a va&#160;?
+
+BELFRY&#160;: Nous allons bien&#160;!
+
+CHIEN&#160;: Nous&#160;? Qui ça "nous"&#160;?
+
+BELFRY&#160;: Moi et ce Tamberlane&#160;!
+
+BELFRY&#160;: Je veux dire, le fant&ocirc;me !
+
+CHIEN&#160;: Est-ce vraiment un fant&ocirc;me&#160;??
+
+BELFRY&#160;: Non, je ne pense pas.
+BELFRY&#160;: Je pense qu'il s'agit d'un petit abandonn&eacute;.
+
+CHIEN&#160;: Un petit abandonn&eacute;&#160;?!
+
+CHIEN&#160;: Pauvre b&eacute;b&eacute;&#160;!
+TESS&#160;:Henry, c'est probablement juste un animal sauvage.
+HENRY&#160;: Mais c'est abandonn&eacute;&#160;!
