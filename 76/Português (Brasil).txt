@@ -1,5 +1,3 @@
-***[OUTDATED]***
-
 PENNY: Você é surda?
 MARIE: Você sempre falou com suas patas?
 PENNY: Uau!
@@ -15,9 +13,11 @@ PENNY: Você realmente é quieta!
 TAMBERLANE: awwaaAAAAAAA
 MARIE: Não, calma! Não se bate de novo!!
 
-PARSLEY: Ela não está se batendo, Marie! Elá está se chamando de idiota.
-MARIE: <em>ISSO NÃO É NADA MELHOR, PARSLEY</em>
+PARSLEY: Ela não tá se batendo, Marie! Elá está se chamando de idiota.
+MARIE: ***ISSO NÃO É NADA MELHOR, PARSLEY***
+TAMBERLANE: não não pega pata porfa
 
 PARSLEY: Não, claro, você está bem certa.
 
-PARSLEY: Bem, meu Trissol tá um pouco enferrujado, mas... Não custa tentar, vamos, Tam?
+PARSLEY: Bem, meu Trissol tá um pouco enferrujado, mas...
+PARSLEY: Não custa tentar, vamos, Tam?

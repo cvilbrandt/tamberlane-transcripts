@@ -1,13 +1,11 @@
-***[OUTDATED]***
+BELFRY: Mas e se eu errar? Eu nunca planejei em ter um *parceire*, muito menos um filhote.
 
-BELFRY: Mas e se eu errar? Eu nunca planejei para um parceiro, muito menos um <em>filhote</em>.
-
-OAKEWOOD: Quando você errar, você vai ir com isso.
+OAKEWOOD: *Quando* você errar, você vai seguir em frente.
 
 OAKEWOOD: E ela também. Crianças são resilientes.
 
 BELFRY: Mas e se-
-OAKEWOOD: Suas escolhas são ficar com ela ou botar ela de volta.
+OAKEWOOD: Suas escolhas são ficar com ela, botar ela de volta ou dar ela embora.
 
 OAKEWOOD: De qualquer jeito, eu não consigo possívelmente acreditar que ficar no seu cuidado é pior que morrer de fome sozinho na floresta.
 BELFRY: Haha, eu acho que isso é verdade.

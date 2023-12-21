@@ -1,15 +1,17 @@
-***[OUTDATED]***
-
 PARSLEY: Cadê sua mãe?
 
 PARSLEY: Você não entende?
 
-PARSLEY: Sua mãe! Sabe, quentinha e macia e te dá comida e toma conta de você? Te abraça depois de um pesadelo?
-PARSLEY: Ainda não entendeu, hein? Eu sou horrível em explicar isso.
+PARSLEY: Sua mãe! Sabe, quentinha e macia e te dá comida e toma conta de você? 
+PARSLEY: Te abraça quando você tá com medo?
+PARSLEY: Ainda não entendeu, hein? 
+PARSLEY: Nunca conheci um filhote que não sabia o que era uma *mãe...*
 
 TAMBERLANE: Eh?
 
-PARSLEY: Oh, ah... Desculpa, Tam, Eu não sei essa daí.
+PARSLEY: Oh, ah... 
+PARSLEY: Você quer me ajudar? Desculpa, Tam, eu não sei direito o que você quer dizer.
 
 PARSLEY: Ai, pobre amorzinho.
 PARSLEY: Agora desejava que o Cilantro não tivesse se mudado pra Três Rios.
+[SFX: bwuuuuuuuu]

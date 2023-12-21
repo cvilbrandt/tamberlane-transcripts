@@ -1,24 +1,24 @@
-***[OUTDATED]***
+PARSLEY: Bem, é seu dia de sorte, Voltair, meu chapa!
+PARSLEY: Eu vou aceitar sua troca.
 
-PARSLEY: Bem, é seu dia de sorte, companheiro Fall! Eu vou aceitar seu pagamento.
-
-PARSLEY: As lições de dança ficam pra sexta, então?
+PARSLEY: Como fica sexta pras aulas de natação, então?
 FALLON: Perfeito! Obrigado, Parse!
 
-PARSLEY: Bem, se não é a formosa Marie!
+PARSLEY: Mar-Mar! Bom te ver, amiga!
 
-PARSLEY: Quem é essa que você trouxe, então?
-MARIE: Essa é minha amiga nova, Tamberlane! Temo que ela não fala muito.
+PARSLEY: O que é isso que você trouxe, então?
+MARIE: Essa é minha amigue nova, Tamberlane!
+MARIE: Elu é um pouco tímide, mas elu precisa da sua ajuda.
 
-PARSLEY: Não tenha medo, amor!
-PARSLEY: Agora, o quê é que você precisa?
+PARSLEY: Não fica com medo, Tamberlane!
+PARSLEY: Como eu posso ajudar?
 
 TAMBERLANE: Ummm...
 
 TAMBERLANE: ...umumum...
 
-TAMBERLANE: awuhmumuww
+TAMBERLANE: *awuhmumuww*
 
-PARSLEY: Ah, querida, tá tudo bem!
-FORA: TAMBERLANE!
+PARSLEY: Ah, queride, não fica triste-
+FORA: *TAMBERLANE!*
 [SFX: AWUUWUUWUWAAA]

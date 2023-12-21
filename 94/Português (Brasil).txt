@@ -1,11 +1,12 @@
-***[OUTDATED]***
-
-BELFRY: Calma, você não vai me apertar por detalhes?
+BELFRY: Calma, você não vai me pedir mais detalhes?
 
 OAKEWOOD: Por quê? Você disse que não foi nada.
 
 BELFRY: Não foi!
 
-BELFRY: Não foi. É só que, sabe...
+BELFRY: Não foi. 
+BELFRY: É só que, sabe...
 
-BELFRY: Até depois de tudo que a Nora disse mais cedo, sobre filhotes precisarem de amor... Eu só... ainda não acho que consigo.
+BELFRY: A Nora disse que filhotes precisam só de amor e um lar seguro...
+BELFRY: Eu *amo* ela. Mas como que *eu* posso deixar ela segura?
+BEFLRY: Eu sou... Sabe, *eu.*

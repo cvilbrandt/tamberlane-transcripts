@@ -1,11 +1,10 @@
-***[OUTDATED]***
-
 OAKEWOOD: ... Eu assumo que você vai ficar com a guria.
 BELFRY: Sim.
 
-FORA: Ainda bem. Esse 'vai-ou-não-vai' estava ficando entediante.
+OAKEWOOD: Ainda bem. Esse 'vai-ou-não-vai' estava ficando entediante.
 
-FORA: E é claro que você ia acabar ficando com ela. Você é a maior compadecida de Treehollow. Só tinha que passar de toda a choradeira.
+OAKEWOOD: *Obviamente* você sempre ia ficar com ela. Vocês são um par feito, as duas. 
+OAKEWOOD: Só tinha que passar de toda a choradeira.
 
-BELFRY: Obrigada, Oakewood.
-OAKEWOOD: Bah. Preciso de chá.
+BELFRY: Valeu, Oakewood.
+OAKEWOOD: Bah. Eu preciso de chá.
