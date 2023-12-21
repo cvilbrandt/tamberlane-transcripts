@@ -1,22 +1,21 @@
-***[OUTDATED]***
+MARIE: Me desculpa! 
+MARIE: Ai, para de se bater por favor!
 
-MARIE: Me desculpa! Ai, para de se bater por favor!
-
-MARIE: Aí, aí, amorzinho. Tenho certeza que o Parsley pode te ajudar.
-MARIE: O quê você trouxe pra ele?
+MARIE: Aí, aí, amorzinho. Enxuga suas lágrimas.
+MARIE: Que tal você me dizer tudo sobre o que você trouxe pra trocar?
 
 TAMBERLANE: ã-ãnh?
 
-MARIE: Certo... Você não é daqui, é?
+MARIE: Você *realmente* não é das redondezas, não?
+MARIES (resmungado): Eu achava que toda Silver Sage fazia escambo...?
 
 TAMBERLANE: uuuAAAÁ
-MARIE: Ah, não, não, não fique chateada! Eu vou explicar!
+MARIE: Ah, não, não, não fica chateada! Eu vou explicar!
 
-MARIE: O Parsley é uma criança mais velha que sabe bastante coisa.
+MARIE: Quando você quer que uma criatura te dê alguma coisa, é pra você dar alguma coisa de volta!
 
-MARIE: Ele dá ajuda pra criaturas, mas ele geralmente cobra um item de significância pessoal.
+MARIE: Mas parece que você realmente precisa de ajuda, pobrezinha...
 
-MARIE: Mas não se preocupa! Ele tem um coração.
-MARIE: Tenho certeza que ele vai ser caridoso com um recém-chegado.
-MARIE: Então sem mais choro, ok?
+MARIE: Tudo bem! Não se preocupa, querida. O Parsley vai te ajudar!
+MARIE: Então não precisa chorar, certo?
 TAMBERLANE: okei

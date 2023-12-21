@@ -1,14 +1,14 @@
-***[OUTDATED]***
-
 TAMBERLANE: Eu cauda??
 
-MARIE: Você não tem uma! Que eu consiga ver, de qualquer jeito.
+MARIE: Você não tem uma! 
+MARIE: Que eu consiga ver, de qualquer jeito.
 
-MARIE: Eu nunca ouvi falar de um animal sem uma cauda!
-MARIE: Mas isso é ok. Só significa que você é diferente!
-TAMBERLANE: Diferenti?
+MARIE: Não se vê muitas criaturas sem cauda!
+MARIE: Mas não tem problema! Só significa que você é diferente!
+TAMBERLANE: Diferen?
 
-MARIE: É! Você não se parece muito com as criaturas aqui.
+MARIE: É! 
+MARIE: Você não se parece muito com as outras criaturas aqui.
 MARIE: Aqui, vou te mostrar!
 
 MARIE: Tá vendo?

@@ -1,16 +1,14 @@
-***[OUTDATED]***
-
-BELFRY: Ah, eu tenho certeza que eles estão por aqui!
+BELFRY: Ah, eu tenho certeza que eles estão por aqui em algum lugar!
 
 BELFRY: Tamberlane?
 
-NORA: Terra, por favor me diz que você abriu essa porta!
-TERRA: Já estava aberta!
+NORA: Terra, você viu eles correrem pra fora?
+TERRA: Eu tava focada no Henry!
 
 BELFRY: Mas eles não podem ter ido longe, certo?
-BELFRY: Eles são só filhotes!
+BELFRY: Elas são só filhotes!
 
-HENRY: Isso realmente depende que quanto tempo faz que eles saíram.
+HENRY: Isso realmente depende que quanto tempo faz que elas saíram.
 
 HENRY: Não se preocupa, eu vou achar eles.
 BELFRY: Me espera!

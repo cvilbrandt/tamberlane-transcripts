@@ -1,5 +1,5 @@
 OFFSCREEN: ***BELFRY!***
-BELFRY & TAMBERLANE: *AAHH!*
+BELFRY &amp; TAMBERLANE: *AAHH!*
 
 FOX: How many claws am I holding up?
 BELFRY: T...two?
@@ -12,7 +12,8 @@ FOX: Since you don't appear to be concussed, I'm going to let Terra get some exp
 FOX: In the meantime, I'll feed Parker.
 FOX: Hello, my love.
 TERRA: He definitely wants his mama.
+[SFX: weh mnnnwuh muh]
 
 BELFRY: Oh ho, finally letting your prentice into the field?
 
-TERRA: Hey, now! I'm going to have to keep up with you, eventually!
+TERRA: Maybe if you lot stopped falling down cliffs, Nora wouldn't need the extra paws!

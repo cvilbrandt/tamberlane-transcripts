@@ -1,11 +1,10 @@
-***[OUTDATED]***
-
-OAKEWOOD: Mel no seu chá?
+OAKEWOOD: Leite no seu chá?
 BELFRY: Sim, por favor.
 BELFRY: Obrigada, Oakewood. Você realmente salvou minha vida essa noite.
 OAKEWOOD: Bah.
 
-BELFRY: Me desculpa que você está presa comigo. Você merece alguém melhor.
+BELFRY: Me desculpa que você está presa comigo. 
+BELFRY: Você merece alguém melhor.
 
 BELFRY: Mas eu prometo que vou dar meu melhor pra ser uma boa mãe.
 

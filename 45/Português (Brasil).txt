@@ -1,5 +1,3 @@
-***[OUTDATED]***
-
 BELFRY: Oakewood (obscurecido)
 [SFX: WWWWAAAAAAAAAAAAAWAAAAAAAAAA]
 
@@ -12,7 +10,7 @@ OAKEWOOD: (obscurecido) eu?
 [SFX: AAAAAAAAAAmmph-!]
 
 OAKEWOOD: Eca! Esse filhote precisa de uma troca desesperadamente.
-OAKEWOOD: Vai pegar umas fraldas do almoxarifado.
+OAKEWOOD: Vai pegar umas fraldas do armário.
 
-OAKEWOOD: Isso significa você, Belfry!
-OAKEWOOD: E tenta não bagunçar a despensa!
+OAKEWOOD: Isso significa *você,* Belfry!
+OAKEWOOD: E tenta não fazer uma bagunça!
