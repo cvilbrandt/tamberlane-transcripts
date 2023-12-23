@@ -1,0 +1,16 @@
+AINSLEY&#160;: Tr&egrave;s bien, Oakewood ! Je double notre mise habituelle.
+AINSLEY&#160;: Si tu n'as jamais vu *quelque chose* de semblable, nous jouons aux &eacute;checs pendant *mon* temps pendant deux mois.
+AINSLEY : Sinon, je *te* dois deux mois de r&eacute;cup&eacute;ration prioritaire.
+
+OAKEWOOD&#160;: Pas ce soir, Ainsley.
+OAKEWOOD&#160;: J'ai d&eacute;j&agrave; des projets.
+
+OAKEWOOD&#160;: Et ces projets sont une nuit agr&eacute;able et confortable, loin du baragouin de ce petit hameau trop imaginatif.
+
+OAKEWOOD&#160;: Et ces projets commencent *maintenant.*
+
+AINSLEY : Tu me jetterais aux loups ?!
+OAKEWOOD&#160;: Certains de mes meilleurs amis sont des loups.
+OAKEWOOD&#160;: *Bonne nuit.*
+
+[SFX&#160;: SLAM]
