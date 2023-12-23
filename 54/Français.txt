@@ -1,0 +1,21 @@
+PENNY&#160;: Alors, quel est ton livre pr&eacute;f&eacute;r&eacute; ?
+TAMBERLANE&#160;: hein ?
+
+PENNY&#160;: Tu sais, les livres ? Lire ?
+
+PENNY&#160;: Sais-tu au moins *comment* lire ?
+
+PENNY&#160;: Quel &acirc;ge as-tu ?
+TAMBERLANE&#160;: Crois.
+PENNY&#160;: Waouh ! Moi aussi! Mais tu ne sais pas encore lire ?
+PENNY&#160;: Mais je pensais que les petits &eacute;taient cens&eacute;s lire avant trois ans.
+
+PENNY&#160;: Eh bien... c'est bon !
+
+PENNY&#160;: Maman dit que toutes les cr&eacute;atures grandissent &agrave; leur propre rythme.
+
+PENNY&#160;: Tu sais, Parsley est plut&ocirc;t dou&eacute; pour apprendre &agrave; lire aux jeunes petits.
+
+PENNY&#160;: Allons le trouver !
+
+PENNY&#160;: Suis mon exemple.
