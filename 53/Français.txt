@@ -1,0 +1,23 @@
+CHIOT&#160;: Alors, tu t'appelles Tamberlan&#160;?
+TAMBERLANE&#160;: Ouais&#160;!
+
+PENNY&#160;: Je m'appelle Penny&#160;!
+TAMBERLANE&#160;: Punni&#160;!
+PENNY&#160;: Tu veux aller jouer&#160;?
+TAMBERLANE&#160;: Ouais&#160;!
+
+RENARDE&#160;: Ha&#160;! Vous voyez &ccedil;a&#160;?
+[SFX&#160;: H&eacute; h&eacute;&#160;!]
+
+BELFRY&#160;: Aww&#160;! Cela me rappelle quand Briar et moi &eacute;tions coEEERGHHH&#160;!
+
+TERRA&#160;: D&eacute;sol&eacute;e&#160;!!
+TERRA&#160;: Tu n'as pas senti de "pop", n'est-ce pas&#160;?
+
+BELFRY&#160;: Je ne pense pas&#160;?
+BELFRY&#160;: Comment pourrais-je le savoir&#160;?
+
+TERRA&#160;: Oh, tu le saurais.
+TERRA&#160;: La bonne nouvelle, c'est que ta jambe n'est pas cass&eacute;e&#160;!
+BELFRY&#160;: Youpi&#160;?
+TERRA&#160;: Youpi&#160;!
