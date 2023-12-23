@@ -1,18 +1,17 @@
-***[OUTDATED]***
-
-CACHORRO-PANDA: Tem alguém procurando por você?
+CACHORRO-PANDA: Tem alguém te procurando?
 
 CACHORRO-PANDA: Ah, amorzinho, você está tremendo!
 
-CACHORRO-PANDA: Marie, você emprestaria seu vestido para eles, por favor?
-MARIE: Claro, mãe!
+MARIE: Mãe, elu pode usar meu vestido, se ajudar!
+CACHORRO-PANDA: Isso seria ótimo, Marie! Obrigada!
+
 
 CACHORRO-PANDA: Agora, pra quem eu devo te retornar?
 
 TAMBERLANE: ...ummm...
 
-TAMBERLANE: Pawsley!
+TAMBERLANE: Paúsley!
 
-MARIE: Ah! Parsley? Ele passa bastante tempo perto do rio!
+MARIE: Ah! Parsley? Ele passa bastante tempo atrás do Chacal Rico!
 
-MARIE: Se você quiser, eu posso levar eles!
+MARIE: Se você quiser, eu posso te levar!

@@ -1,8 +1,6 @@
-***[OUTDATED]***
-
 BELFRY: Eu só--
 
-HENRY: <em>GALERA!</em>
+HENRY: ***GALERA!***
 
 HENRY: A gente tem uma pista!
 
@@ -11,5 +9,5 @@ MAYA: Sim! A Marie está com eles.
 
 MAYA: Eles desceram pro rio, não faz muito tempo.
 
-TERRA: Ah, Maya, Eu te <em>amo!</em>
-MAYA: Hee! Também te amo, querida!
+TERRA: Ah, Maya, Eu te *amo!*
+MAYA: Eu também, docinho.

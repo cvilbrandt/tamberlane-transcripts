@@ -1,14 +1,13 @@
-***[OUTDATED]***
-
-PENNY: Aí você está!
+PENNY: *Aí* você está!
 TAMBERLANE: Penny!
 
-PENNY: Eu estava tão preocpada! Sem preocupações; Tam, eu dei uma surra na Piper!
+PENNY: Eu tava tão preocupada!
+PENNY: Não chora, Tam! Eu dedurei a Piper pra mãe dela e tudo!
 
 PENNY: Ei, Parsley! Cê tem que ensinar ela a ler!
-PENNY: Ela tem 3 anos e não sabe como!
+PENNY: Ela tem três anos e não sabe como!
 
-MARIE: Ela não deveria aprender a falar antes?
+MARIE: Não era pra ela aprender a falar antes?
 
 PARSLEY: Ah, Marie, você não percebeu?
 PARSLEY: Ela fala Trissol.
@@ -16,4 +15,4 @@ PARSLEY: Ela fala Trissol.
 PARSLEY: Ela fala com suas patas, não com sua boca.
 PARSLEY: Meu irmão Cilantro também fala assim.
 
-MARIE e PENNY: O QUẼ?!
+***MARIE e PENNY: O QUÊ?!***

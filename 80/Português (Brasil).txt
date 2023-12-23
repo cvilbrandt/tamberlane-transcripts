@@ -1,16 +1,18 @@
-***[OUTDATED]***
+NORA: Belfry? Tudo bem com você?
 
-NORA: Belfry? Tá tudo bem?
-
-BELFRY: Quê? Ah... Sim, claro!
+BELFRY: Quê? 
+BELFRY: Ah...
+BELFRY: Sim, claro!
 
 NORA: Belfry...
 BELFRY: Eu tô bem! Tá bem!
 
-BELFRY: Nós vamos encontrá-los! Nós vamos.
+BELFRY: Vamos achar elas! Nós vamos.
 
 BELFRY: É só que...
 
-BELFRY: Me levou menos de 12 horas pra perder meu primeiro filho.
+BELFRY: Me levou menos de 12 horas pra perder meu único filhote.
+BELFRY: Ela já foi abandonada uma vez, e...
 
-BELFRY: Eu realmente... eu realmente dei uma de Belfry nessa.
+BELFRY: Eu realmente... 
+BELFRY: Eu realmente dei uma de Belfry nessa.

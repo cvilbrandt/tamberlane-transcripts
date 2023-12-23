@@ -1,13 +1,12 @@
-***[OUTDATED]***
-
 BELFRY: ...Eu não sirvo pra isso.
 NORA: Belfry...
 
-BELFRY: Você pode ver, eu posso ver... <i>Todo mundo</i> pode ver!
+BELFRY: Você consegue ver, eu consigo ver... *Todo mundo* consegue ver!
 
-BELFRY: Eu não consigo tomar cuidado de outra criatura! Eu mal consigo tomar cuidado com mim mesma!
+BELFRY: Eu não consigo tomar conta de outra criatura! 
+BEFLRY: Eu mal consigo tomar conta *de mim mesma!*
 NORA: Belfry, calma!
 
 BELFRY: Ontem, eu esqueci de usar luvas térmicas!!
 
-BELFRY: <em>QUEM ESQUECE LUVAS TÉRMICAS?!</em>
+BELFRY: ***QUEM ESQUECE LUVAS TÉRMICAS?!***

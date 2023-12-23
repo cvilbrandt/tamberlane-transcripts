@@ -1,21 +1,19 @@
-***[OUTDATED]***
-
 [SFX: AAAWAAAAWAAA]
 BELFRY: qualquer momento agora...
 BELFRY: qualquer momento você vai parar...
 
 [SFX:AWAAAAWAAAA]
-BELFRY: Você não está parando!
-BELFRY: Porquê você não está parando?!
+BELFRY: Você não tá parando!
+BELFRY: Porquê você não tá parando?!
 
 BELFRY: Eu não falo gritos!
-BELFRY: Por favor só <em>me diz o quê você quer!!</em>
+BELFRY: Por favor só *me diz o quê você quer!!*
 
-BELFRY: okay
+BELFRY: tá bom
 
 [SFX: AAAAWAA]
 BELFRY: ...É melhor eu ver se Oakewood sabe o quê fazer.
 [SFX:AWAAAAAW]
 
 [SFX: AWAAAAAAAAAWAAWAAA]
-(sussurado: Eu não sou uma falha...)
+(sussurrado: Eu não sou uma falha...)

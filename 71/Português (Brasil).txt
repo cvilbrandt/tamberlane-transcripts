@@ -1,18 +1,17 @@
-***[OUTDATED]***
-
 MARIE: O melhor jeito de chegar no Parsley é por aqui!
-MARIE: De qualquer jeito, por quê você quer ver o Parsley?
+MARIE: De qualquer jeito, por quê você quer ver ele?
 
-TAMBERLANE: Penny!
+TAMBERLANE: ...Penny!
 
-MARIE: Eu não sabia que você conhece a Penny!
-MARIE: O quê sobre a Penny?
+MARIE: Ah! Você conhece a Penny!
+MARIE: O que sobre ela?
 
-TAMBERLANE: P...Penny!
+TAMBERLANE: *P...Penny!*
 
-TAMBERLANE: Penny trei não Tamberlane mau.
-MARIE: Desculpa, eu não entendi. O quê é um Tamberlane?
+TAMBERLANE: Penny Paslei ajuda não ruim Tamberlane.
+MARIE: Me desculpa, eu entendi "Parsley ajuda"...
+MARIE: ... mas o que é um Tamberlane?
 
-TAMBERLANE: Tamberlane mau, não!
+TAMBERLANE: Tamberlane mau, *não!*
 
-MARIE: Ah, não! Por favor não chora! Me desculpa! Tamberlane é você?
+MARIE: Ah, não! Por favor não chora! Foi sem querer! *Você* é Tamberlane?

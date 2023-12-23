@@ -1,6 +1,4 @@
-***[OUTDATED]***
-
-PENNY: <em>Piper.</em>
+PENNY: *Piper.*
 PIPER: Penny.
 
 PIPER: Oh~! Vejo que você está passando tempo com a própria fantasminha de Treehollow!
@@ -9,7 +7,7 @@ PENNY: É, sobre isso!
 
 PENNY: Por quê ela tem tanto medo de você?!
 
-PIPER: Ah, provavelmente porquê eu empurrei ela na ravina.
+PIPER: Ah, provavelmente porquê eu empurrei ela pra dentro da ravina.
 
-PENNY: Você O QUÊ?!
-PIPER: Bem, eu pensei que era um fantasma na hora.
+PENNY: Você **O QUÊ?!**
+PIPER: Bem, eu pensei que era um *fantasma* na hora.

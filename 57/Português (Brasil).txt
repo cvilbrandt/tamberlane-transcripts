@@ -1,23 +1,22 @@
-***[OUTDATED]***
-
 PENNY: Sim! Funcionou! A gente está fora!
-TAMBERLANE: Azul!
+TAMBERLANE: Azu!
 
 PENNY: Oh, você está preocupada com meu papai?
 TAMBERLANE: Ai!
 
-PENNY: Não se preocupe com ele. Ele é um cara resistente. Ele vai sobreviver.
+PENNY: Não se preocupa com ele. 
+PENNY: Ele é um cara resistente. Ele vai sobreviver.
 
-PENNY: Agora, antes que a gente seja pega, vamos correr!
+PENNY: Agora, vamos correr, antes que eles peguem a gente!
 
 PENNY: Eu disse, vamos correr!
 TAMBERLANE: Okie!
 
-PENNY: Ugh! Eu estou começando a achar que você não sabe andar, muito menos correr!
+PENNY: Ugh! Eu estou começando a achar que você não sabe *andar,* muito menos *correr!*
 TAMBERLANE: Ugh!
 
 PENNY: Guuhh... Certo, tá ok.
 PENNY: A gente vai te ensinar a andar também.
 
 PENNY: Se apressa! Eu não quero ser pega!
-PENNY: Céus, eu não acredito que você tem três anos.
+PENNY: Caramba, eu não acredito que você tem três anos.

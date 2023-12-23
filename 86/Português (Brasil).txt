@@ -1,13 +1,11 @@
-***[OUTDATED]***
+TERRA: É melhor eu ajudar a Belfry a pegar o filhote dela.
+MAYA: As estrelhas sabem que ela precisa de um descanso.
 
-TERRA: Pode ser um pouco tarde pro jantar.
-MAYA: Sem pressa, querida.
-
-TERRA: Vou fazer certeza que a Marie esteja em casa na hora.
-MAYA: Beleza, boa sorte, amor!
+TERRA: Você se importa em começar o jantar sem mim?
+MAYA: Não se preocupa! Eu vou fazer o preferido da Marie.
 
 NORA: Então... Tá se sentindo melhor?
 
 BELFRY: Ah... Eu... sim, claro. Obrigada.
 
-BELFRY: Um... já basta de conversa, porém. Tamberlane precisa de mim.
+BELFRY: Um... já basta de conversa, porém. A Tamberlane precisa de mim.
