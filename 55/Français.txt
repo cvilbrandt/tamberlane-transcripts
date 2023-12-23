@@ -1,0 +1,20 @@
+RENARDE&#160;: Alors, comment s'est pass&eacute;e ta premi&egrave;re nuit en tant que parent&#160;?
+BELFRY&#160;: Oh, ce n'est pas *si* difficile.
+
+RENARDE&#160;: Oh, pas si difficile&#160;?
+RENARDE&#160;: &Agrave; la pure mode Belfry, tu as choisi le type d'&eacute;ducation parentale le plus difficile qui soit.
+RENARDE&#160;: Attends.
+
+BELFRY&#160;: Le plus dur&#160;?
+RENARDE&#160;: Les petits adopt&eacute;s n’ont pas tendance &agrave; s’attacher tr&egrave;s rapidement.
+RENARDE&#160;: S'il lui faut un peu de temps pour se familiariser avec toi, c'est normal.
+
+BELFRY&#160;: Oh, elle m'a adopt&eacute;e presque imm&eacute;diatement&#160;!
+RENARDE&#160;: Vraiment&#160;?
+
+[SFX&#160;: Atchoum&#160;!]
+BELFRY&#160;: Oui&#160;! Elle est venue tout de suite et m'a serr&eacute;e dans ses bras.
+BELFRY&#160;: Je pense qu'elle pouvait sentir que j'&eacute;tais gentille.
+
+RENARDE&#160;: C'est un comportement inhabituel&#160;!
+Nous devrions vraiment garder un &oelig;il sur son &eacute;volution.
