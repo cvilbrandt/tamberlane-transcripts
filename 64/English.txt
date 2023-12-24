@@ -5,7 +5,7 @@ PANDADOG: Oh, darling, you're shivering!
 SKUNK: Mum, they can wear my dress, if it'll help!
 PANDADOG: That would be lovely, Marie! Thank you!
 
-PANDADOG: Now, whom shall I return you too?
+PANDADOG: Now, whom shall I return you to?
 
 TAMBERLANE: ...ummm...
 
