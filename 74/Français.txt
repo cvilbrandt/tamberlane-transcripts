@@ -1,7 +1,7 @@
 PARSLEY&#160;: Eh bien, c'est ton jour de chance, Voltair mon vieux !
 PARSLEY&#160;: Je vais accepter ton &eacute;change.
 
-PARSLEY&#160;: Ça te dit, vendredi pour les cours de natation, alors ?
+PARSLEY&#160;: &Ccedil;a te dit, vendredi pour les cours de natation, alors ?
 VOLTAIR&#160;: Parfait ! Merci Parse !
 
 PARSLEY&#160;: Mar-Mar ! Content de te voir, mon amour !
