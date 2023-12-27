@@ -1,15 +1,14 @@
-***[OUTDATED]***
-
 MILO, TAMBERLANE, OAKEWOOD: do Exterior?
 
-OAKEWOOD: Isso é absolutamente absurdo.
+OAKEWOOD: Isso é absolutamente uma ladaínha.
 
-TAGG: Antes de me ignorar, me escuta. Tem algo estranho acontecendo no exterior.
+TAGG: Antes de me ignorar, me escuta. Tem algo estranho acontecendo no Exterior.
 
 DANGER: Areas estão bloqueadas ou em quarentena. Ninguém diz por quê. 
 
 TAGG: E criaturas de Follybrook estão desaparecendo.
 
-OAKEWOOD: Fala sério! Isso não tem nada a ver com a Tamberlane! Querentenas? Criaturas sumidas? Isso é tudo besteira!
+OAKEWOOD: Fala sério! Isso não tem nada a ver com a Tamberlane! 
+OAKEWOOD: Querentenas? Criaturas sumidas? Só besteira!
 
-TAGG: Você só não quer me acreditar! 
+TAGG: Alguma coisa tá acontecendo no Exterior, e eu não me surpreenderia se tivesse a ver com *ela!*

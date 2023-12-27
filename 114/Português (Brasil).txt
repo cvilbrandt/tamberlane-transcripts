@@ -1,17 +1,15 @@
-***[OUTDATED]***
+AVERY: Claro, instinto materno pode *ajudar,* mas nós somos criaturas, não animais.
+AVERY: Não somos *comandados* por nossos instintos.
 
-AVERY: Claro, instinto materno pode <i>ajudar,</i> mas nós somos criaturas, não animais.
-AVERY: Não somos <i>comandados</i> por nossos instintos.
+AVERY: Você já tentou *falar* de verdade com a Tess?
+BELFRY: *Claro* que eu tentei! Tipo, *pra caramba!*
 
-AVERY: Você já tentou <i>falar</i> de verdade com a Tess?
-BELFRY: <i>Claro</i> que eu tentei! Tipo, <i>muito!</i>
+BELFRY: Mas não importa quantas vezes eu tente falar com ela, ela é só tão *TEIMOSA!*
 
-BELFRY: Mas não importa quantas vezes eu tente falar com ela, ela é só tão <i>TEIMOSA!</i> 
+AVERY: Você já tentou *escutar* ela?
 
-AVERY: Você já tentou escutar ela?
-
-BELFRY: Não! Ela quer que eu <i>abandone</i> a Tamberlane!
+BELFRY: Não! Ela quer que eu *abandone* a Tamberlane!
 
 AVERY: Mmm, talvez. 
-AVERY: Mas se você me perguntar, isso não soa como as reais raízes.
-AVERY: Se você realmente quer consertar essa relação, você tem que descobrir de verdade <i>por quê</i> ela se sente assim.
+AVERY: Mas se você me perguntar, isso não soa como a Tess que eu conheço.
+AVERY: Se você realmente quer consertar essa relação, você tem que descobrir de verdade *por quê* ela se sente assim.

@@ -1,18 +1,17 @@
-***[OUTDATED]***
-
 BELFRY: O que você quer dizer?
 BRIAR: Eu quero dizer...
 
 BELFRY: Briar?
 
-BRIAR: Eu <i>quero dizer</i> que isso tá rasgando nossa família!
-BRIAR: Você e a mãe não estão falando!
-BRIAR: A mãe e o pai estão <i>brigando</i> por causa disso!
+BRIAR: Eu *quero dizer* que você precisa parar de ser tão *teimosa!*
+BRIAR: Você e a mãe não estão falando *de novo!*
+BRIAR: O Papai teve que assumir seu trabalho na padaria!
+BRIAR: Eles tão brigando toda noite no jantar!
 
-BRIAR: <em>E EU TÔ PRESA NO MEIO!</em>
+BRIAR: *E EU TÔ PRESA NO MEIO, COMO SEMPRE!*
 
-BRIAR: Se você gosta de ser mãe, então ótimo! Beleza!
+BRIAR: Se você tá afim ser mãe, então ótimo!
 BRIAR: Faz o que você gosta!
 
-BRIAR: Mas você poderia parar de ser tão <i>difícil?</i>
-BRIAR: Vem pra <i>casa!</i>
+BRIAR: Mas você poderia parar de ser tão *difícil pra desgraça?*
+BRIAR: Vem pra *casa!*

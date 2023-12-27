@@ -1,9 +1,7 @@
-***[OUTDATED]***
-
 CORVO: Bem, sua "neta" tem Follybrook escrito todo por ela!
-OAKEWOOD: Como você <em>ousa</em>!
+OAKEWOOD: Como você *ousa!*
 
-CORVO: Você vai me desculpar se eu não quero ser manchado por um <em>mutante</em> sem uma coleira!
+CORVO: Você vai me desculpar se eu não quero ser manchado por um *mutante* sem uma coleira!
 
 OAKEWOOD: Se é assim que você se sente, dá o pé daqui!
 CORVO: Com prazer!
@@ -11,5 +9,5 @@ CORVO: Com prazer!
 SFX: RRRRRRRRR...
 TAMBERLANE: Tio?
 
-MILO: Então... "neta," he[OBSCURED]
-OAKEWOOD: <em>CALA A BOCA, JAMITON!!</em>
+MILO: Então... "neta," he[OBSCURECIDO]
+OAKEWOOD: ***CALA A BOCA, JAMITON!!***

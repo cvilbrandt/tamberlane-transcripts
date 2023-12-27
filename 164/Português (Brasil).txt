@@ -1,10 +1,10 @@
-***[OUTDATED]***
+OAKEWOOD: A Tamberlane foi encontrada *aqui,* na *nossa* Floresta Rattleglen. Eu acho que você tem uma marreta, e tudo que eu vejo são pregos. 
+OAKEWOOD: Tem um mundo inteiro fora de nossas ilhas. Simplesmente não há motivos para acreditar que ela é do Exterior.
 
-OAKEWOOD: Eu só acho que isso não tem nada a ver. Você tem uma marreta, e tudo que eu vejo são pregos. Tem um mundo inteiro fora de nossas ilhas. Simplesmente não há motivos para acreditar que ela é do Exterior.
+TAGG: Eu acho que ela é uma *armação.*
+TAGG: Mas você não quer dar ouvidos? De boas comigo. Estamos indo. 
 
-TAGG: E eu tô dizendo que tem! Mas você não quer dar ouvidos? De boas comigo. Estamos indo. 
-
-OAKEWOOD: Obrigado pelo seu drama perigoso!
+OAKEWOOD: Deixa essa sua aterrorização com si mesma!
 TAGG: Ah, sai pra lá, seu bocó!
-OAKEWOOD: Com gosto! E tira esse metal da sua cara, jegue!
+OAKEWOOD: Com gosto! E tira esse metal da sua cara, seu profligade estúpido!
 TAGG: Eu vou fazer o que eu quiser!!

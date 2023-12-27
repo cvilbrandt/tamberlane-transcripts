@@ -1,19 +1,19 @@
-***[OUTDATED]***
-
 WALTER: Não estamos preparado para um filhote.
 TESS: Eu sei.
-WALTER: Nosso torneio de luta é daqui a duas semanas.
+WALTER: O Conselho vai ter questões.
 TESS: Eu sei.
 WALTER: Nós não temos suprimentos.
 TESS: Eu sei.
 
-TESS: Eu sei que nós concordamos em começar a tentar em dois anos. Mas ela precisa de ajuda <em>agora.</em>
+TESS: Eu sei que nós concordamos em começar a tentar em alguns anos. Mas ela precisa de ajuda *agora.*
 
-WALTER: Nenhuma outra pessoa podetomar conta do morceguinho?
+WALTER: Nenhuma outra pessoa pode tomar conta do morceguinho?
 
-TESS: Ela foi <em>confiada</em> para <em>nós.</em>
+TESS: Ela foi *confiada* para *nós.*
 
-WALTER: Estamos cansados demais pra essa conversa. Vamos falar de manhã.
+WALTER: [Russo]... Estamos cansados demais pra essa conversa. 
+WALTER: Vamos falar de manhã.
 
-TESS: Tudo vai dar certo. Temos um aos outros. E Walter... Nós temos um filhote!
-WALTER: Talvez. Talvez temos um filhote. Mas nós definitivamente temos uns aos outros.
+TESS: Tudo vai dar certo. Temos um ao outro. 
+TESS: E agora, nós temos um filhote!
+WALTER: *Talvez.* Talvez temos um filhote. Mas... [Russo], sempre vamos ter um ao outro.

@@ -1,11 +1,11 @@
-***[OUTDATED]***
-
 TESS: Essa é a questão, Belfry.
 
-TESS: Se você for ao Exterior, você será banida de Silver Sage.
+TESS: Se você for ao Exterior, você vai ser *banida* de Silver Sage.
+TESS: Você era só um bebê durante a Grande Epidemia. Eu *sei* disso.
+TESS: Mas o Exterior é o Exterior. Nada pode mudar isso.
+TESS: Se você for lá, você *nunca* mais vai poder voltar pra casa.
+TESS: E eu *nunca* mais vou te ver.
 
-TESS: Se você for ao Exterior, você nunca vai voltar pra casa.
+TESS: Belfry, me desculpa por como eu agi ultimamente. Eu não tenho nenhuma desculpa!
 
-TESS: Belfry, me desculpa por como eu agi ultimamente. Eu não tenho desculpa!
-
-TESS: Mas eu estou com medo, tanto medo, de perder minha filinha. 
+TESS: Mas eu estou com medo, *tanto* medo, de perder minha morceguinha. 

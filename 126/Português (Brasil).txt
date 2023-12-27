@@ -1,19 +1,18 @@
-***[OUTDATED]***
-
-MILO: Você queria que eu olhasse pra alguma coisa?
+MILO: Você queria que eu olhasse alguma coisa?
 
 OAKEWOOD: Essa é Tamberlane. Belfry Padeira achou ela na foresta e adotou ela.
-OAKEWOOD: Mas não temos nenhuma noção do quê ela é.
+OAKEWOOD: Mas não temos a menor noção do quê ela é.
+OAKEWOOD: Nós estavamos nos perguntando se você já viu algo como ela nos seus estudos.
 
 MILO: Que fascinante! Posso te examinar?
 
 TAMBERLANE: OkAGH!
 MILO: Dentição onívora...
 
-MILO: Alcance visual frontal... Provavelmente um predador...
+MILO: Padrão de pelo unusual... E ela não é como nada que eu já li sobre.
 MILO: Ela é perfeita!
 
 OAKEWOOD: Agora calma um pouco!
-OAKEWOOD: O quê você quer dizer, <i>"perfeita"</i>?
+OAKEWOOD: O quê você quer dizer, *"perfeita"*?
 
-MILO: Para meu <i>projeto de pesquisa!</i>
+MILO: Para meu *projeto de pesquisa!*

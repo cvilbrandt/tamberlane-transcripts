@@ -1,17 +1,17 @@
-***[OUTDATED]***
-
 WALTER: Então, como você vai?
 BRIAR: Bem.
 
 WALTER: Você não parece bem. Você está parecendo... amassada.
 BRIAR: Eu só estou frustrada! Por quê eles não podem se resolver e pedir desculpa já?
 
-WALTER: Você não percebeu? É porquê elas são as mesmas.
-BRIAR: QUÊ?! Não, elas não são! Elas são opostos polares!
+WALTER: Você não percebeu? 
+WALTER: É porquê elas são as mesmas.
+BRIAR: *QUÊ?!*
+BRIAR: Não, elas não são! Elas são opostos polares!
 
-SFX: SMACK
-TESS E BELFRY: Hhmph!!!
-SFX: SPLUT
+[SFX: SMACK]
+TESS e BELFRY: Hhmph!!!
+[SFX: SPLUT]
 
-BRIAR: ...Esquece. Eu vejo o quê você diz. [A maçã não cai longe da macieira]
-
+BRIAR: ...Esquece. Eu vejo o quê você diz. 
+BRIAR (resmungado, em [Russo]): [A maçã não cai longe da macieira...]

@@ -1,5 +1,3 @@
-***[OUTDATED]***
-
 BELFRY: Então.. gostou da roupa dela?
 
 TAMBERLANE: Rar! Sô um techugo!
@@ -9,9 +7,9 @@ TESS: ...ok.
 
 BELFRY: É "ok."
 
-TESS: Sim, "ok." Você não acha que é um pouco macabra?
+TESS: Sim, "ok." Você não acha que é um pouco macabro?
 
-BELFRY: O quê é <i>macabro</i> é você não passar ontem depois de eu te mandar aquela carta!!
+BELFRY: O quê é *macabro* é você fazer a *Briar* de filhote-de-correio em vez de falar comigo você mesma!!
 
-TESS: <em>ISSO NÃO É O QUÊ ESSA PALAVRA SIGNIFICA!</em>
-BELFRY: <em>EU NÃO ME IMPORTO!</em>
+TESS: ***ISSO NÃO É O QUÊ ESSA PALAVRA SIGNIFICA!***
+BELFRY: ***EU NÃO ME IMPORTO!***

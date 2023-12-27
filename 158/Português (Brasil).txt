@@ -1,19 +1,20 @@
-***[OUTDATED]***
-
-MILO: Sabe, ela me lembra dos filhotes com Síndrome de Williams, mas ela não tem os marcadores físicos, entende?
+MILO: Sabe, eu diria que ela tem a Síndrome de Williams, se ela tivesse mais indicadores físicos. Amigável demais, altamente empática...
 OAKEWOOD: Esse é um bom p...Cadê a Tamberlane?
-SFX: SUMIDA
+[SFX: SUMIDA]
 
-OAKEWOOD: TAMBERLANE! SAI DE PERTO DELES!
+[SFX: !!]
+
+OAKEWOOD: ***TAMBERLANE!***
+OAKEWOOD: ***SAI DE PERTO DELES!***
 
 TAGG: Olá, Claude.
 OAKEWOOD: Olá..Tagg...e Danger...
-SFX: Ofega Ofega
+[SFX: Ofega Ofega]
 TAGG: Não tocamos nela.
 OAKEWOOD: Isso é...bom.
 TAMBERLANE: Tio!
 
-OAKEWOOD: Se você...está procurando pelo...Vereador Timmothy,a última vez que eu ví ele...ele estava na...Viela de Comércio.
+OAKEWOOD: Se você...está procurando pelo...Vereador Timmothy,a última vez que eu ví ele...ele estava na...Viela de Troca.
 SFX: Ofega Ofega
 
 TAGG: Brilhante. Quando conseguirmos achar ele podemos fazer nossa troca e sair desse buraco do inferno.

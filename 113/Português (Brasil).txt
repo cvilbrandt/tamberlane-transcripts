@@ -1,13 +1,11 @@
-***[OUTDATED]***
-
-AVERY: Ah, aqui vamos! Está aqui!
+AVERY: Ah, pronto! Está aqui!
 
 AVERY: Está empolgada, Senhora Tamberlane?
 TAMBERLANE: Sim!
 
-BELFRY: Oh, Avery, é <i>perfeito!</i> A mãe vai ter que aceitar ela, com <i>certeza!</i>
+BELFRY: Oh, Avery, é *perfeito!* A mãe vai ter que aceitar ela, com *certeza!*
 
-AVERY: Calma, <i>isso</i> é por quê você pediu um texugo?
-BELFRY: Bem, <i>claro!</i>
+AVERY: Calma, *isso* é por quê você pediu um texugo?
+BELFRY: *Por qual outro motivo* eu pediria um texugo?
 AVERY: Você percebe que ela vai saber que é só uma fantasia, certo?
-BELFRY: Eu só acho que instintos tem que contar para <i>alguma coisa!</i>
+BELFRY: Eu só acho que instintos tem que contar para *alguma coisa!*

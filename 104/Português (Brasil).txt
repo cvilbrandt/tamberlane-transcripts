@@ -1,18 +1,16 @@
-***[OUTDATED]***
-
-BELFRY: Quê que <em>ela</em> quer?
+BELFRY: Quê que *ela* quer?
 BRIAR: Qual é, não morde o mensageiro. Você sabe como a mãe fica.
 
 BRIAR: Olha. Ela só queria que eu te pedisse pra você ajudar no quiosque amanhã no festival.
 
-BELFRY: Fala pra mãe que se ela quer eu no quiosque, ela pode vir aqui e me pedir <em>si mesma!</em>
+BELFRY: Fala pra Mãe que se ela quer eu no quiosque, ela pode vir aqui e me pedir *ela mesma!*
 
-BELFRY: Isso não é <i>tão a cara dela?</i>
-BELFRY: Mandando minha irmãzinha pra fazer o <i>trabalho sujo</i> dela!
+BELFRY: Isso não é *tão a cara dela?*
+BELFRY: Mandando minha irmãzinha pra fazer o *trabalho sujo* dela!
 
-BELFRY: Não podia vir aqui e me pedir, <i>ah não!</i>
+BELFRY: Não podia vir aqui e me pedir, *ah não!*
 
-BRIAR: Bel, <i>para!</i>
+BRIAR: Bel, *para!*
 BRIAR: Qual é!
 
-BRIAR: Você não acha que isso é um <i>pouco</i> besta?
+BRIAR: Você não acha que isso é um *pouco* besta?

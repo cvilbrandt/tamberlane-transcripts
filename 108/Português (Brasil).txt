@@ -1,17 +1,16 @@
-***[OUTDATED]***
-
 BELFRY: Eeeeeee...
 
 BELFRY: Pronto! Aqui está!
 
 BRIAR: Obrigada, Bel.
-BELFRY: Eu vou te ver no festival, de uma forma ou outra.
-BELFRY: E a gente deveria tomar chá, depois!
+BELFRY: Espero que a mãe dê uma parada com isso agora.
+BELFRY: E a gente devia se encontrar logo pra tomar chá!
 OAKEWOOD: para com isso.
 
 BELFRY: A Tamberlane deveria conhecer a tia dela!
 TAMBERLANE: Eh?
 
-BRIAR: É. Ok.
+BRIAR: ...Tá.
+BRIAR: Só deixa eu passar por isso primeiro.
 
-BRIAR: Eu vou dar isso pra mãe. Te vejo no festival, Belfry.
+BRIAR: Eu vou dar isso pra mãe. Te vejo no Festival Soberano, Belfry.

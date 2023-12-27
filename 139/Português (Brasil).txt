@@ -1,5 +1,3 @@
-***[OUTDATED]***
-
 OAKEWOOD: Observação: sujeito carece de ansiedade com separação parental.
 
 TAMBERLANE: Oi, Puck!
@@ -8,9 +6,10 @@ PUCK: Dia, Jovem Tam!
 TAMBERLANE: Terra!
 TERRA: Vamos limpar essa sua carinha fofa!
 NORA: Se divertindo, Tamberlane?
+TAMBERLANE: **Sim!**
 PENNY: Mamãe! Você pode soltar agora! Tá comigo!
 
 MORCEGO: Oh, você não esteve por aqui por um tempo.
 TAMBERLANE: Fome?
-RAPOSA: <i>AAGGHH! O quê é isso?!</i>
-DINGO: Essa é a Tamberlane! Nosso residente "fantasma!"
+RAPOSA: *AAGGHH! O quê é isso?!*
+DINGO: Essa é a Tamberlane! Nossa "fantasma" residente!

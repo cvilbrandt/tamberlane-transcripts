@@ -1,18 +1,17 @@
-***[OUTDATED]***
+MILO: Tio, dado o tamanho dela, você acha que ela está na classe de altura ursina?
+OAKEWOOD: Milo. Ela mal alcança meu quadril. Um filhote ursino seria quase o dobro do tamanho.
 
-MILO: Tio, eu percebo que ela é um tanto alta tendo três anos.
-OAKEWOOD: Deveras. É improvavel que ela esteja na classe de altura roedora.
-
-MILO: Talvez a classe ursina?
+MILO: Talvez a classe canina, então?
 SFX: Murmúrio Murmúrio Murmúrio 
 
-MULTIDÃO: Eu tenho que ir...lavar meu pelo...
+MULTIDÃO: eu... eu acho que deixei meu bule no fogo...
 MULTIDÃO: Olha a hora!
 MULTIDÃO: Vamos pra lá!
-MULTIDÃO: Eu tenho um lugar para estar!
+MULTIDÃO: Eu... tenho um lugar para estar...
 MULTIDÃO: Não olhe!
 
 MULTIDÃO: Você acha que perceberam?
-MULTIDÃO: Ei vamos olhar  a área.
+MULTIDÃO: Ei vamos olhar aquela área.
+MULTIDÃO: eca
 MULTIDÃO: Não toque a....
-MULTIDÃO: Sai daqui...
+MULTIDÃO: Sai daí!

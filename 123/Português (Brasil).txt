@@ -1,22 +1,20 @@
-***[OUTDATED]***
-
 OAKEWOOD: Assumo que você e sua tripulação não encontraram nada como ela, então?
 
 GILLIAN: Temo que não, sujeito.
 GILLIAN: Isso... ela?
-GILLIAN: ...é muito estranho à mim. Mil desculpas.
+GILLIAN: ...é bastante não familiar pra mim. Mil desculpas.
 GILLIAN: [sussurrado] eca.
 
-SMALL BAT 2: Capitã, eu tenho uma idéia de quem pode saber.
+MORCEGUINHO 2: Capitã, talvez o cara inteligente saberia.
 GILLIAN: Suspiro...
 GILLIAN: Verdade...
 
-GILLIAN: Diz, já que você foi tão gentil em mencionar, Artie, porquê <i>você</i> não vai pegar o Milo?
+GILLIAN: Diz, já que você foi tão gentil em mencionar, Artie, porquê *você* não vai pegar o Milo?
 
-ARTIE: Eu tenho? Ele gorfou em cima da mesa dele toda.
+ARTIE: Eu *tenho?* Ele gorfou no quarto dele todo mais cedo.
 
-GILLIAN: Alguém deve, e não vai ser eu.
+GILLIAN: *Alguém* tem, e não vai ser eu.
 GILLIAN: Considere como ordens da Capitã.
 
-ARTIE: resmungo
+ARTIE: (sussurado) resmungo resmungo resmungo
 ARTIE: ...sim, Capitã...
