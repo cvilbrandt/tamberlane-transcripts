@@ -1,0 +1,16 @@
+PARSLEY&#160;: Attends voir, marcheur&#160;!
+PARSLEY&#160;: &Agrave; toi&#160;!
+
+PENNY&#160;: Rarrr, mon pote&#160;! Je suis un pirate&#160;!
+
+PARSLEY&#160;: Enfant insolent&#160;!
+PENNY&#160;: H&eacute;h&eacute;&#160;!
+
+PARSLEY&#160;: Tu n'peux pas t'enfuir sur un bateau&#160;!
+PENNY&#160;: Ne me tentes pas&#160;!
+
+MARIE&#160;: Allez Tam, aplatis les &eacute;coutilles&#160;!
+TAMBERLANE&#160;: Hein&#160;?
+
+MARIE&#160;: Je crois que ça veut dire ouvrir les fen&ecirc;tres&#160;!
+TAMBERLAN&#160;: Oh&#160;!
