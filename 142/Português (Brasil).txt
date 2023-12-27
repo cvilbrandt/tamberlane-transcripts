@@ -1,12 +1,10 @@
-***[OUTDATED]***
-
-OAKEWOOD: Chuchu, você tá bem?
+OAKEWOOD: Tamberlane, você tá bem?
 
 TAMBERLANE: Ele não quis ajuda.
 
 OAKEWOOD: Não, ele não quis. Algumas criaturas não querem.
 TAMBERLANE: Mas eu ajudo.
-OAKEWOOD: Não, você é um filhote. Só viva.
+OAKEWOOD: Não, você é um filhote. Você só *vive.*
 
 OAKEWOOD: Mas além de ajudar, você está bem?
 

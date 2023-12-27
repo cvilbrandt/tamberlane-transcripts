@@ -1,11 +1,9 @@
-***[OUTDATED]***
-
 AVERY: Infelizmente, eu vou estar ocupada demais com as preparações de última hora do quiosque amanhã pra levar a Piper e o Anthony pra encontrar ele nas docas.
 
-AVERY: Eu não suponho que <i>você</i> poderia levar eles, poderia?
+AVERY: Eu não suponho que *você* poderia levar eles, poderia?
 
-BELFRY: <i>Ugh.</i>
-BELFRY: Eu amaria, mas eu tenho que ajudar a minha <i>Mãe</i> amanhã de manhã.
+BELFRY: *Ugh.*
+BELFRY: Eu amaria, mas *aparentemente* a minha *mãe* não consegue rodar um quiosque sem mim.
 
 BELFRY: Mas...
 

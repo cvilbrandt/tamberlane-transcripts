@@ -1,17 +1,16 @@
-***[OUTDATED]***
-
-OAKEWOOD: <em>TAMBERLANE!!</em>
+OAKEWOOD: ***TAMBERLANE!!***
 
 TAMBERLANE: Tá ok, Tio!
 RHODE: Ela tá bem!
 
 OAKEWOOD: Esse filhote vai me dar uma morte prematura.
-SFX: OFEGA
+[SFX: OFEGA]
 
-OAKEWOOD: O quê eu <em>acabei</em> de te falar sobre ajudar? 
+OAKEWOOD: O que eu *acabei* de te falar sobre ajudar? 
 TAMBERLANE: Mas caiu!
 OAKEWOOD: Sem mas...!
 
-OAKEWOOD: É isso. Sem mais experimento por hoje.
+OAKEWOOD: É isso. 
+OAKEWOOD: Sem mais experimento por hoje.
 TAMBERLANE: Mas eu tô ok!
-TWITCHEL: Senhor Oakewood, nos deixe sarar ela antes de você ir!
+TWITCHEL: Senhor Oakewood, deixa a gente sarar ela antes de você ir!

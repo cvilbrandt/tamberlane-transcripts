@@ -1,5 +1,3 @@
-***[OUTDATED]***
-
 BELFRY: Que tal assim? Eu escrevo uma carta pra mãe que você pode só dar pra ela, e desse jeito sair da linha de fogo?
 BRIAR: Você sabe que ela vai me perguntar por que eu não tentei te convencer.
 
@@ -8,4 +6,5 @@ BELFRY: Eu prometo que vou colocar alguma coisa sobre isso.
 BRIAR: É, beleza.
 
 BRIAR: Obrigada, Bel.
-BELFRY: Qualquer coisa pra minha irmãzinha!
+BELFRY: Qualquer coisa pra minha монахиня pequena!
+BRIAR: Tipo errado de irmã, Bel. монахиня significa *freira.*

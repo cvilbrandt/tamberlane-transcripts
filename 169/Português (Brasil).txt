@@ -1,14 +1,15 @@
-***[OUTDATED]***
+[SFX: Suspiro Fundo]
 
-SFX: Suspiro Fundo
+BELFRY: Olha, Mãe. Eu sei que você odeia a Tamberlane, mas é a *minha* decisão e ela é a *minha* filhote.
 
-BELFRY: Olha, Mãe. Eu sei que você odeia a Tamberlane, mas você tem que se lidar com o fato que ela está aqui pra ficar.
-
-TESS: <em>Quê?!</em> Eu não <em>odeio</em> a Tamberlane!
+TESS: *Quê?!*
+TESS: Eu não *odeio* a Tamberlane!
 
 BELFRY: Ah, realmente.
-TESS: <em>Sim</em>, realmente! Eu acho que muito doce, de verdade!
+TESS: *Sim,* realmente! 
+TESS: Ela é uma filhotinha muito doce!
 
-TESS: Pra ser honesta, eu posso ter me apegado a ela. <em> UM POUCO.</em> 
+TESS: Pra ser honesta, eu posso ter me apegado a ela.
+TESS: *UM POUCO.*
 
-TESS: <em>Mas isso é um problema!</em>
+TESS: Mas isso é o *problema!*

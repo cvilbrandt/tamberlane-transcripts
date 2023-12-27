@@ -1,11 +1,10 @@
-***[OUTDATED]***
-
 BRIAR: Então. Quem quer ir primeiro?
 
 BRIAR: QUALÉ!!
 
-BRIAR: Mãe, a Belfry adotou Tamberlane. Pare de ser teimosa com isso.
+BRIAR: Mãe, a Tamberlane tá aqui pra ficar. Para de ser teimosa com a Belfry sobre isso.
 
-BRIAR: Belfry, a Mãe tem anos de experiência. Você que escutar o quê ela tem a dizer, ou sei lá.
+BRIAR: Belfry, a Mãe provavelmente tem alguns pontos bons de verdade pra fazer, ou coisa assim.
 
-BRIAR: Agora <em>conversem.</em> Ou eu vou jogar vocês duas no óleo quente.
+BRIAR: Agora *conversem.*
+BRIAR: Ou eu vou jogar vocês duas no óleo quente.

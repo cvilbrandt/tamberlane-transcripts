@@ -1,17 +1,15 @@
-***[OUTDATED]***
-
 OAKEWOOD: Quem morreu?
 
 TAMBERLANE: Tio, Fofa Vovó gritando puquê culpa minha parando pufavô!
 
-OAKEWOOD: <em>AH, SUAS DUAS IMBECIS!</em>
+OAKEWOOD: ***AH, SUAS DUAS IMBECIS!***
 OAKEWOOD: Deixa a pirralha fora das suas brigas!
-OAKEWOOD: Vocês <i>duas</i> sabem disso!
+OAKEWOOD: Vocês *duas* tem noção disso!
 
 BELFRY: Ah...
 BELFRY: Desculpa, Tam. A Mamãe não deveria ter gritado.
 
 TESS: Eu... me desculpa, também, pequena.
-TESS: Eu me esquentei demais.
+TESS: Meu temperamento escapou de mim.
 
 TAMBERLANE: Tá ok.

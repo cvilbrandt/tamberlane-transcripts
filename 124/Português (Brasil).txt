@@ -1,18 +1,17 @@
-***[OUTDATED]***
-
 OAKEWOOD: Milo?
 JASON: Um sabichão que pegamos em Piou.
-JASON: Lê <i>três livros por dia.</i> Consegue acreditar.
+JASON: Lê *três livros por dia.* Consegue acreditar.
 
-OAKEWOOD: Eu <i>sou</i> um bibliotecário.
+OAKEWOOD: Eu *sou* um bibliotecário.
 JASON: Então vocês vão se dar bem!
 
 TAMBERLANE: Tô com fome. Ervilhas?
-OAKEWOOD: Quando voltarmos, chuchu.
+OAKEWOOD: Quando voltarmos, Chuchu.
 
 JASON: Cruzes! Isso fala!
 
-OAKEWOOD: Claro que ela fala, seu idiota! Ela <i>parece</i> como um animal simples?
+OAKEWOOD: Claro que ela fala, seu cabeção! Ela *parece* um animal simples?
 JASON: Bem, não...
+OAKEWOOD: Tá certo. Tira a sua cabeça da sua bun-
 
-OFFSCREEN: Tio Claude?
+FORA: Tio Claude?

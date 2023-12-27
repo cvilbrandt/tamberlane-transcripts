@@ -1,5 +1,3 @@
-***[OUTDATED]***
-
 JACKIE: Feliz Festival Soberano, Oakewood!
 OAKEWOOD: Você também, Jackie.
 JACKIE: Vai beber o quê?
@@ -12,10 +10,12 @@ OAKEWOOD: ...um uísque com gelo.
 
 JACKIE: E seus, erm...companheiros?
 
-SFX: suspiiiro
+[SFX: suspiiiro]
 
-OAKEWOOD: Jackie, eu sei que eles são de Follybrook, mas eles também são o enviado de comércio. Eles podem só serem permitidos de entrar uma vez por ano, mas eles <em>são</em> perrmitidos. Então por quê você não pergunta pra <em>eles?</em>
+OAKEWOOD: Jackie, eu sei que eles são de Follybrook, mas eles também são o enviado de comércio. 
+OAKEWOOD: Eles podem só serem permitidos de entrar uma vez por ano, mas eles *são* permitidos.
+ Então por quê você não pergunta pra *eles?*
 
 JACKIE: ...Certo, O quê vão querer?
-TAGG: Rootbeer. Eu meu irmão quer uma Dark and Stormy.
+TAGG: Uma Dark and Stormy. E meu irmão quer uma Tin Mule.
 

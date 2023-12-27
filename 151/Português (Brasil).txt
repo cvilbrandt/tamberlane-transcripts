@@ -1,5 +1,3 @@
-***[OUTDATED]***
-
 WALTER: O mundo é complicado, pequena Briar.
 
 WALTER: Criaturas não gostam do quê não entendem.
@@ -8,6 +6,8 @@ WALTER: Algumas vezes bençãos trazem atrito.
 
 WALTER: Mas, algumas vezes também, atrito traz uma benção.
 
-WALTER: Não se precupe, meu doce, elas vão voltar a si.
+WALTER: Não se precupe, [Russo], elas vão voltar a si.
 BRIAR: Eu espero. 
-WALTER: Eu sei. Elas se amam muito. Elas só são ruim em mostrar as vezes.
+WALTER: Eu sei. 
+WALTER: Elas se amam muito. 
+WALTER: Elas só são ruim em mostrar as vezes.

@@ -1,16 +1,15 @@
-***[OUTDATED]***
-
-HONEY: Bleddyn, Você viu a Tess, hoje?
-BLEDDYN: Ultima vez que eu vi, ela estava brigando com a Belfry.
+HONEY: Genevieve, Você viu a Tess hoje?
+GENEVIEVE: Ultima vez que eu vi, ela estava brigando com a Belfry de novo.
 
 HONEY: Claro que ela estava.
 
-TIMMOTHY: Começamos o Festival Soberano sem todos os quatro membros do conselho?
-BLEDDYN: Nós talvez teremos que fazer isso. A decisão é sua, Timmothy.
+TIMMOTHY: Agora o quê? Começamos o Festival Soberano sem todos os quatro membros do conselho?
+GUNNER: Nós talvez vamos ter que fazer isso. 
+GUNNER: A decisão é sua, Timmothy.
 
 TESS: Me desculpa!
 
-TESS: Eu vim o mais rápido que pude!
+TESS: Me desculpa pelo atraso!
 TIMMOTHY: Ah, ainda bem, nenhuma decisão difícil hoje.
 
 TIMMOTHY: Vamos lá.

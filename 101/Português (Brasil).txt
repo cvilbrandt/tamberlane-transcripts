@@ -1,24 +1,23 @@
-***[OUTDATED]***
-
 FORA: Isso é carne de veado?
-FORA: Sim, eu pedi um pouquinho á mais pro açougueiro.
+FORA: Sim, o açougueiro acabou de cortar.
 TAMBERLANE: ...bleh...
 FORA: Você acha que ela pode ser carnívora?
 FORA: Bem, pelo menos onívora.
-FORA: Ela tem os dentes pra isso.
+FORA: Ela tem a dentição pra isso.
 
 [SFX: PTEUGH]
 
-TAMBERLANE: Ervilhas!
-FORA: Certo, certo! Vou pegar umas ervilhas pra você, docinho.
+TAMBERLANE: *Ervilhas!*
+FORA: Certo, certo! Eu vou pegar suas ervilhas, docinho.
 
 BELFRY: Só me faz um favorzinho, ok?
-TAMBERLANE: Ervilhas, <i>por favor</i>,
+TAMBERLANE: Ervilhas, *por favor*.
 BELFRY: Muito bom! Mas você pode por favor tentar mais uma mordida?
 
 TAMBERLANE: Mllleeehh...
 
-TAMBERLANE: <em>ECA!</em> Não!! Não <em>GOSTO!</em>
-BELFRY: Sem problema! Você fez bem!
-BELFRY: Que tal umas ervilhas?
-OAKEWOOD: Encontros preliminares: nem insetívora nem carnívora.
+TAMBERLANE: *ECA!* Não!! Não *GOSTO!*
+BELFRY: Tudo bem! Você fez um bom trabalho.
+BELFRY: Você *mereceu* as ervilhas.
+OAKEWOOD: Descobertas preliminares: *não* gostou de veado cru.
+OAKEWOOD: Talvez outros tipos de carne ou preparação seriam atrativos pra ela.

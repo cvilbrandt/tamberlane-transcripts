@@ -1,16 +1,19 @@
-***[OUTDATED]***
-
 BELFRY: EU NÃO VOU ABANDONAR ELA NA FLORESTA!
-TESS: Não, eu sei isso! Eu...
+TESS: Não, eu SEI disso! Eu...
 
 TESS: Isso não tá saindo direito.
 BRIAR: Belfry, deixa a Mãe falar.
 
-TESS: Bel, minha pobre querid, você tem que entender que estou....com medo. Estou com medo que vá virar uma pária.
+TESS: Bel, minha pobre querida, você tem que entender que estou....com medo.
+TESS: Estou com medo de te perder.
 
-BELFRY: MÃE! Todo mundo AMA a Tamberlane!
+BELFRY: Me *perder?* Pra *onde* que iria?
 
-TESS: Eu sei, eu sei! Mas quando ela ficar doente, como tratamos ela? Como que sabemos que nossos remédios não são veneno pra ela? Ela não é um filhote normal, Belfry. E isso é ok, exceto...É uma chance maior do que o normal que ela vai precisar de medicina avançada. 
+TESS: Pro Exterior, Belfry.
+TESS: Se a Tamberlane ficar doente - *sériamente* doente - eu tenho medo que os nossos remédios não vão ser o bastante.
+TESS: Nós não sabemos *nada* sobre ela. Ela não é só um filhote normal; ela tem necessidades especiais. E isso não tem problema, mas...
 
-TESS: Se isso acontecer, você vai ter que escolher entre deixar ela morrer, ou levar ela pro Exterior. 
-BELFRY: Ugh, Mãe..!
+TESS: Se isso acontecer, Deus nos perdoe, você vai ter que tomar uma decisão.
+TESS: Você pode ficar aqui com ela, deixar ela segura e confortável, e observar ela morrer.
+TESS: Ou... você pode levar ela pro Exterior.
+BELFRY: Ugh, *Mãe!* Você é *tão* presa ao passado!

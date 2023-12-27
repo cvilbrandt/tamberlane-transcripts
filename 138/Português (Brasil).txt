@@ -1,10 +1,9 @@
-***[OUTDATED]***
-
-OAKEWOOD: De qualquer jeito, temos que ir embora. Criação de vínculos e tal.
+OAKEWOOD: De qualquer jeito, temos que ir embora. 
+OAKEWOOD: Criação de vínculos e tal.
 
 BELFRY: Se divirta e seja boazinha, Tamberlane! Te amo!
 
-TAMBERLANE: Ti amo também, Mamãe-Fofa!
+TAMBERLANE: Ti amo também, Mamãe Fofa!
 
 OAKEWOOD: Perdão. Vou emprestar isso.
 
@@ -12,10 +11,9 @@ OAKEWOOD: Aqui está. É comida. Coma.
 
 TAMBERLANE: Mmmmn!
 
-OAKEWOOD: Tome notas. Come empanadas de cogumelo.
-
+OAKEWOOD: Tome notas. Come torta de morango.
 MILO: Sim, tio!
 
-OAKEWOOD: Agora, vamos tirar você dessa roupa ridícula. É macabra.
-
-BELFRY: É não!
+OAKEWOOD: Agora, vamos tirar você dessa roupa ridícula. 
+OAKEWOOD: É macabra.
+BELFRY: **É *não!***

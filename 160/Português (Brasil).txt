@@ -1,10 +1,6 @@
-***[OUTDATED]***
+TAGG: Egh, *tá bom.* Nós ainda temos que trocar nossos metais, então... encontre eu e meu irmão no Chacal em uma hora.
 
-TAGG: Egh, <em>tá bom</em>. Nós ainda temos que trocar nossos metais, Então... encontre eu e meu irmão no Chacal em uma hora.
-
-TAGG: <em>Não</em> se atrase.
+TAGG: *Não* se atrase.
 DANGER: Você compra as bebidas!
-
-E então...
 
 DANGER: Barista! Aqui!

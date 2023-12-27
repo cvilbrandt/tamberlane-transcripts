@@ -1,23 +1,24 @@
-***[OUTDATED]***
-
-OAKEWOOD: Ah. Esse Milo.
+OAKEWOOD: Ah. *Esse* Milo.
 MILO: É... sou eu.
+OAKEWOOD: Você cresceu.
+MILO: Heh, filhotes geralmente fazem isso.
 
 ANTHONY: Quem é esse?
 TAMBERLANE: Sei lá!
 
-PIPER: Quem já ouviu de um cavalo-pássaro com um coiote de tio?!
-ANTHONY: <b>PIPER!</b>
+PIPER: Um cavalo-pássaro com um *coiote* de tio?! A mãe dele é um elefante também??
+ANTHONY: ***PIPER!***
 TAMBERLANE: Eu gosto dele!
 
 OAKEWOOD: Então...
 OAKEWOOD: Como está sua mãe?
-MILO: Ela perguntou sobre você, na verdade!
-OAKEWOOD: Pah. Isso é uma mentira e você sabe.
+MILO: Ela... perguntou sobre você, na verdade!
+OAKEWOOD: Pah. Você mente tão mal quanto quando você era jovem.
 
-MILO:  Bem. é. Mas <i>eu</i> fiquei com saudade...
+MILO: Justo.
+MILO: Mas *eu* fiquei com saudades...
 
-PIPER: Isso é tão <i>entediante!</i>
+PIPER: Isso é tão *chato!*
 ANTHONY: Eu achei fofo!
 TAMBERLANE: Eu também!
 

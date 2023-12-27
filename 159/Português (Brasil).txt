@@ -1,21 +1,20 @@
-***[OUTDATED]***
-
 OAKEWOOD: Sre. Tagg, Sr. Danger, se vocês não se importarem, eu tenho um problema com que vocês podem nos ajudar...
 
-MILO: T...Tio!
+MILO: *T...Tio*
 
 MILO: Tio nós não...nós não deveriamos falar com...
 
-OAKEWOOD: <em> Milo Jamiton, não seja um cretino desrespeitoso!</em> Se seu pai pudesse te escutar hoje, ele estaria <em>envergonhado!</em>
+OAKEWOOD: *Milo Jamiton, não seja um cretino desrespeitoso!* Se seu pai pudesse te escutar hoje, ele estaria *envergonhado!*
 
 MILO: m-mas...nós não...deveríamos...
 
 OAKEWOOD: Tenha peito, garoto!
 MILO: S...sim, senhor.
 
-OAKEWOOD: Eu me desculpo pelo meu afilhado besta. Ele é novo. De qualquer forma, eu entendo se não quiserem ajudar, mas nós precisamos aprender mais sobre Tamberlane.
+OAKEWOOD: Eu me desculpo pelo meu afilhado besta. Parece que educação não te deixa menos ignorante. 
+OAKEWOOD: De qualquer forma, eu entendo se não quiserem ajudar, mas nós precisamos aprender mais sobre Tamberlane.
 TAMBERLANE: Sou uma Tamberlane!
 OAKEWOOD: Eu só quero saber, você já viu alguma coisa como ela em Follybrook?
 
 TAGG: Eu só quero ir pra casa.
-DANGER; Tagg, ele <em>tem</em> sido de boas com a gente...
+DANGER; Tagg, ele *tem* sido de boas com a gente...

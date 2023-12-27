@@ -1,15 +1,13 @@
-***[OUTDATED]***
-
-OAKEWOOD: Bem, agora que o lixo foi tratado, eu gostaria de tirar a pequena das suas mãos pelo dia.
+OAKEWOOD: Bem, agora que *esse* lixo foi tomado conta, eu gostaria de tirar a pequena das suas mãos pelo dia.
 MILO: ...recupera-se...rápidamente...de...tumulto...emocional.
 
 BELFRY: Oh, Oakewood, isso seria ótimo
 TESS: Por quê?
 
-OAKEWOOD: Então você não acredita que eu faria isso pra te ajudar?
-TESS: Não.
+OAKEWOOD: Então você não acredita que eu faria isso da bondade do meu coração?
+TESS: Você? Não.
 OAKEWOOD: Justo.
 
 OAKEWOOD: Nós vamos levar ela pelo festival e observar ela.
 
-TESS: Nós? Quem é esse cara?
+TESS: *Nós?* Quem é esse cara?

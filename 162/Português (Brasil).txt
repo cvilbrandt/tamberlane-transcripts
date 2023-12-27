@@ -1,18 +1,22 @@
-***[OUTDATED]***
-
 OAKEWOOD: Então.
 TAGG: Então.
 
 TAGG: Essa é a questão. A gente nunca viu algo como ela.
 
-OAKEWOOD: Vocês <em>O QUÊ?!</em> Eu acabei de colocar suas bebidas na minha conta!
+OAKEWOOD: Vocês *O QUÊ?!*
+OAKEWOOD: Eu acabei de colocar suas bebidas na minha conta!
 
-TAGG: Fica flinstons. Eu acho que sei da onde ela vem.
+TAGG: Fica flinstons.
+TAGG: Eu acho que sei da onde ela vem.
 
 OAKEWOOD: Bem?
 TAGG: Eu não acho que vá gostar da minha teoria.
-OAKEWOOD: <em> Bota pra fora, </em> Follybrook!
+OAKEWOOD: *Bota pra fora,* Follybrook!
 
 TAGG: Tomou na jabiraca.
 
-TAGG: Escuta. Seu filhote é deformado. Ela não vem de Follybrook ou das áreas que cercam. Isso deixa somente um lugar que ela pode vir de. Seu filhote é do Exterior.
+TAGG: Escuta. 
+TAGG: A criança tem um corpo estranho.
+TAGG: Ela não vem de Follybrook ou das áreas que cercam. 
+TAGG: Isso deixa somente um lugar que ela pode vir de. 
+TAGG: Seu filhote é do Exterior.

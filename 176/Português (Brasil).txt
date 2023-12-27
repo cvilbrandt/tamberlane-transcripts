@@ -1,9 +1,16 @@
-***[OUTDATED]***
+TIMMOTHY: Olá, criaturas de Silver Sage!! 
+TIMMOTHY: Bem vindos ao quingentésimo septuagésimo sexto Festival Soberano Anual!
 
-TIMMOTHY: Olá, criaturas de Silversage!! Bem vindos ao quingentésimo septuagésimo sexto Festival Soberano Anual
+TIMMOTHY: O Conselho de Treehollow está honrado em dar boas-vindas a vocês pra nossa pequena cidade pela primeira vez em 12 anos! Deixe-me introduzir:
+TIMMOTHY: Genevieve, a Conselheira de Educação!
+TIMMOTHY: Trisha, nossa Conselheira de Hospitalidade!
+TIMMOTHY: Honey, nossa Conselheira de Agricultura!
+TIMMOTHY: Tess, nossa Conselheira de Comércio!
+TIMMOTHY: Gunner, nosso Conselheiro de Planejamento!
+TIMMOTHY: Scott, nosso Conselheiro Administrativo!
+TIMMOTHY: E claro, eu sou Timmothy, o Conselheiro-Chefe!
 
-TIMMOTHY: Treehollow está honrado em hospedar pela primeira vez em 12 anos! Nosso conselho te dá boas vinda! Esse é Bleddyn, nosso Conselheiro de Infraestrutura! Honey, nossa Conselheira de Agricultura! Tess, nossa Conselheira de Negócios! E eu sou Timmothy, o Conselheiro Primário e Relator!
+TIMMOTHY: Nós trouxemos uma ótima festa esse ano!
+TIMMOTHY: Nós damos boas vindas aos nossos habitantes de Silver Sage enquanto celebramos nossa vitória com comida, jogos e folia! 
 
-TIMMOTHY: Eu espero que tenhamos melhorado nossa hospitalidade 12 vezes! Nós damos boas vindas aos nossos habitantes de Silversage enquanto celebramos nossa vitória com comida, jogos e folia! 
-
-TIMMOTHY: Agora, dada a ocasião, Eu espero que você me perdoe para contar uma historinha...
+TIMMOTHY: Agora, dada a ocasião, Eu espero que vocês me perdoem de contar uma historinha...

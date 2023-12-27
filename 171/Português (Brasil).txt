@@ -1,13 +1,17 @@
-***[OUTDATED]***
+BELFRY: Eu sei que a Grande Epidemia mexeu com vocês, mas faz *anos.*
+BELFRY: Uma coisa é ir pro Exterior por traição. *Claro* que você não pode voltar *disso.*
+BELFRY: Mas estamos falando de *tratamento.* 
 
-BELFRY: Ah, Mãe. Isso é tão brega! <em>SE</em> isso acontecesse, ninguém ia se importar, Mãe. Estariamos indo por <em>cuidado médico</em>, não traição.
+TESS: Pelos Éditos, é a mesma coisa, minha Bel.
+BELFRY: Mãe, você tá no Conselho.
+BELFRY: Você sabe que você não realmente *cumpriria* com isso.
 
-TESS: Você se surpreenderia, minha Bel.
-BELFRY: Claro, Mas você está no conselho. Você atestaria por mim, certo?
+BELFRY: *VOCÊ NÃO PODE ESTAR SENDO SÉRIA!*
 
-BELFRY: <em>VOCÊ NÃO ATESTARIA POR MIM?! </em>
+BELFRY: *VOCÊ NEM SE COLOCARIA POR NÓS?!*
+TESS: *Claro* que eu iria! Você *sabe* que eu iria!
 
-TESS: Não, Não! Claro que eu iria!!
-BELFRY: <em>COMEÇA COM ISSO!!</em>
-
-TESS: Eu só estava pensando que não iria importar que eu atestei por você. Se você for ao Exterior, eu não posso te ajudar. Não importa quanto eu tentar.
+TESS: Mas você tem que entender...
+TESS: Não importaria se eu atestasse por você ou não.
+TESS: Se você escolher ir ao Exterior, não importa quanto eu tentar.
+TESS: Você realmente acha que eu não *tentei* trazer a Koss e o Jeremy de volta?

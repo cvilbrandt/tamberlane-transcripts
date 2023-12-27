@@ -1,22 +1,20 @@
-***[OUTDATED]***
-
 MILO: Como ela interage com estranhos?
-OAKEWOOD: Ela não conheceu nenhum estranho.
+OAKEWOOD: Ela não conhece nenhum estranho.
 
 MILO: Quer dizer que ela conhece todo mundo?
 OAKEWOOD: Eu quero dizer que ela nunca tratou nenhuma criatura como se não fosse família.
-
 CORVO: Malditas rodas.
 TAMBERLANE: Oi! Eu ajudo!
 
 TAMBERLANE: Eu te ajuda!
-CORVO: <em>MAS O QUÊ NO NOME DA GRANDE GAIA!</em>
+CORVO: ***MAS O QUÊ NO NOME DA GRANDE GAIA!***
 
-CORVO: SAI DE PERTO DE MIM!
+CORVO: **SAI DE PERTO DE MIM!**
 TAMBERLANE: Mas eu ajudo!
 
 CORVO: Se você me tocar, eu vou quebrar todos os ossos nessa sua pata feia!
 
-OAKEWOOD: <em>AÍ!</em> Como você OUSA falar com minha neta desse jeito?!
+OAKEWOOD: ***AÍ!**
+OAKEWOOD: Como você OUSA falar com minha neta desse jeito?!
 OAKEWOOD: Você é muito atrevido!
 TAMBERLANE: Me desculpa!

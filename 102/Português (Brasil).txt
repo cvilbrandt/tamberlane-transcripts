@@ -1,5 +1,3 @@
-***[OUTDATED]***
-
 BELFRY: Aqui. Come com cuidado, tá bem?
 
 OAKEWOOD: hrmmngghrr
@@ -7,13 +5,14 @@ OAKEWOOD: hrmmngghrr
 [SFX: BLAM!!]
 OAKEWOOD: MAIS BECOS SEM SAÍDA!
 
-OAKEWOOD: Três meses!
-OAKEWOOD: Três meses e nós não sabemos quase <em>nada!</em>
-OAKEWOOD: Eu nem consigo determinar o <i>gênero</i> dela!
-OAKEWOOD: Eu nem consigo descobrir o quê ela come além de mingau e ervilhas!
+OAKEWOOD: Já faz quase *quatro meses* e nós ainda não sabemos quase *nada!*
+OAKEWOOD: Ela *claramente* já conheceu outras criaturas antes mas não consegue se lembrar de *nada* some elas!
+OAKEWOOD: Ela está crescendo tão rápido, mas age como um filhote da metade da idade dela! O Rosnar dela parece como se ela estivesse engasgando em um sapo! 
+OAKEWOOD: Talvez o *gênero taxonômico* dela explicaria isso, mas eu não consigo entender *isso* também!
 
-OAKEWOOD: O que vai acontecer quando as ervilhas saírem de temporada?
-OAKEWOOD: <em>Então o quê?</em>
+OAKEWOOD: Ela só come ervilhas e mingau por que ela é uma *criança* ou por causa de *adaptação digestiva?*
+OAKEWOOD: E o que acontece quando as ervilhas saírem de temporada?
+OAKEWOOD: *O QUÊ ENTÃO?*
 
 BELFRY: Bem, então a gente pode só dar mingau pra ela.
 OAKEWOOD: Belfry, pela última vez, eu preciso que você escute [obscurecido]
@@ -21,4 +20,4 @@ FORA: Ei.
 OAKEWOOD: Ela [obscurecido] mais do quê isso.
 
 [SFX: suspiiiro]
-OAKEWOOD: Ou você pode se distrair. Pode ser, também.
+OAKEWOOD: Ou você pode se distrair. Isso serve, também.

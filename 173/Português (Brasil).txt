@@ -1,17 +1,17 @@
-***[OUTDATED]***
-
 SFX: CLANG CLANG CLANG CLANG
-TESS: Eu só não quero te perder por causa de uma decisão impulsiva. 
+TESS: Eu te amo, e respeito a escolha que você fez.
+TESS: Eu prometo que vou tentar mais.
+TESS: Pra você, e pra... pra Tamberlane.
 
-SFX:CLANG CLANG CLANG
+[SFX:CLANG CLANG CLANG]
 BELFRY: Mãe...
 
-SFX: CLANG CLANG CLANG CLANG 
+[SFX: CLANG CLANG CLANG CLANG]
 TESS: O-oh, isso são as cerimônias de abertura, eu tenho que ir.
 BELFRY: Mãe, espera! 
 
-SFX: CLANG CLANG CLANG
-BELFRY: Não se preocupa, ok? Não vamos ter que ir. Eu prometo.
+[SFX: CLANG CLANG CLANG]
+BELFRY: Não se preocupa tanto, certo? Não vamos pra nenhum lugar. Eu *prometo.*
 
-SFX: CLANG CLANG CLANG
-TESS: Oh Belfry. Eu espero pra todo deus que esteja certa.
+[SFX: CLANG CLANG CLANG]
+TESS: Oh Belfry. Eu espero a Deus que esteja certa.

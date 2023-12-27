@@ -1,13 +1,13 @@
-***[OUTDATED]***
-
 PEGASUS: Ok, cuidado, Twitchel, pra trás, pra  trás...
 
-TAMBERLANE: <em>PIPER, NÃO!!!</em>
+TAMBERLANE: ***PIPER, NÃO!!!***
 
-PEGASUS: <em>AI FRUTA QUE PARTIU!!</em>
-PIPER: <em>desculpa desculpa desculpa!!</em>
+PEGASUS: ***AI FRUTA QUE PARTIU!!***
+PIPER: *desculpa desculpa desculpa!!*
 
-SFX: clink clink clink clink clink clink clink
+[SFX: clink clink clink clink clink clink clink]
 
+[SFX: BUM!!]
 TWITCHEL: Tamberlane!!
 RHODE: Da onde veio, rapariga??
+TAMBERLANE: Ajuda!
