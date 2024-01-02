@@ -1,0 +1,10 @@
+BELFRY&#160;: Qu'est-ce que tu penses de &ccedil;a&#160;? Je vais &eacute;crire &agrave; maman une lettre que tu pourras lui remettre, et ainsi &eacute;viter les tirs crois&eacute;s&#160;?
+BRIAR&#160;: Tu sais qu'elle me demandera pourquoi je n'ai pas essay&eacute; de te convaincre.
+
+BELFRY&#160;: Je promets que j'ajouterai quelque chose &agrave; ce sujet.
+
+BRIAR&#160;: Ouais, d'accord.
+
+BRIAR&#160;: Merci, Bel.
+BELFRY&#160;: N'importe quoi pour ma petite монахиня&#160;!
+BRIAR&#160;: Ce n'est pas le bon genre de s&oelig;ur, Bel. монахиня signifie *nonne.*
