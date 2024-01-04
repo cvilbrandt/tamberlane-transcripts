@@ -1,8 +1,8 @@
-***[OUTDATED]***
+CALLIE: Certo, já é o bastante, crianças! Se acalmem! Estamos quase terminando por hoje.
+CALLIE: Começando por amanhã, vamos estar explorando nossas raízes!
 
-CALLIE: Tá bom, tá bom! Sossega! Estamos quase prontos com o dia. A partir de amanhã, vamos aprender sobre nossas raízes!
-
-TAMBERLANE: Raízes? Tipo uma árvore? Eu tenho <em>raízes</em>?
+TAMBERLANE: Raízes? Tipo uma árvore?
+TAMBERLANE: Eu tenho raízes?
 CALLIE: Todos temos, de certa forma!
 
 CALLIE: Suas raízes são de onde você vem.
@@ -12,6 +12,8 @@ CALLIE: Elas são feitas de nossas cidades natais, nossas famílias, e até noss
 CALLIE: Nossas raízes nos fazem ser quem somos.
 
 SFX: OOF!
-MARIE: Ah, Tamberlane! Não fica chateada! Suas raízes são bem aqui em Treehollow!
+MARIE: Ah, Tamberlane! Não fica chateada!
+MARIE: Suas raízes são bem aqui em Treehollow!
 
-Piper: É! Você tem sido nosso înfame fantasminha de Rattleglen por um ano inteiro agora! Se essas não são raízes, eu não sei o quê é!
+PIPER: É! Você tem sido nosso ínfame fantasminha de Rattleglen por um ano inteiro agora!
+PIPER: Se essas não são raízes, eu não sei o quê é!

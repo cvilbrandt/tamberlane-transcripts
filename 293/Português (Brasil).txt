@@ -1,15 +1,13 @@
-***[OUTDATED]***
-
 RAFEIRO: Qu...
 
-RAFEIRO: Qual é o seu <em>PROBLEMA?</em>
+RAFEIRO: Qual é o seu *PROBLEMA?*
 
 TAMBERLANE: Nnngh...
 
-TAMBERLANE: Rrgh!!
+TAMBERLANE: **Rrgh!!**
 
-RAFEIRO: Que <em>é</em> isso??
-TAMBERLANE: <em>Rrrraaggh!!!</em>
+RAFEIRO: Que *é* isso??
+TAMBERLANE: ***Rrrraaggh!!!***
 
-RAFEIRO: O que você tá <em>FAZENDO??</em>
-TAMBERLANE: Para de falar mal da <em>minha mamãe!</em>
+RAFEIRO: O que você tá *FAZENDO??*
+TAMBERLANE: *Para de falar mal da minha mamãe!*

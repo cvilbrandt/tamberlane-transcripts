@@ -1,15 +1,14 @@
-***[OUTDATED]***
+PEEK: Vamos ver o que temos aqui...
 
-PEEK: Bem, vamos ver o que temos aqui...
-
-PEEK: Ah, <strong>Vou Te Amar Para Sempre</strong><em>... e o clássico, <strong>Ivan Salva a Cidade?</strong></em>
-PEEK: <em>Esse daqui está popular ultimamente..</em>
+PEEK: Ah, "Vou Te Amar Para Sempre"... 
+PEEK: e a versão atualizada de "Ivan Inquisitivo"?
 
 PEEK: Você escolheu eles você mesma, Tamberlane?
-TAMBERLANE: Não, o Senhor Scott ajudou!
+TAMBERLANE: Não, a Senhora Scott ajudou!
 
-PEEK: Bem, eu espero que você goste deles!
-PEEK: E eu espero que eles respondam algumas das suas questões.
+PEEK: A Senhora Scott, hein? Bem, eu espero que você goste deles!
+PEEK: Tenha certeza de ler eles com as sua mãe!
 
 BELFRY: O que você gostaria por esses livros, Peek?
-PEEK: Bem.. Eu ainda te devo do bolo de aniversário de Erin, mas...
+PEEK: Bem... 
+PEEK: Eu ainda te devo do bolo de aniversário de Erin, mas...

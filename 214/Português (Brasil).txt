@@ -1,17 +1,19 @@
-***[OUTDATED]***
-
 PEEK: Peguei seu pedido do Galho Emaranhado essa manhã.
 OAKEWOOD: Excelente.
 
-PEEK: Na real, eu tenho outra coisa que você pode estar interessado.
+PEEK: Na verdade...
+PEEK: Eu tenho outra coisa que você pode estar interessado.
 
 OAKEWOOD: Oh?
-PEEK: É, eu peguei ele faz mais ou menos um mês.
+PEEK: É, eu peguei isso faz mais ou menos um mês.
 
-PEEK: Eu fiz minha melhor restauração e encadernamento, mas foi difíciu.
+PEEK: Eu fiz minha melhor restauração e encadernamento, mas foi complicado.
+PEEK: Esse livro é tão velho que esta quase degradado demais pra recuperar
 
-OAKEWOOD: Certo, você me deixou interessado. O quê é?
+OAKEWOOD: Certo, você me deixou interessado. 
+OAKEWOOD: O quê é?
 
-PEEK: Esse livro é muito, muito velho. Honestamente, você precisaria de um especialista melhor que eu parra tirar algo dele, mas...
+PEEK: Uma relíquia velha que um vasculhador trocou pro meu compatriota no Galho Emaranhado.
+PEEK: A maior parte está destruída, mas...
 
-PEEK: Já que você estava ampliando sua pesquisa, eu pensei que talvez ajudaria. 
+PEEK: Tem algumas coisas aqui que eu pensei que te interessariam.

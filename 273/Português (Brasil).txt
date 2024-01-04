@@ -1,16 +1,15 @@
-***[OUTDATED]***
-
-RAFEIRO: Qualé <em>a tua?</em>
+RAFEIRO: Qualé *a tua?*
 
 TAMBERLANE: Por que você--
-TAMBERLANE: Por que você fez isso?!
+TAMBERLANE: Por que você *fez* isso?!
 
 JONAS: Porque a Piper é uma babacona, por isso.
 KIRA: Por que você tá tão brava sobre isso? Ela enche seu saco também!
 
-TAMBERLANE: Porque <em>NÃO É LEGAL!</em>
-TAMBERLANE: Não machuca criaturas, <em>NUNCA!</em>
+TAMBERLANE: Porque *NÃO É LEGAL!*
+TAMBERLANE: ** Não machuca criaturas, *NUNCA!* **
 
 RAFEIRO: Saca só a Prodígio Pelada! Não machuca criaturas?
 
-RAFEIRO: <em>Vê se cresce.</em> Criaturas se machucam todo dia.
+RAFEIRO: *Vê se cresce.* Criaturas são machucadas *todo dia.*
+TAMBERLANE: rrrr...

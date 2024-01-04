@@ -1,19 +1,17 @@
-***[OUTDATED]***
-
 SFX: KRNCHKRNCHHK
 
 SFX: KRNCHKRNCHKRNCHH
 RAFEIRO: Masoq-
 
 RAFEIRO: Ah, volta pra cama! A gente num tá machucando ninguém!
-KIRA: Agh! <em>Qual é</em> seu problema??
+KIRA: Agh! *Qual é* seu problema??
 TAMBERLANE: Você não pediu desculpa!
 
 KIRA: Cai na real!
 JONAS: É, os adultos já castigaram a gente!
 
-TAMBERLANE: <em>NÃO.</em>
+TAMBERLANE: *NÃO.*
 KIRA: Sai fora!
-TAMBERLANE: Você não se <em>desculpou!</em>
+TAMBERLANE: Você não se *desculpou!*
 
-TAMBERLANE: Você tem que se <em>DESCULPAR!</em>
+TAMBERLANE: Você tem que se *DESCULPAR!*

@@ -1,13 +1,11 @@
-***[OUTDATED]***
-
 MILO: Aqui, Tio!
 
 MILO: E alguns biscoitos pra você também!
-OAKEWOOD: Ah--
+OAKEWOOD: Ah-
 OAKEWOOD: Obrigado, Milo.
 
 SFX: Toc Toc Toc
 
 SFX: TocTocTocTocTocTocToc
 
-OAKEWOOD: <em>NADA.</em>
+OAKEWOOD: *NADA.*

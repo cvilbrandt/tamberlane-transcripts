@@ -1,5 +1,3 @@
-***[OUTDATED]***
-
-SFX: <em>SPLASH!</em>
-KIRA: <em>NÃO!! JONAS!</em>
-RAFEIRO: <em>JONAS! TAMBERLANE!</em>
+[SFX: SPLASH!]
+KIRA: ***NÃO!! JONAS!***
+RAFEIRO: ***JONAS! TAMBERLANE!***

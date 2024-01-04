@@ -1,11 +1,10 @@
-***[OUTDATED]***
-
 PARSLEY: Tá bonitão, garotas!
+MARIE: Valeu, Parsley!
 
 MARIE: Ooh, lindo!
 PARSLEY: Essa é sua mãe, então?
 
 TAMBERLANE: Não, sou eu!
 
-PARSLEY: Tem certeza, parça?
-MARIE: <em>Parsley!</em>
+PARSLEY: Oh! Eu não teria adivinhado!
+MARIE: *Parsley!*

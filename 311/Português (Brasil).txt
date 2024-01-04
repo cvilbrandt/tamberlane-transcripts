@@ -1,10 +1,8 @@
-***[OUTDATED]***
-
 FINN: A Nora está certa. Deixa comigo.
 JASON: Certeza, Finn?
 FINN: Eu posso até ser um velhote, mas eu ainda nado que nem um peixe!
 
-SFX: PLASH
+[SFX: PLASH]
 
 JASON: Eles estão vivos?
 FINN: Você vai ter que checar!

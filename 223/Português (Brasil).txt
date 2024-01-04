@@ -1,12 +1,12 @@
-***[OUTDATED]***
-
-BELFRY: Ok! Isso...não foi o que eu me lembrava!
+BELFRY: Ok! Isso bate... um pouco diferente agora
 
 BELFRY: Esse não foi um livro muito bom, foi?
 TAMBERLANE: nuh uh
 
-BELFRY: Tamberlane? O que há de errado?
+BELFRY: Tamberlane?
+BELFRY: Você tá bem?
 
-TAMBERLANE: Eu sou um monstro!
+TAMBERLANE: Eu sou um *monstro!*
 
-BELFRY: Oh, oh não, pimpolha, não! Vem aqui, então. Vamos conversar.
+BELFRY: Oh, oh não, pimpolha, não!
+BELFRY: Vem aqui, então. Vamos conversar.

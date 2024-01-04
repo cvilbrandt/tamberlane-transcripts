@@ -1,13 +1,11 @@
-***[OUTDATED]***
-
 BELFRY: Quê...?
-FORA: <strike>Belfry, você <em>tem</em> que se levantar!</strike>
+FORA: Belfry, você *tem* que se levantar!
 
-FORA: <strike><em>Vamos!</em></strike>
-FORA: <em>Alguma coisa aconteceu com a Tamberlane!</em>
+FORA: *Qualé!*
+FORA: *Alguma coisa aconteceu com a Tamberlane!*
 
-JASON: <strike>Eu acho que teve uma briga</strike>
-JASON: <strike>e a</strike> Tamberlane <strike>e o</strike> Jonas <strike>cairam no rio</strike>
+JASON: Eu acho que teve uma briga
+JASON: e a **Tamberlane** e o **Jonas** caíram no rio
 
-JASON: <strike>Coragem,</strike> Bel! A Kira <strike>vai trazer nós para eles!</strike>
-KIRA: <b><em>VAI, DE PRESSA!</em></b>
+JASON: Coragem, **Bel! A Kira** vai trazer nós para eles!
+KIRA: ***VEM LOGO!***

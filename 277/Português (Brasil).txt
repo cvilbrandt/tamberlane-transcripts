@@ -1,6 +1,4 @@
-***[OUTDATED]***
-
-BELFRY: <em>NÃO!</em>
-
+BELFRY: *NÃO!*
+[SFX: tum]
 BELFRY: Tamberlane, Me desculpa! Você está machucada?
 TAMBERLANE: NÃO.

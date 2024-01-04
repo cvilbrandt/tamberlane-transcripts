@@ -1,7 +1,6 @@
-***[OUTDATED]***
+TAMBERLANE: HIC
 
-TAMBERLANE SFX: SOB
-
+BELFRY: Oh, querida...
 BELFRY: Você não é uma garota má, não é sua culpa, e você não está encrencada, ok?
 
 TAMBERLANE ...Ok.
@@ -11,5 +10,5 @@ BELFRY: Tamberlane, tá..Tá realmente tudo bem. Por favor não fica triste...Es
 SFX: WHUMPH
 
 BELFRY: Estou aqui.
-TAMBERLANE SFX: mmmmmm
+TAMBERLANE: mmmmmm
 BELFRY: Estou aqui.

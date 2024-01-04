@@ -1,16 +1,13 @@
-***[OUTDATED]***
-
 TAMBERLANE: Para, por favor!
 TAMBERLANE: Escuta, escuta!
 
 TAMBERLANE: Eu estava perguntando sobre o Exterior!
 
-OAKEWOOD: E você teve essa conversa em <em>público??</em>
-BELFRY: O que era pra eu fazer? Ela perguntou!
+OAKEWOOD: E você teve essa conversa em *público??*
+BELFRY: O que era pra eu fazer? Ela *perguntou!*
 BELFRY: Eu não queria só dar a resposta furada pra ela!
 
 TAMBERLANE: Tio! Por favor não fica bravo com a Mamãe! Eu perguntei!!
 
 OAKEWOOD: Oh, tá bem.
 OAKEWOOD: Já que você perguntou com educação, chuchuzinho.
-

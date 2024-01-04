@@ -1,25 +1,23 @@
-***[OUTDATED]***
-
 KIRA: TAM! SAI DO GELO!
 RAFEIRO: SAI DO GELO!!!
 
 TAMBERLANE: Tá bem!
-SFK: <em>Krrrkkkk</em>
+[SFK: Krrrkkkk]
 TAMBERLANE: tá bem tá bem tá bem...
 
-SFX: <em>KKRAKKK</em>
+[SFX: KKRAKKK]
 TAMBERLANE: Aaaa!!!
-FORA: <em>PARA!</em>
+FORA: *PARA!*
 
 JONAS: PARA PARA PARA! Não... se levanta!
-SFX: <em>ofega</em>
+JONAS: (ofega)
 RAFEIRO: Jonas, o que você tá fazendo?!
 
-SFX: <em>ofega</em>
+JONAS: (ofega ofega)
 JONAS: Deita...
 JONAS: ...de...
 JONAS: ...barriga pra baixo!
-SFX: <em>ofega</em>
+JONAS: (ofega)
 FORA: Jonas, volta aqui!! Você precisa da sua bombinha, mano!!
 
 JONAS: E extende...

@@ -3,7 +3,7 @@ FORA: Cogumelos, por favor! Eu preciso dos cogumelos!
 MORCEGO: Cantarelos ou veludos?
 
 VEADO: Cantarelos.
-MORCEGO: Você tem certeza? Eu achava de veludos eram...
+MORCEGO: Você tem certeza? Eu achava que veludos eram...
 VEADO: *Cantarelos.*
 
 MORCEGO: Beleza, então! Cantarelos saindo!

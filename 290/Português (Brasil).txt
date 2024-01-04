@@ -1,19 +1,17 @@
-***[OUTDATED]***
+TAMBERLANE: Você *machucou* a Piper! Machucar criaturas é RUIM!
+RAFEIRO: Oh!! Não pensa que eu não vi *você* fazer um um punho com essa sua patinha podre!
+RAFEIRO: Se machucar criaturas é ruim, por quê *você* tentou, hein?
+TAMBERLANE: Eu- Eu só quero que você *PARE!!*
+RAFEIRO: *E eu quero você fora daqui!*
 
-TAMBERLANE: Você <em>machucou</em> a Piper! Machucar criaturas é RUIM!
-RAFEIRO: Eu?? A Piper machuca criaturas <em>toda hora!</em>
-RAFEIRO: Você só não tá nem aí por quê ela não enche <em>você</em> mais!
-TAMBERLANE: Ela não faz filhotes <em>chorarem!!</em> Eu só quero que você <em>PARE!!</em>
-RAFEIRO: <em>Óbvio!</em> Eu vi você fazendo um punho com a sua pata!
+RAFEIRO: Ooo, Eu sou a *Tamberlane!* Eu não machuco *ninguém!*
 
-RAFEIRO: Ooo, Eu sou a <em>Tamberlane!</em> Eu não machuco <em>ninguém!</em>
+RAFEIRO: *Mó besteira!*
 
-RAFEIRO: <em>Mó besteira!</em>
-
-TAMBERLANE: Bem, você tinha que PARAR!
-RAFEIRO: EU PAREI! Você ainda ia ME BATER!
+TAMBERLANE: Você MACHUCOU A PIPER!
+RAFEIRO: ELA ME MACHUCOU PRIMEIRO!
 TAMBERLANE: PEDE DESCULPA!
-RAFEIRO: Oh, você quer que eu <em>peça desculpa??</em>
+RAFEIRO: Oh, você quer que eu *peça desculpa??*
 
 KIRA: Deixa ela, ela é esquisita! Bora dar o pé antes que a gente se encrenque!
-JONAS: É, quem se importa com oque ela pensa?
+JONAS: É, quem se importa com o que ela pensa?

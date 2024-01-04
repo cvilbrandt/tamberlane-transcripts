@@ -1,20 +1,23 @@
-***[OUTDATED]***
-
-BELFRY: Ninguém acha que você é um monstro. O Exterior é só... um bicho-papão.
+BELFRY: Ninguém acha que você é um monstro. 
+BELFRY: O Exterior é só... um bicho-papão.
 TAMBERLANE: Então não é real?
-BELFRY: Não, é real. É só... o Exterior é só um lugar, boneca.
+BELFRY: Não, é real. É só... 
+BELFRY: O Exterior é só um lugar, boneca.
 
-TAMBERLANE: Mas e as Manchas?
-BELFRY: As Manchas também são reais, eu acho. Ou a Vovó Tess diz que são. Eu só não acho que é desse jeito.
+TAMBERLANE: As *Machas* são reais?
+BELFRY: A Vovó Tess diz que são. Eu só não acho que é *desse* jeito.
 
 TAMBERLANE: Não faz monstros?
-BELFRY: Bem, eu nunca vi um, pelo menos.
+BELFRY: Bem, *eu* nunca vi um, pelo menos.
 
-BELFRY: Eu não sei exatamente o que faz o Exterior tão perigoso. Eu sei que é importante ter cuidado; senão não teriamos tantas regras sobre ele! Mas eu sei algumas outras coisas sobre o Exterior!
-TAMBERLANE: Tipo oquê?
+BELFRY: Eu não sei exatamente o que faz as Manchas serem tão perigoaso. Eu sei que é importante ter cuidado; senão não teriamos tantas regras sobre isso! 
+BELFRY: Mas eu sei algumas outras coisas sobre o Exterior!
+TAMBERLANE: Tipo o quê?
 
-BELFRY: O Exterior é na verdade realmente importante para Silver Sage! É por causa do exterior que temos alguns serviços importantes aqui em Treehollow.
-TAMBERLANE: Como oquê?
+BELFRY: O Exterior é na verdade realmente importante para Silver Sage! 
+BELFRY: É por causa do exterior que temos alguns serviços importantes aqui em Treehollow.
+TAMBERLANE: Como o quê?
 
-BELFRY: Como... água encanada! Se não fosse pelo Exterior, nós teriamos que fazer cocô fora de casa!
+BELFRY: Como... água encanada! 
+BELFRY: Se não fosse pelo Exterior, nós teriamos que fazer cocô fora de casa!
 TAMBERLANE: Eca!

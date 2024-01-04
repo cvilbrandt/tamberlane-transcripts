@@ -1,16 +1,14 @@
-***[OUTDATED]***
+RAFEIRO: Você devia ter visto a tua *cara!*
+JONAS: Não tem preço!
 
-RAFEIRO: Você devia ter visto a tua <em>cara!</em>
-RAFEIRO: Não tem preço!
-
-PIPER: <em>Ca... Cala a boca!</em>
+PIPER: *Ca... Cala a boca!*
 PIPER: Foi só por causa da história da Artie e Hattie!
 
-RAFEIRO: A história delas dos <em>Andalongos?</em>
-RAFEIRO: Essa daí é uma história de <em>bebê,</em> feita pra assustar <em>bebês!</em>
-RAFEIRO: Cê é uma <em>bebêzinha,</em> Piper?
+RAFEIRO: A história delas dos *Andalongos?*
+RAFEIRO: Essa daí é uma história de *bebê,* feita pra assustar *bebês!*
+RAFEIRO: Cê é uma *bebêzinha,* Piper?
 
 PIPER: Eu-- Eu não sou um bebê!
 PIPER: Retira o que você disse!!
 
-TAMBERLANE: RAFEIRO! <em>PARA!!</em>
+TAMBERLANE: **RAFEIRO! *PARA!!* **

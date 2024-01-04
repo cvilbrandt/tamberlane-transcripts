@@ -1,13 +1,11 @@
-***[OUTDATED]***
-
 NORA: Como você está, Bel?
 
-BELFRY: <em>De boa na lagoa.</em>
+BELFRY: Absolutamente *incrível.*
 
-BELFRY: Eu errei, mas eu nem sei o que <em>foi!</em>
-BELFRY: Agora a Tamberlane está tão magoada comigo que ela nem <em>olha</em> pra
+BELFRY: Eu errei, mas eu nem sei o que *foi!*
+BELFRY: Agora a Tamberlane está tão magoada comigo que ela nem *olha* pra
  mim!
 
-BELFRY: O que eu fiz <em>dessa vez??</em>
+BELFRY: O que eu fiz *dessa vez??*
 
 BELFRY: Ela nunca se distanciou de mim desse jeito antes...

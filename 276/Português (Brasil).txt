@@ -1,14 +1,13 @@
-***[OUTDATED]***
-
 BELFRY: Tamberlane!
 TAMBERLANE: PARA!
-BELFRY: Tamberlane, calma! Eu estou <em>aqui!</em>
-TAMBERLANE: <em>PARA! PARA! PARA!</em>
+BELFRY: Tamberlane, calma! Eu estou *aqui!*
+TAMBERLANE: *PARA! PARA! PARA!*
 
-BELFRY: Já acabou! Tá tudo ok! <em>Eu te salvei!</em>
-TAMBERLANE: <em>PARA! PPAAAAARAAA!</em>
+BELFRY: Já acabou! Tá tudo bem! *Eu te salvei!*
+TAMBERLANE: *PARA! PPAAAAARAAA!*
 
 BELFRY: Por favor, docinho, para de brigar! Me diz o que aconteceu!
-TAMBERLANE: PPPPPAAAAAAAARAAAAAAA!!!!!
+TAMBERLANE: *PPPPPAAAAAAAARAAAAAAA!!!!!*
 
 BELFRY: Por favor fica calma...
+TAMBERLANE: AARA-

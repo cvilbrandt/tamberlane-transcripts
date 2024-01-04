@@ -1,20 +1,18 @@
-***[OUTDATED]***
+BELFRY: ***QUÊ?!***
 
-BELFRY: QUÊ?!
-
-BELFRY: Claro que não!! Absolutamente não!!!
+BELFRY: *Claro que não!!*
+BELFRY: *Absolutamente não!!!*
 
 TAMBERLANE: Mas todo mundo diz...
-BELFRY: TODO MUNDO ESTÁ <em>ERRADO!</em>
+BELFRY: TODO MUNDO ESTÁ *ERRADO!*
 
-SFX&gt; Suspiiiiro
+[SFX: Suspiiiiro]
 BELFRY: Desculpa, desculpa. Quer dizer...
 
 BELFRY: O Exterior é...
 
-BELFRY: Não é assim.
-BELFRY: Não, quer dizer, <em>Aquele Lugar</em> é...
+BELFRY: Não, quer dizer, *Aquele Lugar* te deixa...
 
-BELFRY: É tipo... Tipo...
+BELFRY: Você sabe...você é tão...*boa,* e...
 
-BELFRY: Não é assim. 
+BELFRY: Eu não tô explicando isso direito.

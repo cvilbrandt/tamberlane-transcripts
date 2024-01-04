@@ -1,14 +1,12 @@
-***[OUTDATED]***
-
 BELFRY: Tamberlane...!
 
 BELFRY: Por favor me diz o que há de errado!
 
-BELFRY: <em>Tamberlane!</em>
+BELFRY: *Tamberlane!*
 
 BELFRY: N...
-BELFRY: Não anda pra longe de mim!
-BELFRY: Eu sou sua <em>mãe!</em>
+BELFRY: Não tenta correr de mim!
+BELFRY: Eu sou sua *mãe!*
 
 BELFRY: Eu...
 BELFRY: sou sua mãe...

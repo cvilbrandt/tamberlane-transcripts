@@ -1,17 +1,18 @@
-***[OUTDATED]***
-
-OAKEWOOD: Bom dia, Senhores.
+OAKEWOOD: Bom dia, amigos.
 
 SCOTT: Parece que temos uma festa!
 PEEK: Ah, veio pra pegar seus livros, Claude?
-OAKEWOOD: De fato, eu vim. E eu acredito que a Senhorita Tamberlane tem coisas á fazer aqui. 
+OAKEWOOD: De fato, eu vim. 
+OAKEWOOD: E eu acredito que a Senhorita Tamberlane tem afazeres aqui. 
 
-TAMBERLANE: Oi Senhor Scott!
+TAMBERLANE: Oi, Senhor Scott!
 SCOTT: Bem, olá Senhorita Tamberlane! O que posso fazer por você?
 
-TAMBERLANE: Mamãe disse... Mamãe disse que eu podia pegar livros.
+TAMBERLANE: Mamãe disse... 
+TAMBERLANE: Mamãe disse que eu podia pegar livros.
 
 BELFRY: Estamos procurando alguns livros pra ajudar a animar ela depois de um dia difícil.
 
-SCOTT: Um dia ruim? Nós não podemos ter isso, podemos? Que tal escolhermos alguns?
+SCOTT: Um dia ruim? Nós não podemos ter *isso,* podemos?
+SCOTT: Que tal escolhermos alguns?
 TAMBERLANE: Sim, por favor!

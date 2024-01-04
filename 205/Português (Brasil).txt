@@ -1,18 +1,20 @@
-***[OUTDATED]***
-
 BELFRY: Sim! Que tal nós irmos ao Peek-a-Books*? Soa bem pra você?
 
 TAMBERLANE: Oh! Sim, por favor.
 
-BELFRY: [pensando] Nem livros distraíram ela? É pior do que eu pensava! Será que ele realmente machucou ela?? Será que ela está escondendo a dor?!
+BELFRY (pensando): Nem livros distraíram ela? É pior do que eu pensava! 
+BELFRY (pensando): Será que ele realmente machucou ela?? 
+BELFRY (pensando): Será que ela está escondendo a dor?!
 
-BELFRY: [pensando] Eu deveria conseguir dizer o quê tem de errado com minha própria filha! Por que eu não tenho nenhuma idéia?? Por que eu não consigo ? Eu só quero que ela seja feliz!
+BELFRY (pensando): Eu deveria conseguir dizer o quê tem de errado com minha própria filha! 
+BELFRY (pensando): Por que eu não tenho nenhuma idéia?? 
+BELFRY (pensando): Por que eu não consigo animar ela? Eu só quero que ela seja feliz!
 
-BELFRY: [pensando] Ok, fica fria! Não deixa ela saber que você é a <i>pior mãe do planeta!</i> Seja casual! <i>Respira!!</i>
+BELFRY (pensando): Ok, fica fria! Não deixa ela saber que você é a *pior mãe do planeta!* Seja casual! *Respira!!*
 
-BELFRY: [pensando] eeeeee vai!
+BELFRY (pensando): eeeeee vai!
 BELFRY: O que você está pensando, querida?
-BELFRY: [pensando] Mandei bala!
+BELFRY (pensando): Mandei bala!
 
 TAMBERLANE: Hã…
 
