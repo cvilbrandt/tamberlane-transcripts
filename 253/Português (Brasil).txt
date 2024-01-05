@@ -1,17 +1,15 @@
-***[OUTDATED]***
-
-PARSLEY: Ei, Piper! A gente tá tentando descobrir mais sob--
-PIPER: Não me importo!
+PARSLEY: Ô, Piper! A gente tá tentando descobrir mais sob--
+PIPER: Tô nem aí!
 
 PIPER: CAÇA FANTASMA! Em 10 minutos! Encontrem-se pelas ruinas da capela. Passa pra frente!
 
-PIPER: Ah, exceto pro Rafeiro e os babacas dele.
+PIPER: Ah, mas não conta pro Rafeiro e os babacas dele.
 
-PIPER: Eles estão absotivamente posilutamente não convidados.
+PIPER: Eles estão absotivamente posilutamente *não* convidados.
 
 MARIE: Oh, fantasmas! Que assustador!
 PARSLEY: Pode deixar, Pipes. Agora, se você não se importar...
 PIPER: É, é. Eu tenho que ir achar a Artie, de qualquer jeito.
 
 PARSLEY: Então, sobre seu tempo antes de Treehollow...
-TAMBERLANE: Não lembro. Desculpa...
+TAMBERLANE: Isso é tudo que eu lembro. Desculpa...

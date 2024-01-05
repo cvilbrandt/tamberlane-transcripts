@@ -1,21 +1,19 @@
-***[OUTDATED]***
-
 PIPER: Em uma cidade não muito longe daqui, vivia pobre Jackie Fleur.
 
 PIPER: Ele era um jovem florista, nosso Jackie era.
-PIPER: E como muitos floristas, ele era um romântico.
+PIPER: E como *muitos* floristas, ele era um romântico.
 
 PIPER: Ele se apaixonou completamente por seu cliente, a Senhora Westfield.
+PIPER: Oh, o amor deles era *tórrido!*
+PIPER: E *apaixonado!*
+TAMBERLANE (quietamente): o que "tórrido" significa?
+MARIE (quietamente): sei lá
+PIPER: Então claro, eles deviam se casar!
 
-PIPER: Oh, o amor deles era <em>tórrido!</em>
-PIPER: E <em>apaixonado!</em>
-TAMBERLANE: o que "tórrido" significa?
-MARIE: sei lá
-
-PIPER: Eles se casaram, mas assim que aconteceu, a paixão morreu!
+PIPER: Mas no momento que os sinos de casamento soaram, a paixão deles *morreu!*
 PIPER: E Jackie contou à Senhora Westfield que ele não amava ela mais.
 
-PIPER: E <em>você sabe o que ela fez?</em>
+PIPER: E *você sabe o que ela fez?*
 
 ANTHONY: Ela se divorciou?
-PIPER: Não, ela <em>MORREU!!!</em>
+PIPER: Não, ela *MORREU!!!*

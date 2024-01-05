@@ -1,19 +1,15 @@
-***[OUTDATED]***
-
 MILO: Tá muito bem isso, mas talvez ainda devíamos levar isso pra dentro?
-BELFRY: Bem, nós estávamos á caminho ao Peek-A-Books...
-OAKEWOOD: Que fortuito, so também estavamos.
+BELFRY: Bem, nós estávamos á caminho ao Peek-A-Books, então...
+OAKEWOOD: Que fortuito. Nós também.
 
-TAMBERLANE: A gente pode ir juntos??
+TAMBERLANE: A gente pode ir *juntos??*
 
-OAKEWOOD: Oof! Eu acho que essa é uma idéia esplêndida. 
+OAKEWOOD: (hrGHHh) Eu acho que essa é uma idéia esplêndida. 
+OAKEWOOD: Sempre se pode achar a verdade entre as capas de um livro.
 
 MILO: Tá ok?
-BELFRY: Hã? Oh, é... Eu tô ok.
+BELFRY: Hã?
+BELFRY: Oh, é... 
+BELFRY: Eu tô ok.
 
-BELFRY: Eu só estou grata que pelo menos o <em>Oakewood</em> consegue levantar o ânimo dela. 
-
-
-
-
-
+BELFRY: Eu só estou grata que pelo menos o *Oakewood* consegue levantar o ânimo dela. 

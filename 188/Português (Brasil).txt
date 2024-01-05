@@ -1,14 +1,14 @@
-***[OUTDATED]***
+CALLIE: Jentzen, você tá no *fio.*
+CALLIE: Se você quer discutir a política da escola comigo, você pode fazer isso de forma *privada.* Isso não é uma conversa apropriada para termos na frente dos nossos *estudantes!*
+JENTZEN: Mas você tá *errada!* É nosso *trabalho* preparar eles!
 
-CALLIE: Jentzen, eu não vou <em>espalhar medo e paranóia.</em> A chance que eles vão ter que saber <em>alguma coisa</em> sobre aquele lugar é de pequena pra <em>inexistente!</em>
-JENTZEN: Isso não é verdade, Callie! Você <em>sabe</em> disso!
+JENTZEN: A família do Rafeiro *abandonou ele* aqui para ir ao Exterior!
 
-JENTZEN: A família do Rafeiro <em>abandonou ele</em> aqui para ir ao Exterior!
+JENTZEN: A família do Kira morreu tentando *escapar* do Exterior!
 
-JENTZEN: A família do Kira morreu tentando <em>escapar</em> do Exterior!
+JENTZEN: E o avô da Marie foi *banido* pro Exterior!
 
-JENTZEN: Os pais biológicos da Marie <em>foram banidos</em> ao Exterior!
+JENTZEN: Até minha os *meus* pais biológicos...
 
-JENTZEN: Até minha família sanguínea...
-
-JENTZEN: Não falar pra eles é errado. Os Éditos são velhos e defasados. Nós <em>temos</em> que educar nossa juventude! Nós não podemos só deixar nossas famílias e vizinhos disaparecerem em um... um buraco negro social!
+JENTZEN: Não falar pra eles é *errado.* Os Éditos são velhos! Eles são defasados! Nós *temos* que educar nossa juventude! 
+JENTZEN: Nós não podemos só deixar nossas famílias e vizinhos disaparecerem em um... um buraco negro social!

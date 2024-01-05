@@ -1,5 +1,3 @@
-***[OUTDATED]***
-
 KIRA: preciso trazer os adultos
 KIRA: preciso trazer os adultos
 
@@ -10,11 +8,11 @@ KIRA: Não! A-a a neve cobriu...
 KIRA: Eu...
 KIRA: Eu não...
 
-SFX: <em>HIC</em>
-SFX: <em>HIC</em>
-SFX: <em>SNFF</em>
+[SFX: hic]
+[SFX: hic]
+[SFX: SNFF]
 
 KIRA: Não, não não não, eu não posso, eu preciso...
-KIRA: Eu preciso trazer os adultos ou o Jonas e a Tamberlane realmente vão...
+KIRA: Eu preciso trazer os adultos ou o Jonas e a Tamberlane *realmente vão...*
 
 KIRA: E-Eu acho que nós viemos por aqui!

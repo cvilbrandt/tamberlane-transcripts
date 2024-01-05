@@ -1,11 +1,8 @@
-***[OUTDATED]***
-
 BELFRY: Ei, Tamberlane...
 
 BELFRY: Como você se sentiria se eu fosse junto no passeio da sua escola?
 
-TAMBERLANE: Sim, por favor! Ia ser <em>ÓTIMO!</em>
+TAMBERLANE: Sim, por favor! Ia ser *ÓTIMO!*
 BELFRY: Então eu vou pedir para ser um acompanhante pra Sra. Callie. 
 
 TAMBERLANE: E eu vou deixar aquele babaquinha bem longe do meu bebê...
-

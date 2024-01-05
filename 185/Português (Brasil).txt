@@ -1,22 +1,24 @@
-***[OUTDATED]***
+CALLIE: *Seguindo em frente.*
 
-CALLIE: Seguindo em frente.
-
-CALLIE: Semana que vem vamos em um passeio para as Escarpas Bally.
+CALLIE: Semana que vem vamos em um passeio para as ruínas das Escarpas Bally.
 MARIE: É um monumento histórico, não?
-CALLIE: É! Vamos acampar lá pela noite, juntar coisas para nossos projetos, e contar histórias sobre nossa herança!
-SFX: Oh, Escarpas Bally! 
-SFX: Boceeeejo
+CALLIE: É! Você pode considerar as Escarpas Bally como umas das *raízes* de Silver Sage, dessa forma.
+CALLIE: Vamos acampar lá pela noite, juntar coisas para nossos projetos, e contar histórias sobre nossa herança!
+PENNY (resmungado): Ruinas?!
+ANTHONY (resmungado): Oh, as Escarpas Bally!
+PIPER (resmungado): boceeejo
 
-CALLIE: Senhor Jentzen e eu vamos trazer bastantes lan... Sim Piper? O quê foi?
+CALLIE: Se suas necessidades dietárias mudaram desde a última viagem, por favor informem o Senhor Jentzen ant... 
+CALLIE: Sim Piper? O quê foi?
 
 PIPER: Ei, Senhora Callie, O quê é o Exterior?
 
 CALLIE: E...Ex
 
 MARIE: Ah sim! Boa pergunta Piper! Minhas mães sempre mudam de assunto quando eu pergunto!
+PENNY: Pessoal, a gente não devia...
 PIPER: Não é?
 ANTHONY: Sim, como a gente deve evitar o Exterior se a nós nem sabemos o que é?
 
 RAFEIRO: É óbvio, né? É daonde a Tamberlane é!
-TAMBERLANE: EI!
+TAMBERLANE: ***EI!***

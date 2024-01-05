@@ -13,3 +13,4 @@ KIRA: pfft
 CUR: Get a load of the Furless Wonder! "Don't hurt creatures?"
 
 CUR: *Grow up.* Creatures get hurt *every day.*
+TAMBERLANE: rrrr...

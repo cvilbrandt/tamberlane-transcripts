@@ -1,7 +1,5 @@
-***[OUTDATED]***
-
-CALLIE: É só...que o tópico Daquele Lugar veio durante a aula.
-BELFRY: Oh, não...
+CALLIE: É só...que o tópico *Daquele Lugar* veio durante a aula.
+BELFRY: Ah, não...
 CALLIE: E eu tentei mudar de assunto mais o Jentzen foi... insistente.
 
 CALLIE: Ele estava chateado que eu não fui mais... direta.
@@ -10,11 +8,11 @@ CALLIE: E eu...
 CALLIE: Eu reagi...
 CALLIE: Mal.
 
-CALLIE: Eu não me orgulho disso. Nós discutimos na frente das crianças!
-CALLIE: As pobres coisas ficaram tão chateadas!
+CALLIE: Eu não me orgulho disso. Nós discutimos na frente *das crianças!*
+CALLIE: As pobres coisas ficaram *tão* chateadas!
 
 CALLIE: Mas ele virou o olho pra mim! E os Éditos! Não podemos falar sobre isso na sala de aula!
-CALLIE: Talvez se ele tivesse me chamado em privado primeiro...
+CALLIE: Talvez se ele tivesse me chamado *privadamente* primeiro...
 
 CALLIE: Eu não soube o que fazer. Eu ainda não sei.
 CALLIE: Eu desejo que nunca tivesse acontecido.

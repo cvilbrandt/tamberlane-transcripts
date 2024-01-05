@@ -1,14 +1,12 @@
-***[OUTDATED]***
-
-BELFRY: Como assim, "temperamento de criança"?
+BELFRY: Mas o que você quer dizer com 'Dois Anos de Destruição'?
 NORA: Ah, você sabe...
 
-NORA: A Tamberlane ficou bem confortável em Treehollow no último ano e meio.
-NORA: Sem dúvida que ela está começando a desenvolver sua própria identidade agora.
+NORA: Muitas vezes, quando uma criança cresce, ela começa a confrontar os seus cuidadores.
+NORA: Sem dúvida ela tá nesse estágio agora
 
 NORA: Enquanto ela crescer, ela vai ficar mais independente, Belfry.
 
-BELFRY: Bem, claro que ela vai, mas <em>ainda não</em>! Ainda mais, ela é <em>especial!</em> Ela <em>precisa</em> de mim!
+BELFRY: Bem, claro que ela vai, mas *ainda não!* Ainda mais, ela é *especial!* Ela *precisa* de mim!
 NORA: Ela sempre vai precisar de você, bobona.
 
 NORA: Mas ela vai precisar ser sua própria criatura, também.

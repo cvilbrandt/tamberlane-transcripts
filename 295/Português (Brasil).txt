@@ -1,17 +1,16 @@
-***[OUTDATED]***
+RAFEIRO: *Merda!!!*
+KIRA: *Tamberlane!!*
 
-RAFEIRO: <em>Merda!!!</em>
-KIRA: <em>Tamberlane!!</em>
-
-SFX: <em>KRAK</em>
+SFX: *KRAK*
 
 RAFEIRO: Tam, você tá bem, né?? Né???
 KIRA: levantalevanta levantalevanta!
 JONAS: Não... se mexe!
+JONAS: hhhh hhh hhh hh hhh
 
 FORA: Ela tá ok!
-SFK: <em>KrrrrrrrrrKKK</em>
+[SFX: KrrrrrrrrrKKK]
 
-SFX: KRAAKKKK
-TAMBERLANE: <em>puch!</em>
-TAMBERLANE: AAAAAAAAAAA!!
+[SFX: KRAAKKKK]
+TAMBERLANE: *suspiro!*
+TAMBERLANE: *AAAAAAAAAAA!!*

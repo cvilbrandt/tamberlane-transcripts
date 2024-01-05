@@ -1,10 +1,8 @@
-***[OUTDATED]***
+[SFX: THWAK]
 
-SFX: <em>THWAK</em>
+[SFX: RIPPPPPPPP]
 
-SFX: <em>RIPPPPPPPP</em>
+[SFX: RIPPPPPPP]
 
-SFX: <em>RIPPPPPPPP</em>
-
-SFX: <em>SLAPP</em>
-OBSCURECIDO: Segura nisso!
+[SFX: TAPPP!]
+OBSCURECIDO: Segura isso!

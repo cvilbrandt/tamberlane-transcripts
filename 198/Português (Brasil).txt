@@ -1,11 +1,10 @@
-***[OUTDATED]***
-
 TAMBERLANE: WwwwmmnnaahhHHHAAHMMBAA
 
 BELFRY: Tamberlane, não! Não, não! Você não é estúpida e não é sua culpa!
 
 BELFRY: Oh!! Eu esqueci de não agarrar suas patas! Me desculpa!
 
-BELFRY: Oh, meu bem, tá bem. Tá tudo bem, eu estou aqui. Que dó.
+BELFRY: Oh, pequena, tá bem. Tá tudo bem, eu estou aqui. 
+BELFRY: Que dó.
 
 TAMBERLANE: AAAWWmmmuuuuhhmm

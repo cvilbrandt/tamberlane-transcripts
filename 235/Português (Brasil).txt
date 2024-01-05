@@ -1,20 +1,17 @@
-***[OUTDATED]***
-
-BELFRY: Pfft, <em>autoridades.</em>
-BELFRY: Você faz o conselho da cidade paracer algum tipo de <em>mal descarado.</em>
+BELFRY: Você faz o conselho da cidade paracer algum tipo de *mal descarado.*
 BELFRY: O Conselho é formado por nossos amigos e família!
 
-JASON: Eu já estive pelo país inteiro, Bel. Conselhos e governos em cidades desse tamanho são <em>sempre</em> formados por amigos e família.
+JASON: Eu já estive pelo país inteiro, Bel. Conselhos e governos em cidades desse tamanho são *sempre* formados por amigos e família.
 
 JASON: Mas isso não para eles de mandar os seus próprios pra fora.
 
-CALLIE: Não! Eles não <em>baniriam</em> Jentzen, não?
+CALLIE: Não! Eles não *baniriam* o Jentzen, não?
 BELFRY: Não! Claro que não!
 JASON: Eu não me surpreenderia.
 
 BELFRY: Jason!
-JASON: Ele está incitando crianças a se rebelarem contra os Éditos.
-JASON: Ou isso é o que eles vão dizer.
+JASON: Por estar desrespeitando o currículo de educação pública, ele estava incitando os filhotes a se rebelarem.
+JASON: Ou alguma coisa assim.
 
-CALLIE: Eles não iriam! <em>Eles não podem!</em>
-BELFRY: Eles <em>não vão.</em>
+CALLIE: Eles não iriam! Eles não *podem!*
+BELFRY: Eles *nunca* pegariam tão baixo.

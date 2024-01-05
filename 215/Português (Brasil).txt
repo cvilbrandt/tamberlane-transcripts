@@ -1,17 +1,17 @@
-***[OUTDATED]***
+[SFX: Sshhhf]
+OAKEWOOD: Meu deus, Peek! Que achado! 
+OAKEWOOD: O que eu te devo?
 
-SFX: Sshhhf
-OAKEWOOD: Meu deus, Peek! Que achado! O que eu te devo?
+PEEK: Honestamente? 
+PEEK: Só toma conta do Bean semana que vem quando Erin e eu irmos para Little Aching.
 
-PEEK: Honestamente? Só toma conta do Bean semana que vem quando Erin e eu irmos para Little Aching.
+OAKEWOOD: Por esse livro antigo e sem preço, você que que eu tome conta do seu *gato?*
 
-OAKEWOOD: Por esse livro antigo e sem preço, você que que eu tome conta do seu <em>gato?</em>
-
-SFX: skrih skrih
+[SFX: skrih skrih]
 PEEK: Bem, isso e manter nosso acordo permanente.
-OAKEWOOD: Eu <em>difícilmente</em> penso que chá e cartas semanais sejam suficientes. 
-PEEK: Então o que você sugere?
+OAKEWOOD: Eu *difícilmente* penso que chá e cartas semanais sejam suficientes. 
+PEEK: Então o que *você* sugere?
 
-OAKEWOOD: Bem...Eu risco dizer que isso pelo <em>menos</em> pede meu  <em>melhor</em> chá semana que vem.
+OAKEWOOD: Bem...Eu risco dizer que isso pelo *menos* pede pelor meu *melhor* chá semana que vem.
 
 BELFRY: Estamos prontas para pagar a conta!

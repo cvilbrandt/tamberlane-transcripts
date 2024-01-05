@@ -1,21 +1,19 @@
-***[OUTDATED]***
-
 BELFRY: Você tá machucada?!
 BELFRY: Eles não te machuram, não?!
 
 BELFRY: Ainda bem! Eu estava tão preocupada!
 
 ANTHONY: Senhora Belfry, eles machucaram a Piper!
-BELFRY: <em>Quem machucou a Piper??</em>
-TAMBERLANE: Rrrgh!
+BELFRY: *Quem* machucou a Piper??
+TAMBERLANE (quietamente): Rrrgh!
 
-BELFRY: Vocês babaquinhas que fizeram isso, não?!
+BELFRY: Seus babaquinhas que fizeram isso, não?!
 BELFRY: E vocês chatearam a Tamberlane, também!!
-RAFEIRO: <em>Quê?!</em>
-TAMBERLANE: rrrrRRR
+RAFEIRO: *Quê?!*
+TAMBERLANE (quietamente): rrrrRRR
 
-KIRA: Isso não é <em>justo!</em>
-RAFEIRO: É, ela tava encrencando com a gente!
+KIRA: Isso não é *justo!*
+RAFEIRO: É, *ela* tava encrencando com a gente!
 JONAS: Dá uma olhada nela! Ela tá tentando matar a gente!
 
 TAMBERLANE: AWAARA

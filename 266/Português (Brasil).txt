@@ -1,9 +1,7 @@
-***[OUTDATED]***
-
 ARTIE: Sentem-se em volta e me emprestem seus ouvidos, meus filhotes, e lhes contaremos uma história.
 HATTIE: Uma história que mora na batida do seu coração e no pulso do seu sangue.
 
-ARTIE: Não se importem com as velas piscando...
+ARTIE: Não se importem com a vela piscando...
 HATTIE: ou as sombras subindo as paredes.
 
 ARTIE: Pois vocês já ouviram seus nomes.
@@ -11,7 +9,7 @@ HATTIE: Filhotes no mundo todo sabem que eles seguem seus sonhos à noite.
 
 HATTIE: Com suas bocas enormes cheias de dentes desarranjados...
 
-ARTIE: E suas pernas intermináveis que nunca cansam, <em>não importa quão longe você corra...</em>
+ARTIE: E suas pernas intermináveis que nunca cansam, *não importa quão longe você corra...*
 
 ARTIE: Poucos se atravem a falarem seus nomes, para não chamar a atenção deles.
-ARTIE&HATTIE: Sim, meus filhotes... Nós falamos... <em>DOS ANDALONGOS!</em>
+ARTIE e HATTIE: Sim, meus filhotes... Nós falamos... ***DOS ANDALONGOS!***

@@ -1,34 +1,32 @@
-***[OUTDATED]***
-
-SFX: <em>KKKKKKKRRRRKKK</em>
+[SFX: KKKKKKKRRRRKKK]
 TAMBERLANE: De barriga pra b-baixo?
 
 JONAS: Aham!
-SFX: <em>ofega</em>
+JONAS: (ofega)
 JONAS: Que nem...
 JONAS: ...uma...
 JONAS: ...estrela do mar!
 SFX: KKKKRRRRKKKKK
 
-SFX: <em>ofega</em>
+JONAS: (ofega)
 JONAS: Minha mãe...
 JONAS: me disse...
 JONAS: que é assim...
 JONAS: ...que você sai do gelo.
-SFX: <em>KKKrKK</em>
+JONAS: (ofega)
 
 JONAS: Engatinha...
 JONAS: ...de barriga pra baixo!
-SFX: <em>ofega</em>
+JONAS: (ofega)
 JONAS: Tudo bem. Vai ficar...
 JONAS: tudo bem.
-SFX: <em>KKKKKKrrrrrKKK</em>
+[SFX: KKKKKKrrrrrKKK]
 
 FORA: JONAS! VOLTA AQUI!
 JONAS: Vai ficar tudo bem...
-SFX: <em>KKKKrRrKKK</em>
+[SFX: KKKKrRrKKK]
 FORA: VOCÊ PRECISA DA SUA BOMBINHA! VOCÊ VAI SFIXIAR!!!
 
-SFX: <em>OFEGA!</em>
+JONAS: (OFEGA!!!)
 JONAS: Vai-!
-SFX: <em>KRAAAKKK</em>
+[SFX: KRAAAKKK]

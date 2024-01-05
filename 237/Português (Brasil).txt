@@ -1,18 +1,16 @@
-***[OUTDATED]***
-
-JASON: Escuta a Belfry. Ela saberia melhor que algum lobo do mar sobre o Conselho de Treehollow.
+JASON: Escuta a Belfry. Ela saberia melhor que algum lobo do mar sobre como o Conselho de Treehollow funciona.
 BELFRY: Jason, você tem 30 anos.
 JASON: Meu ponto continua válido.
 
-JASON: Eu só quero fizer pra você tomar cuidado.
+JASON: Eu só quero fizer pra você tomar *cuidado.*
 
-JASON: Nos outros lugares que eu naveguei para, aquele lugar não é uma coisa pra se brincar.
+JASON: Nos outros lugares pra que eu naveguei, *Aquele Lugar* não é uma coisa pra se brincar.
 JASON: E na minha experiência?
 
-JASON: Conselhos e autoridades sempre se inclinam a serem <em>pesados</em> no assunto.
+JASON: Conselhos e autoridades sempre se inclinam a serem *pesados* no assunto.
 
 JASON: Ah, mas não deixe eu te assustar. Eu tenho certeza que vai ficar tudo bem--
 SFX: PLAP
 
-JASON: <em>PIPER!!</em>
-PIPER: <em>DESCULPA, PAI!!</em>
+JASON: ***PIPER!!***
+PIPER: ***DESCULPA, PAI!!***

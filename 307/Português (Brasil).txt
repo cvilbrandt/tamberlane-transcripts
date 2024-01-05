@@ -1,14 +1,12 @@
-***[OUTDATED]***
+BELFRY: ***O QUE VOCÊ FEZ COM A MINHA FILHOTE?!***
+KIRA: N-nada! *Eu j-juro!*
 
-BELFRY: <em>O QUE VOCÊ FEZ COM A MINHA FILHOTE?!</em>
-KIRA: N-nada! <em>Eu j-juro!</em>
+BELFRY: *MENTIROSA!*
+BELFRY: ***MALANDRA!!***
 
-BELFRY: <em>MENTIROSA!</em>
-BELFRY: <em><b>MALANDRA!!</b></em>
+JASON: Belfry, qual é seu *problema?!*
+JASON: A gente já tem filhotes *o bastante* em perigo mortal!
 
-JASON: Belfry, qual é seu problema?!
-JASON: A gente já tem filhotes em perigo mortal o bastante!
-
-JASON: A Kira vai trazer a gente para Tamberlane.
+JASON: A Kira vai *trazer a gente para Tamberlane.*
 JASON: Pode olhar feio pra mim, mas corre enquanto isso!
-JASON: <em>VAMOS!</em>
+JASON: *VAMOS!*

@@ -1,16 +1,16 @@
-***[OUTDATED]***
-
 BELFRY: Eu não acho que é assim que você deve entrar na cama, senhorita!
 TAMBERLANE: Eu quero!
 
 BELFRY: Bem, eu não estou lendo pro seu bumbum, então é melhor você subir aqui se você quer uma história!
 TAMBERLANE: Ok!
 
-BELFRY: Oof! Se aquieta!
-SFX: FOOMF
-BELFRY: Qual livro você quer ler? Ivan Salva a Cidade? Ou Vou Te Amar Pra Sempre?
-TAMBERLANE: Ivan Salva a Cidade!
+BELFRY: Uff! Se aquieta, você!
+[SFX: FOOMF]
+BELFRY: Qual livro você quer ler?
+BEFLRY: "Ivan Inquisitivo"?
+BELFRY: "Vou Te Amar Pra Sempre"?
+TAMBERLANE: "Ivan Inquisitivo"!
 
-BELFRY: Ivan Salva a Cidade é, então. Se aconchega.
+BELFRY: "Ivan Inquisitivo" é, então. Se aconchega.
 
-BELFRY: “Ivan era uma pequena toupeira que vivia na pequena cidade de Sunset Acres com seus dois papais, Garret e Tom…”
+BELFRY: *Ivan Inquisitivo*, por Marguerite de Little Aching. *O filhote de curiosidade sem fim, eu dedico esse livro de história à tu...* 

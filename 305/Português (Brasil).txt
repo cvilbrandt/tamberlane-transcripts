@@ -1,19 +1,19 @@
-***[OUTDATED]***
-
 TESS: Oh, sua bobona, eu devia saber que você ia quebrar outro!
 BELFRY: Não fui eu! Estava quebrado quando eu peguei!
 
-TERRA: De novo não, Belfry!
+TERRA: De *novo* não, Belfry!
 MAYA: Desse jeito, você vai ser mais lama do que morcego!
 BELFRY: Mas o pedregulhos são irregulares. Qualquer um podia ter...
 
-WALTER: Ahhh, eu não devia ter deixado você cortar.
+WALTER: Ahhh, eu sabia que não devia ter deixado você cortar.
 BELFRY: V-você tá certo.
 
 TAMBERLANE: Eu vou ser mais feliz longe de você, Mamãe!
 TAMBERLANE: Você sabe isso, certo?
+TAMBERLANE: Belfry?
 
 BELFRY: Eu sei.
-BELFRY: <em>Eu sei!</em>
+BELFRY: *Eu sei!*
 
-FORA: BELFRY!
+FORA: ***BELFRY!***
+[SFX: OFEGA]

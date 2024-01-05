@@ -1,13 +1,11 @@
-***[OUTDATED]***
-
 SCOTT: E esse daqui? Eu acabei de prensar ele semana passada?
 MILO: Uau, sério, Scott? Parece ótimo!
-MILO: Comprar pro meu tio é <em>impossível</em>.
+MILO: Comprar pro meu tio é *impossível.*
 
 MILO: Mas, romance histórico?
 SCOTT: Ele vai amar, eu prometo. No último Wulfnacht, ele...
-SFX: tutum tutum tutum tutum tutum tutum
+[SFX: tutum tutum tutum tutum tutum tutum]
 
 JASON: EMERGÊNCIA! SAI DA FRENTE!
 SCOTT: Aquele não é o carrinho do passeio...?
-SFX: UM TUTUM TUTUM TUTUM TU
+[SFX: UM TUTUM TUTUM TUTUM TU]

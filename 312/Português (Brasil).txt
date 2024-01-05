@@ -1,28 +1,26 @@
-***[OUTDATED]***
-
 NORA: Ele não tá respirando!
 BELFRY: Ela tá bem?!
 JASON: Me dá espaço pra trabalhar!
 
-FORA: <strike>Os olhos dela estão abrindo!</strike>
-FORA: <strike>Graças aos deuses!!</strike>
-FORA: <strike>Como tá o Jonas?!</strike>
-FORA: <strike>Ele respirou muita água...</strike>
+FORA: Os olhos dela estão abrindo!
+FORA: *Graças aos deuses!!*
+FORA: Como tá o Jonas?!
+FORA: Ele respirou muita água...
 
 JASON: Pronto, boneca. Tudo bem, então?
-FORA: <strike>Precisamos esquentar eles, imediatamente.</strike>
-FORA: <strike>Traz outro cobertor aqui!</strike>
+FORA: Precisamos esquentar eles, imediatamente.
+FORA: Traz outro cobertor aqui!
 
 TAMBERLANE: F...f-f-fofa...?
-FORA: <strike>Esfrega as patas dele, rápido!</strike>
-FORA: <strike>Da Tamberlane também!</strike>
+FORA: Esfrega as patas dele, rápido!
+FORA: Da Tamberlane também!
 
 JASON: Ela tá aqui.
 BELFRY: TAMBERLANE!
-FORA: <strike>Precisamos voltar pra Treehollow agora!</strike>
-FORA: <strike>Mas isso é horas daqui!</strike>
-FORA: <strike>Então é melhor irmos agora!</strike>
+FORA: Precisamos voltar pra Treehollow agora!
+FORA: Mas isso é horas daqui!
+FORA: Então é melhor irmos agora!
 
 BELFRY: Tamberlane?!
-FORA: <strike>Estamos perdendo ela, também?!</strike>
-FORA: <strike>Tamberlane!!</strike>
+FORA: Estamos perdendo ela, também?!
+FORA: *Tamberlane!!*

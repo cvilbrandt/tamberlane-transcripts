@@ -1,18 +1,20 @@
-***[OUTDATED]***
-
-SCOTT: Que tipo de livro você gostaria de ler?
-TAMBERLANE: Hã...bem...
+SCOTT: Que tipo de livro você está procurando?
+TAMBERLANE: Hã...Bem...
 
 TAMBERLANE: Eu...Eu não quero dizer...
-SCOTT: É um segredo? Eu prometo que não vou contar pra ninguém. 
+SCOTT: Você não precisa dizer se não quiser.
 
-TAMBERLANE: Você não vai se encrencar?
-SCOTT: Eu prometo.
+SCOTT: Mas eu estou aqui pra te ajudar.
+TAMBERLANE: Ham...bem...
 
-TAMBERLANE: Todo mundo fica dizendo que eu sou do Ex-...daquele...lugar.
+TAMBERLANE: Todo mundo fica dizendo que eu sou do Ex-
+TAMBERLANE: ...daquele...lugar.
 
-TAMBERLANE: Mas eu não sei o que é! Ninguém me diz!
+TAMBERLANE: Mas eu não sei o que é! 
+TAMBERLANE: Ninguém me diz!
 
-TAMBERLANE: E se a Mamãe ter que ir embora por causa de mim? Eu tô com medo... Tem... algum livro sobre isso?
+TAMBERLANE: E se a Mamãe ter que ir embora por causa de mim? 
+TAMBERLANE: Eu tô com medo... 
+TAMBERLANE: Tem... livros sobre isso?
 
 SCOTT: Eu acho que tenho os livros certos pra você.

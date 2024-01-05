@@ -1,13 +1,12 @@
-***[OUTDATED]***
-
 NORA: Não se preocupa, meu bem. A Tamberlane vai se acalmar e você pode perguntar pra ela depois.
 
-BELFRY: Você não viu o olhar de <em>ódio</em> que ela me deu, Nora!
-BELFRY: Eu devo ter feito algo <em>horrível...</em> Ela nunca vai me perdoar.
+BELFRY: Você não viu o olhar de *ódio* que ela me deu, Nora!
+BELFRY: Eu devo ter feito algo *horrível...* Ela nunca vai me perdoar.
 
-NORA: Não seja idiota, Bel.
+NORA: Não seja burra, Bel.
 NORA: Ela te ama, do mesmo jeito que você ama ela.
 
-NORA: Eu aposto que isso é só o temperamento normal de uma criança.
+NORA: Eu aposto que é só o normal do 'Dois Anos de Destruição.'
 
-NORA: Não se preocupa. Isso é só uma lombada no caminho.
+NORA: Técnicamente seria os "Quatro Anos de Quebrada," mas nem todos filhotes crescem ao mesmo tempo. Ela ainda está se encontrando.
+NORA: O que eu estou tentando dizer é que você não precisa ficar chateada. Isso é só uma lombada no caminho.

@@ -1,13 +1,10 @@
-***[OUTDATED]***
-
 RAFEIRO: Ouviram isso, parças?
 KIRA: É, eles chamaram a gente de seus babacas!
 
-KIRA: Eu sou meu <em>próprio</em> babaca, muito obrigado.
+KIRA: Eu sou meu *próprio* babaca, muito obrigada.
 
 RAFEIRO: Tanto faz. Quem se importa com essa "caça ao fantasma" idiota deles de qualquer jeito?
-
-KIRA: Cara, nunca somos convidados pra nada.
+KIRA: Cara, nunca somos convidados pra *nada.*
 
 JONAS: É "qualquer coisa."
 KIRA: Hein?
@@ -15,4 +12,4 @@ KIRA: Hein?
 JONAS: Deveria ser "nós nunca somos convidados pra qualquer coisa."
 
 KIRA: Cala a boca, Jonas.
-JONAS: Aggghhh!!! <em>Kira!!!</em>
+JONAS: ***Aggghhh!!! Kira!!!***

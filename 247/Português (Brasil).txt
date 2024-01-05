@@ -1,10 +1,8 @@
-***[OUTDATED]***
-
 OAKEWOOD: Bem?
 OAKEWOOD: O que você está esperando, cabeça de pássaro?
 
 OAKEWOOD: Me ajude a caçar alguma mitologia relevante!
 MILO: S-Sim, senhor!
-OAKEWOOD: Talvez vamos ser sortudos e finalmente conseguir pelo menos <em>algumas</em> dicas para nosso mistério.
+OAKEWOOD: Talvez vamos dar sorte e finalmente conseguir pelo menos *algumas* dicas para nosso mistério.
 
-OAKEWOOD: Nomeadamente, o que é a Tamberlane? 
+OAKEWOOD: Nós ainda vamos te entender, chuchu.

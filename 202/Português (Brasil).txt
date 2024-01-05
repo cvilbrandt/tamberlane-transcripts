@@ -1,15 +1,16 @@
-***[OUTDATED]***
+AVERY: Awn, ele vai aprender pequena.
 
-AVERY: Aw, ele vai aprender pequena.
-
-AVERY: Mas seriamente, aquele filhote é uma <em>ameaça</em>.
+AVERY: Mas seriamente, aquele filhote é uma *ameaça.*
 BELFRY: É...
 
-BELFRY: Mas ele não tem uma família, então nós deviamos ser compreensíveis.
+BELFRY: Mas é um filhote de acolhimento, então nós deviamos ser compreensíveis.
 
-AVERY: Ele faz <em>compreender </em> ser realmente difícil. Ele é um terror pra todos que tentam.
+AVERY: Ele faz *compreender* ser realmente difícil. 
+AVERY: Ele é um terror pra todos que abrigam ele.
+AVERY: E a pobre da Coriander é a última vítima dele. Você já *viu* ela ultimamente?
+AVERY: Ele tá deixando ela louca!
+
 BELFRY: Ele já passou por bastante...
+BELFRY: Mas... Eu acho que isso não desculpa o comportamento dele.
 
-BELFRY: Mas...Eu acho que isso não desculpa o comportamento dele.
-
-BELFRY: <em>Especialmente</em> se ele está implicando com meu filhote.
+BELFRY: *Especialmente* se ele está implicando com meu filhote.
