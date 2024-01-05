@@ -1,8 +1,11 @@
 import os
+import re
 import sys
+from difflib import unified_diff
 from glob import glob
 from math import inf
 
+from lxml.html.clean import clean
 from markdown2 import Markdown
 from tidylib import tidy_fragment
 
@@ -11,6 +14,28 @@ MARKDOWN = Markdown(extras=["strike", "break-on-newline"])
 IGNORABLE_HTML_ERRORS = {
     "Warning: missing <!DOCTYPE> declaration",
     "Warning: inserting missing 'title' element",
+}
+
+UNICODE_REPLACEMENTS = {
+    "&agrave;": "à",
+    "&acirc;": "â",
+    "&eacute;": "é",
+    "&egrave;": "è",
+    "&ecirc;": "ê",
+    "&icirc;": "î",
+    "&ocirc;": "ô",
+    "&oelig;": "œ",
+    "&ugrave;": "ù",
+    "&ucirc;": "û",
+    "&ccedil;": "ç",
+    "&Agrave;": "À",
+    "&Acirc;": "Â",
+    "&Eacute;": "É",
+    "&Egrave;": "È",
+    "&Ecirc;": "Ê",
+    "&Icirc;": "Î",
+    "&Ocirc;": "Ô",
+    "&Ccedil;": "Ç",
 }
 
 
@@ -26,11 +51,16 @@ def convert_transcript(path: str) -> str:
         return MARKDOWN.convert(text)
 
 
-def validate_html(path):
+def validate_and_clean_transcript(path):
     print(path)
     html = convert_transcript(path)
     if not html:
         return
+    validate_html(path, html)
+    clean_html(path, html)
+
+
+def validate_html(path: str, html: str):
     document, errors = tidy_fragment(html)
     for error in errors.split("\n"):
         if not error:
@@ -39,6 +69,27 @@ def validate_html(path):
         if error_msg not in IGNORABLE_HTML_ERRORS:
             print(html, file=sys.stderr)
             raise AssertionError(f"HTML Validation error for {path}: {error}")
+
+
+def clean_html(path: str, html: str):
+    html = html.replace("<br />", "<br>")
+    # # Convert unicode characters of format &#160; to \xa0
+    for m in re.finditer(r"&#(\d+);", html):
+        html = html.replace(m.group(0), chr(int(m.group(1))))
+    # Use actual unicode characters, no need for HTML escapes
+    for k, v in UNICODE_REPLACEMENTS.items():
+        html = html.replace(k, v)
+
+    cleaned_html = clean.clean_html(html)
+    # Remove <div> tags from start and end
+    if cleaned_html.startswith("<div>"):
+        cleaned_html = cleaned_html[5:-6]
+
+    diff = list(unified_diff(html.split("\n"), cleaned_html.split("\n")))
+    if diff:
+        for d in diff:
+            print(d)
+        raise AssertionError(f"HTML cleaner removed some tags from {path}")
 
 
 def sort_key(x):
@@ -65,7 +116,7 @@ def main():
         for ext in (".txt", ".md"):
             folder_glob = os.path.join(folder_path, f"*{ext}")
             for filepath in glob(folder_glob):
-                validate_html(filepath)
+                validate_and_clean_transcript(filepath)
 
 
 if __name__ == '__main__':
