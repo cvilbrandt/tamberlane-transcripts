@@ -1,26 +1,26 @@
-CORIANDER&#160;:&#160;Ellis, nous ne quitterons PAS cette pi&egrave;ce tant que nous n'en aurons pas discut&eacute;&#160;!
-Effets sonores&#160;: tnk
-CUR&#160;: C'est *CUR*&#160;!
-Effets sonores&#160;: tak
+CORIANDER&nbsp;:&nbsp;Ellis, nous ne quitterons PAS cette pièce tant que nous n'en aurons pas discuté&nbsp;!
+Effets sonores&nbsp;: tnk
+CUR&nbsp;: C'est *CUR*&nbsp;!
+Effets sonores&nbsp;: tak
 
-CORIANDER&#160;: Je ne t'appellerai pas par ce nom affreux&#160;! Tu n'es *pas* un errant&#160;; tu es mon *fils*&#160;!
-CUR&#160;: J'suis pas *ton* fils&#160;! Fiche-moi dehors et finissons-en&#160;!
-Effets sonores&#160;: tnk
-CORIANDER&#160;: Oh, Ellis, s'il te plaît, calme-toi&#160;!
+CORIANDER&nbsp;: Je ne t'appellerai pas par ce nom affreux&nbsp;! Tu n'es *pas* un errant&nbsp;; tu es mon *fils*&nbsp;!
+CUR&nbsp;: J'suis pas *ton* fils&nbsp;! Fiche-moi dehors et finissons-en&nbsp;!
+Effets sonores&nbsp;: tnk
+CORIANDER&nbsp;: Oh, Ellis, s'il te plaît, calme-toi&nbsp;!
 
-CORIANDER&#160;:&#160;S'il te plaît, assieds-toi et dis-moi ce qui s'est pass&eacute;.
-Effets sonores&#160;: tnk
-CUR&#160;: y'a rien &agrave; dire, *Coriander*.
-CUR&#160;: Je l'ai pouss&eacute;e dans la rivi&egrave;re&#160;! Bannis-moi&#160;! Signale-moi au foutu Conseil&#160;! *Qu'est-ce que &ccedil;a m'importe*&#160;?
-Effets sonores&#160;: **TONK**
-MARIE&#160;: Oups&#160;!
+CORIANDER&nbsp;:&nbsp;S'il te plaît, assieds-toi et dis-moi ce qui s'est passé.
+Effets sonores&nbsp;: tnk
+CUR&nbsp;: y'a rien à dire, *Coriander*.
+CUR&nbsp;: Je l'ai poussée dans la rivière&nbsp;! Bannis-moi&nbsp;! Signale-moi au foutu Conseil&nbsp;! *Qu'est-ce que ça m'importe*&nbsp;?
+Effets sonores&nbsp;: **TONK**
+MARIE&nbsp;: Oups&nbsp;!
 
-CORIANDER&#160;: Je ne ferai rien de tel. Viens l&agrave;, ch&eacute;ri.
-CUR&#160;: Quoi, pour que tu puisses me serrer dans tes bras et tout arranger&#160;?? *CONNERIE*&#160;!
-CORIANDER&#160;: *LANGAGE*&#160;!
-MARIE&#160;: D&eacute;sol&eacute;e&#160;! D&eacute;sol&eacute;e! Je n'ai pas cass&eacute; ta fen&ecirc;tre, n'est-ce pas&#160;?
+CORIANDER&nbsp;: Je ne ferai rien de tel. Viens là, chéri.
+CUR&nbsp;: Quoi, pour que tu puisses me serrer dans tes bras et tout arranger&nbsp;?? *CONNERIE*&nbsp;!
+CORIANDER&nbsp;: *LANGAGE*&nbsp;!
+MARIE&nbsp;: Désolée&nbsp;! Désolée! Je n'ai pas cassé ta fenêtre, n'est-ce pas&nbsp;?
 
-CUR&#160;:&#160;RIEN &Agrave; FICHE&#160;?! Je jurerai tout ce que je veux&#160;! Merde! Putain&#160;! Putain de conneries&#160;!
-CORIANDER&#160;:&#160;Ellis&#160;! Ellis, s'il te plaît&#160;! Ellis!
-PARSLEY&#160;:&#160;Non, &ccedil;a me semble bien.
-MARIE&#160;: Oh, g&eacute;nial&#160;! Ce dernier caillou &eacute;tait plus gros que je ne le pensais.
+CUR&nbsp;:&nbsp;RIEN À FICHE&nbsp;?! Je jurerai tout ce que je veux&nbsp;! Merde! Putain&nbsp;! Putain de conneries&nbsp;!
+CORIANDER&nbsp;:&nbsp;Ellis&nbsp;! Ellis, s'il te plaît&nbsp;! Ellis!
+PARSLEY&nbsp;:&nbsp;Non, ça me semble bien.
+MARIE&nbsp;: Oh, génial&nbsp;! Ce dernier caillou était plus gros que je ne le pensais.

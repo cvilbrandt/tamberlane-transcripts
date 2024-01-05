@@ -1,22 +1,22 @@
-PENNY&#160;: Notre pi&egrave;ge a fonctionn&eacute;&#160;! Ils ne nous attraperont jamais maintenant&#160;!
-TAMBERLAN&#160;: Bwoo&#160;!
+PENNY&nbsp;: Notre piège a fonctionné&nbsp;! Ils ne nous attraperont jamais maintenant&nbsp;!
+TAMBERLAN&nbsp;: Bwoo&nbsp;!
 
-PENNY&#160;: Oh, tu t'inqui&egrave;tes pour mon papa&#160;?
-TAMBERLANE&#160;: Owie&#160;!
+PENNY&nbsp;: Oh, tu t'inquiètes pour mon papa&nbsp;?
+TAMBERLANE&nbsp;: Owie&nbsp;!
 
-PENNY&#160;: Ne t'inqui&egrave;te pas pour lui.
-PENNY&#160;: C'est un type robuste. Il survivra.
+PENNY&nbsp;: Ne t'inquiète pas pour lui.
+PENNY&nbsp;: C'est un type robuste. Il survivra.
 
-PENNY&#160;: Maintenant, courons, avant de nous faire prendre&#160;!
+PENNY&nbsp;: Maintenant, courons, avant de nous faire prendre&nbsp;!
 
-PENNY&#160;: J'ai dit, courons&#160;!
-TAMBERLANE&#160;: Ok&#160;!
+PENNY&nbsp;: J'ai dit, courons&nbsp;!
+TAMBERLANE&nbsp;: Ok&nbsp;!
 
-PENNY&#160;: Humf&#160;! Je commence &agrave; penser que tu ne sais m&ecirc;me pas *marcher*, et encore moins *courir&#160;!*
-TAMBERLANE&#160;: Humf&#160;!
+PENNY&nbsp;: Humf&nbsp;! Je commence à penser que tu ne sais même pas *marcher*, et encore moins *courir&nbsp;!*
+TAMBERLANE&nbsp;: Humf&nbsp;!
 
-PENNY&#160;: Guuhh... Tr&egrave;s bien, c'est bon.
-PENNY&#160;: Nous allons juste t'apprendre &agrave; marcher, aussi.
+PENNY&nbsp;: Guuhh... Très bien, c'est bon.
+PENNY&nbsp;: Nous allons juste t'apprendre à marcher, aussi.
 
-PENNY&#160;: D&eacute;p&ecirc;che-toi&#160;! Je ne veux pas me faire prendre&#160;!
-PENNY&#160;: Bon sang, je n'arrive pas &agrave; croire que tu as trois ans.
+PENNY&nbsp;: Dépêche-toi&nbsp;! Je ne veux pas me faire prendre&nbsp;!
+PENNY&nbsp;: Bon sang, je n'arrive pas à croire que tu as trois ans.

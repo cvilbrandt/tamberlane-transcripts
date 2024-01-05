@@ -1,17 +1,17 @@
-TESS&#160;: Et elle a tra&icirc;n&eacute; Tamberlane&#160;? Avec l'oxyg&egrave;ne et tout&#160;?
-WALTER&#160;: да. Mais &ccedil;a s'est bien pass&eacute;. Terra a arrang&eacute; la petite Tamberlane et Briar a ramen&eacute; Belfry &agrave; la maison avant que &ccedil;a n'empire.
-TESS&#160;: Oh, Belfry...
+TESS&nbsp;: Et elle a traîné Tamberlane&nbsp;? Avec l'oxygène et tout&nbsp;?
+WALTER&nbsp;: да. Mais ça s'est bien passé. Terra a arrangé la petite Tamberlane et Briar a ramené Belfry à la maison avant que ça n'empire.
+TESS&nbsp;: Oh, Belfry...
 
-WALTER&#160;: Sois forte, барсучка. Belfry est une cr&eacute;ature tr&egrave;s &eacute;motive. Tu sais &ccedil;a.
-TESS&#160;: Je sais, mais il n'y a pas que Belfry. La r&eacute;union d'aujourd'hui...
-TESS&#160;: J'ai l'impression que tout s'effondre.
+WALTER&nbsp;: Sois forte, барсучка. Belfry est une créature très émotive. Tu sais ça.
+TESS&nbsp;: Je sais, mais il n'y a pas que Belfry. La réunion d'aujourd'hui...
+TESS&nbsp;: J'ai l'impression que tout s'effondre.
 
-WALTER&#160;: Tout ira bien. &Ccedil;a, je te le promets. Treehollow regorge de bonnes cr&eacute;atures.
-WALTER&#160;: Et Belfry rebondira. Elle le fait toujours, pauvre enfant.
-TESS&#160;: J'esp&egrave;re que tu as raison, дорогой.
+WALTER&nbsp;: Tout ira bien. Ça, je te le promets. Treehollow regorge de bonnes créatures.
+WALTER&nbsp;: Et Belfry rebondira. Elle le fait toujours, pauvre enfant.
+TESS&nbsp;: J'espère que tu as raison, дорогой.
 
-Effets sonores&#160;: krnch krnch Krnch
+Effets sonores&nbsp;: krnch krnch Krnch
 
-Effets sonores&#160;: KRNCH KRNCH
+Effets sonores&nbsp;: KRNCH KRNCH
 
-TESS&#160;: Claude&#160;??
+TESS&nbsp;: Claude&nbsp;??

@@ -1,23 +1,20 @@
+CHAUVE-SOURIS&nbsp;: Oh zut, que s'est-il passé&nbsp;?!
+CERF&nbsp;: Tu m'as donné des collybies&nbsp;!
+[SFX&nbsp;: Koff Koff]
 
+CHAUVE-SOURIS&nbsp;: J'ai dû les mélanger de nouveau &nbsp;!
 
-CHAUVE-SOURIS&#160;: Oh zut, que s'est-il pass&eacute;&#160;?!
-CERF&#160;: Tu m'as donn&eacute; des collybies&#160;!
-[SFX&#160;: Koff Koff]
+CHAUVE-SOURIS&nbsp;: Oh, papa, je suis désolée.
 
-CHAUVE-SOURIS&#160;: J'ai d&ucirc; les m&eacute;langer de nouveau &#160;!
+WALTER&nbsp;: Belfry, un jour, tu reprendras la pâtisserie.
+WALTER&nbsp;: Tu dois te montrer plus responsable&nbsp;!
 
-CHAUVE-SOURIS&#160;: Oh, papa, je suis d&eacute;sol&eacute;e.
+BELFRY&nbsp;: Je sais, je sais&nbsp;! Je vais m'occuper de ça de suite&nbsp;! Je le promets&nbsp;!
 
-WALTER&#160;: Belfry, un jour, tu reprendras la p&acirc;tisserie.
-WALTER&#160;: Tu dois te montrer plus responsable&#160;!
+BELFRY&nbsp;: Je n'ai qu'à échanger les étiquettes...
+[SFX&nbsp;: Retiiiiiire]
 
-BELFRY&#160;: Je sais, je sais&#160;! Je vais m'occuper de &ccedil;a de suite&#160;! Je le promets&#160;!
+[SFX&nbsp;: DING&nbsp;!]
+BELFRY&nbsp;: Oh&nbsp;!
 
-BELFRY&#160;: Je n'ai qu'&agrave; &eacute;changer les &eacute;tiquettes...
-[SFX&#160;: Retiiiiiire]
-
-[SFX&#160;: DING&#160;!]
-BELFRY&#160;: Oh&#160;!
-
-BELFRY&#160;: Je sais&#160;! Je vais sortir la tarte du four&#160;!
-
+BELFRY&nbsp;: Je sais&nbsp;! Je vais sortir la tarte du four&nbsp;!

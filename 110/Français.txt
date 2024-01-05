@@ -1,16 +1,16 @@
-CHAT&#160;: Alors ; redis-moi ton "plan infaillible"&#160;?
-PIPER&#160;: Donc, je suis au Festival Souverain dans cette *jolie* robe que tu as confectionn&eacute;e.
-PIPER&#160;: M&ecirc;me si tu me fais ramasser les ordures.
-PIPER&#160;: Ce qui n'a AUCUN SENS, d'ailleurs.
-CHAT&#160;: Garde &ccedil;a pour le juge, poup&eacute;e.
-PIPER&#160;: Et bien, chaque fois que quelqu'un admire ma robe, je peux &ecirc;tre toute...
+CHAT&nbsp;: Alors ; redis-moi ton "plan infaillible"&nbsp;?
+PIPER&nbsp;: Donc, je suis au Festival Souverain dans cette *jolie* robe que tu as confectionnée.
+PIPER&nbsp;: Même si tu me fais ramasser les ordures.
+PIPER&nbsp;: Ce qui n'a AUCUN SENS, d'ailleurs.
+CHAT&nbsp;: Garde ça pour le juge, poupée.
+PIPER&nbsp;: Et bien, chaque fois que quelqu'un admire ma robe, je peux être toute...
 
-PIPER&#160;: "Oh, bon sang, monsieur&#160;! Ma robe n'est-elle pas *juste fracassante&#160;?*"
+PIPER&nbsp;: "Oh, bon sang, monsieur&nbsp;! Ma robe n'est-elle pas *juste fracassante&nbsp;?*"
 
-PIPER&#160;: "Ma *maman* l'a faite&#160;! N'est-elle pas *incroyablement* talentueuse&#160;? Je parie que votre fille aurait l'air *adorable* dans l'une d'elles&#160;!"
+PIPER&nbsp;: "Ma *maman* l'a faite&nbsp;! N'est-elle pas *incroyablement* talentueuse&nbsp;? Je parie que votre fille aurait l'air *adorable* dans l'une d'elles&nbsp;!"
 
-PIPER&#160;: "Quelle *folle* coïncidence&#160;!"
-PIPER&#160;: "Elle les propose de l'autre côt&eacute; de la rue, dans Trade Alley&#160;!"
-PIPER&#160;: "Juste &agrave; côt&eacute; de ces *d&eacute;licieuses* tartes&#160;!"
-CHAT&#160;: Et c'est *comme &ccedil;a* que tu vas &eacute;viter d'&ecirc;tre punie&#160;?
-PIPER&#160;: *INFAILLIBLE&#160;!*
+PIPER&nbsp;: "Quelle *folle* coïncidence&nbsp;!"
+PIPER&nbsp;: "Elle les propose de l'autre côté de la rue, dans Trade Alley&nbsp;!"
+PIPER&nbsp;: "Juste à côté de ces *délicieuses* tartes&nbsp;!"
+CHAT&nbsp;: Et c'est *comme ça* que tu vas éviter d'être punie&nbsp;?
+PIPER&nbsp;: *INFAILLIBLE&nbsp;!*

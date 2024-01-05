@@ -1,18 +1,18 @@
-BELFRY&#160;: Non.
+BELFRY&nbsp;: Non.
 
-TESS&#160;: Belfry-
+TESS&nbsp;: Belfry-
 
-BELFRY&#160;: ***NON&#160;!***
+BELFRY&nbsp;: ***NON&nbsp;!***
 
-BELFRY&#160;: Tu ne comprends pas&#160;?!*
-BELFRY&#160;: Cet *enfant* est un *ORPHELIN&#160;!*
+BELFRY&nbsp;: Tu ne comprends pas&nbsp;?!*
+BELFRY&nbsp;: Cet *enfant* est un *ORPHELIN&nbsp;!*
 
-BEFFROI&#160;: Ses parents l'ont *ABANDONN&Eacute;* dans la nature pour le laisser *MOURIR DE FAIM&#160;!*
+BEFFROI&nbsp;: Ses parents l'ont *ABANDONNÉ* dans la nature pour le laisser *MOURIR DE FAIM&nbsp;!*
 
-BELFRY&#160;: Et maintenant tu veux que je fasse la *M&Eacute;ME CHOSE&#160;?*
+BELFRY&nbsp;: Et maintenant tu veux que je fasse la *MÉME CHOSE&nbsp;?*
 
-BEFFROI&#160;: *AUCUN PARENT NE DEVRAIT ABANDONNER SON PETIT&#160;!*
+BEFFROI&nbsp;: *AUCUN PARENT NE DEVRAIT ABANDONNER SON PETIT&nbsp;!*
 
-BELFRY&#160;: Et tu *es* mon petit maintenant.
+BELFRY&nbsp;: Et tu *es* mon petit maintenant.
 
-BELFRY&#160;: *Je* ne t'abandonnerai pas.
+BELFRY&nbsp;: *Je* ne t'abandonnerai pas.

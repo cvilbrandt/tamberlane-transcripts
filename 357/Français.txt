@@ -1,18 +1,18 @@
-<p>BRIAR&#160;: J'ai juste entendu<br />
-BELFRY&#160;: En fait, qu'est-ce que tu sais &agrave; propos de <strong><em>QUOI QUE CE SOIT</em></strong> de tout &ccedil;a&#160;?!<br />
-BELFRY&#160;: Tu n'as jamais eu &agrave; t'occuper de quoi que ce soit dans ta <strong><em>VIE&#160;!</em></strong><br />
-BRIAR&#160;: Je- <em>quoi ?!</em></p>
+<p>BRIAR&nbsp;: J'ai juste entendu<br />
+BELFRY&nbsp;: En fait, qu'est-ce que tu sais à propos de <strong><em>QUOI QUE CE SOIT</em></strong> de tout ça&nbsp;?!<br />
+BELFRY&nbsp;: Tu n'as jamais eu à t'occuper de quoi que ce soit dans ta <strong><em>VIE&nbsp;!</em></strong><br />
+BRIAR&nbsp;: Je- <em>quoi ?!</em></p>
 
-<p>BRIAR&#160;: Ce n'est <strong><em>PAS</em></strong> ce que je<br />
-BELFRY&#160;: Nous ne pouvons pas tous &ecirc;tre Mademoiselle Parfaite&#160;! La <strong><em>pr&eacute;f&eacute;r&eacute;e de maman et papa !!</em></strong><br />
-BRIAR&#160;: BELFRY&#160;!</p>
+<p>BRIAR&nbsp;: Ce n'est <strong><em>PAS</em></strong> ce que je<br />
+BELFRY&nbsp;: Nous ne pouvons pas tous être Mademoiselle Parfaite&nbsp;! La <strong><em>préférée de maman et papa !!</em></strong><br />
+BRIAR&nbsp;: BELFRY&nbsp;!</p>
 
-<p>BEFFRO&#160;: Eh bien, que sais-tu de moi, de Tamberlane, ou du fait d'&ecirc;tre <strong><em>m&egrave;re&#160;?</em></strong><br />
+<p>BEFFRO&nbsp;: Eh bien, que sais-tu de moi, de Tamberlane, ou du fait d'être <strong><em>mère&nbsp;?</em></strong><br />
 BELFRY : <strong><em>RIEN !</em></strong><br />
-BELFRY&#160;: Et tu ne le sauras <strong><em>JAMAIS</em></strong> jusqu'&agrave; ce que tu <strong><em>Grandisses&#160;!</em></strong></p>
+BELFRY&nbsp;: Et tu ne le sauras <strong><em>JAMAIS</em></strong> jusqu'à ce que tu <strong><em>Grandisses&nbsp;!</em></strong></p>
 
-<p>SFX&#160;: hahh hh haah hh hha h</p>
+<p>SFX&nbsp;: hahh hh haah hh hha h</p>
 
-<p>SFX&#160;: hha haah hh hahh h h<br />
-BRIAR&#160;: L&agrave;.<br />
-BRIAR&#160;: Voil&agrave; c'est exactement ce que je veux dire.</p>
+<p>SFX&nbsp;: hha haah hh hahh h h<br />
+BRIAR&nbsp;: Là.<br />
+BRIAR&nbsp;: Voilà c'est exactement ce que je veux dire.</p>

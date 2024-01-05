@@ -1,13 +1,11 @@
+TESS&nbsp;: Quoi&nbsp;?
 
+TESS&nbsp;: Belfry, Peux-tu juste t'assurer que les enfants sont bien à l'école&nbsp;?
 
-TESS&#160;: Quoi&#160;?
+[SFX&nbsp;: SALUT]
+BELFRY&nbsp;: Tout de suite madame&nbsp;!
 
-TESS&#160;: Belfry, Peux-tu juste t'assurer que les enfants sont bien &agrave; l'&eacute;cole&#160;?
+[SFX&nbsp;: plop]
+BELFRY&nbsp;: *MAMAN OH BON SANG JE SUIS TELLEMENT DÉSOL&Eacute&nbsp;:E*
 
-[SFX&#160;: SALUT]
-BELFRY&#160;: Tout de suite madame&#160;!
-
-[SFX&#160;: plop]
-BELFRY&#160;: *MAMAN OH BON SANG JE SUIS TELLEMENT D&Eacute;SOL&Eacute&#160;:E*
-
-TESS&#160;: Juste... Va surveiller les enfants.
+TESS&nbsp;: Juste... Va surveiller les enfants.

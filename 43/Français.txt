@@ -1,19 +1,19 @@
-[SFX&#160;: AAAWAAAAWAAA]
-BELFRY&#160;: d'un moment &agrave; l'autre...
-BELFRY: d'un moment &agrave; l'autre tu vas t'arr&ecirc;ter...
+[SFX&nbsp;: AAAWAAAAWAAA]
+BELFRY&nbsp;: d'un moment à l'autre...
+BELFRY: d'un moment à l'autre tu vas t'arrêter...
 
-[SFX&#160;: AWAAAAWAAAA]
-BELFRY&#160;: Tu ne t'arr&ecirc;tes pas&#160;!
-BELFRY&#160;: Pourquoi tu ne t'arr&ecirc;tes pas&#160;?!
+[SFX&nbsp;: AWAAAAWAAAA]
+BELFRY&nbsp;: Tu ne t'arrêtes pas&nbsp;!
+BELFRY&nbsp;: Pourquoi tu ne t'arrêtes pas&nbsp;?!
 
-BELFRY&#160;: Je ne parle pas le hurlement&#160;!
-BELFRY&#160;: S'il te pla&icirc;t, *dis-moi ce que tu veux&#160;!!*
+BELFRY&nbsp;: Je ne parle pas le hurlement&nbsp;!
+BELFRY&nbsp;: S'il te plaît, *dis-moi ce que tu veux&nbsp;!!*
 
-BELFRY&#160;: ok
+BELFRY&nbsp;: ok
 
-[SFX&#160;: AAAAWAA]
-BELFRY&#160;: ... Je ferais mieux de voir si Oakewood sait quoi faire.
-[SFX&#160;: AWAAAAAW]
+[SFX&nbsp;: AAAAWAA]
+BELFRY&nbsp;: ... Je ferais mieux de voir si Oakewood sait quoi faire.
+[SFX&nbsp;: AWAAAAAW]
 
-[SFX&#160;: AWAAAAAAAAAWAAWAAA]
-BELFRY (marmonn&eacute;)&#160;: ...Je ne suis pas une rat&eacute;e...
+[SFX&nbsp;: AWAAAAAAAAAWAAWAAA]
+BELFRY (marmonné)&nbsp;: ...Je ne suis pas une ratée...

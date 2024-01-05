@@ -1,16 +1,16 @@
-PANDACHIEN&#160;: Est-ce que quelqu'un te cherche&#160;?
+PANDACHIEN&nbsp;: Est-ce que quelqu'un te cherche&nbsp;?
 
-PANDACHIEN&#160;: Oh, ch&eacute;rie, tu frissonnes&#160;!
+PANDACHIEN&nbsp;: Oh, chérie, tu frissonnes&nbsp;!
 
-MOUFFETTE&#160;: Maman, elle peut porter ma robe, si &ccedil;a peut aider&#160;!
-PANDACHIEN&#160;: Ce serait adorable, Marie&#160;! Merci!
+MOUFFETTE&nbsp;: Maman, elle peut porter ma robe, si ça peut aider&nbsp;!
+PANDACHIEN&nbsp;: Ce serait adorable, Marie&nbsp;! Merci!
 
-PANDACHIEN&#160;: Maintenant, &agrave; qui dois-je te rendre&#160;?
+PANDACHIEN&nbsp;: Maintenant, à qui dois-je te rendre&nbsp;?
 
-TAMBERLANE&#160;: ... hummm...
+TAMBERLANE&nbsp;: ... hummm...
 
-TAMBERLANE&#160;: Pawsley&#160;!
+TAMBERLANE&nbsp;: Pawsley&nbsp;!
 
-MARIE&#160;: Ah&#160;! Parsley? Il passe beaucoup de temps derri&egrave;re le Riche Chacal&#160;!
+MARIE&nbsp;: Ah&nbsp;! Parsley? Il passe beaucoup de temps derrière le Riche Chacal&nbsp;!
 
-MARIE&#160;: Je peux t'emmener, si tu veux&#160;!
+MARIE&nbsp;: Je peux t'emmener, si tu veux&nbsp;!

@@ -1,25 +1,25 @@
-PARSLEY&#160;: Tu sais, il ne laisse jamais personne s'approcher de lui...
-PERSLEY&#160;: Il &eacute;tait d&eacute;j&agrave; un peu dur quand maman a accept&eacute; de l'h&eacute;berger.
+PARSLEY&nbsp;: Tu sais, il ne laisse jamais personne s'approcher de lui...
+PERSLEY&nbsp;: Il était déjà un peu dur quand maman a accepté de l'héberger.
 
-PARSLEY&#160;: Mais cette affaire &agrave; Bally Bluffs... c'est comme s'il &eacute;tait devenu dix fois pire du jour au lendemain&#160;!
+PARSLEY&nbsp;: Mais cette affaire à Bally Bluffs... c'est comme s'il était devenu dix fois pire du jour au lendemain&nbsp;!
 
-MARIE&#160;: Il se sent probablement mal &agrave; propos de ce qui s'est pass&eacute;.
-PARSLEY&#160;: Hah ! Cur&#160;??
-CUR&#160;: *&Eacute;LOIGNE CETTE CUILL&Egrave;RE DE MOI, FEMME&#160;!*
-PARSLEY&#160;: Il ne cesse de d&eacute;lirer sur la fa&ccedil;on dont il recommencerait si on lui en donnait une demi-chance&#160;!
-PARSLEY&#160;: Je doute qu'il ressente un soup&ccedil;on de remords.
+MARIE&nbsp;: Il se sent probablement mal à propos de ce qui s'est passé.
+PARSLEY&nbsp;: Hah ! Cur&nbsp;??
+CUR&nbsp;: *ÉLOIGNE CETTE CUILLÈRE DE MOI, FEMME&nbsp;!*
+PARSLEY&nbsp;: Il ne cesse de délirer sur la façon dont il recommencerait si on lui en donnait une demi-chance&nbsp;!
+PARSLEY&nbsp;: Je doute qu'il ressente un soupçon de remords.
 
-CORIANDER&#160;: *ELLIS, MANGE LES POMMES DE TERRE&#160;!*
-CUR&#160;: *&Agrave; L'AIDE&#160;! &Agrave; L'AIDE! ELLE ESSAYE DE M'EMPOISONNER*
-MARIE&#160;: Cur a toujours sembl&eacute; &ecirc;tre du genre &agrave; se d&eacute;charger de sa douleur sur lui-m&ecirc;me comme &ccedil;a.
-PERSLEY : On parle du m&ecirc;me enfant&#160;! Il d&eacute;charge sa douleur sur tout le monde *sauf* lui-m&ecirc;me&#160;!
+CORIANDER&nbsp;: *ELLIS, MANGE LES POMMES DE TERRE&nbsp;!*
+CUR&nbsp;: *À L'AIDE&nbsp;! À L'AIDE! ELLE ESSAYE DE M'EMPOISONNER*
+MARIE&nbsp;: Cur a toujours semblé être du genre à se décharger de sa douleur sur lui-même comme ça.
+PERSLEY : On parle du même enfant&nbsp;! Il décharge sa douleur sur tout le monde *sauf* lui-même&nbsp;!
 
-CORIANDER&#160;: *ASSOYEZ-VOUS&#160;! JEUNE! HOMME&#160;!*
-CUR&#160;: *L&Acirc;CHE-MOI&#160;!*
-MARIE&#160;: Eh bien, la seule chose que je *sais*, c'est que tu ne peux pas abandonner.
-MARIE&#160;: Peu importe &agrave; quel point cela devient difficile. Tu *dois* continuer d'essayer.
+CORIANDER&nbsp;: *ASSOYEZ-VOUS&nbsp;! JEUNE! HOMME&nbsp;!*
+CUR&nbsp;: *LÂCHE-MOI&nbsp;!*
+MARIE&nbsp;: Eh bien, la seule chose que je *sais*, c'est que tu ne peux pas abandonner.
+MARIE&nbsp;: Peu importe à quel point cela devient difficile. Tu *dois* continuer d'essayer.
 
-PARSLEY&#160;: Ouais... T'as raison, comme toujours. C'est juste...
-CORIANDER&#160;: *JE JURE DEVANT LES ESPRITS QUE TU NE MOURRAS PAS DE FAIM SOUS MON TOIT*
-PERSLEY&#160;: Est-ce mal de souhaiter que ce ne soit pas n&eacute;cessairement nous&#160;? Maman est &agrave; bout de nerfs et j'en ai marre de les &eacute;couter se disputer.
-CUR&#160;: *TIENS, REGARDE*
+PARSLEY&nbsp;: Ouais... T'as raison, comme toujours. C'est juste...
+CORIANDER&nbsp;: *JE JURE DEVANT LES ESPRITS QUE TU NE MOURRAS PAS DE FAIM SOUS MON TOIT*
+PERSLEY&nbsp;: Est-ce mal de souhaiter que ce ne soit pas nécessairement nous&nbsp;? Maman est à bout de nerfs et j'en ai marre de les écouter se disputer.
+CUR&nbsp;: *TIENS, REGARDE*

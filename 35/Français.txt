@@ -5,12 +5,12 @@ TAMBERLANE: Awoo?
 
 TAMBERLANE: wah
 
-PIPER: C'est bien le fant&ocirc;me!
-PIPER: Je l'ai pouss&eacute; en bas!
+PIPER: C'est bien le fantôme!
+PIPER: Je l'ai poussé en bas!
 
 OAKEWOOD: errgh
 
 PIPER: Qu'est-ce qui ne va pas ?
-PIPER: Tu as mal à la t&ecirc;te, grand-p&egrave;re de la biblioth&egrave;que?
-OAKEWOOD : Ainsley a gagn&eacute; le pari.
-OAKEWOOD: Je *d&eacute;teste* jouer aux &eacute;checs avant le lever du soleil.
+PIPER: Tu as mal à la tête, grand-père de la bibliothèque?
+OAKEWOOD : Ainsley a gagné le pari.
+OAKEWOOD: Je *déteste* jouer aux échecs avant le lever du soleil.

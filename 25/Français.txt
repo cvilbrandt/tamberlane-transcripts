@@ -1,19 +1,17 @@
+EXTÉRIEUR&nbsp;: Belfry a des problèmes&nbsp;!
+EXTÉRIEUR&nbsp;: Oh, mon dieu, qu'est-ce qu'il y a encore&nbsp;?
 
+EXTÉRIEUR&nbsp;: C'était le fantôme&nbsp;!
+EXTÉRIEUR&nbsp;: Les fantômes *n'existent pas*&nbsp;!
+EXTÉRIEUR&nbsp;: Tu es sûr&nbsp;?
+EXTÉRIEUR&nbsp;: À quel point est-ce grave?&nbsp;?
 
-EXT&Eacute;RIEUR&#160;: Belfry a des probl&egrave;mes&#160;!
-EXT&Eacute;RIEUR&#160;: Oh, mon dieu, qu'est-ce qu'il y a encore&#160;?
+EXTÉRIEUR&nbsp;: Va chercher Henry&nbsp;!
+EXTÉRIEUR&nbsp;: Qu'est-ce que *Henry* va faire à un fantôme&nbsp;?
+EXTÉRIEUR&nbsp;: L'arrêter&nbsp;?
+EXTÉRIEUR&nbsp;: On a besoin d'aide&nbsp;!
 
-EXT&Eacute;RIEUR&#160;: C'&eacute;tait le fant&ocirc;me&#160;!
-EXT&Eacute;RIEUR&#160;: Les fant&ocirc;mes *n'existent pas*&#160;!
-EXT&Eacute;RIEUR&#160;: Tu es s&ucirc;r&#160;?
-EXT&Eacute;RIEUR&#160;: &Agrave; quel point est-ce grave?&#160;?
+[SFX&nbsp;: SLAM]
 
-EXT&Eacute;RIEUR&#160;: Va chercher Henry&#160;!
-EXT&Eacute;RIEUR&#160;: Qu'est-ce que *Henry* va faire &agrave; un fant&ocirc;me&#160;?
-EXT&Eacute;RIEUR&#160;: L'arr&ecirc;ter&#160;?
-EXT&Eacute;RIEUR&#160;: On a besoin d'aide&#160;!
-
-[SFX&#160;: SLAM]
-
-AINSLEY&#160;: **CACHE-MOI&#160;!**
-COYOTE&#160;: La biblioth&egrave;que est *ferm&eacute;e&#160;!*
+AINSLEY&nbsp;: **CACHE-MOI&nbsp;!**
+COYOTE&nbsp;: La bibliothèque est *fermée&nbsp;!*

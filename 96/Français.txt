@@ -1,13 +1,13 @@
-BELFRY&#160;: Mais et si je me trompe&#160;?
-BELFRY&#160;: Je n'ai jamais pr&eacute;vu de *partenaire*, et encore moins de petit.
+BELFRY&nbsp;: Mais et si je me trompe&nbsp;?
+BELFRY&nbsp;: Je n'ai jamais prévu de *partenaire*, et encore moins de petit.
 
-OAKEWOOD&#160;: *Quand* tu feras une erreur, tu t'en accommoderas.
+OAKEWOOD&nbsp;: *Quand* tu feras une erreur, tu t'en accommoderas.
 
-OAKEWOOD&#160;: Et elle aussi.
-OAKEWOOD&#160;: Les enfants sont r&eacute;silients.
+OAKEWOOD&nbsp;: Et elle aussi.
+OAKEWOOD&nbsp;: Les enfants sont résilients.
 
-BELFRY&#160;: Mais et si…
-OAKEWOOD&#160;: Tu as le choix&#160;: la garder, la remettre ou la donner.
+BELFRY&nbsp;: Mais et si…
+OAKEWOOD&nbsp;: Tu as le choix&nbsp;: la garder, la remettre ou la donner.
 
-OAKEWOOD&#160;: Quoi qu'il en soit, tu ne peux pas croire qu'&ecirc;tre sous ta garde soit pire que mourir de faim seul dans les bois.
-BELFRY&#160;: Haha, je suppose que c'est vrai.
+OAKEWOOD&nbsp;: Quoi qu'il en soit, tu ne peux pas croire qu'être sous ta garde soit pire que mourir de faim seul dans les bois.
+BELFRY&nbsp;: Haha, je suppose que c'est vrai.

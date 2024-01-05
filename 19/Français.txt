@@ -1,13 +1,13 @@
 ***[OUTDATED]***
 
-[SFX&#160;: WHAK]
+[SFX&nbsp;: WHAK]
 
-[SFX&#160;: THUD]
+[SFX&nbsp;: THUD]
 
-[SFX&#160;: CRAK]
+[SFX&nbsp;: CRAK]
 
-[SFX&#160;: whump]
+[SFX&nbsp;: whump]
 
-ANTHONY&#160;: Je crois que j'ai tu&eacute; Miss Belfry
+ANTHONY&nbsp;: Je crois que j'ai tué Miss Belfry
 
-PIPER&#160;: Ouais, s&ucirc;rement.
+PIPER&nbsp;: Ouais, sûrement.

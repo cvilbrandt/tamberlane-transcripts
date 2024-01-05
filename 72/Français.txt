@@ -1,21 +1,21 @@
-MARIE&#160;: Je suis vraiment d&eacute;sol&eacute;e&#160;!
-MARIE&#160;: Oh, s'il te pla&icirc;t, arrête de te frapper&#160;!
+MARIE&nbsp;: Je suis vraiment désolée&nbsp;!
+MARIE&nbsp;: Oh, s'il te plaît, arrête de te frapper&nbsp;!
 
-MARIE&#160;: L&agrave;, l&agrave;, ch&eacute;rie. Essuie tes larmes.
-MARIE&#160;: Et si tu me racontais tout ce que tu as apport&eacute; pour faire du commerce&#160;?
+MARIE&nbsp;: Là, là, chérie. Essuie tes larmes.
+MARIE&nbsp;: Et si tu me racontais tout ce que tu as apporté pour faire du commerce&nbsp;?
 
-TAMBERLANE&#160;: h-hein&#160;?
+TAMBERLANE&nbsp;: h-hein&nbsp;?
 
-MARIE&#160;: Tu n'es *vraiment* pas du coin, n'est-ce pas&#160;?
-MARIE (marmonnant)&#160;: Je croyais que tout Silver Sage faisait du troc...&#160;?
+MARIE&nbsp;: Tu n'es *vraiment* pas du coin, n'est-ce pas&nbsp;?
+MARIE (marmonnant)&nbsp;: Je croyais que tout Silver Sage faisait du troc...&nbsp;?
 
-TAMBERLANE&#160;: uwwWAAAHH
-MARIE&#160;: Oh non, non, ne t'inqui&egrave;te pas&#160;! Je vais t'expliquer&#160;!
+TAMBERLANE&nbsp;: uwwWAAAHH
+MARIE&nbsp;: Oh non, non, ne t'inquiète pas&nbsp;! Je vais t'expliquer&nbsp;!
 
-MARIE&#160;: Quand tu veux qu'une cr&eacute;ature te donne quelque chose, tu es cens&eacute; donner quelque chose en retour&#160;!
+MARIE&nbsp;: Quand tu veux qu'une créature te donne quelque chose, tu es censé donner quelque chose en retour&nbsp;!
 
-MARIE&#160;: Mais tu as vraiment l'air d'avoir besoin d'aide, ma pauvre...
+MARIE&nbsp;: Mais tu as vraiment l'air d'avoir besoin d'aide, ma pauvre...
 
-MARIE&#160;: C'est bien&#160;! Ne t'inqui&egrave;te pas, ch&eacute;rie&#160;! Parsley va tout arranger&#160;!
-MARIE&#160;: Alors il n'y a pas besoin de pleurer, d'accord&#160;?
-TAMBERLANE&#160;: ok
+MARIE&nbsp;: C'est bien&nbsp;! Ne t'inquiète pas, chérie&nbsp;! Parsley va tout arranger&nbsp;!
+MARIE&nbsp;: Alors il n'y a pas besoin de pleurer, d'accord&nbsp;?
+TAMBERLANE&nbsp;: ok

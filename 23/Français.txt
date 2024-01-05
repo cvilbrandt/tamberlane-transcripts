@@ -1,20 +1,18 @@
+[SFX&nbsp;: PAT]
 
+BELFRY&nbsp;: Tu n'es pas un fantôme du tout, n'est-ce pas&nbsp;?
 
-[SFX&#160;: PAT]
+BELFRY&nbsp;: Tu es si *petit*&nbsp;! 
 
-BELFRY&#160;: Tu n'es pas un fant&ocirc;me du tout, n'est-ce pas&#160;?
+BELFRY&nbsp;: Si tu n'es pas un fantôme...
+BELFRY&nbsp;: Alors qu'est-ce que tu *es*&nbsp;?
 
-BELFRY&#160;: Tu es si *petit*&#160;! 
+TAMBERLANE&nbsp;: Tamberlane&nbsp;!
 
-BELFRY&#160;: Si tu n'es pas un fant&ocirc;me...
-BELFRY&#160;: Alors qu'est-ce que tu *es*&#160;?
+BELFRY&nbsp;: Oh, tu peux parler&nbsp;! À peu près. Mais je ne sais pas ce qu'est un Tamberlane.
 
-TAMBERLANE&#160;: Tamberlane&#160;!
+[SFX&nbsp;: SNIFF SNIFF]
+TAMBERLANE&nbsp;: Hee&nbsp;!
 
-BELFRY&#160;: Oh, tu peux parler&#160;! &Agrave; peu pr&egrave;s. Mais je ne sais pas ce qu'est un Tamberlane.
-
-[SFX&#160;: SNIFF SNIFF]
-TAMBERLANE&#160;: Hee&#160;!
-
-BELFRY&#160;: Mais tu sens si jeune.
-BELFRY&#160;: Es-tu juste un petit&#160;?
+BELFRY&nbsp;: Mais tu sens si jeune.
+BELFRY&nbsp;: Es-tu juste un petit&nbsp;?

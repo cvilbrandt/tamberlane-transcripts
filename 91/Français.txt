@@ -1,10 +1,10 @@
-TAMBERLANE&#160;: *OUFFU&#160;!*
-BEFFROI&#160;: Attends, reviens&#160;!
+TAMBERLANE&nbsp;: *OUFFU&nbsp;!*
+BEFFROI&nbsp;: Attends, reviens&nbsp;!
 
-Beffroi&#160;: Arr&ecirc;te de bouger&#160;!
-Beffroi&#160;: J'arrive&#160;!
+Beffroi&nbsp;: Arrête de bouger&nbsp;!
+Beffroi&nbsp;: J'arrive&nbsp;!
 
-Beffroi&#160;: Je te tiens.
-Beffroi&#160;: Je te tiens.
+Beffroi&nbsp;: Je te tiens.
+Beffroi&nbsp;: Je te tiens.
 
-HENRY&#160;: On dirait que ton accident a pay&eacute; cette fois&#160;!
+HENRY&nbsp;: On dirait que ton accident a payé cette fois&nbsp;!

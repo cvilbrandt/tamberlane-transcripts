@@ -1,16 +1,16 @@
-OAKEWOOD&#160;: Eh bien, *quelqu'un* est de mauvaise humeur.
-TAMBERLANE&#160;: Bye-bye, Briar&#160;!
+OAKEWOOD&nbsp;: Eh bien, *quelqu'un* est de mauvaise humeur.
+TAMBERLANE&nbsp;: Bye-bye, Briar&nbsp;!
 
-BELFRY&#160;: Je ne lui en veux pas.
-BELFRY&#160;: On dirait que c'est devenu difficile &agrave; la maison depuis mon d&eacute;part.
+BELFRY&nbsp;: Je ne lui en veux pas.
+BELFRY&nbsp;: On dirait que c'est devenu difficile à la maison depuis mon départ.
 
-BELFRY&#160;: Je ne sais pas. Peut-&ecirc;tre que je *devrais* m'excuser.
+BELFRY&nbsp;: Je ne sais pas. Peut-être que je *devrais* m'excuser.
 
-OAKEWOOD&#160;: Et laisser cette enquiquineuse gagner&#160;?
-TAMBERLANE&#160;: Kikineuse&#160;!
+OAKEWOOD&nbsp;: Et laisser cette enquiquineuse gagner&nbsp;?
+TAMBERLANE&nbsp;: Kikineuse&nbsp;!
 
-OAKEWOOD&#160;: &Agrave; mon avis, ce blaireau autoritaire doit apprendre que ses enfants ont grandi.
-OAKEWOOD&#160;: Et de toute fa&ccedil;on, tu sais qu'elle te dira de remettre l'enfant l&agrave; o&ugrave; tu l'as trouv&eacute;e.
-TAMBERLANE&#160;: Ouais&#160;!
+OAKEWOOD&nbsp;: À mon avis, ce blaireau autoritaire doit apprendre que ses enfants ont grandi.
+OAKEWOOD&nbsp;: Et de toute façon, tu sais qu'elle te dira de remettre l'enfant là où tu l'as trouvée.
+TAMBERLANE&nbsp;: Ouais&nbsp;!
 
-BELFRY&#160;: Je suppose que tu as raison.
+BELFRY&nbsp;: Je suppose que tu as raison.

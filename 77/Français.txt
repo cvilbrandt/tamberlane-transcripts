@@ -1,17 +1,17 @@
-PARSLEY&#160;: O&ugrave; est ta m&egrave;re&#160;?
+PARSLEY&nbsp;: Où est ta mère&nbsp;?
 
-PARSLEY&#160;: Tu ne comprends pas&#160;?
+PARSLEY&nbsp;: Tu ne comprends pas&nbsp;?
 
-PARSLEY&#160;: Ta maman&#160;! Tu sais, chaud et doux, qui te nourrit et prend soin de toi&#160;?
-PARSLEY&#160;: Te fait un c&acirc;lin quand tu as peur&#160;?
-PARSLEY&#160;: Tu ne comprends toujours pas, hein&#160;?
-PARSLEY&#160;: Je n'ai jamais rencontr&eacute; un petit qui ne savait pas ce qu'&eacute;tait une *maman*...
+PARSLEY&nbsp;: Ta maman&nbsp;! Tu sais, chaud et doux, qui te nourrit et prend soin de toi&nbsp;?
+PARSLEY&nbsp;: Te fait un câlin quand tu as peur&nbsp;?
+PARSLEY&nbsp;: Tu ne comprends toujours pas, hein&nbsp;?
+PARSLEY&nbsp;: Je n'ai jamais rencontré un petit qui ne savait pas ce qu'était une *maman*...
 
-TAMBERLANE&#160;: Hein&#160;?
+TAMBERLANE&nbsp;: Hein&nbsp;?
 
-PARSLEY&#160;: Oh, ah...
-PARSLEY&#160;: Tu veux m'aider&#160;? Je suis d&eacute;sol&eacute;, Tam, je ne vois pas tr&egrave;s bien ce que tu veux dire.
+PARSLEY&nbsp;: Oh, ah...
+PARSLEY&nbsp;: Tu veux m'aider&nbsp;? Je suis désolé, Tam, je ne vois pas très bien ce que tu veux dire.
 
-PARSLEY&#160;: Ah, pauvre petit amour.
-PARSLEY&#160;: Maintenant, j'aurais pr&eacute;f&eacute;r&eacute; que Cilantro n'ait pas d&eacute;m&eacute;nag&eacute; à Trois-Rivi&egrave;res.
-[SFX&#160;: bwuuuuuuuu]
+PARSLEY&nbsp;: Ah, pauvre petit amour.
+PARSLEY&nbsp;: Maintenant, j'aurais préféré que Cilantro n'ait pas déménagé à Trois-Rivières.
+[SFX&nbsp;: bwuuuuuuuu]

@@ -1,24 +1,24 @@
-PENNY&#160;: Es-tu sourde&#160;?
-MARIE&#160;: As-tu toujours parl&eacute; avec tes pattes&#160;?
-PENNY&#160;: Waouh&#160;!
-MARIE&#160;: O&ugrave; as-tu appris le Trissol&#160;?
-PENNY&#160;: C'est pour &ccedil;a que tu ne peux pas parler&#160;?
+PENNY&nbsp;: Es-tu sourde&nbsp;?
+MARIE&nbsp;: As-tu toujours parlé avec tes pattes&nbsp;?
+PENNY&nbsp;: Waouh&nbsp;!
+MARIE&nbsp;: Où as-tu appris le Trissol&nbsp;?
+PENNY&nbsp;: C'est pour ça que tu ne peux pas parler&nbsp;?
 
-PENNY&#160;: Est-ce que &ccedil;a te fait mal aux pattes&#160;?
-MARIE&#160;: (&eacute;cras&eacute;) - gardien t'a appris&#160;?
-PENNY&#160;: Apprends-moi &agrave; jurer&#160;!
-MARIE&#160;: &Ccedil;a veut dire que tu es du coin&#160;?
-PENNY&#160;: Tu es vraiment silencieuse&#160;!
+PENNY&nbsp;: Est-ce que ça te fait mal aux pattes&nbsp;?
+MARIE&nbsp;: (écrasé) - gardien t'a appris&nbsp;?
+PENNY&nbsp;: Apprends-moi à jurer&nbsp;!
+MARIE&nbsp;: Ça veut dire que tu es du coin&nbsp;?
+PENNY&nbsp;: Tu es vraiment silencieuse&nbsp;!
 
-TAMBERLANE&#160;: awwaaAAAAAAA
-MARIE&#160;: Non, attends&#160;! Ne te frappe plus&#160;!!
+TAMBERLANE&nbsp;: awwaaAAAAAAA
+MARIE&nbsp;: Non, attends&nbsp;! Ne te frappe plus&nbsp;!!
 
-PARSLEY&#160;: Elle ne se frappe pas, Marie&#160;!
-PARSLEY&#160;: Elle dit qu'elle est stupide.
-MARIE&#160;: ***CE N'EST PAS MIEUX, PARSLEY***
-TAMBERLANE&#160;: non, non, pa prende pattes tepla&icirc;t
+PARSLEY&nbsp;: Elle ne se frappe pas, Marie&nbsp;!
+PARSLEY&nbsp;: Elle dit qu'elle est stupide.
+MARIE&nbsp;: ***CE N'EST PAS MIEUX, PARSLEY***
+TAMBERLANE&nbsp;: non, non, pa prende pattes teplaît
 
-PARSLEY&#160;: Non, bien s&ucirc;r, tu as tout &agrave; fait raison.
+PARSLEY&nbsp;: Non, bien sûr, tu as tout à fait raison.
 
-PARSLEY&#160;: Bon, mon Trissol est un peu rouill&eacute;, mais...
-PARSLEY&#160;: Essayons, d'accord, Tam&#160;?
+PARSLEY&nbsp;: Bon, mon Trissol est un peu rouillé, mais...
+PARSLEY&nbsp;: Essayons, d'accord, Tam&nbsp;?

@@ -1,22 +1,20 @@
+[SFX&nbsp;: RENIFLE]
 
+[SFX&nbsp;: SOUPIR]
+[Murmuré&nbsp;: Mon dieu, qu'est-ce que je suis en train de faire&nbsp;?]
 
-[SFX&#160;: RENIFLE]
+BRIAR&nbsp;: Tu vas aller après ce «fantôme» de toute façon, n'est-ce pas.
 
-[SFX&#160;: SOUPIR]
-[Murmur&eacute;&#160;: Mon dieu, qu'est-ce que je suis en train de faire&#160;?]
+PIPER&nbsp;: Uh *ouais*.
 
-BRIAR&#160;: Tu vas aller apr&egrave;s ce «fant&ocirc;me» de toute fa&ccedil;on, n'est-ce pas.
+BRIAR&nbsp;: Alors je ferais mieux de m'assurer qu'il ne t'arrive rien.
+BRIAR&nbsp;: Mais dans 10 minutes, nous allons en cours&nbsp;!
+PIPER&nbsp;: Okay, *maman*.
 
-PIPER&#160;: Uh *ouais*.
+BRIAR&nbsp;: Bon, il est où ce fantôme&nbsp;?
+PIPER&nbsp;: Qui sait&nbsp;? Ainsley a juste dit qu'il était dans la forêt, hurlant.
 
-BRIAR&#160;: Alors je ferais mieux de m'assurer qu'il ne t'arrive rien.
-BRIAR&#160;: Mais dans 10 minutes, nous allons en cours&#160;!
-PIPER&#160;: Okay, *maman*.
+[SFX&nbsp;: AWWAAAWAWARRAWW]
 
-BRIAR&#160;: Bon, il est o&ugrave; ce fant&ocirc;me&#160;?
-PIPER&#160;: Qui sait&#160;? Ainsley a juste dit qu'il &eacute;tait dans la for&ecirc;t, hurlant.
-
-[SFX&#160;: AWWAAAWAWARRAWW]
-
-[SFX&#160;: OW&#160;!!!]
-PIPER&#160;: JE N'AI PAS PEUR&#160;!!!
+[SFX&nbsp;: OW&nbsp;!!!]
+PIPER&nbsp;: JE N'AI PAS PEUR&nbsp;!!!

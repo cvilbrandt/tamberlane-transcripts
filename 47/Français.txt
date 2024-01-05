@@ -1,18 +1,18 @@
-OAKEWOOD&#160;: Laisse-moi deviner&#160;: c'est un d&eacute;sastre.
+OAKEWOOD&nbsp;: Laisse-moi deviner&nbsp;: c'est un désastre.
 
-BELFRY&#160;: euh...
-OAKEWOOD&#160;: *Mrrgh.*
+BELFRY&nbsp;: euh...
+OAKEWOOD&nbsp;: *Mrrgh.*
 
-OAKEWOOD&#160;: De toute fa&ccedil;on, il fallait le r&eacute;organiser.
-BELFRY&#160;: D&eacute;sol&eacute;e.
+OAKEWOOD&nbsp;: De toute façon, il fallait le réorganiser.
+BELFRY&nbsp;: Désolée.
 
-OAKEWOOD&#160;: Eh bien, tu as apport&eacute; les fournitures.
-OAKEWOOD&#160;: Maintenant, change sa couche.
-BELFRY&#160;: Mais je ne sais pas comment !
+OAKEWOOD&nbsp;: Eh bien, tu as apporté les fournitures.
+OAKEWOOD&nbsp;: Maintenant, change sa couche.
+BELFRY&nbsp;: Mais je ne sais pas comment !
 
-OAKEWOOD&#160;: Tu enl&agrave;ves la sale et tu en mets une propre.
-OAKEWOOD&#160;: Ce n'est pas *si* difficile.
+OAKEWOOD&nbsp;: Tu enlàves la sale et tu en mets une propre.
+OAKEWOOD&nbsp;: Ce n'est pas *si* difficile.
 
-[SFX&#160;: d&eacute;plier ?]
+[SFX&nbsp;: déplier ?]
 
-[SFX&#160;: urp]
+[SFX&nbsp;: urp]

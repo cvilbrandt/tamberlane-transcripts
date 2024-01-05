@@ -1,18 +1,18 @@
-PENNY&#160;: tu es *l&agrave;*&#160;!
-TAMBERLANE&#160;: Penny&#160;!
+PENNY&nbsp;: tu es *là*&nbsp;!
+TAMBERLANE&nbsp;: Penny&nbsp;!
 
-PENNY&#160;: J'&eacute;tais tellement inqui&egrave;te&#160;!
-PENNY&#160;: Ne pleure pas, Tam&#160;! J'ai parl&eacute; &agrave; la m&egrave;re de Piper &agrave; propos d'elle et de tout&#160;!
+PENNY&nbsp;: J'étais tellement inquiète&nbsp;!
+PENNY&nbsp;: Ne pleure pas, Tam&nbsp;! J'ai parlé à la mère de Piper à propos d'elle et de tout&nbsp;!
 
-PENNY&#160;: Oh, Parsley&#160;! Tu dois lui apprendre &agrave; lire&#160;!
-PENNY&#160;: Elle a trois ans et ne sait pas comment faire&#160;!
+PENNY&nbsp;: Oh, Parsley&nbsp;! Tu dois lui apprendre à lire&nbsp;!
+PENNY&nbsp;: Elle a trois ans et ne sait pas comment faire&nbsp;!
 
-MARIE&#160;: Ne devrait-elle pas d'abord apprendre &agrave; parler&#160;?
+MARIE&nbsp;: Ne devrait-elle pas d'abord apprendre à parler&nbsp;?
 
-PARSLEY&#160;: Oh, Marie, tu n'as pas remarqu&eacute;&#160;?
-PARSLEY&#160;: Elle parle Trissol.
+PARSLEY&nbsp;: Oh, Marie, tu n'as pas remarqué&nbsp;?
+PARSLEY&nbsp;: Elle parle Trissol.
 
-PARSLEY&#160;: Elle parle avec ses pattes, pas avec sa bouche.
-PARSLEY&#160;: Mon fr&egrave;re Cilantro le fait aussi.
+PARSLEY&nbsp;: Elle parle avec ses pattes, pas avec sa bouche.
+PARSLEY&nbsp;: Mon frère Cilantro le fait aussi.
 
-MARIE ET PENNY&#160;: ***QUOI&#160;?!***
+MARIE ET PENNY&nbsp;: ***QUOI&nbsp;?!***

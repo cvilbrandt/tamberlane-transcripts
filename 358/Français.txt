@@ -1,16 +1,16 @@
-<p>BELFRY&#160;: ...Quoi ?<br />
-BRIAR&#160;:&#160;Eh bien. Je ne peux pas dire que je n'ai pas essay&eacute;.</p>
+<p>BELFRY&nbsp;: ...Quoi ?<br />
+BRIAR&nbsp;:&nbsp;Eh bien. Je ne peux pas dire que je n'ai pas essayé.</p>
 
-<p>BELFRY&#160;: Attends, où vas-tu&#160;? Nous n'en avons pas termin&eacute;&#160;!<br />
-BRIAR&#160;: <em>Tu</em> n'en as pas termin&eacute;. J'en ai vraiment fini.</p>
+<p>BELFRY&nbsp;: Attends, où vas-tu&nbsp;? Nous n'en avons pas terminé&nbsp;!<br />
+BRIAR&nbsp;: <em>Tu</em> n'en as pas terminé. J'en ai vraiment fini.</p>
 
-<p>BELFRY&#160;: Briar, attends&#160;! Il faut qu'on r&egrave;gle &ccedil;a !</p>
+<p>BELFRY&nbsp;: Briar, attends&nbsp;! Il faut qu'on règle ça !</p>
 
-<p>BRIAR&#160;: Non, tu dois r&eacute;gler &ccedil;a. J'ai dit tout ce que j'avais &agrave; dire.<br />
-BRIAR&#160;: J'en ai fini d'&ecirc;tre ton punching-ball ce soir.<br />
-BELFRY : Punching... ?? Briar&#160;!</p>
+<p>BRIAR&nbsp;: Non, tu dois régler ça. J'ai dit tout ce que j'avais à dire.<br />
+BRIAR&nbsp;: J'en ai fini d'être ton punching-ball ce soir.<br />
+BELFRY : Punching... ?? Briar&nbsp;!</p>
 
-<p>SFX&#160;: PROFOND soupir </p>
+<p>SFX&nbsp;: PROFOND soupir </p>
 
-<p>BRIAR&#160;: Je t'aime tellement, Belfry.<br />
-BRIAR&#160;: Mais j'ai juste besoin d'un peu d'espace.</p>
+<p>BRIAR&nbsp;: Je t'aime tellement, Belfry.<br />
+BRIAR&nbsp;: Mais j'ai juste besoin d'un peu d'espace.</p>

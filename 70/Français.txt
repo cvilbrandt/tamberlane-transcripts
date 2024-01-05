@@ -1,7 +1,7 @@
-MARIE&#160;: Oh, ne sois pas triste&#160;!
+MARIE&nbsp;: Oh, ne sois pas triste&nbsp;!
 
-MARIE&#160;: Je ne connais probablement pas ton esp&egrave;ce&#160;!
-MARIE&#160;: Je ne suis pas une grande, apr&egrave;s tout&#160;!
+MARIE&nbsp;: Je ne connais probablement pas ton espèce&nbsp;!
+MARIE&nbsp;: Je ne suis pas une grande, après tout&nbsp;!
 
-MARIE&#160;: Mais Parsley la conna&icirc;t peut-&ecirc;tre&#160;!
-MARIE&#160;: Il est plut&ocirc;t intelligent et il aime *tellement* aider les cr&eacute;atures&#160;!
+MARIE&nbsp;: Mais Parsley la connaît peut-être&nbsp;!
+MARIE&nbsp;: Il est plutôt intelligent et il aime *tellement* aider les créatures&nbsp;!

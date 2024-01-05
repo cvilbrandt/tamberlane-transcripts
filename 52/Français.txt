@@ -1,18 +1,18 @@
-BELFRY&#160;: Aww, je suis contente que Parker aille si bien.
-RENARDE&#160;: Oh, oui. Je viens de nourrir le petit voyou avant notre d&eacute;part.
+BELFRY&nbsp;: Aww, je suis contente que Parker aille si bien.
+RENARDE&nbsp;: Oh, oui. Je viens de nourrir le petit voyou avant notre départ.
 
-RENARDE&#160;: Il me d&eacute;vore &agrave; la maison et en dehors&#160;!
-RENARDE&#160;: Je pense qu'il va &ecirc;tre grand comme son papa.
+RENARDE&nbsp;: Il me dévore à la maison et en dehors&nbsp;!
+RENARDE&nbsp;: Je pense qu'il va être grand comme son papa.
 
-TERRA&#160;: Henry et toi &ecirc;tes si mignons ensemble&#160;!
-RENARDE&#160;: H&eacute; h&eacute;, merci.
+TERRA&nbsp;: Henry et toi êtes si mignons ensemble&nbsp;!
+RENARDE&nbsp;: Hé hé, merci.
 
-RENARDE&#160;: Alors, c'est ton nouveau petit&#160;?
-BELFRY&#160;: Ouais&#160;! Ma Tamberlane&#160;!
-[SFX&#160;: bleehh]
-[SFX&#160;: h&eacute;h&eacute;]
+RENARDE&nbsp;: Alors, c'est ton nouveau petit&nbsp;?
+BELFRY&nbsp;: Ouais&nbsp;! Ma Tamberlane&nbsp;!
+[SFX&nbsp;: bleehh]
+[SFX&nbsp;: héhé]
 
-BELFRY&#160;: M&ecirc;me si je commence &agrave; penser que Tamberlane est son nom, pas son esp&egrave;ce.
+BELFRY&nbsp;: Même si je commence à penser que Tamberlane est son nom, pas son espèce.
 
-TERRA&#160;: Bleeehhh&#160;!
-[SFX&#160;: Ha ha ha ha ha ha haha]
+TERRA&nbsp;: Bleeehhh&nbsp;!
+[SFX&nbsp;: Ha ha ha ha ha ha haha]
