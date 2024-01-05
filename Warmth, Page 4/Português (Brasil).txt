@@ -6,7 +6,7 @@ BRIAR: O que é??
 BELFRY: Um cachecol!
 BELFRY: Pra você não ficar tão fria.
 BRIAR: <em>UAU!</em>
-BELFRY: <em>É um pouco grande... oops.</em<>
+BELFRY: <em>É um pouco grande... oops.</em>
 
 BELFRY: Eu sei que eu não sou <em>REALMENTE</em> sua irmã...
 BELFRY: ... mas eu ainda te amo.
