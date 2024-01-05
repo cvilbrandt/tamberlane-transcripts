@@ -72,8 +72,9 @@ def validate_html(path: str, html: str):
 
 
 def clean_html(path: str, html: str):
+    """Run the converted HTML through a cleaner, to verify there were no malicious <script> tags or the like."""
     html = html.replace("<br />", "<br>")
-    # # Convert unicode characters of format &#160; to \xa0
+    # Convert unicode characters of format &#160; to \xa0
     for m in re.finditer(r"&#(\d+);", html):
         html = html.replace(m.group(0), chr(int(m.group(1))))
     # Use actual unicode characters, no need for HTML escapes
