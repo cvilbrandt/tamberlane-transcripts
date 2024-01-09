@@ -1,0 +1,27 @@
+OAKEWOOD&nbsp;: Permettez-moi de vous présenter mon filleul, Milo Jamiton de Tangled Branch.
+MILO&nbsp;: Ah... C'est Milo Académique de Lumiens maintenant.
+MILO&nbsp;: Celle de Piou.
+MILO&nbsp;: Terriblement désolé.
+
+OAKEWOOD&nbsp;: Ah, c'est vrai. Tu as une carrière maintenant.
+OAKEWOOD&nbsp;: (En quelque sorte.)
+
+OAKEWOOD&nbsp;: Milo, ce groupe est... Eh bien.
+OAKEWOOD&nbsp;: C'est Belfry.
+BELFRY&nbsp;: Waouh&nbsp;! Je ne savais même pas qu'Oakewood *avait* de la famille&nbsp;!
+OAKEWOOD&nbsp;: Tess.
+TESS&nbsp;: Ravie... de vous rencontrer.
+OAKEWOOD&nbsp;: Walter.
+WALTER&nbsp;: C'est un plaisir.
+OAKEWOOD&nbsp;: Et Briar.
+OAKEWOOD&nbsp;: Elle n'est pas beaucoup plus jeune que toi.
+BRIAR&nbsp;: Hé.
+
+[SFX&nbsp;: flot]
+MILO&nbsp;: Hé&nbsp;!
+
+[SFX&nbsp;: Doki doki]
+[SFX&nbsp;: Astuce]
+
+OAKEWOOD&nbsp;: C'est bien assez de vantardise, jeune homme.
+MILO&nbsp;: Hein&nbsp;?
