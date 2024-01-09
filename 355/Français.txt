@@ -1,16 +1,16 @@
-<p>BELFRY&#160;: Ce n'est pas ma faute, Briar&#160;!<br>
-BRIAR&#160;: Eh bien, ce n’est pas ma faute non plus&#160;! Ou celle de Tamberlane ! Parce qu'il ne <em>s'agit pas</em> d'une faute&#160;!</p>
+<p>BELFRY&nbsp;: Ce n'est pas ma faute, Briar&nbsp;!<br>
+BRIAR&nbsp;: Eh bien, ce n’est pas ma faute non plus&nbsp;! Ou celle de Tamberlane ! Parce qu'il ne <em>s'agit pas</em> d'une faute&nbsp;!</p>
 
-<p>BRIAR&#160;: Tu ne peux pas continuer &agrave; nous utiliser pour justifier ta fragilit&eacute;&#160;!<br>
-BELFRY&#160;: <strong><em>Utiliser-?!</em></strong><br>
-BELFRY&#160;: Je n'ai jamais <em>utilis&eacute;</em> personne&#160;! Comment peux-tu dire &ccedil;a ?!</p>
+<p>BRIAR&nbsp;: Tu ne peux pas continuer à nous utiliser pour justifier ta fragilité&nbsp;!<br>
+BELFRY&nbsp;: <strong><em>Utiliser-?!</em></strong><br>
+BELFRY&nbsp;: Je n'ai jamais <em>utilisé</em> personne&nbsp;! Comment peux-tu dire ça ?!</p>
 
-<p>BRIAR&#160;: Belfry, tu utilise Tamberlane <em>en ce moment m&ecirc;me.</em><br>
-BRIAR&#160;: Depuis que nous avons quitt&eacute; l'hôpital, tout tourne autour de <em>toi.</em> Comment <em>tu</em> as tout g&acirc;ch&eacute;. Comment son &eacute;tat <em>te</em> concerne.<br>
-BRIAR&#160;: Tu ne l'as m&ecirc;me pas mentionn&eacute;e une seule fois.</p>
+<p>BRIAR&nbsp;: Belfry, tu utilise Tamberlane <em>en ce moment même.</em><br>
+BRIAR&nbsp;: Depuis que nous avons quitté l'hôpital, tout tourne autour de <em>toi.</em> Comment <em>tu</em> as tout gâché. Comment son état <em>te</em> concerne.<br>
+BRIAR&nbsp;: Tu ne l'as même pas mentionnée une seule fois.</p>
 
-<p>SFX&#160;: K.O. !!!</p>
+<p>SFX&nbsp;: K.O. !!!</p>
 
-<p>BELFRY&#160;: Je viens de...<br>
-BELFRY&#160;: C'est juste que je dois me corriger pour pouvoir prendre soin d'elle.<br>
-BELFRY&#160;: Je ne suis pas assez bien pour elle.</p>
+<p>BELFRY&nbsp;: Je viens de...<br>
+BELFRY&nbsp;: C'est juste que je dois me corriger pour pouvoir prendre soin d'elle.<br>
+BELFRY&nbsp;: Je ne suis pas assez bien pour elle.</p>

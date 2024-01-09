@@ -1,16 +1,16 @@
-BELFRY&#160;: Non.
+BELFRY&nbsp;: Non.
 
-BELFRY&#160;: Ce n'est pas juste que tu sois coinc&eacute;e au milieu, Bri.
-BELFRY&#160;: Mais tu peux toujours me rendre visite ici si tu as besoin de t'&eacute;vader&#160;!
+BELFRY&nbsp;: Ce n'est pas juste que tu sois coincée au milieu, Bri.
+BELFRY&nbsp;: Mais tu peux toujours me rendre visite ici si tu as besoin de t'évader&nbsp;!
 
-BELFRY&#160;: Mais le fait est que c'est maman qui a commenc&eacute;, pas moi.
+BELFRY&nbsp;: Mais le fait est que c'est maman qui a commencé, pas moi.
 
-BELFRY&#160;: Et je ne peux tout simplement pas &ecirc;tre la premi&egrave;re &agrave; m'excuser cette fois.
-BELFRY&#160;: Elle doit respecter mes limites.
+BELFRY&nbsp;: Et je ne peux tout simplement pas être la première à m'excuser cette fois.
+BELFRY&nbsp;: Elle doit respecter mes limites.
 
-BELFRY&#160;: Je dois penser &agrave; Tamberlane. Je suis vraiment d&eacute;sol&eacute;e, Bri.
+BELFRY&nbsp;: Je dois penser à Tamberlane. Je suis vraiment désolée, Bri.
 
-BRIAR&#160;: C'est bon. J'ai juste...
-BRIAR&#160;: Tu me manques.
+BRIAR&nbsp;: C'est bon. J'ai juste...
+BRIAR&nbsp;: Tu me manques.
 
-BELFRY&#160;: Tu me manques aussi.
+BELFRY&nbsp;: Tu me manques aussi.

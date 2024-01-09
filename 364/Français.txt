@@ -1,12 +1,12 @@
-ROSIE&#160;: Rawwwwrr&#160;! Donne-moi mon &eacute;charpe&#160;!
-MINNA&#160;: H&eacute; h&eacute;&#160;! Attrape-moi!
+ROSIE&nbsp;: Rawwwwrr&nbsp;! Donne-moi mon écharpe&nbsp;!
+MINNA&nbsp;: Hé hé&nbsp;! Attrape-moi!
 
-JENTZEN&#160;: Oh&#160;!
-JENTZEN&#160;: Maman, tu es de retour.
+JENTZEN&nbsp;: Oh&nbsp;!
+JENTZEN&nbsp;: Maman, tu es de retour.
 
-GENEVI&Egrave;VE&#160;: Je...
-GENEVI&Egrave;VE&#160;: Oui.
+GENEVIÈVE&nbsp;: Je...
+GENEVIÈVE&nbsp;: Oui.
 
-GENEVI&Egrave;VE&#160;: Jentzen...
+GENEVIÈVE&nbsp;: Jentzen...
 
-JENTZEN&#160;: Que s'est-il pass&eacute;.
+JENTZEN&nbsp;: Que s'est-il passé.

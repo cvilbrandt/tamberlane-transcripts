@@ -1,13 +1,13 @@
-HORS-CHAMP&#160;: Les champignons, s'il-te-pla&icirc;t&#160;! J'ai besoin des champignons&#160;!
+HORS-CHAMP&nbsp;: Les champignons, s'il-te-plaît&nbsp;! J'ai besoin des champignons&nbsp;!
 
-CHAUVE-SOURIS&#160;: Les chanterelles ou les collybies&#160;?
+CHAUVE-SOURIS&nbsp;: Les chanterelles ou les collybies&nbsp;?
 
-CERF&#160;: Les chanterelles.
-CHAUVE-SOURIS&#160;: Es-tu s&ucirc;r&#160;? Je pensais que les collybies...
-CERF&#160;: *Les chanterelles.*
+CERF&nbsp;: Les chanterelles.
+CHAUVE-SOURIS&nbsp;: Es-tu sûr&nbsp;? Je pensais que les collybies...
+CERF&nbsp;: *Les chanterelles.*
 
-CHAUVE-SOURIS&#160;: D'accord&#160;! Des chanterelles, &ccedil;a arrive&#160;!
+CHAUVE-SOURIS&nbsp;: D'accord&nbsp;! Des chanterelles, ça arrive&nbsp;!
 
-CHAUVE-SOURIS&#160;: Pendant que tu t'occupes de l'omelette de maman, je vais pr&eacute;parer la tarte matin pour Miss Cori&#160;!
+CHAUVE-SOURIS&nbsp;: Pendant que tu t'occupes de l'omelette de maman, je vais préparer la tarte matin pour Miss Cori&nbsp;!
 
-HORS-CHAMP&#160;: ***ARGH&#160;!&#160;!***
+HORS-CHAMP&nbsp;: ***ARGH&nbsp;!&nbsp;!***

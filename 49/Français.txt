@@ -1,13 +1,13 @@
-Beffroi&#160;: Je pense que je l'ai fait !
-Beffroi&#160;: ... attendez.
+Beffroi&nbsp;: Je pense que je l'ai fait !
+Beffroi&nbsp;: ... attendez.
 
-Beffroi&#160;: Je crois que j'ai rat&eacute; une &eacute;tape...
+Beffroi&nbsp;: Je crois que j'ai raté une étape...
 
-Beffroi&#160;: Et voil&agrave; !
-TAMBERLANE&#160;: Muh !!
-Beffroi&#160;: Non ?
+Beffroi&nbsp;: Et voilà !
+TAMBERLANE&nbsp;: Muh !!
+Beffroi&nbsp;: Non ?
 
-Beffroi&#160;: ... euh...
+Beffroi&nbsp;: ... euh...
 
-Beffroi&#160;: Oakewood, je suis si fatigu&eacute;e, aide-moi
-OAKEWOOD&#160;: Donne-moi &ccedil;a.
+Beffroi&nbsp;: Oakewood, je suis si fatiguée, aide-moi
+OAKEWOOD&nbsp;: Donne-moi ça.

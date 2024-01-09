@@ -18,4 +18,4 @@ BELFRY: Oh!
 [SFX: ffsssshhhhh]
 
 [SFX: ffsssshhhhh]
-HORS-&Eacute;CRAN: BELFRY!
+HORS-ÉCRAN: BELFRY!

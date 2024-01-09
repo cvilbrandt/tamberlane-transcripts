@@ -1,16 +1,16 @@
-[SFX&#160;:hnf]
+[SFX&nbsp;:hnf]
 
-OAKEWOOD&#160;:Tch.
-OAKEWOOD&#160;: Des fant&ocirc;mes.
+OAKEWOOD&nbsp;:Tch.
+OAKEWOOD&nbsp;: Des fantômes.
 
-OAKEWOOD&#160;: Ils viennent probablement de voir un b&eacute;b&eacute; grizzli atteint de gale.
+OAKEWOOD&nbsp;: Ils viennent probablement de voir un bébé grizzli atteint de gale.
 
-OAKEWOOD&#160;:Avec des griffes agrippantes, comme une cr&eacute;ature...
+OAKEWOOD&nbsp;:Avec des griffes agrippantes, comme une créature...
 
-OAKEWOOD&#160;:Anormal pour un simple animal. Je me demande...
+OAKEWOOD&nbsp;:Anormal pour un simple animal. Je me demande...
 
-OAKEWOOD&#160;: Non. Je *vais* rester &agrave; la maison ce soir et profiter de mon th&eacute; dans le *confort&ocirc;*
+OAKEWOOD&nbsp;: Non. Je *vais* rester à la maison ce soir et profiter de mon thé dans le *confortô*
 
-[SFX&#160;: rrrrrrrrr]
+[SFX&nbsp;: rrrrrrrrr]
 
-OAKEWOOD&#160;: *Ah, bon sang&ocirc;*
+OAKEWOOD&nbsp;: *Ah, bon sangô*

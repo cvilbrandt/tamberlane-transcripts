@@ -1,22 +1,21 @@
-OAKEWOOD&#160;: Tr&egrave;s bien, remontez-les.
-HENRY &#160;: Oakewood&#160;? Que fais-tu ici&#160;?
+OAKEWOOD&nbsp;: Très bien, remontez-les.
+HENRY &nbsp;: Oakewood&nbsp;? Que fais-tu ici&nbsp;?
 
-OAKEWOOD&#160;: Recherche.
-OAKEWOOD&#160;: Maintenant, remontez-les.
+OAKEWOOD&nbsp;: Recherche.
+OAKEWOOD&nbsp;: Maintenant, remontez-les.
 
-TESS&#160;: Euh. *Oakewood.*
-TESS&#160;: Retourne &agrave; ta biblioth&egrave;que. C'est une *affaire de famille.*
+TESS&nbsp;: Euh. *Oakewood.*
+TESS&nbsp;: Retourne à ta bibliothèque. C'est une *affaire de famille.*
 
-OAKEWOOD&#160;: Oui, *oui,* c'est moi.
-OAKEWOOD&#160;: Orphelins, animaux sauvages, j'ai entendu parler de votre *affaire de famille* d&eacute;bile
+OAKEWOOD&nbsp;: Oui, *oui,* c'est moi.
+OAKEWOOD&nbsp;: Orphelins, animaux sauvages, j'ai entendu parler de votre *affaire de famille* débile
 
-OAKEWOOD&#160;: Vas-tu vraiment te disputer sous la pluie alors qu'elle est coinc&eacute;e dans un trou dans le sol&#160;?
+OAKEWOOD&nbsp;: Vas-tu vraiment te disputer sous la pluie alors qu'elle est coincée dans un trou dans le sol&nbsp;?
 
-TESS&#160;: Siiiiggghhhh
+TESS&nbsp;: Siiiiggghhhh
 
-TESS&#160;: Tr&egrave;s bien.
-TESS&#160;: Sortons ça du ravin.
+TESS&nbsp;: Très bien.
+TESS&nbsp;: Sortons ça du ravin.
 
-BEFFROI&#160;: JE N'AI PAS BESOIN DE TA PERMISSION&#160;!
-TESS&#160;: CETTE CORDE DIT QUE SI&#160;!!!
-
+BEFFROI&nbsp;: JE N'AI PAS BESOIN DE TA PERMISSION&nbsp;!
+TESS&nbsp;: CETTE CORDE DIT QUE SI&nbsp;!!!

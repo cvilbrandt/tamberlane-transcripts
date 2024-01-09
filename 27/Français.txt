@@ -1,21 +1,21 @@
-OAKEWOOD&#160;: Tr&egrave;s bien. Si tu *meurs simplement d'envie* de voir ta bulle de croyance &eacute;clater &agrave; nouveau...
+OAKEWOOD&nbsp;: Très bien. Si tu *meurs simplement d'envie* de voir ta bulle de croyance éclater à nouveau...
 
-OAKEWOOD&#160;: ... alors continue.
+OAKEWOOD&nbsp;: ... alors continue.
 
-AINSLEY&#160;: Tr&egrave;s bien, alors, petit malin !
-AINSLEY&#160;: Comment appellerais-tu un monstre qui
+AINSLEY&nbsp;: Très bien, alors, petit malin !
+AINSLEY&nbsp;: Comment appellerais-tu un monstre qui
 
-AINSLEY : se glissait &agrave; quatre pattes comme une b&ecirc;te...
-AINSLEY&#160;: ...mais qui a saisi l'air avec les griffes d'une cr&eacute;ature !
+AINSLEY : se glissait à quatre pattes comme une bête...
+AINSLEY&nbsp;: ...mais qui a saisi l'air avec les griffes d'une créature !
 
-AINSLEY&#160;: &eacute;tait presque compl&egrave;tement *sans fourrure !*
+AINSLEY&nbsp;: était presque complètement *sans fourrure !*
 
-[SFX&#160;: WAAAIL]
+[SFX&nbsp;: WAAAIL]
 
-AINSLEY&#160;: et qui poussait un d&eacute;chirant...
-AINSLEY&#160;: *hurlement...*
+AINSLEY&nbsp;: et qui poussait un déchirant...
+AINSLEY&nbsp;: *hurlement...*
 
-OAKEWOOD : Un rat-taupe en col&egrave;re ?
+OAKEWOOD : Un rat-taupe en colère ?
 
-AINSLEY : Tu ne penses pas que je sais &agrave; quoi &ccedil;a ressemble ?
-OAKEWOOD&#160;: On ne sait jamais.
+AINSLEY : Tu ne penses pas que je sais à quoi ça ressemble ?
+OAKEWOOD&nbsp;: On ne sait jamais.

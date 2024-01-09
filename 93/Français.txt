@@ -1,7 +1,7 @@
-VOIX&#160;: C'est dur, mais &ccedil;a s'est bien pass&eacute;.
+VOIX&nbsp;: C'est dur, mais ça s'est bien passé.
 
-OAKEWOOD&#160;: J'ai entendu dire qu'il y avait eu une petite crise personnelle.
+OAKEWOOD&nbsp;: J'ai entendu dire qu'il y avait eu une petite crise personnelle.
 
-BELFRY&#160;: ... Ce n'est rien.
+BELFRY&nbsp;: ... Ce n'est rien.
 
-OAKEWOOD&#160;: Eh bien, Dieu merci pour cela.
+OAKEWOOD&nbsp;: Eh bien, Dieu merci pour cela.

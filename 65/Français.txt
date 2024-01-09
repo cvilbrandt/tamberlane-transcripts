@@ -1,11 +1,11 @@
-BELFRY&#160;: Alors, c'est quoi tout ça&#160;?
+BELFRY&nbsp;: Alors, c'est quoi tout ça&nbsp;?
 
-HENRY&#160;: C'est pour toi&#160;!
-HENRY&#160;: Nora et moi pensions que tu aurais besoin de fournitures.
+HENRY&nbsp;: C'est pour toi&nbsp;!
+HENRY&nbsp;: Nora et moi pensions que tu aurais besoin de fournitures.
 
-HENRY&#160;: Il y a des biberons, des couches, des doudous, des jouets...
+HENRY&nbsp;: Il y a des biberons, des couches, des doudous, des jouets...
 
-HENRY&#160;: Tout est l&agrave;&#160;!
+HENRY&nbsp;: Tout est là&nbsp;!
 
-HENRY&#160;: Ou bien...
-HENRY&#160;: ... &eacute;tait l&agrave;.
+HENRY&nbsp;: Ou bien...
+HENRY&nbsp;: ... était là.

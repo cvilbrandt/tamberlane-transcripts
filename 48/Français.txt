@@ -1,13 +1,13 @@
-OAKEWOOD&#160;: N'oublie pas que tu dois &eacute;galement nettoyer le petit.
+OAKEWOOD&nbsp;: N'oublie pas que tu dois également nettoyer le petit.
 
-Beffroi&#160;: Je crois que c'est une fille !
+Beffroi&nbsp;: Je crois que c'est une fille !
 
-Beffroi&#160;: Probablement.
+Beffroi&nbsp;: Probablement.
 
-OAKEWOOD&#160;: Eh bien, cela suffira pour le moment.
-OAKEWOOD&#160;: Tu sais ce que &ccedil;a signifie, n'est-ce pas ?
-OAKEWOOD&#160;: Tu as une *fille.*
-OAKEWOOD&#160;: Une malodorante, puante et &eacute;trange petite fille.
+OAKEWOOD&nbsp;: Eh bien, cela suffira pour le moment.
+OAKEWOOD&nbsp;: Tu sais ce que ça signifie, n'est-ce pas ?
+OAKEWOOD&nbsp;: Tu as une *fille.*
+OAKEWOOD&nbsp;: Une malodorante, puante et étrange petite fille.
 
-OAKEWOOD&#160;: F&eacute;licitations.
-OAKEWOOD&#160;: C'est un monstre des marais.
+OAKEWOOD&nbsp;: Félicitations.
+OAKEWOOD&nbsp;: C'est un monstre des marais.

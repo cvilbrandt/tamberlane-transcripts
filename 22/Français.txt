@@ -1,18 +1,14 @@
+FANTÔME&nbsp;: Awooé
 
+[SFX&nbsp;: gémissement]
 
+FANTÔME&nbsp;: Okeeé
 
+[SFX&nbsp;: PAT PAT]
 
-FANT&Ocirc;ME&#160;: Awoo&eacute;
+FANTÔME&nbsp;: aveu alin eplai apwaé
+BELFRY&nbsp;: Um...
 
-[SFX&#160;: g&eacute;missement]
+FANTÔME&nbsp;: Apwaé Apwaé
 
-FANT&Ocirc;ME&#160;: Okee&eacute;
-
-[SFX&#160;: PAT PAT]
-
-FANT&Ocirc;ME&#160;: aveu alin eplai apwa&eacute;
-BELFRY&#160;: Um...
-
-FANT&Ocirc;ME&#160;: Apwa&eacute; Apwa&eacute;
-
-BELFRY&#160;: Tu veux... des pois&eacute;
+BELFRY&nbsp;: Tu veux... des poisé

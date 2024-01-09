@@ -1,13 +1,13 @@
-MARIE&#160;: Et les &eacute;coutilles sont...
+MARIE&nbsp;: Et les écoutilles sont...
 
-MARIE&#160;: ...aplatie&#160;! tada&#160;!
-TAMBERLANE&#160;: Waouh&#160;!
+MARIE&nbsp;: ...aplatie&nbsp;! tada&nbsp;!
+TAMBERLANE&nbsp;: Waouh&nbsp;!
 
-TAMBERLAN&#160;: Ah&#160;!! Ah&#160;!!
-MARIE&#160;: Oh – je suis d&eacute;sol&eacute;e&#160;! Je ne parle pas Trissol, Tam.
+TAMBERLAN&nbsp;: Ah&nbsp;!! Ah&nbsp;!!
+MARIE&nbsp;: Oh – je suis désolée&nbsp;! Je ne parle pas Trissol, Tam.
 
-MARIE&#160;: C'est imaginaire. Imagination. Jouer?
-TAMBERLAN&#160;: Oh&#160;! Ouer&#160;?
+MARIE&nbsp;: C'est imaginaire. Imagination. Jouer?
+TAMBERLAN&nbsp;: Oh&nbsp;! Ouer&nbsp;?
 
-HORS &Eacute;CRAN&#160;: Tamberlane&#160;!
-HORS &Eacute;CRAN&#160;: Tamberlane, o&ucirc; es-tu&#160;?
+HORS ÉCRAN&nbsp;: Tamberlane&nbsp;!
+HORS ÉCRAN&nbsp;: Tamberlane, oû es-tu&nbsp;?

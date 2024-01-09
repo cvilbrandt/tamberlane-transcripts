@@ -1,13 +1,11 @@
+BELFRY&nbsp;: Tu es plein de coups...
+BELFRY&nbsp;: Et sale.
+BELFRY&nbsp;: Et maigre.
 
+BELFRY&nbsp;: Où sont tes parents&nbsp;?
 
-BELFRY&#160;: Tu es plein de coups...
-BELFRY&#160;: Et sale.
-BELFRY&#160;: Et maigre.
+BELFRY&nbsp;: *As-tu* seulement des parents&nbsp;?
+BELFRY&nbsp;: Sont-il quelque part ici&nbsp;?
 
-BELFRY&#160;: Où sont tes parents&#160;?
-
-BELFRY&#160;: *As-tu* seulement des parents&#160;?
-BELFRY&#160;: Sont-il quelque part ici&#160;?
-
-BELFRY&#160;: Ils ne se seraient s&ucirc;rement pas aventur&eacute;s trop loin de leur petit...
-BELFRY&#160;: Mais s'ils t'ont *abandonn&eacute;*, ils ne m&eacute;ritent pas de t'avoir.
+BELFRY&nbsp;: Ils ne se seraient sûrement pas aventurés trop loin de leur petit...
+BELFRY&nbsp;: Mais s'ils t'ont *abandonné*, ils ne méritent pas de t'avoir.

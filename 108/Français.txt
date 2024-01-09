@@ -1,16 +1,16 @@
-BELFRY&#160;: Eeet...
+BELFRY&nbsp;: Eeet...
 
-BELFRY&#160;: C'est fait&#160;! Et voil&agrave;&#160;!
+BELFRY&nbsp;: C'est fait&nbsp;! Et voilà&nbsp;!
 
-BRIAR&#160;: Merci, Bel.
-BELFRY&#160;: J'esp&egrave;re que maman va laisser &ccedil;a reposer maintenant.
-BELFRY&#160;: Et on devrait bient&ocirc;t se retrouver autour d'une tasse de th&eacute;&#160;!
-OAKEWOOD (marmonn&eacute;)&#160;: Arr&ecirc;te &ccedil;a.
+BRIAR&nbsp;: Merci, Bel.
+BELFRY&nbsp;: J'espère que maman va laisser ça reposer maintenant.
+BELFRY&nbsp;: Et on devrait bientôt se retrouver autour d'une tasse de thé&nbsp;!
+OAKEWOOD (marmonné)&nbsp;: Arrête ça.
 
-BELFRY&#160;: Tamberlane devrait faire connaissance avec sa tante&#160;!
-TAMBERLANE&#160;: Hein&#160;?
+BELFRY&nbsp;: Tamberlane devrait faire connaissance avec sa tante&nbsp;!
+TAMBERLANE&nbsp;: Hein&nbsp;?
 
-BRIAR&#160;: ... Bien s&ucirc;r.
-BRIAR&#160;: Laisse-moi d'abord en finir avec &ccedil;a.
+BRIAR&nbsp;: ... Bien sûr.
+BRIAR&nbsp;: Laisse-moi d'abord en finir avec ça.
 
-BRIAR&#160;: Je vais donner &ccedil;a &agrave; maman. Rendez-vous au Festival Souverain, Belfry.
+BRIAR&nbsp;: Je vais donner ça à maman. Rendez-vous au Festival Souverain, Belfry.

@@ -1,22 +1,22 @@
-TESS:Bel, *s'il te pla&icirc;t* &eacute;coute-moi.
+TESS:Bel, *s'il te plaît* écoute-moi.
 
 TESS: Nous ne savons pas d'où vient cette chose...
-TESS: &Ccedil;a pourrait &ecirc;tre *Corrompu.* Si des cr&eacute;atures le d&eacute;couvraient...
+TESS: Ça pourrait être *Corrompu.* Si des créatures le découvraient...
 
 TESS: Tu devrais aller…
 TESS: *Ailleurs.*
 
 BELFRY: Je m'en *FICHE.*
-BELFRY: Rien de ce que tu diras ne me fera le remettre&#160;!
-TAMBERLANE: Empiche&#160;!
+BELFRY: Rien de ce que tu diras ne me fera le remettre&nbsp;!
+TAMBERLANE: Empiche&nbsp;!
 
-TESS: Belfry, tu ne *comprends pas&#160;!*
-BELFRY: Oh, je comprends parfaitement&#160;! Arr&ecirc;te de me traiter comme une enfant&#160;!
-BELFRY: J'ai *dix-neuf ans&#160;!*
-TAMBERLANE:Wah&#160;!
+TESS: Belfry, tu ne *comprends pas&nbsp;!*
+BELFRY: Oh, je comprends parfaitement&nbsp;! Arrête de me traiter comme une enfant&nbsp;!
+BELFRY: J'ai *dix-neuf ans&nbsp;!*
+TAMBERLANE:Wah&nbsp;!
 
-ANTHONY: Miss Tess, je pense que c'est une mauvaise id&eacute;e.
-BRIAR: *S'il te pla&icirc;t* &eacute;coute juste maman, Belfry.
-PIPER: *Bouclez-la&#160;!* Laissez-les se battre! Je veux voir tout le SANG&#160;!
+ANTHONY: Miss Tess, je pense que c'est une mauvaise idée.
+BRIAR: *S'il te plaît* écoute juste maman, Belfry.
+PIPER: *Bouclez-la&nbsp;!* Laissez-les se battre! Je veux voir tout le SANG&nbsp;!
 
-WALTER: Maintenant [en russe], respire profond&eacute;ment...
+WALTER: Maintenant [en russe], respire profondément...

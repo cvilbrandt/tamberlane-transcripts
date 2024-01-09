@@ -1,16 +1,16 @@
-BELFRY&#160;: Oakewood (assourdi)
-[SFX&#160;: WWWWAAAAAAAAAAAAAWAAAAAAAAAAA]
+BELFRY&nbsp;: Oakewood (assourdi)
+[SFX&nbsp;: WWWWAAAAAAAAAAAAAWAAAAAAAAAAA]
 
-OAKEWOOD&#160;: (assourdi)
+OAKEWOOD&nbsp;: (assourdi)
 
-[SFX&#160;: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]
+[SFX&nbsp;: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]
 
-OAKEWOOD&#160;: (assourdi) moi&#160;?
+OAKEWOOD&nbsp;: (assourdi) moi&nbsp;?
 
-[SFX&#160;: AAAAAAAAAAmmph-&#160;!]
+[SFX&nbsp;: AAAAAAAAAAmmph-&nbsp;!]
 
-OAKEWOOD&#160;: Euh&#160;! Ce petit a d&eacute;sesp&eacute;r&eacute;ment besoin d’&ecirc;tre chang&eacute;.
-OAKEWOOD&#160;: Va chercher des couches dans le placard &agrave; fournitures.
+OAKEWOOD&nbsp;: Euh&nbsp;! Ce petit a désespérément besoin d’être changé.
+OAKEWOOD&nbsp;: Va chercher des couches dans le placard à fournitures.
 
-OAKEWOOD&#160;: Cela veut dire *toi*, Belfry&#160;!
-OAKEWOOD&#160;: Et essaye de ne pas tout g&acirc;cher&#160;!
+OAKEWOOD&nbsp;: Cela veut dire *toi*, Belfry&nbsp;!
+OAKEWOOD&nbsp;: Et essaye de ne pas tout gâcher&nbsp;!

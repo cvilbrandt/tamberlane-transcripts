@@ -1,14 +1,14 @@
-MILO&#160;: Je ne suis *pas* un enfant&#160;! C’est la pierre angulaire de ma th&egrave;se de doctorat&#160;!
-OAKEWOOD&#160;: Enfant.
+MILO&nbsp;: Je ne suis *pas* un enfant&nbsp;! C’est la pierre angulaire de ma thèse de doctorat&nbsp;!
+OAKEWOOD&nbsp;: Enfant.
 
-MILO&#160;: Je fais des recherches sur ces questions depuis *des ann&eacute;es&#160;!*
-OAKEWOOD&#160;: Enfant&#160;!
+MILO&nbsp;: Je fais des recherches sur ces questions depuis *des années&nbsp;!*
+OAKEWOOD&nbsp;: Enfant&nbsp;!
 
-MILO&#160;: *S'il te pla&icirc;t* donne-moi une chance, Oncle Claude&#160;! Et si *tu* supervisais&#160;?
+MILO&nbsp;: *S'il te plaît* donne-moi une chance, Oncle Claude&nbsp;! Et si *tu* supervisais&nbsp;?
 
-OAKEWOOD&#160;: Qu'est-ce *exactement* que cette recherche impliquerait&#160;?
+OAKEWOOD&nbsp;: Qu'est-ce *exactement* que cette recherche impliquerait&nbsp;?
 
-MILO&#160;: L’observation, surtout&#160;?
+MILO&nbsp;: L’observation, surtout&nbsp;?
 
-OAKEWOOD&#160;: SURTOUT&#160;?
-MILO&#160;: EXCLUSIVEMENT&#160;!
+OAKEWOOD&nbsp;: SURTOUT&nbsp;?
+MILO&nbsp;: EXCLUSIVEMENT&nbsp;!

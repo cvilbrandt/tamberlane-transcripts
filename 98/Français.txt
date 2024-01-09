@@ -1,10 +1,10 @@
-OAKEWOOD&#160;: ...je suppose que tu vas garder le gamin.
-Beffroi&#160;: Oui.
+OAKEWOOD&nbsp;: ...je suppose que tu vas garder le gamin.
+Beffroi&nbsp;: Oui.
 
-OAKEWOOD&#160;: Dieu merci. Tous ces « Allons-y, n'y allons pas » devenaient fastidieux.
+OAKEWOOD&nbsp;: Dieu merci. Tous ces « Allons-y, n'y allons pas » devenaient fastidieux.
 
-OAKEWOOD&#160;: *De toute &eacute;vidence* tu allais forc&eacute;ment la garder. Vous &ecirc;tes un couple assorti, vous deux.
-OAKEWOOD&#160;: Je devais juste surmonter toutes ces foutues pleurnicheries.
+OAKEWOOD&nbsp;: *De toute évidence* tu allais forcément la garder. Vous êtes un couple assorti, vous deux.
+OAKEWOOD&nbsp;: Je devais juste surmonter toutes ces foutues pleurnicheries.
 
-Beffroi&#160;: Merci, Oakewood.
-OAKEWOOD&#160;: Bah. J'ai besoin d'un th&eacute;.
+Beffroi&nbsp;: Merci, Oakewood.
+OAKEWOOD&nbsp;: Bah. J'ai besoin d'un thé.

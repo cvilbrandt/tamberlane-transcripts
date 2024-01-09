@@ -1,17 +1,17 @@
-BELFRY&#160;: Que veux-tu dire&#160;?
-BRIAR&#160;: Je veux dire...
+BELFRY&nbsp;: Que veux-tu dire&nbsp;?
+BRIAR&nbsp;: Je veux dire...
 
-BELFRY&#160;: Briar&#160;?
+BELFRY&nbsp;: Briar&nbsp;?
 
-BRIAR&#160;: Je *veux dire* que tu dois arr&ecirc;ter d'&ecirc;tre aussi *t&ecirc;tue&#160;!*
-BRIAR&#160;: Toi et maman ne vous parlez plus, *encore&#160;!*
-BRIAR&#160;: Papa a d&ucirc; reprendre ton travail &agrave; la boulangerie&#160;!
-BRIAR&#160;: Ils se disputent tous les soirs pendant le d&icirc;ner&#160;!
+BRIAR&nbsp;: Je *veux dire* que tu dois arrêter d'être aussi *têtue&nbsp;!*
+BRIAR&nbsp;: Toi et maman ne vous parlez plus, *encore&nbsp;!*
+BRIAR&nbsp;: Papa a dû reprendre ton travail à la boulangerie&nbsp;!
+BRIAR&nbsp;: Ils se disputent tous les soirs pendant le dîner&nbsp;!
 
-BRIAR&#160;: ***ET JE SUIS COINC&Eacute;E AU MILIEU, COMME TOUJOURS&#160;!***
+BRIAR&nbsp;: ***ET JE SUIS COINCÉE AU MILIEU, COMME TOUJOURS&nbsp;!***
 
-BRIAR&#160;: Si tu as envie de faire la maman, alors g&eacute;nial&#160;!
-BRIAR&#160;: Fais-le&#160;!
+BRIAR&nbsp;: Si tu as envie de faire la maman, alors génial&nbsp;!
+BRIAR&nbsp;: Fais-le&nbsp;!
 
-BRIAR&#160;: Mais pourrais-tu *s'il te pla&icirc;t* arr&ecirc;ter d'&ecirc;tre si *fichtrement difficile&#160;?*
-BRIAR&#160;: Viens *&agrave; la maison&#160;!*
+BRIAR&nbsp;: Mais pourrais-tu *s'il te plaît* arrêter d'être si *fichtrement difficile&nbsp;?*
+BRIAR&nbsp;: Viens *à la maison&nbsp;!*

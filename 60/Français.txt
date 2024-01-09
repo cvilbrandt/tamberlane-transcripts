@@ -1,15 +1,15 @@
-PENNY&#160;: Piper, excuse-toi !
-PIPER&#160;: Ouais, ouais. Ne t'inqui&egrave;te pas, je m'en charge.
+PENNY&nbsp;: Piper, excuse-toi !
+PIPER&nbsp;: Ouais, ouais. Ne t'inquiète pas, je m'en charge.
 
-PIPER&#160;: H&eacute;, bonjour, ma ch&eacute;rie Tambermachin~
-TAMBERLANE&#160;: Wah !
+PIPER&nbsp;: Hé, bonjour, ma chérie Tambermachin~
+TAMBERLANE&nbsp;: Wah !
 
-PIPER&#160;: Moi, la merveilleuse et si charmante Piper,
+PIPER&nbsp;: Moi, la merveilleuse et si charmante Piper,
 
-PIPER&#160;: Ai gracieusement d&eacute;cid&eacute; de laisser le pass&eacute; derri&egrave;re nous.
+PIPER&nbsp;: Ai gracieusement décidé de laisser le passé derrière nous.
 
-PIPER&#160;: Et si on se r&eacute;conciliait avec un c&acirc;lin ??
+PIPER&nbsp;: Et si on se réconciliait avec un câlin ??
 
-TAMBERLANE&#160;: NON ! PAS C&Acirc;LIN ! BYE BYE!
+TAMBERLANE&nbsp;: NON ! PAS CÂLIN ! BYE BYE!
 
-PIPER&#160;: C'est tout ce que j'ai.
+PIPER&nbsp;: C'est tout ce que j'ai.

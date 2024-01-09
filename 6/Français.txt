@@ -1,19 +1,17 @@
+BLAIREAU&nbsp;: Hein ? Qu'est ce qui s'est passé ?
 
+BELFRY&nbsp;: J'avais oublié que le four était chaud.
 
-BLAIREAU&#160;: Hein ? Qu'est ce qui s'est pass&eacute; ?
+[SFX&nbsp;: ding-a-ling!!]
 
-BELFRY&#160;: J'avais oubli&eacute; que le four &eacute;tait chaud.
+BLAIREAU&nbsp;: Ça doit être Coriander.
+BLAIREAU&nbsp;: Walter, peux-tu la servir pendant que je m'occupe des pattes de Belfry?
+WALTER&nbsp;: Спасибо, Tess, mon amour.
 
-[SFX&#160;: ding-a-ling!!]
+BLAIREAU&nbsp;: Allons panser ça, ma pauvre enfant.
+BELFRY&nbsp;: Merci, maman.
 
-BLAIREAU&#160;: Ça doit &ecirc;tre Coriander.
-BLAIREAU&#160;: Walter, peux-tu la servir pendant que je m'occupe des pattes de Belfry?
-WALTER&#160;: Спасибо, Tess, mon amour.
+HORS-CADRE&nbsp;: ***AINSLEY!!***
 
-BLAIREAU&#160;: Allons panser &ccedil;a, ma pauvre enfant.
-BELFRY&#160;: Merci, maman.
-
-HORS-CADRE&#160;: ***AINSLEY!!***
-
-ANTHONY&#160;: Piper, On ne devrait pas…
-PIPER&#160;: Ferme-la, Anthony.
+ANTHONY&nbsp;: Piper, On ne devrait pas…
+PIPER&nbsp;: Ferme-la, Anthony.

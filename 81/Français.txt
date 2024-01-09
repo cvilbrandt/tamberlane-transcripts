@@ -1,12 +1,12 @@
-BELFRY&#160;: ...Je ne suis pas faite pour &ccedil;a.
-NORA&#160;: Belfry...
+BELFRY&nbsp;: ...Je ne suis pas faite pour ça.
+NORA&nbsp;: Belfry...
 
-BELFRY&#160;: Tu peux le voir, je peux le voir... *Tout le monde* peut le voir&#160;!
+BELFRY&nbsp;: Tu peux le voir, je peux le voir... *Tout le monde* peut le voir&nbsp;!
 
-BELFRY&#160;: Je ne peux pas m'occuper d'une autre cr&eacute;ature&#160;!
-BELFRY&#160;: Je peux &agrave; peine prendre soin de *moi-m&ecirc;me&#160;!*
-NORA&#160;: Belfry, calme-toi&#160;!
+BELFRY&nbsp;: Je ne peux pas m'occuper d'une autre créature&nbsp;!
+BELFRY&nbsp;: Je peux à peine prendre soin de *moi-même&nbsp;!*
+NORA&nbsp;: Belfry, calme-toi&nbsp;!
 
-BELFRY&#160;: Hier, j'ai oubli&eacute; de mettre des gants de cuisine&#160;!!
+BELFRY&nbsp;: Hier, j'ai oublié de mettre des gants de cuisine&nbsp;!!
 
-BELFRY&#160;: ***QUI OUBLIE LES GANTS DE CUISINE&#160;?!***
+BELFRY&nbsp;: ***QUI OUBLIE LES GANTS DE CUISINE&nbsp;?!***

@@ -1,9 +1,7 @@
+WALTER&nbsp;: Et, Belfry...
+WALTER&nbsp;: N'oublie pas d'utiliser
+WALTER&nbsp;: *Les maniques*&nbsp;!
 
+[SFX&nbsp;: paff]
 
-WALTER&#160;: Et, Belfry...
-WALTER&#160;: N'oublie pas d'utiliser
-WALTER&#160;: *Les maniques*&#160;!
-
-[SFX&#160;: paff]
-
-[SFX&#160;: hrmn]
+[SFX&nbsp;: hrmn]

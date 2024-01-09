@@ -1,19 +1,19 @@
-PARSLEY&#160;: Peut-&ecirc;tre devrions-nous faire une pause.
-PARSLEY&#160;: La pauvre est tellement boulevers&eacute;e.
+PARSLEY&nbsp;: Peut-être devrions-nous faire une pause.
+PARSLEY&nbsp;: La pauvre est tellement bouleversée.
 
-PENNY&#160;: C’est logique.
-PENNY&#160;: Maman a dit que Miss Belfry l'avait trouv&eacute;e dans les bois la nuit derni&egrave;re et l'avait h&eacute;berg&eacute;e.
-PARSLEY&#160;: Mlle Belfry&#160;?
-PARSLEY&#160;: Belfry *P&acirc;tissi&egrave;re&#160;?* *Cette* Belfry&#160;?
-PENNY&#160;: Ouais.
+PENNY&nbsp;: C’est logique.
+PENNY&nbsp;: Maman a dit que Miss Belfry l'avait trouvée dans les bois la nuit dernière et l'avait hébergée.
+PARSLEY&nbsp;: Mlle Belfry&nbsp;?
+PARSLEY&nbsp;: Belfry *Pâtissière&nbsp;?* *Cette* Belfry&nbsp;?
+PENNY&nbsp;: Ouais.
 
-PARSLEY&#160;: Qui a laiss&eacute; Belfry P&acirc;tissi&egrave;re *s'occuper d'un petit&#160;?!*
-PENNY&#160;: C'est peut-&ecirc;tre pour ça qu'elle ne peut pas parler. Miss Bel a d&ucirc; la laisser tomber sur la t&ecirc;te.
-PARSLEY&#160;: &Ccedil;a* ce n'est rien; c'est un miracle qu'elle n'ait pas &eacute;t&eacute; accidentellement *poignard&eacute;e&#160;!*
-MARIE&#160;: Oui, Miss Belfry est tr&egrave;s gentille, mais...
+PARSLEY&nbsp;: Qui a laissé Belfry Pâtissière *s'occuper d'un petit&nbsp;?!*
+PENNY&nbsp;: C'est peut-être pour ça qu'elle ne peut pas parler. Miss Bel a dû la laisser tomber sur la tête.
+PARSLEY&nbsp;: Ça* ce n'est rien; c'est un miracle qu'elle n'ait pas été accidentellement *poignardée&nbsp;!*
+MARIE&nbsp;: Oui, Miss Belfry est très gentille, mais...
 
-MARIE&#160;: Bon, oublions tout ça pour l'instant, hein&#160;?
-MARIE&#160;: Je dis qu'on fait une pause pour jouer aux pirates de la rivi&egrave;re.
+MARIE&nbsp;: Bon, oublions tout ça pour l'instant, hein&nbsp;?
+MARIE&nbsp;: Je dis qu'on fait une pause pour jouer aux pirates de la rivière.
 
-MARIE&#160;: Veux-tu jouer, Tamberlane&#160;?
-TAMBERLANE&#160;: ouais
+MARIE&nbsp;: Veux-tu jouer, Tamberlane&nbsp;?
+TAMBERLANE&nbsp;: ouais

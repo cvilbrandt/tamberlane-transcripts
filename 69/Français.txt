@@ -1,13 +1,13 @@
-TAMBERLANE&#160;: Moi queue&#160;??
-MARIE&#160;: Tu n'en as pas&#160;!
-MARIE&#160;: &Ccedil;a, je le vois, en tout cas.
+TAMBERLANE&nbsp;: Moi queue&nbsp;??
+MARIE&nbsp;: Tu n'en as pas&nbsp;!
+MARIE&nbsp;: Ça, je le vois, en tout cas.
 
-MARIE&#160;: On ne croise pas souvent des cr&eacute;atures sans queue&#160;!
-MARIE&#160;: Mais &ccedil;a va&#160;! Cela veut simplement dire que tu es diff&eacute;rente&#160;!
-TAMBERLANE&#160;: Di&eacute;rent&#160;?
+MARIE&nbsp;: On ne croise pas souvent des créatures sans queue&nbsp;!
+MARIE&nbsp;: Mais ça va&nbsp;! Cela veut simplement dire que tu es différente&nbsp;!
+TAMBERLANE&nbsp;: Diérent&nbsp;?
 
-MARIE&#160;: Ouais&#160;!
-MARIE&#160;: Tu ne ressembles pas beaucoup aux autres cr&eacute;atures ici.
-MARIE&#160;: Tiens, je vais te montrer&#160;!
+MARIE&nbsp;: Ouais&nbsp;!
+MARIE&nbsp;: Tu ne ressembles pas beaucoup aux autres créatures ici.
+MARIE&nbsp;: Tiens, je vais te montrer&nbsp;!
 
-MARIE&#160;: Tu vois&#160;?
+MARIE&nbsp;: Tu vois&nbsp;?

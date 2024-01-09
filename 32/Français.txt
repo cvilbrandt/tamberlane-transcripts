@@ -1,12 +1,12 @@
-BELFRY&#160;: Ce n'est *pas* un animal sauvage&#160;!
-BELFRY&#160;: Il est intelligent, comme une cr&eacute;ature&#160;!
+BELFRY&nbsp;: Ce n'est *pas* un animal sauvage&nbsp;!
+BELFRY&nbsp;: Il est intelligent, comme une créature&nbsp;!
 
-BELFRY&#160;: Et il a froid, il a peur, il est bless&eacute; et il a faim.
+BELFRY&nbsp;: Et il a froid, il a peur, il est blessé et il a faim.
 
-BELFRY&#160;: et pire, il est *abandonn&eacute;&#160;!*
+BELFRY&nbsp;: et pire, il est *abandonné&nbsp;!*
 
-TESS&#160;: Tu n’as aucun moyen de le savoir&#160;! Les parents de *cette chose* sont probablement en train de chercher de la nourriture&#160;!
+TESS&nbsp;: Tu n’as aucun moyen de le savoir&nbsp;! Les parents de *cette chose* sont probablement en train de chercher de la nourriture&nbsp;!
 
-BELFRY&#160;: Il est fatigu&eacute; et affam&eacute;, et il est tout seul sous la pluie&#160;! Il a &eacute;t&eacute; abandonn&eacute;, j'en suis *s&ucirc;re&#160;!*
+BELFRY&nbsp;: Il est fatigué et affamé, et il est tout seul sous la pluie&nbsp;! Il a été abandonné, j'en suis *sûre&nbsp;!*
 
-TESS&#160;: Belfry, laisse ce foutu animal tranquille&#160;!
+TESS&nbsp;: Belfry, laisse ce foutu animal tranquille&nbsp;!
