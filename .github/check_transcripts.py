@@ -36,6 +36,7 @@ UNICODE_REPLACEMENTS = {
     "&Icirc;": "Î",
     "&Ocirc;": "Ô",
     "&Ccedil;": "Ç",
+    "&nbsp;": " ",
 }
 
 
