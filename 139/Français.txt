@@ -12,4 +12,4 @@ PENNY&nbsp;: Maman&nbsp;! Tu peux lâcher maintenant&nbsp;! Je l'ai&nbsp;!
 TAMBERLANE&nbsp;: Faim&nbsp;?
 RENARD&nbsp;: *AAGGHH&nbsp;! Qu'est-ce que c'est&nbsp;?!*
 CHAUVE-SOURIS&nbsp;: Oh, tu n’es pas venu en ville depuis un moment.
-DINGO&nbsp;: C'est Tamberlane&nbsp;! Notre résident "fantôme&nbsp;!"
+DINGO&nbsp;: C'est Tamberlane&nbsp;! Notre "fantôme" résident&nbsp;!
