@@ -4,7 +4,7 @@ TAMBERLANE&nbsp;: Il ne voulait pas d'aide.
 
 OAKEWOOD&nbsp;: Non, il n’en voulait pas. Certaines créatures n'en veulent pas.
 TAMBERLANE&nbsp;: Mais j'aide.
-OAKEWOOD&nbsp;: Non, vous êtes un petit. Tu *es* simplement.
+OAKEWOOD&nbsp;: Non, tu es un petit. Tu *es* simplement.
 
 OAKEWOOD&nbsp;: Mais à part aider, est-ce que ça va&nbsp;?
 
