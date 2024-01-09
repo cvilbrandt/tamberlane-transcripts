@@ -1,21 +1,21 @@
-[SFX&#160;: KOFF KOFF KOFF KOFF]
+[SFX&nbsp;: KOFF KOFF KOFF KOFF]
 
-[SFX&#160;: koff koff koff koff]
-GRYPHON&#160;: Les filles&#160;! Qu'est-ce que je vous ai dit &agrave; propos des fumig&egrave;nes &agrave; bord&#160;?!
-PETITES CHAUVES-SOURIS&#160;: D&eacute;sol&eacute;e, Capitaine&#160;!
+[SFX&nbsp;: koff koff koff koff]
+GRYPHON&nbsp;: Les filles&nbsp;! Qu'est-ce que je vous ai dit à propos des fumigènes à bord&nbsp;?!
+PETITES CHAUVES-SOURIS&nbsp;: Désolée, Capitaine&nbsp;!
 
-GRYPHON&#160;: Et Winnie, arr&ecirc;te de les laisser entrer dans la cuisine.
-WINNIE&#160;: Oui, capitaine.
+GRYPHON&nbsp;: Et Winnie, arrête de les laisser entrer dans la cuisine.
+WINNIE&nbsp;: Oui, capitaine.
 
-PETITE CHAUVE-SOURIS 1&#160;: Oh, courage, Cap'n Gillian&#160;!
+PETITE CHAUVE-SOURIS 1&nbsp;: Oh, courage, Cap'n Gillian&nbsp;!
 
-PETITE CHAUVE-SOURIS 1&#160;: On apprenait vraiment &agrave;*AHHH&#160;!!*
+PETITE CHAUVE-SOURIS 1&nbsp;: On apprenait vraiment à*AHHH&nbsp;!!*
 
-TAMBERLANE&#160;: b&acirc;&acirc;&acirc;&acirc;&acirc;ille
-OAKEWOOD&#160;: Oh, tu t'es enfin r&eacute;veill&eacute;e, n'est-ce pas&#160;?
+TAMBERLANE&nbsp;: bâââââille
+OAKEWOOD&nbsp;: Oh, tu t'es enfin réveillée, n'est-ce pas&nbsp;?
 
-AMBRE&#160;: *Qu'est-ce que* sur la verte Terre de Dieu, c'est que *&ccedil;a&#160;?!*
+AMBRE&nbsp;: *Qu'est-ce que* sur la verte Terre de Dieu, c'est que *ça&nbsp;?!*
 
-PIPER&#160;:&#160;?
+PIPER&nbsp;:&nbsp;?
 
-PIPER&#160;: *QUOI&#160;??* C'est juste *Tamberlane&#160;!*
+PIPER&nbsp;: *QUOI&nbsp;??* C'est juste *Tamberlane&nbsp;!*

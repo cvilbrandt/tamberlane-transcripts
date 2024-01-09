@@ -1,18 +1,18 @@
-MILO&#160;: Tu voulais que je regarde quelque chose&#160;?
+MILO&nbsp;: Tu voulais que je regarde quelque chose&nbsp;?
 
-OAKEWOOD&#160;: C'est Tamberlane. Belfry P&acirc;tissi&egrave;re l'a trouv&eacute;e dans la for&ecirc;t et l'a adopt&eacute;e.
-OAKEWOOD&#160;: Mais nous n'avons pas la moindre id&eacute;e de ce qu'elle est.
-OAKEWOOD&#160;: Nous nous demandions si tu avais pu voir quelque chose comme elle dans tes &eacute;tudes.
+OAKEWOOD&nbsp;: C'est Tamberlane. Belfry Pâtissière l'a trouvée dans la forêt et l'a adoptée.
+OAKEWOOD&nbsp;: Mais nous n'avons pas la moindre idée de ce qu'elle est.
+OAKEWOOD&nbsp;: Nous nous demandions si tu avais pu voir quelque chose comme elle dans tes études.
 
-MILO&#160;: Comme c'est fascinant&#160;! Je peux t'examiner&#160;?
+MILO&nbsp;: Comme c'est fascinant&nbsp;! Je peux t'examiner&nbsp;?
 
-TAMBERLANE&#160;: OkAGH&#160;!
-MILO&#160;: Dentition omnivore...
+TAMBERLANE&nbsp;: OkAGH&nbsp;!
+MILO&nbsp;: Dentition omnivore...
 
-MILO&#160;: Motif de fourrure inhabituel... Et elle ne ressemble &agrave; rien de ce que j'ai lu jusqu'&agrave; pr&eacute;sent.
-MILO&#160;: Elle est parfaite&#160;!
+MILO&nbsp;: Motif de fourrure inhabituel... Et elle ne ressemble à rien de ce que j'ai lu jusqu'à présent.
+MILO&nbsp;: Elle est parfaite&nbsp;!
 
-OAKEWOOD&#160;: Maintenant, attends un peu&#160;!
-OAKEWOOD&#160;: Que veux-tu dire par "*parfaite*"&#160;?
+OAKEWOOD&nbsp;: Maintenant, attends un peu&nbsp;!
+OAKEWOOD&nbsp;: Que veux-tu dire par "*parfaite*"&nbsp;?
 
-MILO&#160;: Pour mon *projet de recherche&#160;!*
+MILO&nbsp;: Pour mon *projet de recherche&nbsp;!*
