@@ -1,0 +1,21 @@
+[SFX&#160;: KOFF KOFF KOFF KOFF]
+
+[SFX&#160;: koff koff koff koff]
+GRYPHON&#160;: Les filles&#160;! Qu'est-ce que je vous ai dit &agrave; propos des fumig&egrave;nes &agrave; bord&#160;?!
+PETITES CHAUVES-SOURIS&#160;: D&eacute;sol&eacute;e, Capitaine&#160;!
+
+GRYPHON&#160;: Et Winnie, arr&ecirc;te de les laisser entrer dans la cuisine.
+WINNIE&#160;: Oui, capitaine.
+
+PETITE CHAUVE-SOURIS 1&#160;: Oh, courage, Cap'n Gillian&#160;!
+
+PETITE CHAUVE-SOURIS 1&#160;: On apprenait vraiment &agrave;*AHHH&#160;!!*
+
+TAMBERLANE&#160;: b&acirc;&acirc;&acirc;&acirc;&acirc;ille
+OAKEWOOD&#160;: Oh, tu t'es enfin r&eacute;veill&eacute;e, n'est-ce pas&#160;?
+
+AMBRE&#160;: *Qu'est-ce que* sur la verte Terre de Dieu, c'est que *&ccedil;a&#160;?!*
+
+PIPER&#160;:&#160;?
+
+PIPER&#160;: *QUOI&#160;??* C'est juste *Tamberlane&#160;!*
