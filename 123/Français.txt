@@ -1,0 +1,19 @@
+OAKEWOOD&#160;: Donc, je suppose que vous et votre &eacute;quipage n'avez rencontr&eacute; rien de semblable, alors&#160;?
+GILLIAN&#160;: Je crains que non, mon gars.
+GILLIAN&#160;: C'est... elle&#160;?
+GILLIAN&#160;: ...ne m'est pas du tout famili&egrave;re. Terriblement d&eacute;sol&eacute;.
+GILLIAN (marmonn&eacute;)&#160;: beurk.
+
+SMALL BAT 2&#160;: Capitaine, peut-&ecirc;tre que le type intelligent le saurait.
+GILLIAN&#160;: Soupiiiir...
+GILLIAN&#160;: C’est vrai…
+
+GILLIAN&#160;: Puisque tu as eu la gentillesse de le mentionner, Artie, pourquoi *tu* ne vas pas chercher Milo&#160;?
+
+ARTIE&#160;: Dois-je *vraiment*&#160;? Il a eu des naus&eacute;es partout dans sa cabine tout &agrave; l'heure.
+
+GILLIAN&#160;: *Quelqu'un* doit le faire, et ce ne sera pas moi.
+GILLIAN&#160;: Consid&egrave;re cela comme un ordre du capitaine.
+
+ARTIE (marmonn&eacute;)&#160;: grognement grognement grognement
+ARTIE&#160;: ...aye, Capitaine...
