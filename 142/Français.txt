@@ -1,0 +1,15 @@
+OAKEWOOD&nbsp;: Tamberlane, ça va&nbsp;?
+
+TAMBERLANE&nbsp;: Il ne voulait pas d'aide.
+
+OAKEWOOD&nbsp;: Non, il n’en voulait pas. Certaines créatures n'en veulent pas.
+TAMBERLANE&nbsp;: Mais j'aide.
+OAKEWOOD&nbsp;: Non, tu es un petit. Tu *es* simplement.
+
+OAKEWOOD&nbsp;: Mais à part aider, est-ce que ça va&nbsp;?
+
+TAMBERLANE&nbsp;: Ouais... Mais est-ce qu'Unca va bien&nbsp;?
+
+OAKEWOOD&nbsp;: Oui. Mais qu'est-ce que je viens de dire&nbsp;?
+TAMBERLANE&nbsp;: Pas aide, juste être&nbsp;!
+OAKEWOOD&nbsp;: Très bien.
