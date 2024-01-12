@@ -1,0 +1,21 @@
+WALTER&nbsp;: Nous ne sommes pas prêts pour un petit.
+TESS&nbsp;: Je sais.
+WALTER&nbsp;: Le Conseil aura des questions.
+TESS&nbsp;: Je sais.
+WALTER&nbsp;: Nous n’avons pas de fournitures.
+TESS&nbsp;: Je sais.
+
+TESS&nbsp;: Je sais que nous avons convenu de commencer à essayer dans quelques années.
+TESS&nbsp;: Mais elle a besoin d'aide *maintenant.*
+
+WALTER&nbsp;: Quelqu'un d'autre ne peut-il pas s'occuper de la petite chauve-souris&nbsp;?
+
+TESS&nbsp;: Elle *nous* a été *confiée*.
+
+WALTER&nbsp;: [Russe]... nous sommes trop fatigués pour cette conversation.
+WALTER&nbsp;: Nous discuterons demain matin.
+
+TESS&nbsp;: Tout ira bien. Nous sommes là l'un pour l'autre.
+TESS&nbsp;: Et maintenant, nous avons un petit&nbsp;!
+WALTER&nbsp;: Peut-être. *Peut-être* que nous avons un petit.
+WALTER&nbsp;: Mais... [russe], nous sommes toujours là l'un pour l'autre.
