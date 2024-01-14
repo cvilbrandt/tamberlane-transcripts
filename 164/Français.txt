@@ -1,0 +1,10 @@
+OAKEWOOD&nbsp;: Tamberlane a été trouvé *ici*, dans *notre* forêt de Rattleglen. Je pense que tu as un marteau, et tout ce que tu vois, ce sont des clous.
+OAKEWOOD&nbsp;: Il existe tout un monde en dehors de nos îles. Il n’y a tout simplement aucune raison de croire qu’elle vient d'Ailleurs.
+
+TAGG&nbsp;: Je pense que c'est une *taupe.*
+TAGG&nbsp;: Mais tu veux rester aveugle&nbsp;? Ça me va. On s'en va.
+
+OAKEWOOD&nbsp;: Garde tes propos alarmistes pour toi&nbsp;!
+TAGG&nbsp;: Oh, va-t’en, espèce de connard&nbsp;!
+OAKEWOOD&nbsp;: Regarde-moi&nbsp;! Et enlève ce métal de ton visage, espèce d'idiot débauché&nbsp;!
+TAGG&nbsp;: Je ferai ce que je veux&nbsp;!!
