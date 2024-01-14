@@ -1,0 +1,18 @@
+GENEVIEVE: Você ter que ir contra quando a hora é *certa*, Jentzen, e agora não é a hora certa.
+GENEVIEVE: Passa por isso e muda mentes e corações *aqui!*
+GENEVIEVE: Você pode nos ajudar com jeitos para mudar o sistema!
+
+GENEVIEVE: E só por que vai ter um julgamento não significa que você vai *perder!*
+GENEVIEVE: Nós *realmente* somos justos! Eu até vou ser seu conselho!
+
+JENTZEN: Eu não quero a sua ajuda.
+
+JENTZEN: Você me ensinou a lutar por o quê é certo, mas você não vai fazer isso por mim.
+GENEVIEVE: Eu te falei, é *complicado!*
+JENTZEN: Não é.
+
+JENTZEN: Sai do meu quarto, por favor. Eu não quero mais falar
+
+GENEVIEVE: Certo.
+GENEVIEVE: Eu te amo, Jentzen.
+[SFX: KLIK]
