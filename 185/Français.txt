@@ -1,0 +1,24 @@
+CALLIE&nbsp;: *Passons à autre chose.*
+
+CALLIE&nbsp;: La semaine prochaine, nous partirons en excursion dans les ruines de Bally Bluffs.
+MARIE&nbsp;: C'est un monument historique, n'est-ce pas&nbsp;?
+CALLIE&nbsp;: C’est vrai&nbsp;! Vous pourriez considérer Bally Bluffs comme l’une des *racines* de Silver Sage, d’une certaine manière.
+CALLIE&nbsp;: Nous y camperons pour la nuit et parlerons de notre patrimoine&nbsp;!
+PENNY (marmonné)&nbsp;: Des ruines&nbsp;?!
+ANTHONY (marmonné)&nbsp;: Oh, Bally Bluffs&nbsp;!
+PIPER (marmonné)&nbsp;: bâille
+
+CALLIE&nbsp;: Si vos besoins alimentaires ont changé depuis notre dernier voyage, assurez-vous d'en informer Monsieur Jentzen avant...
+CALLIE&nbsp;: Oui Piper&nbsp;? Qu'est-ce que c'est?
+
+PIPER&nbsp;: Hé, Miss Callie, c'est quoi "Ailleurs"&nbsp;?
+
+CALLIE&nbsp;: A...Aill...
+
+MARIE&nbsp;: Ah oui&nbsp;! Bonne question, Piper&nbsp;! Mes mères changent toujours de sujet quand je leur demande&nbsp;!
+PENNY&nbsp;: Les gars, nous ne devrions pas...
+PIPER&nbsp;: Je sais, n'est-ce pas&nbsp;?
+ANTHONY&nbsp;: Oui, comment est-on censé éviter Ailleurs si on ne sait même pas ce que c'est&nbsp;?
+
+CUR&nbsp;: C'est évident, n'est-ce pas&nbsp;? C'est de là que vient Tamberlane&nbsp;!
+TAMBERLANE&nbsp;: ***Hé&nbsp;!!!***
