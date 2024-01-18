@@ -1,0 +1,19 @@
+PEEK&nbsp;: J’ai reçu ta commande de Tangled Branch ce matin.
+OAKEWOOD&nbsp;: Excellent.
+
+PEEK&nbsp;: En fait...
+PEEK&nbsp;: J'ai autre chose qui pourrait t'intéresser.
+
+OAKEWOOD&nbsp;: Ah&nbsp;?
+PEEK&nbsp;: Oui, j'ai reçu ça il y a un mois...
+
+PEEK&nbsp;: J'ai fait de mon mieux pour le restaurer et le relier, mais c'était délicat.
+PEEK&nbsp;: Ce livre est si vieux qu’il était presque trop dégradé pour être récupéré.
+
+OAKEWOOD&nbsp;: Très bien, vous avez piqué mon intérêt.
+OAKEWOOD&nbsp;: Qu’est-ce que c’est&nbsp;?
+
+PEEK&nbsp;: Une vieille relique qu'un récupérateur a échangée à mon compatriote de Tangled Branch.
+PEEK&nbsp;: La majeure partie a été détruite, mais...
+
+PEEK&nbsp;: Il y avait certaines choses ici qui, je pensais, pourraient t'intéresser.
