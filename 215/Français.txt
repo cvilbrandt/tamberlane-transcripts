@@ -1,0 +1,18 @@
+[SFX&nbsp;: Chhhf]
+OAKEWOOD&nbsp;: Mon Dieu, Peek&nbsp;! Quelle trouvaille&nbsp;!
+OAKEWOOD&nbsp;: Qu'est-ce que je te dois&nbsp;?
+
+PEEK&nbsp;: Honnêtement&nbsp;?
+PEEK&nbsp;: Occupe-toi simplement de Bean la semaine prochaine quand Erin et moi irons à Little Aching.
+
+OAKEWOOD&nbsp;: Pour ce livre ancien et inestimable, tu veux que je surveille ton *chat&nbsp;?*
+
+[SFX&nbsp;: skrih skrih]
+PEEK&nbsp;: Eh bien, ça et le maintien de notre accord permanent.
+OAKEWOOD&nbsp;: Je pense que le thé et les cartes hebdomadaires sont *à peine* suffisants.
+PEEK&nbsp;: Alors, que suggérez-vous&nbsp;?
+
+OAKEWOOD&nbsp;: Eh bien...
+OAKEWOOD&nbsp;: J'ose dire que cela nécessite *au moins* mon *meilleur* thé la semaine prochaine.
+
+BELFRY&nbsp;: Nous sommes prêts à passer en caisse&nbsp;!
