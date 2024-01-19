@@ -1,0 +1,16 @@
+BELFRY&nbsp;: Je ne pense pas que ce soit comme ça que tu sois censée te coucher, mademoiselle&nbsp;!
+TAMBERLANE&nbsp;: Je veux&nbsp;!
+
+BELFRY&nbsp;: Eh bien, je ne fais pas la lecture à tes fesses, alors tu ferais mieux de monter ici si tu veux une histoire&nbsp;!
+TAMBERLANE&nbsp;: D’accord&nbsp;!
+
+BELFRY&nbsp;: Ouf&nbsp;! Installe-toi&nbsp;!
+[SFX&nbsp;: FOOMF]
+BELFRY&nbsp;: Quel livre veux-tu lire&nbsp;?
+BELFRY&nbsp;: "Ivan le curieux"&nbsp;?
+BELFRY&nbsp;: ou "Je t'aimerai pour toujours"&nbsp;?
+TAMBERLANE&nbsp;: « Ivan le curieux »&nbsp;!
+
+BELFRY&nbsp;: "Ivan le curieux", ce sera donc. Installe-toi confortablement.
+
+BELFRY&nbsp;: *Ivan le Curieux,* par Marguerite de Little Aching. *Ô petit à la curiosité sans bornes, je te dédie ce livre de contes...*
