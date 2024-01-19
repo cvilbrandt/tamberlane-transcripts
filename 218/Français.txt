@@ -1,0 +1,21 @@
+OAKEWOOD&nbsp;: Très bien, petite mademoiselle, je crois qu'il est temps pour vous de vous retirer.
+TAMBERLANE&nbsp;: Non!!!!
+BELFRY&nbsp;: Tamberlan, viens te blottir contre moi&nbsp;!
+TAMBERLANE&nbsp;: Je veux pas&nbsp;!!!
+
+BELFRY&nbsp;: Viens ici, toi&nbsp;!
+TAMBERLANE&nbsp;: Non, euh&nbsp;!!
+
+BELFRY&nbsp;: Je t'ai eue&nbsp;!!
+TAMBERLANE&nbsp;: Eeeee&nbsp;!!!
+
+OAKEWOOD&nbsp;: On dirait que tu as ça bien en patte, alors&nbsp;?
+BELFRY&nbsp;: Oui, j'ai coincé ce petit monstre&nbsp;!
+
+OAKEWOOD&nbsp;: Bonne nuit alors, vous deux.
+BELFRY & TAMBERLANE&nbsp;: Nuit nuit&nbsp;!
+
+BELFRY&nbsp;: Maintenant, que dois-je faire pour que tu t'installes, muffin&nbsp;?
+TAMBERLANE&nbsp;: Des histoires&nbsp;!!!
+BELFRY&nbsp;: D'accord, mais tu dois t'installer toute seule au lit...
+TAMBERLANE&nbsp;: D’accord&nbsp;!
