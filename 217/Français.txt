@@ -1,0 +1,17 @@
+PEEK&nbsp;: J'ai entendu dire que les petits allaient à Bally Bluffs la semaine prochaine&nbsp;?
+BELFRY&nbsp;: Oui&nbsp;! J'espère chaperonner&nbsp;!
+
+PEEK&nbsp;: Ah, excellent&nbsp;! Dans ce cas...
+PEEK&nbsp;: Il y a beaucoup de limonite dans la région et je manque de pigment d'ombre.
+PEEK&nbsp;: Si tu pouvais simplement sortir et ramasser quelques roches orangées près des Bluffs, je nous considérerais comme quitte&nbsp;!
+
+BELFRY&nbsp;: Hmm... juste *n'importe* quelle roche orangée&nbsp;?
+
+PEEK&nbsp;: N’importe laquelle fera l’affaire.
+PEEK&nbsp;: Ce n'est peut-être pas exactement ce dont j'ai besoin, mais ce sera suffisamment proche pour m'aider jusqu'à ce que je puisse y aller moi-même.
+
+BELFRY&nbsp;: Marché conclu&nbsp;! Même *moi*, je peux faire ça&nbsp;!
+
+COUP D'OEIL&nbsp;: Super&nbsp;! Alors vous êtes prête à partir, Miss Belfry&nbsp;!
+SCOTT&nbsp;: Dis-moi  si tu as d'autres questions, d'accord, Tamberlane&nbsp;?
+TAMBERLANE&nbsp;: D'accord&nbsp;! Merci, Miss Scott!
