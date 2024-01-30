@@ -1,6 +1,6 @@
 WALTER: Ei, Belfry...
 WALTER: Não esquece de usar as
-WALTER: *luvas térmicas*
+WALTER: *luvas térmicas!*
 
 [SFX: sssssssss]
 
