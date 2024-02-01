@@ -1,15 +1,15 @@
-CUR: ...que birosca...
+RAFEIRO: ...que birosca...
 
-CUR: Eu n-num tô olhando, então vocês já p-podem se *p-pegar.*
+RAFEIRO: Eu n-num tô olhando, então vocês já p-podem se *p-pegar.*
 PARSLEY e MARIE: A gente não tá se pegando!
 
-CUR: P-podia ter me en-en-*enganado.*
+RAFEIRO: P-podia ter me en-en-*enganado.*
 
 MARIE: Aqui.
-CUR: Q-quê é isso?
+RAFEIRO: Q-quê é isso?
 MARIE: Meu poncho. Se esquenta, tá?
 
 [SFX: hheh hehh peguei eles]
 
-CUR: Eu n-não preciso da sua *p-pena.*
+RAFEIRO: Eu n-não preciso da sua *p-pena.*
 MARIE: Não é pena. É so difícil de te entender batendo os dentes.
