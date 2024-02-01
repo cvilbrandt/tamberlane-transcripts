@@ -6,7 +6,7 @@ BELFRY: Eu esqueci que o forno estava quente.
 
 TEXUGO: Deve ser a Coriander.
 TEXUGO: Walter, você pode tomar conta dela enquanto eu cuido das patas da Belfry?
-WALTER: Спасибо, Tess, love.
+WALTER: Спасибо, Tess, meu amor.
 
 TESS: Vamos lá te enfaixar, pobrezinha.
 BELFRY: Obrigado, mãe.
