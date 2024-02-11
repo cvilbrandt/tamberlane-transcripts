@@ -1,17 +1,18 @@
-OAKEWOOD: Beh. Preferirei mettermi al riparo dalla pioggia. Agente Sawyer, Immagino la Dottoressa Nora sia a casa addormentata?
+OAKEWOOD: Beh. Preferirei mettermi al riparo dalla pioggia. Sceriffo, li portiamo da tua moglie per medicarli?
 
-SAWYER: Be, ha detto che sarebbe stata in piedi, ma non ha dormito molto di recente con il nuovo cucciolo quindi preferirei lasciarla dormire, se posso...
-OAKEWOOD: Si, si. La gamba reggerà fino al mattino. Può fermarsi alla libreria allora.
+SAWYER: Be, Nora si sta ancora riprendendo dalla nascita di Parker di qualche settimana fa... Ha dormito appena e se potessi evitare di svegliarla...
+OAKEWOOD: Si, si. Me ne occuperò personalmente. Di sicuro è solo una storta.
+OAKEWOOD: Manda quella sfortunata della sua apprendista alla libreria in mattinata.
 
 HENRY: La libreria?
 
-OAKEWOOD: Non mi hai sentito, cucciolo?
-
-OAKEWOOD: Inizio un nuovo progetto di ricerca. Rimarranno con me.
+OAKEWOOD: Questa creatura rappresenta un campione ideale per la ricerca.
+OAKEWOOD: Non mi lascierò scappare questa opportunità
+OAKEWOOD: Quindi, rimarranno a vivere da me.
 BELFRY: Davvero?
 
 TESS: <em>CON TE?</em>
-OAKEWOOD: Hai messo ben in chiaro che non sei interessata. Non puoi avere tutto, badger britches.
+OAKEWOOD: Hai messo ben in chiaro che non sei interessata. Non puoi avere tutto, braghettona furiosa!
 
-HENRY: La situazione peggiora sempre di più.
-WALTER: Oddio.
+HENRY: S-Signora Tess..
+WALTER: Е ещё здесь не хватало...

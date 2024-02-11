@@ -6,8 +6,8 @@ CERVO: Finferli.
 PIPISTRELLO: Sei sicuro? Mi sembra di ricordare...
 CERVO: <em>Finferli.</em>
 
-PIPISTRELLO: Va bene! Finferli, in arrivo!
+PIPISTRELLO: Va bene! Finferli in arrivo!
 
-PIPISTRELLO: Mentre ti occupi del pasto per Tess, io mi preparo per la Signora Cori!
+PIPISTRELLO: Mentre ti occupi della frittata per Ma', io preparo la torta per la Signora Cori!
 
 FUORI CAMPO: <em>ARGH!!</em>

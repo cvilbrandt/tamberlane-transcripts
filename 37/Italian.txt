@@ -1,16 +1,18 @@
-TESS: Bel, non capisci?
+TESS: Bel, per favore ascoltami.
 
-TESS: Quello di cui questa cosa ha bisogno... Non abbiamo le strutture qui a Treehollow.
+TESS: Non abbiamo idea da dove arrivi questa cosa...
+TESS: Potrebbe essere <em>contaminata</em>. Se le altre creature dovessero scoprirlo...
 
-TESS: Sarai costretta ad andare... <em>altrove</em>
+TESS: Sarai costretta ad andare... <em>All'Estero</em>
 
 BELFRY: Non mi <em>INTERESSA.</em> Nulla di quello che dirai me lo farà rimettere dov'era!
 TAMBERLANE: Non interessa!
 
 TESS: Belfry, tu non <em>capisci!</em>
-BELFRY: Oh, capisco perfettamente! Smettila di trattarmi come un bambino ho diciannove anni!
+BELFRY: Oh, capisco perfettamente! Smettila di trattarmi come un bambino! Ho diciannove anni!
 TAMBERLANE: Wah!
 
-ANTHONY: Questa è una pessima idea.
-BRIAR: Voglio bene a Belfry, ma... è vero.
-PIPER: <em>Ottimo!</em> Non vedo l'ora di vedere il SANGUE!
+ANTHONY: Signora Tess, Credo sia una pessima idea.
+BRIAR: <em>Per favore</em> dai ascolto a mamma, Belfry.
+PIPER: <em>Zitta!</em> Lasciali combattere! Voglio vedere il SANGUE!
+WALTER: Su барсучка, respira...

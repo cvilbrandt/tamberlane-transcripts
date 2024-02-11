@@ -1,7 +1,7 @@
-BELFRY: Tu non sei uno sbaglio.
+BELFRY: Tu non sei uno errore.
 
 BELFRY: No...
 
 BELFRY: Tu sei la mia Tamberlane.
 
-BELFRY: Non ti lascerò mai.
+BELFRY: Non ti abbandonerò mai.

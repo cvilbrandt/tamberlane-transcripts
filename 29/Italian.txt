@@ -2,14 +2,14 @@
 
 OAKEWOOD: Tzé, fantasmi.
 
-OAKEWOOD: Probabilmente hanno visto un altro strano cespuglio.
+OAKEWOOD: Probabilmente hanno visto un cucciolo di grizzly con la scabbia
 
-OAKEWOOD: Un semovente, urlante...
+OAKEWOOD: Con artigli prensili come una creatura...
 
-OAKEWOOD: Però, ha detto che...
+OAKEWOOD: Strano per una semplice animale. Mi chiedo...
 
-OAKEWOOD: No. Mi rifiuto di dar credito ai suoi deliri.
+OAKEWOOD: No. <em>Rimarrò</em> in casa stasera e mi godrò il mio te in pace!
 
 [SFX: rrrrrrrrr] 
 
-OAKEWOOD: <em>Dannazione!</em>
+OAKEWOOD: <em>Oh, Dannazione!</em>

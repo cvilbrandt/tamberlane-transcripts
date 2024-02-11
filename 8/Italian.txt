@@ -1,15 +1,15 @@
-ANTHONY: Quindi, a proposito di quel fantasma...
+ANTHONY: Allora, riguardo al fantasma...
 
-AINSLEY: Oh, non posso continuare!
-ANTHONY: Ma certo!
+AINSLEY: Oh, non voglio nemmeno parlarne!
+ANTHONY: M-Ma certo!
 
-AINSLEY: <em>BASTA CHE NON ENTRIATE NELLA FORESTA!!!!</em>
+AINSLEY: <em>BASTA CHE NON ANDIATE NELLA FORESTA!!!!</em>
 BELFRY: A-Ainsley!
 
 BELFRY: Prometto che spargeremo la voce.
 
-PIPER: Okay, Mx. Ainsley, Ho del tè e dei biscotti per lei!
-PIPER: Quindi, a proposito di quel fantasma...
+PIPER: Okay, Mx. Ainsley!
+PIPER: Perchè non mi dice <em>tutto</em> a proposito della sua picc...
 
 TESS: <em>Piper</em>.
 

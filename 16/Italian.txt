@@ -8,4 +8,4 @@ BELFRY: Andiamo a trovare i bambini!
 ANTHONY: <em>BELFRY!</em>
 BELFRY: È Anthony quello?
 
-BELFRY: Ottimo lavoro, me!
+BELFRY: Ottimo lavoro, Belfry!

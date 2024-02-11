@@ -1,12 +1,12 @@
-PIPISTRELLO: Oh no, cosa è successo?!
+PIPISTRELLO: Oh diamine, cosa è successo?!
 CERVO: Mi hai dato i <em>gambi dei piopparelli!</em>
 [SFX: Coff Coff]
 
 PIPISTRELLO: Devo averli scambiati di nuovo!
 
-PIPISTRELLO: Oh, Walter, Mi dispiace così tanto.
+PIPISTRELLO: Oh, Pa', mi dispiace così tanto.
 
-WALTER: Belfry, un giorno di occuperai tu di questo posto.
+WALTER: Belfry, un giorno dovrai occuparti della nostra pasticceria.
 WALTER: Devi essere più responsabile!
 
 BELFRY: Lo so, lo so! Sistemo tutto subito! Promesso!

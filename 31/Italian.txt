@@ -1,12 +1,12 @@
-TESS: Belfry! Tutto bene?
+TESS: Belfry! Stai bene?
 
 BELFRY: Stiamo bene!
 
 CANE: Stiamo? Chi c'è?
 
-BELFRY: Io e questa Tamberlane!
+BELFRY: Io e questo Tamberlane!
 
-BELFRY: Volgio dire- il fantasma!
+BELFRY: Voglio dire- il fantasma!
 
 CANE: È davvero un fantasma??
 
@@ -14,6 +14,6 @@ BELFRY: No, non credo. Penso sia un cucciolo abbandonato.
 
 CANE: Un cucciolo abbandonato?!
 
-CANE: Poveretto!
-TESS: Henry, probabilmene è solo un animale selvatico.
+CANE: Povero bimbo!
+TESS: Henry, probabilmente è solo un animale selvatico.
 HENRY: Ma è abbandonato!

@@ -1,14 +1,15 @@
-PIPER: Non avrei mai pensato che la figlia dei due migliori combattenti d'arena in tutta Silver Sage fosse una gran fifona!
+PIPER: Non avrei mai pensato che la figlia dei due migliori combattenti d'arena in tutta Argensaggio fosse una gran fifona!
 ANTHONY: Piper, ti prego!
 
-BRIAR: Non ho paura! È solo una <em>STUPIDAGGINE!</em>
+BRIAR: Sono in <em>pensione!</em>
+BRIAR: Non ho <em>paura!</em> Tutto questo è solo una <em>STUPIDAGGINE!</em>
 
-PIPER: Oh, ho capito. <em>Fifona.</em>
+PIPER: Oh va bene, ho capito. Sei solo una <em>Fifona.</em>
 
 BRIAR: <em>Non è vero!!!</em>
 
 PIPER: Provalo.
 
-ANTHONY: Per favore, possiamo andare a scuola?
-ANTHONY: Oggi studiamo le rocce.
-ANTHONY: Mi piacciono le rocce.
+ANTHONY: Sapete, la Signora Agnes ci parlerà delle rocce oggi.
+ANTHONY: Mi piacciono le rocce. Ho letto tutta settimana del basalto.
+ANTHONY: È davvero interessante.
