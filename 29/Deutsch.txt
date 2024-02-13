@@ -1,16 +1,14 @@
-***[OUTDATED]***
-
 [SFX: hnf]
 
 OAKEWOOD: Ts. Geister.
 
-OAKEWOOD: Hat bestimmt bloß einen komischen Busch gesehen.
+OAKEWOOD: Dey hat bestimmt bloß ein Grizzly-Junges mit Räude gesehen.
 
-OAKEWOOD: ... einen schreienden, beweglichen...
+OAKEWOOD: Mit greifenden Klauen wie eine Kreatur...
 
-OAKEWOOD: Obwohl, sagte sie nicht...
+OAKEWOOD: Abnormal für ein einfaches Tier. Ich frag mich...
 
-OAKEWOOD: Nein. Ich weigere mich, diesem Quatsch Glauben zu schenken..
+OAKEWOOD: Nein. Ich <em>werde</em> heute Nacht drinnen bleiben und meinen Tee in <em>Ruhe</em> trinken!
 
 [SFX: rrrrrrrrr] 
 
