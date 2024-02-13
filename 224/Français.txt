@@ -1,0 +1,24 @@
+BELFRY&nbsp;: Personne ne pense que tu es un monstre.
+Beffroi&nbsp;: "Ailleurs" n'est qu'un... croque-mitaines.
+TAMBERLANE&nbsp;: Donc ce n'est pas réel&nbsp;?
+Beffroi&nbsp;: Non, c'est réel. C'est juste...
+BEFFROI&nbsp;: "Ailleurs" n'est qu'un lieu, mon animal.
+
+TAMBERLANE&nbsp;: La *Souillure* est-elle réelle&nbsp;?
+Beffroi&nbsp;: Nana Tess dit que oui. Mais je ne pense pas que ce soit *comme ça.*
+
+TAMBERLANE&nbsp;: Ça ne fait pas de monstres&nbsp;?
+Beffroi&nbsp;: Eh bien, *je* n'en ai jamais vu, du moins.
+
+Beffroi&nbsp;: Je ne sais pas ce qui rend la Souillure si dangereuse.
+Beffroi&nbsp;: Je sais qu'il est important d'être prudent ; sinon nous n'aurions pas autant de règles à ce sujet&nbsp;!
+Beffroi&nbsp;: Je sais cependant *certaines* choses sur Ailleurs&nbsp;!
+TAMBERLANE&nbsp;: Comme quoi&nbsp;?
+
+BELFRY&nbsp;: Ailleurs est en fait très important pour Silver Sage&nbsp;!
+BELFRY&nbsp;: C'est grâce à Ailleurs que nous avons des services importants ici à Treehollow.
+TAMBERLANE&nbsp;: Comme quoi&nbsp;?
+
+Beffroi&nbsp;: Comme... La plomberie intérieure&nbsp;!
+Beffroi&nbsp;: S'il n'y avait pas Ailleurs, on serait obligés de faire caca dehors&nbsp;!
+TAMBERLANE&nbsp;: Euh&nbsp;!
