@@ -1,0 +1,12 @@
+BELFRY&nbsp;: D’accord&nbsp;?
+TAMBERLANE&nbsp;: D’accord.
+
+TAMBERLANE&nbsp;: Si jamais tu tombes *gravement* malade...
+TAMBERLANE&nbsp;: ...vas-tu partir et me laisser, maman&nbsp;?
+
+BELFRY&nbsp;: Oh, Tamberlane, *non&nbsp;!* *Jamais.*
+BELFRY&nbsp;: Nous serons ensemble quoi qu’il arrive.
+
+BELFRY&nbsp;: Et si je te racontais une meilleure histoire&nbsp;? Est-ce que ça te plairait&nbsp;?
+
+TAMBERLANE&nbsp;: Oui, s’il te plaît.
