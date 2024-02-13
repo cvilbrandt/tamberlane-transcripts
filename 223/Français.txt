@@ -1,0 +1,14 @@
+BELFRY&nbsp;: ...
+
+BELFRY&nbsp;: D’accord&nbsp;! Cela sonne... un peu différemment maintenant&nbsp;!
+
+BELFRY&nbsp;: Ce n’était pas un très bon livre, n’est-ce pas&nbsp;?
+TAMBERLANE&nbsp;: non, euh
+
+BELFRY&nbsp;: Tamberlane&nbsp;?
+BELFRY&nbsp;: Ça va&nbsp;?
+
+TAMBERLANE&nbsp;: Je suis un *monstre&nbsp;!*
+
+BELFRY&nbsp;: Oh, oh non, chérie, non&nbsp;!
+BELFRY&nbsp;: Allez, alors. Discutons-en.
