@@ -1,14 +1,15 @@
-***[OUTDATED]***
+AINSLEY: Alles klar, Oakewood! Ich verdopple unsere übliche Wette!
+AINSLEY: Wenn du noch nie <em>irgendwas</em> wie das gesehen hast, spielen wir zwei Monate lang Schach, wann es <em>mir</em> passt.
+AINSLEY: Sonnst schulde ich <em>dir</em> zwei Monate lang Priorität beim Bergen.
 
-AINSLEY: Alles klar, Oakewood!
-AINSLEY: Wenn du es dir ansiehst, wette ich um fünf Monate Küchendienst, dass du so etwas noch nie im Leben gesehen hast.
+OAKEWOOD: Nicht heute Nacht, Ainsley. Ich habe schon Pläne.
 
-OAKEWOOD: Äh, nein. Du hast Wahnvorstellungen und ich ein Leben.
+OAKEWOOD: Und diese Pläne sind eine gemütliche, nette Nacht, weg vom Gerede von diesem überkreativen Dörfchen.
 
-OAKEWOOD: Und dazu gehört eine nette, gemütliche Nacht zu Hause, weit weg von lästigen Spinnern wie dir.
-OAKEWOOD: Apropos, Zeit, zu gehen.
+OAKEWOOD: Und diese Pläne starten <em>jetzt</em>.
 
 AINSLEY: Du würdest mich den Wölfen zum Fraß vorwerfen?!
-OAKEWOOD: Einige meiner besten Freunde sind Wölfe. <em>Raus.</em>
+OAKEWOOD: Einige von meinen besten Freunden sind Wölfe.
+OAKEWOOD: <em>Gute Nacht.</em>
 
 [SFX: RUMS]
