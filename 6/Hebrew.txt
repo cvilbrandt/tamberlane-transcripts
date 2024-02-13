@@ -1,17 +1,17 @@
-BADGER: What? What happened?
+BADGER: מה? מה קרה?
 
-BELFRY: I forgot the oven was hot.
+BELFRY: שכחתי עד כמה התנור חם.
 
-[SFX: ding-a-ling!!]
+[SFX: דינג-לינג!!]
 
-BADGER: That must be Coriander.
-BADGER: Walter, can you cover her while I take care of Belfry's paws?
-WALTER: Спасибо, Tess, love.
+BADGER: זו בטח קורינדר.
+BADGER: וולטר, תוכל לחפות עליה בזמן שאני אטפל בכפה של בלפרי?
+WALTER: Спасибо, טס, אוהב.
 
-TESS: Now, let's get you bandaged up, you poor waif.
-BELFRY: Thanks, Mum.
+TESS: ועכשיו, בואי נחבוש אותך, מסכנה שלי.
+BELFRY: תודה, אמא.
 
-OFFSCREEN: AINSLEY!!
+OFFSCREEN: ***איינסלי!!***
 
-ANTHONY: Piper, shouldn't we...
-PIPER: Shut it, Anthony.
+ANTHONY: פייפר, לא כדאי ש...
+PIPER: שוש, אנטוני.
