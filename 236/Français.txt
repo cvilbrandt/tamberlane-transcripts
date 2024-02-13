@@ -1,0 +1,15 @@
+Beffroi&nbsp;: Écoute, personne n'a été envoyé en Ailleurs depuis *des années.*
+Beffroi&nbsp;: Pas depuis que maman a rejoint le Conseil.
+BELFRY&nbsp;: Jentzen n'a *vraiment* rien enseigné de mal. Il s'est juste un peu disputé avec toi&nbsp;!
+Beffroi&nbsp;: Ce n'est *pas* une infraction méritant d'être banni&nbsp;!
+CALLIE&nbsp;: Je... je l'espère...
+
+Beffroi&nbsp;: À notre retour, tu devrais parler au Conseil et retirer ton rapport&nbsp;!
+Beffroi&nbsp;: Cela devrait arrêter tous les processus en cours.
+
+CALLIE&nbsp;: Tu es tout à fait sûre&nbsp;?
+
+Beffroi&nbsp;: Je te le promets, *tout* ira bien&nbsp;!
+
+Beffroi&nbsp;: ***N'est-ce pas&nbsp;?***
+JASON&nbsp;: C’est vrai, c’est vrai.
