@@ -10,7 +10,7 @@ TAMBERLAN&nbsp;: Béé&nbsp;!
 
 PARSLEY&nbsp;: Tu veux dire "V"&nbsp;?
 TAMBERLANE&nbsp;: Non, *Béé.*
-PARSLEY&nbsp;: Tu as signé la lettre "V", mon pote.
+PARSLEY&nbsp;: Tu as signé la lettre "V", ma pote.
 
 TAMBERLANE&nbsp;: Oh... Vé&nbsp;?
 TAMBERLANE&nbsp;: Tu as raison.
