@@ -1,0 +1,17 @@
+[SFX&nbsp;: KRNCH KRNCHH KRNCH KRNCH]
+
+[SFX&nbsp;: KRNCH KRNCH KRNCHH]
+CUR&nbsp;: Qu'est-ce que-
+
+CUR&nbsp;: Oh, retourne te coucher&nbsp;! On ne fera de mal à personne&nbsp;!
+KIRA&nbsp;: Pouah&nbsp;! *Quel* est ton problème&nbsp;??
+TAMBERLANE&nbsp;: Tu n’as pas dit désolé&nbsp;!
+
+KIRA&nbsp;: Tourne la page&nbsp;!
+JONAS&nbsp;: Ouais, les adultes nous ont déjà punis&nbsp;!
+
+TAMBERLAN&nbsp;: *NON*
+KIRA&nbsp;: Lâche-moi&nbsp;!
+TAMBERLANE&nbsp;: Tu n'es pas *désolé&nbsp;!*
+
+TAMBERLANE&nbsp;: Tu dois être *DÉSOLÉ&nbsp;!*
