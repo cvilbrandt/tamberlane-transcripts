@@ -12,7 +12,7 @@ HENRY: מצאתיייייי-!
 OFFSCREEN: הנרי, אתה בסדר??
 OFFSCREEN: הנרי!!
 OFFSCREEN: זה נראה כואב!
-OFFSCREEN: יואלוהים, הכל התפזר
+OFFSCREEN: אוי אלוהים, איזה בלגן
 OFFSCREEN: אוי, לא! מסכן שלי!
 PENNY: בואי כבר!
 
