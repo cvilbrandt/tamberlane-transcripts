@@ -1,0 +1,11 @@
+TESS&nbsp;: Ça ne semble pas tout à fait normal que le soleil brille encore.
+WALTER&nbsp;: Hum...
+WALTER&nbsp;: Je pense qu'il est réconfortant de savoir que le soleil est plus fort que nos problèmes.
+TESS&nbsp;: Mm.
+
+WALTER&nbsp;: Quand a lieu votre réunion du Conseil aujourd’hui&nbsp;?
+TESS&nbsp;: Bientôt.
+
+WALTER&nbsp;: Je suis sûr que tu peux l’ignorer.
+WALTER&nbsp;: Urgence familiale, hein&nbsp;?
+TESS&nbsp;: Non, j'apprécierais cette distraction. Ça ira.
