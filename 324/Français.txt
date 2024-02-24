@@ -1,0 +1,14 @@
+BRIAR&nbsp;: Allez, Belfry. Tu devrais t'asseoir.
+BELFRY&nbsp;: ...mais Tamberlane est...
+
+BRIAR&nbsp;: Je sais.
+
+ROSALYN&nbsp;: JONAS&nbsp;!!
+DANIEL&nbsp;: Est-ce qu'il va bien&nbsp;?!
+STOKER&nbsp;: Il est dans un état critique. Le médecin le voit maintenant.
+BRIAR&nbsp;: Tout ira bien, Belfry. Prends quelques respirations profondes.
+BELFRY&nbsp;: ...d'accord...
+
+ROSALYN&nbsp;: Vous pouvez le traiter ici, n'est-ce pas&nbsp;?
+
+ROSALYN&nbsp;: ...N'est-ce pas&nbsp;?
