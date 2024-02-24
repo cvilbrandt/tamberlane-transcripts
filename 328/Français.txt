@@ -9,7 +9,7 @@ KIRA&nbsp;: Et puis Jonas a essayé de l'arrêter, mais elle l'a attaqué aussi&
 MARIE&nbsp;: Mais... pourquoi Tamberlane attaquerait-il quelqu'un&nbsp;?
 ANTHONY&nbsp;: Elle n'a pas vraiment l'air du genre à faire ça.
 
-CUR&nbsp;: Elle était en colère parce que nous avions blessé Piper.
+CABOT&nbsp;: Elle était en colère parce que nous avions blessé Piper.
 KIRA&nbsp;: Aurions blessé Piper.
 PIPER&nbsp;: Elle a été vraiment blessée... à cause de moi&nbsp;?
 KIRA&nbsp;: Ouais, c'est nul. T'aurais pas du aller à la chasse aux fantômes après tout, hein&nbsp;?
