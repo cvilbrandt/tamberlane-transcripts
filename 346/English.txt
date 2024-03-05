@@ -1,11 +1,11 @@
-BELFRY&nbsp;: ***TAMBERLANE&nbsp;!!!***
+BELFRY: ***TAMBERLANE!!!***
 
-TAMBERLANE&nbsp;: Hi, Fuffy Mummy.
+TAMBERLANE: Hi, Fuffy Mummy.
 
-BELFRY&nbsp;: I was so worried&nbsp;! So, so worried&nbsp;!!
-BELFRY&nbsp;: I'm so sorry&nbsp;!
+BELFRY: I was so worried! So, so worried!!
+BELFRY: I'm so sorry!
 
-TAMBERLANE&nbsp;: It's okay.
+TAMBERLANE: It's okay.
 
-BELFRY&nbsp;: I love you so much, Tamberlane&nbsp;!
-TAMBERLANE&nbsp;: I love you too, Mummy.
+BELFRY: I love you so much, Tamberlane!
+TAMBERLANE: I love you too, Mummy.
