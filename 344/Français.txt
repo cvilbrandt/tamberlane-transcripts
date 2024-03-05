@@ -1,0 +1,19 @@
+GENEVIÈVE&nbsp;: Tu ne peux pas être *sérieux*&nbsp;!
+GENEVIÈVE&nbsp;: C'est mon *fils*&nbsp;!
+
+HONEY&nbsp;: Raison de plus pour que nous soyons justes.
+HONEY&nbsp;: Nous ne devons faire aucune exception pour les membres du Conseil ou leurs familles.
+
+TESS&nbsp;: Mais oserons-nous risquer de déchirer une famille à cause de quelques *questions*&nbsp;?
+TESS&nbsp;: Nous avons pris le contrôle du Conseil pour *arrêter* d'avoir des procès comme celui-là. Si vous me le demandez, nous devrions *changer* les édits.
+
+TIMMOTHY&nbsp;: Je comprends ton désir, Tess. Bien sur que oui. Mais...
+TIMMOTHY&nbsp;: Tu sais aussi bien que moi que les édits proviennent du Parlement. Ils sont *sacrés*.
+TIMMOTHY&nbsp;: Il n'est pas en notre pouvoir de les changer.
+
+SCOTT&nbsp;: Et je dois te le rappeler, Tess...
+SCOTT&nbsp;: Lorsque tu as rejoint le Conseil, tu as juré de respecter les édits.
+SCOTT&nbsp;: Comme nous tous.
+
+TESS&nbsp;: …au procès, alors.
+GENEVIÈVE&nbsp;: Oui… Au procès.
