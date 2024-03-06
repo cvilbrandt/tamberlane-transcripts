@@ -1,17 +1,17 @@
-<p>BRIAR&nbsp;: Tu ne <em>ruines</em> pas tout<br>
-BELFRY&nbsp;: <strong>J'ai pris une décision&nbsp;!!!</strong></p>
+BRIAR&nbsp;: Tu ne *ruines* pas tout
+BELFRY&nbsp;: **J'ai pris une décision&nbsp;!!!**
 
-<p>BELFRY&nbsp;: Papa avait raison depuis le début. Je dois assumer davantage la responsabilité de mes erreurs&nbsp;!<br>
-BELFRY&nbsp;: Alors à partir de maintenant, je vais être plus responsable&nbsp;! Je ferai en sorte de ne plus jamais faire d'erreur&nbsp;!</p>
+BELFRY&nbsp;: Papa avait raison depuis le début. Je dois assumer davantage la responsabilité de mes erreurs&nbsp;!
+BELFRY&nbsp;: Alors à partir de maintenant, je vais être plus responsable&nbsp;! Je ferai en sorte de ne plus jamais faire d'erreur&nbsp;!
 
-<p>BELFRY&nbsp;: Si je réfléchis vraiment à tout ce que je fais avant de le faire, je serai sûre de repérer les erreurs avant de les commettre&nbsp;!<br>
-BELFRY&nbsp;: Mais je perds les choses de vue quand je suis contrariée. C'est un problème&nbsp;!<br>
-BRIAR&nbsp;: Belfry...<br>
-BELFRY&nbsp;: Alors à partir de maintenant, chaque fois que je serai contrariée, je m'enfermerai dans ma chambre&nbsp;!<br>
-BELFRY&nbsp;: Comme ça, je ne blesserai plus jamais personne <em>plus jamais&nbsp;!</em></p>
+BELFRY&nbsp;: Si je réfléchis vraiment à tout ce que je fais avant de le faire, je serai sûre de repérer les erreurs avant de les commettre&nbsp;!
+BELFRY&nbsp;: Mais je perds les choses de vue quand je suis contrariée. C'est un problème&nbsp;!
+BRIAR&nbsp;: Belfry...
+BELFRY&nbsp;: Alors à partir de maintenant, chaque fois que je serai contrariée, je m'enfermerai dans ma chambre&nbsp;!
+BELFRY&nbsp;: Comme ça, je ne blesserai plus jamais personne *plus jamais&nbsp;!*
 
-<p>BRIAR&nbsp;: Oh pour l'amour de...<br>
-BRIAR&nbsp;: Belfry, <em>ça suffit&nbsp;!</em></p>
+BRIAR&nbsp;: Oh pour l'amour de...
+BRIAR&nbsp;: Belfry, *ça suffit&nbsp;!*
 
-<p>BRIAR&nbsp;: <em>Arrête de tourner en rond&nbsp;!</em><br>
-BRIAR&nbsp;: Ça n'aide <em>personne&nbsp;!!</em></p>
+BRIAR&nbsp;: *Arrête de tourner en rond&nbsp;!*
+BRIAR&nbsp;: Ça n'aide *personne&nbsp;!!*
