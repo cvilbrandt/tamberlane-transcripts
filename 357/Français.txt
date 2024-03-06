@@ -1,18 +1,18 @@
-<p>BRIAR&nbsp;: J'ai juste entendu<br />
-BELFRY&nbsp;: En fait, qu'est-ce que tu sais à propos de <strong><em>QUOI QUE CE SOIT</em></strong> de tout ça&nbsp;?!<br />
-BELFRY&nbsp;: Tu n'as jamais eu à t'occuper de quoi que ce soit dans ta <strong><em>VIE&nbsp;!</em></strong><br />
-BRIAR&nbsp;: Je- <em>quoi ?!</em></p>
+BRIAR&nbsp;: J'ai juste entendu
+BELFRY&nbsp;: En fait, qu'est-ce que tu sais à propos de ***QUOI QUE CE SOIT*** de tout ça&nbsp;?!
+BELFRY&nbsp;: Tu n'as jamais eu à t'occuper de quoi que ce soit dans ta ***VIE&nbsp;!***
+BRIAR&nbsp;: Je- *quoi&nbsp;?!*
 
-<p>BRIAR&nbsp;: Ce n'est <strong><em>PAS</em></strong> ce que je<br />
-BELFRY&nbsp;: Nous ne pouvons pas tous être Mademoiselle Parfaite&nbsp;! La <strong><em>préférée de maman et papa !!</em></strong><br />
-BRIAR&nbsp;: BELFRY&nbsp;!</p>
+BRIAR&nbsp;: Ce n'est ***PAS*** ce que je
+BELFRY&nbsp;: Nous ne pouvons pas tous être Mademoiselle Parfaite&nbsp;! La ***préférée de maman et papa&nbsp;!!***
+BRIAR&nbsp;: BELFRY&nbsp;!
 
-<p>BEFFRO&nbsp;: Eh bien, que sais-tu de moi, de Tamberlane, ou du fait d'être <strong><em>mère&nbsp;?</em></strong><br />
-BELFRY : <strong><em>RIEN !</em></strong><br />
-BELFRY&nbsp;: Et tu ne le sauras <strong><em>JAMAIS</em></strong> jusqu'à ce que tu <strong><em>Grandisses&nbsp;!</em></strong></p>
+BEFFRO&nbsp;: Eh bien, que sais-tu de moi, de Tamberlane, ou du fait d'être ***mère&nbsp;?***
+BELFRY&nbsp;: ***RIEN&nbsp;!***
+BELFRY&nbsp;: Et tu ne le sauras ***JAMAIS*** jusqu'à ce que tu ***GRANDISSES&nbsp;!***
 
-<p>SFX&nbsp;: hahh hh haah hh hha h</p>
+[SFX&nbsp;: hahh hh haah hh hha h]
 
-<p>SFX&nbsp;: hha haah hh hahh h h<br />
-BRIAR&nbsp;: Là.<br />
-BRIAR&nbsp;: Voilà c'est exactement ce que je veux dire.</p>
+[SFX&nbsp;: hha haah hh hahh h h]
+BRIAR&nbsp;: Là.
+BRIAR&nbsp;: Voilà c'est exactement ce que je veux dire.
