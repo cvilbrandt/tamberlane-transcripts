@@ -1,16 +1,16 @@
-<p>BELFRY&nbsp;: Ce n'est pas ma faute, Briar&nbsp;!<br>
-BRIAR&nbsp;: Eh bien, ce n’est pas ma faute non plus&nbsp;! Ou celle de Tamberlane ! Parce qu'il ne <em>s'agit pas</em> d'une faute&nbsp;!</p>
+BELFRY&nbsp;: Ce n'est pas ma faute, Briar&nbsp;!
+BRIAR&nbsp;: Eh bien, ce n’est pas ma faute non plus&nbsp;! Ou celle de Tamberlane&nbsp;! Parce qu'il ne *s'agit pas* d'une faute&nbsp;!
 
-<p>BRIAR&nbsp;: Tu ne peux pas continuer à nous utiliser pour justifier ta fragilité&nbsp;!<br>
-BELFRY&nbsp;: <strong><em>Utiliser-?!</em></strong><br>
-BELFRY&nbsp;: Je n'ai jamais <em>utilisé</em> personne&nbsp;! Comment peux-tu dire ça ?!</p>
+BRIAR&nbsp;: Tu ne peux pas continuer à nous utiliser pour justifier ta fragilité&nbsp;!
+BELFRY&nbsp;: ***Utiliser-?!***
+BELFRY&nbsp;: Je n'ai jamais *utilisé* personne&nbsp;! Comment peux-tu dire ça&nbsp;?!
 
-<p>BRIAR&nbsp;: Belfry, tu utilise Tamberlane <em>en ce moment même.</em><br>
-BRIAR&nbsp;: Depuis que nous avons quitté l'hôpital, tout tourne autour de <em>toi.</em> Comment <em>tu</em> as tout gâché. Comment son état <em>te</em> concerne.<br>
-BRIAR&nbsp;: Tu ne l'as même pas mentionnée une seule fois.</p>
+BRIAR&nbsp;: Belfry, tu utilise Tamberlane *en ce moment même.*
+BRIAR&nbsp;: Depuis que nous avons quitté l'hôpital, tout tourne autour de *toi.* Comment *tu* as tout gâché. Comment son état *te* concerne.
+BRIAR&nbsp;: Tu ne l'as même pas mentionnée une seule fois.
 
-<p>SFX&nbsp;: K.O. !!!</p>
+[SFX&nbsp;: K.O.&nbsp;!!!]
 
-<p>BELFRY&nbsp;: Je viens de...<br>
-BELFRY&nbsp;: C'est juste que je dois me corriger pour pouvoir prendre soin d'elle.<br>
-BELFRY&nbsp;: Je ne suis pas assez bien pour elle.</p>
+BELFRY&nbsp;: Je viens de...
+BELFRY&nbsp;: C'est juste que je dois me corriger pour pouvoir prendre soin d'elle.
+BELFRY&nbsp;: Je ne suis pas assez bien pour elle.
