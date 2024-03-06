@@ -1,16 +1,16 @@
-<p>BRIAR&nbsp;: Je sais que tu essayes, Belfry.<br>
-BRIAR&nbsp;: Ce n'est pas grave de ne pas aller bien.<br>
-BRIAR&nbsp; Mais tu ne peux pas mettre ça sur le dos de Tamberlane.</p>
+BRIAR&nbsp;: Je sais que tu essayes, Belfry.
+BRIAR&nbsp;: Ce n'est pas grave de ne pas aller bien.
+BRIAR  Mais tu ne peux pas mettre ça sur le dos de Tamberlane.
 
-<p>BRIAR&nbsp;: Tu te souviens comme maman le faisait&nbsp;?</p>
+BRIAR&nbsp;: Tu te souviens comme maman le faisait&nbsp;?
 
-<p>BRIAR&nbsp;: Elle se mettait tellement <em>en colère</em> et ensuite elle nous rejetait la faute.</p>
+BRIAR&nbsp;: Elle se mettait tellement *en colère* et ensuite elle nous rejetait la faute.
 
-<p>BRIAR&nbsp;:&nbsp;Tu sais que j'aime maman, mais elle disait toujours qu'elle était si colérique parce que tu étais difficile à élever.<br>
-BRIAR&nbsp;:&nbsp;Mais elle <em>t'a utilisée</em> pour éviter toute responsabilité. Son caractère n'a jamais été de ta faute.</p>
+BRIAR&nbsp;: Tu sais que j'aime maman, mais elle disait toujours qu'elle était si colérique parce que tu étais difficile à élever.
+BRIAR&nbsp;: Mais elle *t'a utilisée* pour éviter toute responsabilité. Son caractère n'a jamais été de ta faute.
 
-<p>BRIAR&nbsp;: <em>Tu</em> ne peux pas être comme ça, Belfry&nbsp;! Tu ne peux pas reporter tes problèmes sur Tamberlan&nbsp;!<br>
-BRIAR&nbsp;: Elle en subit déjà trop comme ça !<br>
-BRIAR&nbsp;: Je parie que <em>ton stress</em> est la raison pour laquelle elle t'a repoussée à Bally Bluffs&nbsp;!</p>
+BRIAR&nbsp;: *Tu* ne peux pas être comme ça, Belfry&nbsp;! Tu ne peux pas reporter tes problèmes sur Tamberlane&nbsp;!
+BRIAR&nbsp;: Elle en subit déjà trop comme ça&nbsp;!
+BRIAR&nbsp;: Je parie que *ton stress* est la raison pour laquelle elle t'a repoussée à Bally Bluffs&nbsp;!
 
-<p>BELFRY&nbsp;: <em>Qu'est-ce que <strong>tu</strong> pourrais savoir de ce qui s'est passé à Bally Bluffs&nbsp;?!</em></p>
+BELFRY&nbsp;: *Qu'est-ce que* ***tu*** *pourrais savoir de ce qui s'est passé à Bally Bluffs&nbsp;?!*
