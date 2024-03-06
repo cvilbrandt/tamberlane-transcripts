@@ -1,18 +1,18 @@
-<p>BRIAR&nbsp;: Tu es la <em>maman</em> de Tamberlane. Tu dois rester forte pour elle.<br>
-BRIAR&nbsp;: Tu ne peux pas t'enfermer loin d'elle&nbsp;!<br>
-BELFRY&nbsp;: Ce n'est pas juste&nbsp;!</p>
+BRIAR&nbsp;: Tu es la *maman* de Tamberlane. Tu dois rester forte pour elle.
+BRIAR&nbsp;: Tu ne peux pas t'enfermer loin d'elle&nbsp;!
+BELFRY&nbsp;: Ce n'est pas juste&nbsp;!
 
-<p>BRIAR&nbsp;: Peu importe ce qui est <em>juste,</em> Belfry&nbsp;! Tu as besoin d'entendre ça&nbsp;!<br>
-BRIAR&nbsp;: Parfois, il faut simplement de se ressaisir&nbsp;! Pour ton petit&nbsp;!</p>
+BRIAR&nbsp;: Peu importe ce qui est *juste*, Belfry&nbsp;! Tu as besoin d'entendre ça&nbsp;!
+BRIAR&nbsp;: Parfois, il faut simplement de se ressaisir&nbsp;! Pour ton petit&nbsp;!
 
-<p>BELFRY&nbsp;: Oh, simplement "me ressaisir"&nbsp;? C'est facile à dire pour <em>toi</em>, Briar&nbsp;!<br>
-BELFRY : Tu ne sais pas ce que c'est ! Tout est <em>si dur,</em> tout le temps&nbsp;! Et quand j'essaie quelque chose, je gâche tout&nbsp;! <em>Toujours&nbsp;!</em></p>
+BELFRY&nbsp;: Oh, simplement "me ressaisir"&nbsp;? C'est facile à dire pour *toi*, Briar&nbsp;!
+BELFRY&nbsp;: Tu ne sais pas ce que c'est&nbsp;! Tout est *si dur*, tout le temps&nbsp;! Et quand j'essaie quelque chose, je gâche tout&nbsp;! *Toujours&nbsp;!*
 
-<p>BRIAR&nbsp;: Belfry, STOP&nbsp;! Tu dois arrêter de faire ça&nbsp;!<br>
-BELFRY&nbsp;: <em>Je sais&nbsp;!</em> J'essaie d'arrêter de tout gâcher, <em>j'essaie&nbsp;!</em><br>
-BRIAR&nbsp;: <strong><em>NON&nbsp;!</em></strong></p>
+BRIAR&nbsp;: Belfry, STOP&nbsp;! Tu dois arrêter de faire ça&nbsp;!
+BELFRY&nbsp;: *Je sais&nbsp;!* J'essaie d'arrêter de tout gâcher, *j'essaie&nbsp;!*
+BRIAR&nbsp;: ***NON&nbsp;!***
 
-<p>BRIAR&nbsp;: Tu ne peux pas tout bonnement dire que tu es nulle en tout comme une excuse pour ne jamais travailler sur quoi que ce soit&nbsp;!</p>
+BRIAR&nbsp;: Tu ne peux pas tout bonnement dire que tu es nulle en tout comme une excuse pour ne jamais travailler sur quoi que ce soit&nbsp;!
 
-<p>BRIAR&nbsp;: Tu n'es <em>pas</em> la créature la plus pathétique du monde&nbsp;! Tu n'es <em>plus</em> le petit rejeton de Maman&nbsp;!<br>
-BRIAR&nbsp;: Tu es une adulte et une <em>mère</em>, et tu dois <em>arrêter</em> de t'effondrer à chaque fois que les choses deviennent difficiles&nbsp;!</p>
+BRIAR&nbsp;: Tu n'es *pas* la créature la plus pathétique du monde&nbsp;! Tu n'es *plus* le petit rejeton de Maman&nbsp;!
+BRIAR&nbsp;: Tu es une adulte et une *mère*, et tu dois *arrêter* de t'effondrer à chaque fois que les choses deviennent difficiles&nbsp;!
