@@ -1,12 +1,12 @@
-<p>SFX&nbsp;: krrr krrr krrr</p>
+SFX&nbsp;: krrr krrr krrr
 
-<p>BRIAR&nbsp;: Ça ira, Bel.<br>
-BELFRY&nbsp;: Mm...</p>
+BRIAR&nbsp;: Ça ira, Bel.
+BELFRY&nbsp;: Mm...
 
-<p>BRIAR&nbsp;: Respire juste profondément.<br>
-BELFRY&nbsp;: Je ne pense pas que <em>ma respiration</em> résoudra quoi que ce soit.</p>
+BRIAR&nbsp;: Respire juste profondément.
+BELFRY&nbsp;: Je ne pense pas que *ma respiration* résoudra quoi que ce soit.
 
-<p>BRIAR&nbsp;: Ça <em>va</em> pourtant t'aider à te calmer.</p>
+BRIAR&nbsp;: Ça *va* pourtant t'aider à te calmer.
 
-<p>BELFRY&nbsp;: Comment puis-je être <strong><em>CALME</em></strong> quand je <strong><em>RUINE</em></strong> tout ce que je touche&nbsp;?&nbsp;!<br>
-BRIAR&nbsp;: Oh, Belfry...</p>
+BELFRY&nbsp;: Comment puis-je être ***CALME*** quand je ***RUINE*** tout ce que je touche&nbsp;?&nbsp;!
+BRIAR&nbsp;: Oh, Belfry...
