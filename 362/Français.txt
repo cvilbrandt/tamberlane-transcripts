@@ -4,22 +4,22 @@ PERSLEY&nbsp;: Il était déjà un peu dur quand maman a accepté de l'héberger
 PARSLEY&nbsp;: Mais cette affaire à Bally Bluffs... c'est comme s'il était devenu dix fois pire du jour au lendemain&nbsp;!
 
 MARIE&nbsp;: Il se sent probablement mal à propos de ce qui s'est passé.
-PARSLEY&nbsp;: Hah ! Cur&nbsp;??
-CUR&nbsp;: *ÉLOIGNE CETTE CUILLÈRE DE MOI, FEMME&nbsp;!*
+PARSLEY&nbsp;: Hah ! Cabot&nbsp;??
+CABOT&nbsp;: *ÉLOIGNE CETTE CUILLÈRE DE MOI, FEMME&nbsp;!*
 PARSLEY&nbsp;: Il ne cesse de délirer sur la façon dont il recommencerait si on lui en donnait une demi-chance&nbsp;!
 PARSLEY&nbsp;: Je doute qu'il ressente un soupçon de remords.
 
 CORIANDER&nbsp;: *ELLIS, MANGE LES POMMES DE TERRE&nbsp;!*
-CUR&nbsp;: *À L'AIDE&nbsp;! À L'AIDE! ELLE ESSAYE DE M'EMPOISONNER*
-MARIE&nbsp;: Cur a toujours semblé être du genre à se décharger de sa douleur sur lui-même comme ça.
+CABOT&nbsp;: *À L'AIDE&nbsp;! À L'AIDE! ELLE ESSAYE DE M'EMPOISONNER*
+MARIE&nbsp;: Cabot a toujours semblé être du genre à se décharger de sa douleur sur lui-même comme ça.
 PERSLEY : On parle du même enfant&nbsp;! Il décharge sa douleur sur tout le monde *sauf* lui-même&nbsp;!
 
-CORIANDER&nbsp;: *ASSOYEZ-VOUS&nbsp;! JEUNE! HOMME&nbsp;!*
-CUR&nbsp;: *LÂCHE-MOI&nbsp;!*
+CORIANDER&nbsp;: *ASSOYEZ-VOUS&nbsp;! JEUNE&nbsp;! HOMME&nbsp;!*
+CABOT&nbsp;: *LÂCHE-MOI&nbsp;!*
 MARIE&nbsp;: Eh bien, la seule chose que je *sais*, c'est que tu ne peux pas abandonner.
 MARIE&nbsp;: Peu importe à quel point cela devient difficile. Tu *dois* continuer d'essayer.
 
 PARSLEY&nbsp;: Ouais... T'as raison, comme toujours. C'est juste...
 CORIANDER&nbsp;: *JE JURE DEVANT LES ESPRITS QUE TU NE MOURRAS PAS DE FAIM SOUS MON TOIT*
 PERSLEY&nbsp;: Est-ce mal de souhaiter que ce ne soit pas nécessairement nous&nbsp;? Maman est à bout de nerfs et j'en ai marre de les écouter se disputer.
-CUR&nbsp;: *TIENS, REGARDE*
+CABOT&nbsp;: *TIENS, REGARDE*
