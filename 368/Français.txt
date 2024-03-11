@@ -1,0 +1,17 @@
+GENEVIEVE&nbsp;: Tu dois prendre position lorsque le moment est *le bon*, Jentzen, et ce n'est pas le bon moment.
+GENEVIEVE&nbsp;: Surmonte ça et ti pourras changer *les cœurs* et les esprits *ici&nbsp;!*
+GENEVIEVE&nbsp;: Tu peux nous aider à trouver des moyens de changer le système&nbsp;!
+
+GENEVIEVE&nbsp;: Et ce n'est pas parce qu'il va y avoir un procès que tu vas *perdre&nbsp;!*
+GENEVIEVE&nbsp;: Nous *sommes* vraiment justes et équitables&nbsp;! Je serai même ton conseil&nbsp;!
+
+JENTZEN&nbsp;: Je ne veux pas de ton aide.
+
+JENTZEN&nbsp;: Tu m'as appris à défendre ce qui est juste, mais tu ne le feras pas pour moi.
+GENEVIEVE&nbsp;: Je te l'ai dit, c'est *compliqué&nbsp;!*
+JENTZEN&nbsp;: Ce n'est pas le cas.
+
+JENTZEN&nbsp;: Sors de ma chambre, s'il te plaît. Je ne veux plus parler.
+
+GENEVIÈVE&nbsp;: D’accord.
+GENEVIÈVE&nbsp;: Je t'aime, Jentzen.
