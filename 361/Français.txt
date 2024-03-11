@@ -4,29 +4,29 @@ PARSLEY&nbsp;: Vraiment&nbsp;?? Je n'ai entendu que le dernier, je pense.
 MARIE&nbsp;: Eh bien, je ne voulais pas casser ta vitre&nbsp;!
 
 CORIANDER&nbsp;: Très bien&nbsp;! Tu veux que je sois stricte&nbsp;? Je serai stricte&nbsp;!
-CUR&nbsp;: Ooo, tu vas *t'affirmer*&nbsp;??
+CABOT&nbsp;: Ooo, tu vas *t'affirmer*&nbsp;??
 CORIANDER&nbsp;: Tu ne te lèveras *PAS* de cette table avant d’avoir dîné&nbsp;!
 PARSLEY&nbsp;:&nbsp;Alors, monte.
 MARIE&nbsp;: Oooh, il fait tellement *plus chaud* ici&nbsp;!
 
-CUR&nbsp;: Je ne vais pas manger ta foutue *bouillie*&nbsp;!
+CABOT&nbsp;: Je ne vais pas manger ta foutue *bouillie*&nbsp;!
 CORIANDER&nbsp;: Tu *peux* et tu *vas*&nbsp;! Ellis, tu *devras* bien manger un jour&nbsp;!
-CUR&nbsp;: J'vais *rien du tout*&nbsp;!
+CABOT&nbsp;: J'vais *rien du tout*&nbsp;!
 PARSLEY&nbsp;: Comment tes mères ont-elles pris la nouvelle de Bally Bluffs&nbsp;?
 MARIE&nbsp;: Oh, elles se sont agitées autour de moi pendant des heures, mais dès que j'ai été libre, je suis venue te rendre visite.
 
 CORIANDER&nbsp;:&nbsp;S'il te plaît, je t'en *supplie*, Ellis. Que dois-je faire pour que tu manges&nbsp;?
 MARIE&nbsp;: Comment vas-*tu*&nbsp;?
-CUR&nbsp;:&nbsp;Rien&nbsp;! Je suis ma propre créature et si je veux mourir de faim, *laisse-moi mourir de faim*&nbsp;!
+CABOT&nbsp;:&nbsp;Rien&nbsp;! Je suis ma propre créature et si je veux mourir de faim, *laisse-moi mourir de faim*&nbsp;!
 PARSLEY&nbsp;: Absolument top.
 
 CORIANDER&nbsp;: Tu ne mourras pas de faim sous mon toit&nbsp;!
-CUR&nbsp;: C'est déjà le cas&nbsp;!
+CABOT&nbsp;: C'est déjà le cas&nbsp;!
 CORIANDER&nbsp;: Mange un morceau&nbsp;! Tout de suite!
 PARSLEY&nbsp;:&nbsp;D’accord, d’accord. Arrête de me faire ces yeux.
 
 CORIANDER&nbsp;: Ouvre&nbsp;!
-CUR&nbsp;:&nbsp;**Mmrggh**&nbsp;!
-PARSLEY&nbsp;: J'avoue, je suis un peu inquiet pour Cur...
+CABOT&nbsp;:&nbsp;**Mmrggh**&nbsp;!
+PARSLEY&nbsp;: J'avoue, je suis un peu inquiet pour Cabot...
 CORIANDER&nbsp;: *Tu vas manger des patates crois-moi*
-PARSLEY&nbsp;: Mais ce petit connard nous *tape sur les nerfs* à maman et moi.
+PARSLEY&nbsp;: Mais ce petit crétin nous *tape sur les nerfs* à maman et moi.
