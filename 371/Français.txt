@@ -1,0 +1,19 @@
+PARSLEY&nbsp;: Oi, Ell- ...Cabot.
+CABOT&nbsp;: Pouah. *Quoi.*
+PERSLEY&nbsp;: Tu veux sortir ensemble aujourd'hui&nbsp;?
+
+CABOT&nbsp;: ... quoi&nbsp;?
+
+PERSLEY&nbsp;: J'ai dit, tu veux sortir ensemble aujourd'hui&nbsp;? Avec moi pis Marie.
+CABOT&nbsp;: Euh...
+
+CABOT&nbsp;: Pourquoi&nbsp;?
+
+PARSLEY&nbsp;: Euh... tu sais.
+PARSLEY&nbsp;: Ce sera... amusant&nbsp;?
+[SFX&nbsp;: hoche la tête]
+
+CABOT&nbsp;: ***Ah.***
+CABOT&nbsp;: Non *merci.* Je ne veux pas souiller ton précieux *temps de Marie.*
+
+PARSLEY&nbsp;: Qu'est-ce que *ça* est censé vouloir dire&nbsp;?!
