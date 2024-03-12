@@ -1,0 +1,14 @@
+CABOT&nbsp;: Vous commencez avec votre anneau de jeu et une croix faite de béliers. Ce sont les petites billes.
+CABOT&nbsp;: Avec votre calot - c'est votre grosse bille - vous tirez depuis l'extérieur de l'anneau et essayez d'éliminer autant de béliers que possible.
+
+CABOT&nbsp;: Si votre calot sort du ring, votre tour est terminé et vous conservez tous les béliers que vous avez éliminés&nbsp;!
+CABOT&nbsp;: Mais si votre calot reste dans le ring, vous pouvez continuer à tirer depuis l'endroit où il a atterri, à condition d'éliminer un bélier à chaque fois. Oh, et pas votre calot&nbsp;!
+
+CABOT&nbsp;: Mais vous pouvez aussi essayer de faire sortir le calot de votre adversaire du ring - oups&nbsp;!
+MARIE&nbsp;: Aïe&nbsp;!
+CABOT&nbsp;: Je ne t'ai pas vue, là
+
+[SFX&nbsp;: ÉCLABOUSSURE]
+
+PIPER&nbsp;: TU AS HARCELÉ TA DERNIÈRE CRÉATURE&nbsp;!
+PIPER&nbsp;: _JE NE TE LAISSERAI PAS LES BLESSER COMME TU AS BLESSÉ TAMBERLANE&nbsp;!_
