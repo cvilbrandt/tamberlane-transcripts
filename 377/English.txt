@@ -1,0 +1,14 @@
+CUR: You start with yer game ring and a cross made o' mibs. That's the small marbles.
+CUR: With yer taw - that's yer big marble - you shoot from outside the ring and try to knock out as many mibs as you can.
+
+CUR: If yer taw goes out the ring, yer turn is done and you keep any mibs you knocked out!
+CUR: But if yer taw stays in the ring, you can keep shooting from where it landed, so long as you knock a mib out each time. Oh, and not yer taw!
+
+CUR: But you can also try an' knock your opponent's taw out the ring- oops!
+MARIE: Ow!
+CUR: I didn't see you there
+
+[SFX: SPLAT]
+
+PIPER: YOU'VE BULLIED YOUR LAST CREATURE!
+PIPER: _I WON'T LET YOU HURT THEM LIKE YOU HURT TAMBERLANE!_
