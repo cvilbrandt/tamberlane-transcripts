@@ -13,4 +13,4 @@ TAMBERLANE: "איוון הסקרן"!
 
 BELFRY: אז בחרנו ב"איוון הסקרן". תצטופפי.
 
-BELFRY: *איוון הסקרן,* מאת מרגריטה מליטל אקינג. *O kit of boundless curiosity, I dedicate this storybook to thee...*
+BELFRY: *איוון הסקרן,* מאת מרגריטה מליטל אקינג. *הו ילד סקרן שכמותך, אני מקדישה את הסיפור הזה לך...*
