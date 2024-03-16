@@ -6,5 +6,5 @@ PARSLEY: האם זאת אמא שלך שם?
 
 TAMBERLANE: לא, זו אני!
 
-PARSLEY: או! לא הייתי מנחשת!
+PARSLEY: או! לא הייתי מנחש!
 MARIE: *פרסלי!*
