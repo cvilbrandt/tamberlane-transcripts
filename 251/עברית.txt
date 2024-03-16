@@ -17,4 +17,4 @@ TAMBERLANE: אתה צודק.
 
 PARSLEY: או! את למדת לסמן עוד לפני שלמדת לדבר בקול, נכון?
 PARSLEY: אחרי הכל, את היית רק תינוקת כשמצאו אותך.
-PARSLEY: It's like learnin' how to pronounce a word from a book. It's hard to say 'em right, eh?
+PARSLEY: זה כמו ללמוד איך לבטא מילה שקוראים בספר. קשה להגיד אותן כמו שצריך, אה?
