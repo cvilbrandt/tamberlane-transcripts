@@ -2,7 +2,7 @@ TAMBERLANE: *פופי!*
 BELFRY: חכי, תחזרי אליי!
 
 BELFRY: אל תזוזי!
-BELFRY: I'אני באה!
+BELFRY: אני באה!
 
 BELFRY: תפסתי אותך.
 BELFRY: תפסתי אותך.
