@@ -1,7 +1,7 @@
 ROSIE&nbsp;: Rawwwwrr&nbsp;! Donne-moi mon écharpe&nbsp;!
-MINNA&nbsp;: Hé hé&nbsp;! Attrape-moi!
+MINNA&nbsp;:&nbspHé hé&nbsp;! Attrape-moi!
 
-JENTZEN&nbsp;: Oh&nbsp;!
+JENTZEN&nbsp;:&nbspOh&nbsp;!
 JENTZEN&nbsp;: Maman, tu es de retour.
 
 GENEVIÈVE&nbsp;: Je...
@@ -9,4 +9,4 @@ GENEVIÈVE&nbsp;: Oui.
 
 GENEVIÈVE&nbsp;: Jentzen...
 
-JENTZEN&nbsp;: Que s'est-il passé.
+JENTZEN&nbsp;:&nbspQue s'est-il passé.

@@ -3,4 +3,4 @@ TOUT GÂCHER
 
 BELFRY : ack !
 
-[SFX : CLANG]
+[SFX&nbsp: CLANG]

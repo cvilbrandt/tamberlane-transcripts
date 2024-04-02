@@ -5,7 +5,7 @@ from difflib import unified_diff
 from glob import glob
 from math import inf
 
-from lxml.html.clean import clean
+from nh3 import clean
 from markdown2 import Markdown
 from tidylib import tidy_fragment
 
@@ -36,7 +36,7 @@ UNICODE_REPLACEMENTS = {
     "&Icirc;": "Î",
     "&Ocirc;": "Ô",
     "&Ccedil;": "Ç",
-    "&nbsp;": " ",
+    # "&nbsp;": " ",
 }
 
 
@@ -82,7 +82,7 @@ def clean_html(path: str, html: str):
     for k, v in UNICODE_REPLACEMENTS.items():
         html = html.replace(k, v)
 
-    cleaned_html = clean.clean_html(html)
+    cleaned_html = clean(html)
     # Remove <div> tags from start and end
     if cleaned_html.startswith("<div>"):
         cleaned_html = cleaned_html[5:-6]
