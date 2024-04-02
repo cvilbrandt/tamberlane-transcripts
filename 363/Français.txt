@@ -1,7 +1,7 @@
 PARSLEY&nbsp;: Très bien, ça suffit&nbsp;! Tu as assez écouté mes radotages pour la journée&nbsp;!
 MARIE&nbsp;: Tu sais que je suis heureuse d'écouter tes problèmes à tout moment&nbsp;!
 
-PARSLEY&nbsp;: Ouais, mais quelqu'un doit écouter les tiens. Comment vas-tu?
+PARSLEY&nbsp;:&nbspOuais, mais quelqu'un doit écouter les tiens. Comment vas-tu?
 [SFX&nbsp;: doki doki]
 
 MARIE&nbsp;: Oh... tu sais... Inquiète pour Tamberlane et Jonas. Rien à dire là-dessus.

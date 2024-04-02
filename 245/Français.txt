@@ -1,10 +1,10 @@
-MILO : Ce n'est vraiment rien.
-MILO : Je le lis pour un devoir...
+MILO&nbsp: Ce n'est vraiment rien.
+MILO&nbsp: Je le lis pour un devoir...
 
 MILO : C'est mon conseiller qui l'a écrit ! Il s'agit de *Réinterprétations modernes des Anciens Mythes Silver Sagéens.*
 
 MILO : Mon prochain article porte sur la façon dont le mythe évolue avec la société, alors il me l'a prêté.
-OAKEWOOD : Ah.
+OAKEWOOD&nbsp: Ah.
 
 MILO : C'est vraiment un sujet passionnant ! On peut voir comment la graine [illisible] d'un mythe grandit [illisible] et devient plus complexe à chaque récit, comme un grand jeu culturel de Bouche à Oreille !
 
