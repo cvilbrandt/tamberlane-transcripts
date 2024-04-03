@@ -1,0 +1,12 @@
+TAMBERLANE&nbsp;: Je suis heureuse que tu sois là maintenant. Avant, j'étais seule.
+JONAS&nbsp;: Ah, ouais. Je suis heureux de sortir enfin du service de soins intensifs.
+JONAS&nbsp;: La semaine la plus ennuyeuse de tous les temps.
+
+JONAS&nbsp;: Maman est très heureuse, évidemment. Elle n’a pas eu à faire le choix.
+TAMBERLANE&nbsp;: Un choix&nbsp;?
+
+JONAS&nbsp;: M'envoyer ou non en Ailleurs&nbsp;?
+TAMBERLANE&nbsp;: _AILLEURS&nbsp;?!_
+
+[SFX&nbsp;: KOFF Koff Koff]
+[SFX&nbsp;: hxxgh h h h hh h hhh h h]
