@@ -1,15 +1,17 @@
 TESS: Bel, what...?
-HENRY: What is it?
+HENRY: What *is* it?
 
-OAKEWOOD: My new research project.
-BELFRY: MY TAMBERLANE!
+OAKEWOOD: A good question, indeed.
+BELFRY: ***MY TAMBERLANE!***
 
-TESS: Oh, stars. Oh, stars, oh stars! Bel, you can't keep that thing!
+TESS: Oh my Lord! Belfry, you can't keep that thing!
 BELFRY: I can, and I will.
 
-TESS: Belfry, it's-- it's deformed.
-BELFRY: It's my kit now.
+TESS: Belfry, it's-
+TESS: It's... *malformed.*
+BELFRY: It's my *kit* now.
 
-TESS: It has no fur! It's going to freeze in the winter! Can it even breathe with a muzzle that flat?
+TESS: It has no fur, no muzzle...
+TESS: This pitiful thing won't last the *week,* Belfry. It'll break your heart!
 BELFRY: DON'T CARE! MY KIT!
 [SFX: gyuuuuu]

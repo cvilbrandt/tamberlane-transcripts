@@ -1,15 +1,15 @@
-OAKEWOOD: Well, <i>someones's</i> moody.
+OAKEWOOD: Well, *someones's* moody.
 TAMBERLANE: Bye-bye, Briar!
 
 BELFRY: I don't blame her.
 BELFRY: It sounds like it's gotten rocky at home since I left.
 
-BELFRY: I don't know. Perhaps I <i>should</i> apologize.
+BELFRY: I don't know. Perhaps I *should* apologize.
 
 OAKEWOOD: And let that fussbudget win??
 TAMBERLANE: Fuhbudgit!
 
-OAKEWOOD: If you ask me, that fussy badger needs to learn that her kids have grown.
+OAKEWOOD: If you ask me, that bossy badger needs to learn that her kids have grown.
 OAKEWOOD: And anyway, you know she'll tell you to put the kid back.
 TAMBERLANE: Yeah!
 

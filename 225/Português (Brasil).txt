@@ -1,13 +1,20 @@
-TAMBERLANE: Se eu sou do Exterior... eu sou Manchada também?
+BELFRY: As Manchas deixam criaturas no Exterior trabalhar com ferramentas que não podemos.
+BELFRY: Então elas fazem nosso encanamento ir. E nossa água corrente!
 
-BELFRY: Oh, doce, não-
+TAMBERLANE: E os remédios.
 
-TAMBERLANE: Eu manchei todo mundo? Eu fiz mal??
+BELFRY: Muito bem!
 
-BELFRY: Não. Absolutamente não.
+BELFRY: Sim, no Exterior eles tem remédios melhores! E máquinas para ajudar criaturas doentes.
 
-BELFRY: Você viu o livro. Se você fosse Manchada, você pareceria com um monstro, certo?
+BELFRY: Mas essas coisas são cheias de Mancha, também.
 
-BELFRY: Você não é nenhum monstro.
+TAMBERLANE: Então é por isso que você tem que escolhê se você ficar *bem* doente.
 
-BELFRY: Você é minha Tamberlane.
+BELFRY: Exatamente.
+
+BELFRY: Mas mesmo quando criaturas vão, mesmo que não possoam voltar, elas ainda pode ajudar seus amigos e família!
+BELFRY: Servindo a sociedade do Exterior, você pode fazer uma diferença!
+
+BELFRY: Por isso que mandamos pessoas ruins lá, também. Desse jeito elas podem melhorar ajudando!
+BELFRY: Isso faz sentido?

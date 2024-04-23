@@ -1,11 +1,16 @@
-TAMBERLANE: Na und?! Du bist es nicht, der sie verletzt!!
+***[OUTDATED]***
 
-TAMBERLANE: Warum bist du immer <em>SO GEMEIN?!</em>
+CUR: Was bringt <em>dich</em> denn so auf die Palme?
 
-TAMBERLANE: Du musst AUFHÖREN!
+TAMBERLANE: Wieso hast--
+TAMBERLANE: Wieso hast du das <em>getan?!</em>
 
-TAMBERLANE: ...musst...
-TAMBERLANE: ...auf...
-TAMBERLANE: ...<em>HÖREN</em>...
+JONAS: Weil Piper ein riesen Arsch ist, deswegen.
+KIRA: Wieso regst du dich so darüber auf? Sie ärgert dich auch ständig!
 
-BELFRY: Da bist du ja!
+TAMBERLANE: Weil das <em>NICHT NETT IST!</em>
+TAMBERLANE: Tu <em>NIEMALS</em> Kreaturen weh!
+
+CUR: Schaut euch nur das felllose Wundertier an! "Tu niemals Kreaturen weh"?
+
+CUR: <em>Werd Erwachsen.</em> Kreaturen wird <em>jeden Tag</em> wehgetan.

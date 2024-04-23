@@ -1,17 +1,20 @@
-OAKEWOOD: Bem. Eu gostaria de sair da chuva. Policial Sawyer, eu assumo que a Doutora Nora está em casa, dormindo?
+OAKEWOOD: Bem. Eu gostaria de sair dessa chuva.
+OAKEWOOD: Xerife, vamos levar eles pra sua mulher fazer tratamento médico.
 
-SAWYER: Bem, ela disse que ia se levantar, mas ela não tem tido muito descanso ultimamente com o novo cachorrinho, eu deixaria ela dormir, se eu pudesse...
-OAKEWOOD: Sim, sim. A perna vai segurar até a manhã. Ela pode passar na biblioteca então.
+SAWYER: Beeeeemmm... A Nora ainda está se recuperando do nascimento da Parker umas semanas atrás... Ela quase não dormiu e se eu puder não acordar ela...
+OAKEWOOD: Tá bom, tá bom, eu cuido disso sozinho. É só uma torsão, sem dúvida.
+OAKEWOOD: Manda aquela aprendiz miserável dela pra biblioteca de manhã.
 
-HENRY: A biblioteca?
+HENRY: Pra biblioteca?
 
-OAKEWOOD: Não me escutou, cãozinho?
+OAKEWOOD: Essa criatura apresenta um espécime perfeito pra pesquisa.
+OAKEWOOD: Dificilmente eu deixaria tal oportunidade passar por mim.
+OAKEWOOD: Então eles vão viver comigo.
 
-OAKEWOOD: Estou começando um novo projeto de pesquisa. Eles vão ficar comigo.
 BELFRY: Nós vamos?
 
-TESS: VOCÊ?
-OAKEWOOD: Você deixou bem claro que não está interessada. Não pode ter dos dois jeitos, trancinhas de texugo.
+TESS: ***VOCÊ?***
+OAKEWOOD: Você deixou abundantemente claro que não está interessada. Não pode fazer os dois, *valentona.*
 
-HENRY: Isso só fica pior e pior.
-WALTER: Ó bem.
+HENRY: Agora, S-Senhora Tess...
+WALTER: [Russo]...

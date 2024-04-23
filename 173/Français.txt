@@ -1,0 +1,17 @@
+[SFX&nbsp;: CLANG CLANG CLANG CLANG]
+TESS&nbsp;: Je t'aime et je respecte le choix que tu as fait.
+TESS&nbsp;: Je promets que je ferai plus d'efforts.
+TESS&nbsp;: Pour toi et pour... pour Tamberlane.
+
+[SFX&nbsp;: CLANG CLANG]
+BELFRY&nbsp;: Maman...
+
+[SFX&nbsp;: CLANG CLANG CLANG CLANG]
+TESS&nbsp;: O-oh, c'est les cérémonies d'ouverture. Je dois y aller.
+BELFRY&nbsp;: Maman, attends&nbsp;!
+
+[SFX&nbsp;: CLANG CLANG]
+BELFRY&nbsp;: Ne t'inquiète pas trop, d'accord&nbsp;? Nous n'allons nulle part. Je *le promets.*
+
+[SFX&nbsp;: CLANG CLANG CLANG]
+TESS&nbsp;: Oh, Belfry. J'espère que tu as raison.

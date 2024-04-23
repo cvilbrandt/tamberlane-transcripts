@@ -1,19 +1,20 @@
 WALTER: Here returns Auntie Briar!
 TAMBERLANE: Briar!
 
-TESS: Belfry! You've ruined those pies!
+TESS: Belfry! You've *ruined* those pies!
 BELFRY: And who started that?!
-TESS: Well, maybe if you weren't yelling at me!
+TESS: Well, maybe if you weren't *yelling* at me!
 
 PANTHER: Are the Bakers still fighting?
 SQUIRREL: I'm still delivering Belfry's mail at the Library, so...
 DEER: Poor Briar!
 KANGAROO-MOUSE: I wonder if flowers might help?
 
-BRIAR: <em>WILL YOU TWO GROW UP!?</em>
+BRIAR: WILL YOU ***TWO GROW UP!?***
+
 BRIAR: I swear, sometimes I feel like the only adult in this family.
 
-WALTER: Добро пожаловать назад, оленька
+WALTER: [Russian]
 BRIAR: Спасибо, Папочка
 
 TAMBERLANE: What?

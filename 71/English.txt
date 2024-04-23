@@ -1,16 +1,18 @@
 MARIE: The best way to get to Parsley is this way!
-MARIE: So why do you want to see Parsley, anyway?
+MARIE: So why do you want to see him, anyway?
 
-TAMBERLANE: Penny!
+TAMBERLANE: ...Penny!
 
-MARIE: I didn't know you knew Penny!
-MARIE: What about Penny?
+MARIE: Oh! You know Penny?
+MARIE: What about her?
 
-TAMBERLANE: P...Penny!
+TAMBERLANE: *P...Penny!*
 
-TAMBERLANE: Penny tree no bad Tamberlane.
-MARIE: I'm sorry, I don't understand. What's a Tamberlane?
+TAMBERLANE: Penny Pawsley help no bad Tamberlane.
+MARIE: I'm so sorry, I got "Parsley help"...
+MARIE: ...but what's a Tamberlane?
 
-TAMBERLANE: Bad Tamberlane, <em>no!</em>
+TAMBERLANE: Bad Tamberlane, *no!*
 
-MARIE: Oh, no! Please don't cry! I'm so sorry! Is Tamberlane you?
+MARIE: Oh, no! Please don't cry! I didn't mean it!
+MARIE: Are *you* Tamberlane?

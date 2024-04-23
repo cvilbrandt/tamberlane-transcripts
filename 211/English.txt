@@ -1,13 +1,17 @@
-MILO: That's all very well, but perhaps we should still take this indoors?
-BELFRY: Well, we were on our way to Peek-a-Books so...
-OAKEWOOD: How fortuitous, so were we.
+MILO: That's all very well, but perhaps you should still take this indoors?
+BELFRY: Well, we were on our way to Peek-a-Books, so...
+OAKEWOOD: How fortuitous. So were we.
 
-TAMBERLANE: We can go <em>together??</em>
+TAMBERLANE: We can go *together??*
 
-OAKEWOOD: Oof! I think that's a splendid idea. 
+OAKEWOOD: Oof!
+OAKEWOOD: (hRGHHh) I think that's a splendid idea. 
+OAKEWOOD: One can always find the truth between the covers of a book.
 
 MILO: You okay?
 
-BELFRY: Huh? Oh, yeah... I'm okay.
+BELFRY: Huh?
+BELFRY: Oh, yeah...
+BELFRY: I'm okay.
 
-BELFRY: I'm just glad that at least <em>Oakewood</em> can cheer her up. 
+BELFRY: I'm just glad that at least *Oakewood* can cheer her up.

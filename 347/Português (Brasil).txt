@@ -1,22 +1,13 @@
-TERRA: Não arrasta ela desse jeito! Você tá puxando a máscara da cara dela!
-BELFRY: Mas ela não consegue <em>espirar!</em> Olha pra ela, Terra, ela tá morrendo!!
-TERRA: <em>POR QUE VOCÊ TÁ TIRANDO A MÁSCARA DE OXIGÊNIO DA CARA DELA!</em>
-TAMBERLANE: HAHHkh Hh HHghH
+BRIAR: Qual é o diagnóstico? Ela vai ter problemas persistentes?
 
-TERRA: Coloca ela de volta na cama, agora! Você pode estar piorando a condição dela assim!
-BELFRY: N-não! Mas eu- eu não queria-
-TAMBERLANE: hHHkH HhH HNHKhh
+NORA: Ela tem um caso bem severo de pneumonia, e ela tem tido problemas em respirar.
+TAMBERLANE: hggh kff ghffkf
 
-BELFRY: T-Tamberlane, Me desculpa-
-BRIAR: Qualé, Bel. A Tamberlane só precisa de um tempo pra se recuperar, ok?
-BELFRY: Mas mas mas-
-TAMBERLANE: hggh mumm fhKKff sssor hKk
-TERRA: Shhh. Respira.
+WALTER: Eu imagino, com um focinha tão pequeno.
+NORA: A boa notícia é que ela responde melhor do que eu esperava à medicação dela.
 
-TAMBERLANE: hhhAgh hhAa
+NORA: Ela deve se recuperar de boas.
 
-BELFRY: <em>Ela precisa de mim!</em>
-BRIAR: Ela precisa <em>descansar,</em> Belfry.
-BRIAR: E você também. Bora. Vamos pra casa.
-
-BRIAR: Você precisa dar espaço pra ela ou ela não vai ficar melhor.
+NORA: Mas ela deve ficar no hospital mais um pouco para ficarmos de olho <em>BELFRY, NÃO!</em>
+BELFRY: <em>ELA TÁ MORRENDO, NORA! CONSERTA ELA!!!</em>
+TAMBERLANE: hh HGHKkff Kuffkhhh sngh hh

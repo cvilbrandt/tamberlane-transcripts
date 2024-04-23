@@ -1,0 +1,21 @@
+OAKEWOOD&nbsp;: Très bien, remontez-les.
+HENRY &nbsp;: Oakewood&nbsp;? Que fais-tu ici&nbsp;?
+
+OAKEWOOD&nbsp;: Recherche.
+OAKEWOOD&nbsp;: Maintenant, remontez-les.
+
+TESS&nbsp;: Euh. *Oakewood.*
+TESS&nbsp;: Retourne à ta bibliothèque. C'est une *affaire de famille.*
+
+OAKEWOOD&nbsp;: Oui, *oui,* c'est moi.
+OAKEWOOD&nbsp;: Orphelins, animaux sauvages, j'ai entendu parler de votre *affaire de famille* débile
+
+OAKEWOOD&nbsp;: Vas-tu vraiment te disputer sous la pluie alors qu'elle est coincée dans un trou dans le sol&nbsp;?
+
+TESS&nbsp;: Siiiiggghhhh
+
+TESS&nbsp;: Très bien.
+TESS&nbsp;: Sortons ça du ravin.
+
+BEFFROI&nbsp;: JE N'AI PAS BESOIN DE TA PERMISSION&nbsp;!
+TESS&nbsp;: CETTE CORDE DIT QUE SI&nbsp;!!!

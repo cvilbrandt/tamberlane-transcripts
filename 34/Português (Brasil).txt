@@ -1,17 +1,19 @@
-OAKEWOOD: Beleza, sobe eles de vez.
+OAKEWOOD: Beleza, sobe eles logo.
 HENRY: Oakewood? O quê você está fazendo aqui?
 
 OAKEWOOD: Pesquisa. Agora sobe eles.
 
-TESS: Ergh. Oakewood, escuta.
-OAKEWOOD: Tá, tá. Orfãos, animais selvagens, eu já ouvi essa besteira.
+TESS: Ergh. *Oakewood.*
+TESS: Volta pra sua biblioteca. Isso é um *problema familiar.*
+OAKEWOOD: Sim, *sim,* sou eu.
+OAKEWOOD: Órfãos, animais selvagens, eu já ouvi todo esse lixo de *problema familiar.*
 
 OAKEWOOD: Você realmente vai ficar brigando na chuva enquanto ela está presa em um buraco no chão?
 
 TESS: *Suspiiiiiro*
 
 TESS: Tá bom.
-TESS: Você pode levar pra casa com você.
+TESS: Tira isso da ravina.
 
 BELFRY: EU NÃO PRECISO DA SUA PERMISSÃO!
-TESS: ESSA CORDA DIZ QUE VOCẼ PRECISA!!!
+TESS: ESSA CORDA DIZ QUE VOCÊ PRECISA!!!

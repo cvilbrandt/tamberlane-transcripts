@@ -1,8 +1,16 @@
-<p>TESS&#160; Claude&#160;! Quel est ton <strong>probl&egrave;me?!</strong></p>
-<p>TESS&#160;: Tu ne veux vraiment pas me parler m&ecirc;me dans un moment <em>pareil&#160;?&#160;!</em><br>
-TESS&#160;: <strong>Pour l'amour du ciel, Claude&#160;! C'était <em>il y a vingt ans&#160;!</p></strong></em>
-<p>TAMBERLANE&#160;: Onc&#160;? Q-qu'est-ce qui ne va pas&#160;?
-TAMBERLANE&#160; Je peux aider ?</p>
-<p>SFX&#160;: hnk</p>
-<p>TESS&#160;: Qu'est-- <em>Où diable vas-tu&#160;?&#160;!</em></p>
-<p>TESS&#160; <strong><em>CLAUDE&#160;!!!</strong></em></p>
+TESS&nbsp;: Où *étais-tu* plus tôt&nbsp;?&nbsp;!
+
+TESS&nbsp;: *Milo* était là mais pas toi ?! Belfry avait *BESOIN* de toi&nbsp;!
+TESS&nbsp;: Si tu veux faire comme si tu faisais partie de sa famille, alors *fais comme si c'était le cas*&nbsp;!
+
+TESS&nbsp;: Qu'est-ce qui était si important pour que tu ne puisses pas la soutenir, hein&nbsp;?!
+TESS&nbsp;: Tu ne pouvais même pas rendre visite à ton soi-disant *sujet de recherche*&nbsp;?!
+TESS&nbsp;: **Sujet de recherche.** Je n'arrive pas à croire que tu appelles un *petit* ton *sujet de recherche&nbsp;!*
+
+TESS&nbsp;: ***CLAUDE&nbsp;!*** **RÉPONDS-MOI&nbsp;!**
+
+TAMBERLANE&nbsp;: Oncl...
+
+OAKEWOOD&nbsp;: Bonjour Gueule-de-l... ou...
+
+TAMBERLANE&nbsp;: Oncl...&nbsp;?

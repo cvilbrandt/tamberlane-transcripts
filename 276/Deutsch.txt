@@ -1,4 +1,14 @@
-BELFRY: <em>NEIN!</em>
+***[OUTDATED]***
 
-BELFRY: Tamberlane, es tut mir so leid! Hast du dir wehgetan?
-TAMBERLANE: NEIN.
+BELFRY: Tamberlane!
+TAMBERLANE: STOP!
+BELFRY: Tamberlane, beruhige dich! Ich bin doch <em>da!</em>
+TAMBERLANE: <em>STOP! STOP! STOP!</em>
+
+BELFRY: Es ist vorbei! Es ist okay! <em>Ich hab dich gerettet!</em>
+TAMBERLANE: <em>STOP! STTTOOOPP!</em>
+
+BELFRY: Bitte, Schätzchen, kämpf nicht so! Sag mir was passiert ist!
+TAMBERLANE: STTTTTTOOOOOOPPPP!!!!!
+
+BELFRY: Bitte beruhige dich...

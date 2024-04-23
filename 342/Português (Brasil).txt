@@ -1,13 +1,15 @@
-GUNNER: Não houve um julgamento dessa forma faz quase duas décadas.
-GUNNER: Eu só desejo ir à julgamento se for <em>absolutamete necessário.</em>
+SCOTT: Bom dia, colegas! Vamos ver...
 
-TESS: O Gunner está certo.
-TESS: Nós <em>realmente</em> queremos colocar o Jentzen em um julgamento de banimento? Só por ter empurrado por responder perguntas?
+SCOTT: Callie Professora reportou um incidente em sua sala de aula onde Jentzen Prendiz teve a intenção de responder questões sobre o Exterior.
 
-TRISHA: Por o quê isso vale, a Callie retraiu a queixa! Não precisamos buscar julgamento por ela.
+SCOTT: Ele disse que dado o impacto que o Exterior tem tido nas vidas das crianças, elas mereçem saber mais sobre tal.
 
-TIMMOTHY: Infelizmente isso não importa.
-TIMMOTHY: Por mais que eu queira, nessa instâcia não podemos usar o Estatuto 113-42.
+SCOTT: Quando confrontado sobre seu comportamento, ele escolheu retaliar publicamente em vez de discutir em privado.
+SCOTT: Genevieve chamou esse encontro pra discutirmos como proceder.
+SCOTT: Pensamentos?
 
-TIMMOTHY: Quando ele retrucou publicamente na frente dos filhotes, ele fez isso uma questão de interesse público.
-TIMMOTHY: Além de que, como Assistente para a professora da escola, ele é uma figura pública e um empregado do governo. Não podemos simplesmente empurrar isso pra de baixo do tapete.
+GENEVIEVE: Dado o histórico e reputação com a cidade pristinos do Jentzen, eu posito que a punição deve ser administrada privadamente, conforme o Estatuto 113-42, como normal.
+
+TIMMOTHY: Entendível. Porém...
+TIMMOTHY: Infelizmente, as ações do Jentzen violaram o terceiro édito. E quando um édito é quebrado...
+TIMMOTHY: ...devemos ir á julgamento.

@@ -1,15 +1,16 @@
 [SFX: hnf]
 
-OAKEWOOD: Tch. Fantasmas.
+OAKEWOOD: Tch. 
+OAKEWOOD: Fantasmas.
 
-OAKEWOOD: Eles provavelmente viram algum mato estranho.
+OAKEWOOD: Eles provavelmente viram um filhote de urso com sarna.
 
-OAKEWOOD: Um gritante, andante...
+OAKEWOOD: Com garras pegadoras que nem uma criatura...
 
-OAKEWOOD: Porém, eles falaram que...
+OAKEWOOD: Anormal para um mero animal. Eu me pergunto...
 
-OAKEWOOD: Não. Eu me recuso a dar valor pro devaneio deles.
+OAKEWOOD: Não. Eu *vou* ficar em casa hoje e apreciar meu chá em *conforto!*
 
 [SFX: rrrrrrrrr]
 
-OAKEWOOD: Droga!
+OAKEWOOD: *Ah, droga!*

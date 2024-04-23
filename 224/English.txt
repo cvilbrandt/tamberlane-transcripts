@@ -1,0 +1,24 @@
+BELFRY: No one thinks you're a monster.
+BELFRY: Abroad is just...a bogeyman.
+TAMBERLANE: So it's not real?
+BELFRY: No, it's real. It's just...
+BELFRY: Abroad is just a place, pet.
+
+TAMBERLANE: Is *Taint* real?
+BELFRY: Nana Tess says it is. But I don't think it's like *that.*
+
+TAMBERLANE: It doesn't make monsters?
+BELFRY: Well, *I've* never seen one, at least.
+
+BELFRY: I don't know what it is about Taint that makes it so dangerous.
+BELFRY: I know it's important to be careful; otherwise we wouldn't have so many rules around it!
+BELFRY: I do know *some* things about Abroad, though!
+TAMBERLANE: Like what?
+
+BELFRY: Abroad is actually really important to Silver Sage!
+BELFRY: It's because of Abroad that we have some important services here in Treehollow.
+TAMBERLANE: Like what?
+
+BELFRY: Like... Indoor plumbing!
+BELFRY: If it weren't for Abroad, we'd have to poo outside!
+TAMBERLANE: Ew!

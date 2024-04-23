@@ -1,17 +1,18 @@
-OAKEWOOD: Good morning, Gentlemen.
+OAKEWOOD: Good morning, chaps.
 
 SCOTT: It seems we have a party!
 PEEK: Ah, come to fetch your books, Claude?
-OAKEWOOD: Indeed, I have. And I believe Miss Tamberlane has some errands here, too. 
+OAKEWOOD: Indeed, I have.
+OAKEWOOD: And I believe Miss Tamberlane has some errands here, too. 
 
-TAMBERLANE: Hi Mister Scott!
-SCOTT: Why hello there Miss Tamberlane! What can I do for you?
+TAMBERLANE: Hi, Miss Scott!
+SCOTT: Why hello there, Miss Tamberlane! What can I do for you?
 
-TAMBERLANE: Mummy said...Mummy said I could have books.
+TAMBERLANE: Mummy said...
+TAMBERLANE: Mummy said I can have books.
 
 BELFRY: We're looking for some books to help cheer her up after a rough day.
 
-SCOTT: A bad day? We can't have that, now can we? How about we pick some out?
+SCOTT: A rough day? We can't have *that,* now can we?
+SCOTT: How about we pick some out?
 TAMBERLANE: Yes, please!
-
-

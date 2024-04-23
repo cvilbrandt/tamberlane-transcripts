@@ -1,17 +1,14 @@
-SFX: KRNCHKRNCHHK
+JONAS: Bom aqui fora, não é? Fresco.
+RAFEIRO: É. Massa ficar com vocês longe do resto da cambada.
 
-SFX: KRNCHKRNCHKRNCHH
-RAFEIRO: Masoq-
+KIRA: Eu odeio os passeios da escola. Todo mundo pega no seu pé o tempo todo.
 
-RAFEIRO: Ah, volta pra cama! A gente num tá machucando ninguém!
-KIRA: Agh! <em>Qual é</em> seu problema??
-TAMBERLANE: Você não pediu desculpa!
+RAFEIRO: É, mas aquela pegadinha foi bem engraçada, né?
+KIRA: Eu amo quando eles correm!
+JONAS: Tch-Éee!
 
-KIRA: Cai na real!
-JONAS: É, os adultos já castigaram a gente!
+RAFEIRO: Mas eu provavelmente não devia ter tropeçado a Piper. Eu não queria machucar ela de verdade...
+KIRA: Eu *não* amo quando eles choram.
+JONAS: É...
 
-TAMBERLANE: <em>NÃO.</em>
-KIRA: Sai fora!
-TAMBERLANE: Você não se <em>desculpou!</em>
-
-TAMBERLANE: Você tem que se <em>DESCULPAR!</em>
+RAFEIRO: Ah, bem. Quem mandou ela ser vacilona.

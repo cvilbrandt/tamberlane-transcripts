@@ -1,0 +1,20 @@
+BRIAR&nbsp;: Hé, папочка. Des nouvelles&nbsp;?
+WALTER&nbsp;: Hmm. Jonas survivra, semble-t-il.
+WALTER&nbsp;: Bonne nouvelle, mais je n’ai encore aucune nouvelle de Tamberlane.
+
+BRIAR&nbsp;: Eh bien, c'est *une* bonne nouvelle.
+BELFRY&nbsp;: Et si...
+BELFRY&nbsp;: Et si elle est trop malade&nbsp;?
+WALTER&nbsp;: allez, Belfry...
+
+BELFRY&nbsp;: Et s'ils n'ont pas trouvé de moyen de la soigner&nbsp;? Cela fait des heures&nbsp;! Est-elle morte&nbsp;? Est-ce que je ne suis pas arrivée assez tôt&nbsp;?
+WALTER&nbsp;: N'y pense pas&nbsp;!
+
+BELFRY&nbsp;: Comment puis-je *ne pas y penser&nbsp;?!* Ma fille est *MOURANTE&nbsp;!*
+WALTER&nbsp;: Tu ne *sais* pas ça&nbsp;! Tout ce que tu *sais*, c'est qu'elle est sous les soins d'un médecin&nbsp;!
+BELFRY&nbsp;: Mais je crains que
+WALTER&nbsp;: L’inquiétude est un gaspillage d’imagination. Nous nous occuperons de ce qui viendra *quand* il arrivera.
+
+NORA&nbsp;: Les Boulangers&nbsp;?
+
+NORA&nbsp;: Tamberlane est prête à recevoir des visiteurs.

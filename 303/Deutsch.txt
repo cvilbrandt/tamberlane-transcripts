@@ -1,12 +1,20 @@
-SFX: <em>GÄÄÄÄHHNN</em>
+***[OUTDATED]***
 
-JASON: Kira...?
-JASON: HEY!
+KIRA: muss die Erwachsenen finden
+KIRA: muss die Erwachsenen finden
 
-KIRA: Herr Jason! Kommen sie schnell! !
-JASON: Warum zur Hölle bist du nicht im Bett?!
+KIRA: Nein! Die Spuren sind...
+KIRA: Welcher...
+KIRA: Welcher Weg war es nochmal?
 
-KIRA: Das is grad egal!
-KIRA: <em><strong>Bitte!</strong></em>
+KIRA: Ich...
+KIRA: Ich kann mich nicht...
 
-JASON: Was ist passiert?
+SFX: HICK
+SFX: HICK
+SFX: SCHNIEF
+
+KIRA: Nein, nein nein nein, ich kann jetzt nicht-, ich muss...
+KIRA: Ich muss die Erwachsenen finden, sonst werden Jonas und Tamberlane wirklich...
+
+KIRA: Ich- ich glaub, wir waren da lang.

@@ -6,16 +6,16 @@
 
 [SFX: fffssshhh]
 
-[SFX_: ffsssshhhhh]
+[SFX: ffsssshhhhh]
 TAMBERLANE: Uwah!
 
-[SFX_: ffsssshhhhh]
+[SFX: ffsssshhhhh]
 TAMBERLANE: Weh! Weh!
 
-[SFX_: ffsssshhhhh]
+[SFX: ffsssshhhhh]
 BELFRY: Oh!
 
-[SFX_: ffsssshhhhh]
+[SFX: ffsssshhhhh]
 
-[SFX_: ffsssshhhhh]
+[SFX: ffsssshhhhh]
 FORA: BELFRY!

@@ -1,15 +1,15 @@
 WALTER: So, how are you doing?
 BRIAR: Fine.
 
-WALTER: You don't look fine. You are looking...Stretched thin.
-BRIAR: I'm just frustrated! Why can't they buck up and apologize already?
+WALTER: You don't look fine. You are looking... stretched thin.
+BRIAR: I'm just frustrated! Why can't they just buck up and apologize already?
 
 WALTER: Have you not noticed? It is because they are the same.
-BRIAR: WHAT?! No they're not! They're polar opposites!
+BRIAR: *WHAT?!* No they're not! They're polar opposites!
 
-SFX: SMACK
-TESS AND BELFRY: Hhmph!!!
-SFX: SPLUT
+[SFX: SMACK]
+TESS & BELFRY: *Hhmph!!!*
+[SFX: SPLUT]
 
-BRIAR: ...Nevermind. I see what you mean. [The apple doesn't fall far from the tree]
-
+BRIAR: ...Nevermind. I see what you mean.
+BRIAR (muttered, in [Russian]): (The apple doesn't fall far from the tree...)

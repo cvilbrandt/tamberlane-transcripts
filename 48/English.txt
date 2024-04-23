@@ -2,13 +2,12 @@ OAKEWOOD: Don't forget you have to clean up the cub, as well.
 
 BELFRY: I think it's a girl!
 
-BELFRY: At least, it could be.
-BELFRY: It has a vagina, anyway.
-BELFRY: I think.
+BELFRY: Probably.
 
-OAKEWOOD: Well, that'll do until we know otherwise.
+OAKEWOOD: Well, that'll do for now.
 OAKEWOOD: You know what this means, don't you?
-OAKEWOOD: You have a daughter.
+OAKEWOOD: You have a *daughter.*
 OAKEWOOD: A smelly, reeking, strange little daughter.
 
-OAKEWOOD: Congratulations. It's a swamp monster.
+OAKEWOOD: Congratulations.
+OAKEWOOD: It's a swamp monster.

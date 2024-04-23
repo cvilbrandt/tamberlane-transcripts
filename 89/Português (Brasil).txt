@@ -1,6 +1,6 @@
 TAMBERLANE: Ah!! Fofa!
 
-VOZ: Tamberlane!!
+FORA: Tamberlane!!
 
 BELFRY: Tamberlane, estou vindo!
 
@@ -10,4 +10,4 @@ BELFRY: Ainda bem que você tá segura! Eu estive tão preocupada!!
 
 TAMBERLANE: Yah!
 
-BELFRY: <em>aaAAWAAAGH!!</em>
+BELFRY e TAMBERLANE: ***aaAAWAAAGH!!***

@@ -1,20 +1,21 @@
-MARIE: I'm so sorry! Oh, please stop hitting yourself!
+MARIE: I'm so sorry!
+MARIE: Oh, please stop hitting yourself!
 
-MARIE: There, there, darling. I'm sure Parsley can help you.
-MARIE: What'd you bring him?
+MARIE: There, there, darling. Wipe your tears.
+MARIE: How about you tell me all about what you brought to trade?
 
 TAMBERLANE: h-huh?
 
-MARIE: Right...You're not from around here, are you?
+MARIE: You're *really* not from around here, are you?
+MARIE (muttered): I thought all of Silver Sage bartered...?
 
 TAMBERLANE: uwwWAAAHH
 MARIE: Oh no, no, don't fret! I'll explain it!
 
-MARIE: Parsley is an older kid who knows a lot of stuff.
+MARIE: When you want a creature to give you something, you're supposed to give something in return!
 
-MARIE: He'll help creatures out but he usually charges an item of personal significance.
+MARIE: But you really look like you could use some help, poor thing...
 
-MARIE: But don't worry! He has a heart.
-MARIE: I'm sure he'll be charitable to a newcomer.
-MARIE: So no more crying, okay?
+MARIE: That's fine! Don't worry, darling! Parsley will get you all sorted!
+MARIE: So there's no need to cry, alright?
 TAMBERLANE: okee

@@ -3,17 +3,20 @@ TESS: No.
 
 WALTER: We are not ready for this very loud kit!
 TESS: No.
+[SFX: AAAWAAAA]
 
 WALTER: Tess, my darling...
 TESS: No.
 
-WALTER: So you see, your mother was very enthusiastic about keeping the little Belfry. We had many talks. But I did come around. Obviously.
+WALTER: So you see, your mother was very enthusiastic about keeping little Belfry.
+WALTER: We had many talks. But I did come around. Obviously.
 
-WALTER: She was our one and only, our pride and joy, until you came along, Briushka.
-Now we have two prides!
-Briar: Aww, Papochka/Daddy...
+WALTER: She was our one and only pride and joy, until you came along, [Russian].
+WALTER: Now we have two prides!
+BRIAR: Aww, [Russian]...
 
-WALTER: So I say, Tess understands. She has other reasons to dispute. But they will work it out. They have the same personality
-BRIAR: Okay, Okay I get it.
-
-
+WALTER: So I say, Tess understands.
+WALTER: Her... ehm... *frustration* is from another place, I think.
+WALTER: But they will work it out.
+WALTER: They have the same personality.
+BRIAR: Okay, okay. I get it.

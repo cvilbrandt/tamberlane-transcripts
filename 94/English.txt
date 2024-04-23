@@ -4,6 +4,9 @@ OAKEWOOD: Why? You said it was nothing.
 
 BELFRY: It was!
 
-BELFRY: It was.  It's just, you know...
+BELFRY: It was.
+BELFRY: It's just, you know...
 
-BELFRY: Even after everything Nora said earlier, about kits just needing love... I just... still don't think I can do it.
+BELFRY: Nora said kits just need love and a safe home...
+BELFRY: And I *do* love her. But how can *I* keep her safe?
+BELFRY: I'm... you know, I'm *me.*

@@ -1,18 +1,19 @@
-TAMBERLANE: Du hast Piper <i>wehgetan</i>. Lebewesen wehtun ist BÖSE!
+***[OUTDATED]***
 
-CUR: Ich?? Piper tut anderen <em>ständig</em> weh!
-CUR: Dich interessiert's nur nicht, weil sie <i>dich</i> jetzt in Ruhe lässt!
-TAMBERLANE: Sie bringt andere nicht zum <i>Weinen</i>!! Ich will nur, dass du <em>AUFHÖRST!!</em>
-CUR: <em>Natürlich</em>! Ich hab doch vorhin deine Faust gesehen!
+SFX: KRNCHKRNCHHK
 
-CUR: Ooh, ich bin <i>Tamberlane!</i> Ich tuh keinem was weh!
+SFX: KRNCHKRNCHKRNCHH
+CUR: Wa-
 
-CUR: Gelaber und <em>Getue!</em>
+CUR: Ach, geh doch wieder ins Bett! Wir tun keinem Weh!
+KIRA: Ugh! <i>Was</i> hast du für'n Problem??
+TAMBERLANE: Du hast dich nicht entschuldigt!
 
-TAMBERLANE: Du musstest aber AUFHÖREN!
-CUR: ICH HAB AUFGEHÖRT! Du wolltest mich TROTZDEM SCHLAGEN!
-TAMBERLANE: <em>SAG ES TUT DIR LEID!!</em>
-CUR: Oh, du willst, dass ich mich <em>entschuldige??</em>
+KIRA: Komm drüber weg!
+JONAS: Ja, die Erwachsenen haben uns schon bestraft!
 
-KIRA: Vergiss sie, sie ist irre! Hauen wir ab b'vor wir wieder eins drüber kriegen!
-JONAS: Ja, wen interessiert schon was sie denkt?
+TAMBERLANE: <em>NEIN</em>.
+KIRA: Lammich los!
+TAMBERLANE: Es tut dir nicht <i>Leid!</i>
+
+TAMBERLANE: Es muss dir <em>LEID TUN!</em>

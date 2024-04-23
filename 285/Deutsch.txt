@@ -1,14 +1,14 @@
-BELFRY: Ich will nur, dass sie sicher und wohlauf ist.
+***[OUTDATED]***
 
-NORA: Du kannst sie nicht vor allem beschützen, Belfry! Erst Recht nicht vor ihren eigenen Gefühlen!
+BELFRY: Was genau meinst du mit "Kinderlaune"?
+NORA: Ach, du weisst schon...
 
-NORA: Es hat vermutlich nichts mit dir zu tun. Nur Kinderpolitik.
-BELFRY: Kinderpolitik?
+NORA: Tamberlane hat sich in den letzten anderthalb Jahren sehr gut in Treehollow eingelebt.
+NORA: Sie entwickelt jetzt sicherlich langsam ihre eigene Identität.
 
-NORA: Erinnerst du dich nicht daran, als wir selbst noch Kinder waren?
-NORA: Die Erwachsenen verstanden <i>nie</i> unsere kleinen Sozialdramas.
+NORA: Während sie älter wird, wird sie auch unabhängiger werden, Belfry.
 
-NORA: Egal was passiert, denk dran: Alles was Tam braucht ist Liebe, jemanden, der die Verantwortung für sie übernimmt...
-BELFRY: ...und einen Ort, den sie Zuhause nennen kann.
+BELFRY: Ja, natürlich wird sie das, aber noch nicht <i>jetzt!</i> Zudem ist sie was <i>besonderes</i>! Sie <i>braucht</i> mich!
+NORA: Sie wird dich immer brauchen, du dumme Gans.
 
-NORA: Es wird alles gut werden Bel, für euch beide.
+NORA: Aber sie wird auch ihr eigenes Leben leben müssen.

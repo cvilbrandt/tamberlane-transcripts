@@ -1,0 +1,21 @@
+JACKIE&nbsp;: Joyeux Festival Souverain, Oakewood&nbsp;!
+OAKEWOOD&nbsp;: Toi aussi, Jackie.
+JACKIE&nbsp;: Qu'est-ce que je vais te servir&nbsp;?
+
+OAKEWOOD&nbsp;: Je prendrai une Powderclaw Dark Ale.
+OAKEWOOD&nbsp;: Tamberlane aura une myrtille-
+TAMBERLANE&nbsp;: Myrtille-Fizz&nbsp;!!!
+OAKEWOOD&nbsp;: Et Milo aura...
+MILO&nbsp;: ... rien...
+OAKEWOOD&nbsp;: ...un whisky avec glaçons.
+
+JACKIE&nbsp;: Et vos, euh... compagnons&nbsp;?
+
+[SFX&nbsp;: siiigh]
+
+OAKEWOOD&nbsp;: Jackie, je sais qu'ils viennent de Follybrook, mais ils sont aussi les envoyés commerciaux.
+OAKEWOOD&nbsp;: Ils ne peuvent être autorisés qu'une fois par an, mais ils *sont* autorisés.
+OAKEWOOD&nbsp;: Alors pourquoi ne *leur* demande-tu pas&nbsp;?
+
+JACKIE&nbsp;: ...Bien, qu'est-ce que vous prendrez-
+TAGG&nbsp;: Un Dark & Stormy. Et mon frère prendra un Tin Mule.

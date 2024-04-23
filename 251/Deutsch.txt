@@ -1,19 +1,22 @@
-PARSLEY: Wer ist diese "Vi", die dir Trissol beigebracht hat?
-TAMBERLANE: Vi!
+***[OUTDATED]***
 
-PARSLEY: Aber war Vi deine Mama oder dein Papa oder so?
-TAMBERLANE: Nein, Mama ist <i>Belfry</i>!
+PARSLEY: Ah, entschuldige! Ich hab ihr nur gesagt, dass es cool ist, anders zu sein!
+MARIE: Sorry, mein Trissol ist einfach <em>Müll!</em>
 
-MARIE: Aber was ist mit der Zeit, <i>bevor</i> du nach Treehollow kamst? Wer war damals deine Mama?
+PARSLEY: Wo wir grad über Trissol reden, ich weiß, das hat man dich bestimmt schon oft gefragt, Tam, aber...
+PARSLEY: Wie <em>hast</em> du es eigentlich gelernt?
+PARSLEY: Du bist nicht taub, also... war es jemand, den du gekannt hast?
 
-TAMBERLANE: Äh...
+TAMBERLANE: Ähm...
+TAMBERLANE: Bi!
 
-TAMBERLANE: Weiß nicht.
-MARIE: Das ist okay, Tamberlane. Ich weiß, dass Herr Oakewood dich darüber <em>tagelang</em> ausgefragt hatte.
+PARSLEY: Meinste nicht eher "Vi"?
+TAMBERLANE: Nein, <em>Bi.</em>
+PARSLEY: Du zeigst aber "Vi", Tam.
 
-PARSLEY: Okay, aber was <em>war</em> Vi? War sie... wie du?
+TAMBERLANE: Oh... Vi?
+TAMBERLANE: Stimmt, hast Recht.
 
-TAMBERLANE: Nein... Vi war... R<i>[unleserlich]</i>
-
-PIPER: OI, IHR DEPPEN! WAS LÄUFT?
-ALL: AAAAAAA!!!!
+PARSLEY: Ah! Du hast Trissol sehr jung gelernt, so wie ich.
+PARSLEY: Du warst, was, drei? Als du hier ankamst?
+PARSLEY: In dem Alter hab ich die Zeichen auch immer verwechselt.

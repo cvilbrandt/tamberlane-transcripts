@@ -1,4 +1,4 @@
-PENNY: <em>Piper.</em>
+PENNY: *Piper.*
 PIPER: Penny.
 
 PIPER: Oh~! I see you're spending time with Treehollow's own ghostie!
@@ -9,5 +9,5 @@ PENNY: Why's she so scared of you?!
 
 PIPER: Oh, that's probably 'cuz I pushed it into the ravine.
 
-PENNY: You <em>WHAT?!</em>
-PIPER: Well, I thought it was a ghost at the time.
+PENNY: You ***WHAT?!***
+PIPER: Well, I *thought* it was a ghost at the time.

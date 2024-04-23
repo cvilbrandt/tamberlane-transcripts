@@ -1,13 +1,20 @@
-TRISHA: Nós tomamos conta do conselho por uma razão.
+CALLIE: Trisha, você está no conselho...
+CALLIE: O Jentzen tá ferrado?
+CALLIE: Tipo, realmente ferrado?
 
-TRISHA: Nunca se esqueça que nós não somos o antigo conselho, Callie.
+TRISHA: A doença atingiu a gente que nem uma onda.
+TRISHA: Destruiu tudo em seu rastro.
+TRISHA: Familias...
+TRISHA: Suprimentos...
+TRISHA: Confiança...
 
-TRISHA: Quando nós viemos ao poder, nós prometemos que fariamos o que fosse preciso para proteger Treehollow e seus cidadãos.
-TRISHA: Jentzen é uma parte amada de Treehollow.
-TRISHA: Ele <em>pertence</em> aqui.
+TRISHA: Você lembra do último banimento? Durante a epidemia?
+CALLIE: Um pouco.
+TRISHA: Eu lembro de um monte de criaturas doentes ou saindo, principalmente.
+TRISHA: Você é bem nova...
 
-TRISHA: Vamos fazer tudo que pudermos para ele.
-TRISHA: Não se preocupe, meu bem.
-
-CALLIE: Graças a Deus.
-CALLIE: Graças a Deus.
+CALLIE: Eu lembro dos protestos.
+TRISHA: O antigo Conselho era muito rígido.
+TRISHA: Baniram tantos...
+TRISHA: E então o incidente com os prévios Ferreiros...
+TRISHA: Foi irracional.

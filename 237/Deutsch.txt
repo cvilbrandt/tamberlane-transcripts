@@ -1,15 +1,18 @@
-JASON: Wie dem auch sei.
+***[OUTDATED]***
 
-JASON: Es wird schon gut ausgehen, Callie.
-JASON: Red einfach möglichst bald mit dem Stadtrat.
-JASON: Wenn Belfry recht hat, wird Gras über die ganze Sache wachsen.
+JASON: Hör auf Belfry. Sie wird besser wissen, wie der Stadtrat von Treehollow funktioniert, als ich alter Seebär.
+BELFRY: Jason, du bist erst 30.
+JASON: Meine Aussage bleibt die selbe.
 
-CALLIE: Ja, absolut. Ich werde das sofort nach unserer Rückkehr machen.
+JASON: Ich mein nur, du solltest <em>vorsichtig</em> sein.
 
-CALLIE: Ich hatte nicht...bedacht...wie sich mein Bericht auf Jentzen auswirken würde.
-CALLIE: Ich hatte nur Protokolle befolgt...
+JASON: In den Orten, die ich besucht habe, ist dieser Ort nicht zu unterschätzen.
+JASON: Und meiner Erfahrung nach?
 
-BELFRY: Es ist nur ein Missverständnis. Ich versprech es.
-JASON: Ja, es wird alles gut.
-JASON: Keine Sorge.
-CALLIE: Danke...
+JASON: Räte und Autoritäten sind bei diesen Themen selten <em>nachgiebig.</em>
+
+JASON: Ah, aber ich will euch keine Angst machen. Ich bin mir sicher, es wird gut werden--
+SFX: PLAP
+
+JASON: <em>PIPER!!</em>
+PIPER: <em>SORRY, DAD!!</em>

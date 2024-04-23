@@ -1,16 +1,17 @@
-TESS: Onde você <em>tava</em> mais cedo?!
+TESS: E ela só <em>arrastou a Tamberlane pra fora?</em> Oxigênio e tudo?
+WALTER: да. Mas ficou tudo bem. A Terra deu um jeito na pequena Tamberlane e a Briar trouxe a Belfry pra casa antes que pior pudesse acontecer.
+TESS: Oh, Belfry...
 
-TESS: O <em>Milo</em> estava aqui mas você não?! A Belfry <em>PRECISAVA</em> de você!
-TESS: Se você vai fazer como se fosse parte da família dela, então <em>aja como tal!</em>
+WALTER: Seja forte, барсучка. Belfry é uma criatura muito emocionada. Você sabe disso.
+TESS: Eu sei, mas não é só a Belfry. A reunião hoje...
+TESS: Eu sinto que está tudo caindo aos pedaços.
 
-TESS: O que era tão importante que você não podia dar suporte pra ela, hm?!
-TESS: Nem pode visitar o seu tal de <em>sujeito de pesquisa?!</em>
-TESS: <b>Sujeito de pesquisa.</b> Eu não consigo acreditar que você chamaria um <em>filhote</em> seu <b><em>sujeito de pesquisa!</em></b>
+WALTER: Tudo vai ficar bem. Isso eu te prometo. Treehollow é cheia de boas criaturas.
+WALTER: E a Belfry vai ficar de pé de novo. Ela sempre fica, probrezinha.
+TESS: Espero que você esteja bem, дорогой.
 
-TESS: <b><em>CLAUDE!</em> ME RESPONDE!</b>
+SFX: krnch krnch Krnch
 
-TAMBERLANE: Tio...
+SFX: KRNCH KRNCH
 
-OAKEWOOD: Oi Chu...ch...
-
-TAMBERLANE: Tio...?
+TESS: <em>Claude??</em>

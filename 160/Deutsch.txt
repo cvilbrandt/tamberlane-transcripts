@@ -1,8 +1,10 @@
-TAGG: Egh,na <em>gut</em>. Aber erst müssen wir noch unsere Metalle verkaufen, also... trefft meinen Bruder und mich in einer Stunde im "Schakal".
+***[OUTDATED]***
 
-TAGG: Und seid ja <em>pünktlich!</em>
+TAGG: Egh,na <em>gut</em>. Aber erst mÃ¼ssen wir noch unsere Metalle verkaufen, also... trefft meinen Bruder und mich in einer Stunde im "Schakal".
+
+TAGG: Und seid ja <em>pÃ¼nktlich!</em>
 DANGER: Die Drinks gehen auf Euch!
 
 Und so...
 
-DANGER: Herr Wirt! Hier drüben!
+DANGER: Herr Wirt! Hier drÃ¼ben!

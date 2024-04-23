@@ -1,8 +1,8 @@
-AVERY: Someone needs to teach that little <em>punk</em> a lesson!
-BELFRY: <em>AVERY!</em>
+AVERY: Someone needs to teach that little *punk* a lesson!
+BELFRY: *AVERY!*
 
-AVERY: A lesson in..Friendship! And kindness!
+AVERY: A lesson in... friendship! And kindness!
 
 TAMBERLANE: I tried!
 
-TAMBERLANE: But he didn't want a help. 
+TAMBERLANE: But he didn't want a help.

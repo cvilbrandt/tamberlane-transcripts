@@ -1,17 +1,14 @@
-BELFRY: Era uma vez, uma morceguinha que fazia muitos erros.
+BELFRY: Ok?
 
-BELFRY: Ela sentia como se ela não tivesse uma parte importante que todo mundo tinha.
+TAMBERLANE: Ok.
 
-BELFRY: Mas um dia, ela encontrou uma engraçada, maravilhosa pequena criaturinha na floresta.
+TAMBERLANE: Se você ficar *bem* doente...
 
-BELFRY: E ainda que todo mundo dissesse que ela não podia, ela tomou conta da criaturinha de qualquer jeito.
+TAMBERLANE: ...você vai sair e me deixar, Mamãe?
 
-BELFRY: E sabe o que ela descobriu?
+BELFRY: Oh, Tamberlane, não. *Nunca.*
 
-TAMBERLANE: quê?
+BELFRY: Vamos estar juntas não importa o quê.
 
-BELFRY: Que a criaturinha era a parte importante que faltava nela o tempo todo.
-
-BELFRY: Eu te amo, Tamberlanezinha.
-
-TAMBERLANE: ...te amo também, mamãe...
+BELFRY: Que tal eu te contar uma história melhor? Você gostaria disso?
+TAMBERLANE: Sim, por favor.

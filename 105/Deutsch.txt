@@ -1,3 +1,5 @@
+***[OUTDATED]***
+
 BELFRY: Wie meinst du das?
 BRIAR: Ich meine...
 
@@ -12,5 +14,5 @@ BRIAR: <em>UND ICH STEH ZWISCHEN DEN FRONTEN!</em>
 BRIAR: Wenn du unbedingt Mutter spielen willst, okay! Fein!
 BRIAR: Mach dein Ding!
 
-BRIAR: Aber kannst du bitte aufhören, so <i>schwierig</i> zu sein?
+BRIAR: Aber kannst du bitte aufhÃ¶ren, so <i>schwierig</i> zu sein?
 BRIAR: Komm <i>heim!</i>

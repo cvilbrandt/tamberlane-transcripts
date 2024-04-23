@@ -1,11 +1,11 @@
-BELFRY: <em>Não é</em> um animal selvagem!
+BELFRY: *Não é* um animal selvagem!
 
-BELFRY: Está frio e assustado e machucado e com fome
+BELFRY: Está frio e assustade e machucade e com fome
 
-BELFRY: e abandonado!
+BELFRY: e pior, *abandonade!*
 
-TESS: Você não poderia possívelmente saber se está abandonado!
+TESS: Você não poderia possívelmente saber **isso!** Os pais *disso* provavelmente estão fora procurando comida!
 
-BELFRY: Eu não vou o deixar à mercê de pais que não alimentam ou ajudam ele!
+BELFRY: Ele está cansade, e com fome e sozinhe na chuva! Elu foi abandonade, eu tenho *certeza!*
 
-TESS: Belfry, deixa o filhote em paz!
+TESS: Belfry, deixa a droga do animal em paz!

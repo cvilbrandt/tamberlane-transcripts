@@ -1,16 +1,17 @@
-PEEK: I heard the cubs are going to Bally Bluffs next week?
-BELFRY: Yes! I'm chaperoning!
+PEEK: I heard the kits are going to Bally Bluffs next week?
+BELFRY: Yes! I hope to chaperone!
 
-PEEK: Ah! In that case...There's good deal of limonite in that area and I'm running low on my umber pigment. If you could just pop out and pick up a few orangey rocks from up near the bluffs themselves, I'd owe you one.
+PEEK: Ah, excellent! In that case...
+PEEK: There's good deal of limonite in the area, and I'm running low on my umber pigment.
+PEEK: If you could just pop out and pick up a couple of orangey rocks from near the Bluffs, I'd consider us square!
 
-BELFRY: Hmm...just any orangey rock?
+BELFRY: Hmm... just *any* orangey rock?
 
-PEEK: Any one will do. It may not be precisely what I need, but it'll be close enough to see me through until I can go myself. 
+PEEK: Any one will do.
+PEEK: It may not be precisely what I need, but it'll be close enough to see me through until I can go myself. 
 
-BELFRY: Deal! Even I can do that!
+BELFRY: Deal! Even *I* can do that!
 
 PEEK: Aces! Then you're all set to go, Miss Belfry!
 SCOTT: Let me know if you have any more questions, okay, Tamberlane?
-TAMBERLANE: Okay! Thank you, Mister Scott!
-
-
+TAMBERLANE: Okay! Thank you, Miss Scott!

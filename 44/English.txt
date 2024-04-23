@@ -1,7 +1,7 @@
-[SFX: aaaaa]
+[SFX: AAAAAA]
 [SFX: thump thump]
 
-[SFX: aaa]
+[SFX: AAA]
 [SFX: ker-click]
 [SFX: AAAAAAAAWAAAAA]
 

@@ -1,7 +1,10 @@
-SFX: <em>HAKK HAKK</em>
+***[OUTDATED]***
 
-TAMBERLANE: f-f-f-fuff-ffy?
+SFX: WHAPP
 
-GEHEIMNISVOLLE GESTALT: <em>Verdammt.</em>
+SFX: REIßßßßßßß
 
-GEHEIMNISVOLLE GESTALT: ...Bleib stark, Kai.
+SFX: REIßßßßßßß
+
+SFX: PLATSCH
+VERDECKT: Halt dich fest!

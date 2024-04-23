@@ -1,10 +1,10 @@
 [SFX: AAGGHH]
 
-BELFRY: AIAIAI MINHA PERNA!
+BELFRY: *AIAIAI MINHA PERNA!*
 
 BELFRY: Eu vou morrer
 
-FANTASMA: Awawawa?
+FANTASMA: euwomoweh!
 
 BELFRY: PRA TRÁS, FANTASMA! Eu não quero te machucar!
 

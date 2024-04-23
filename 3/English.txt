@@ -3,11 +3,12 @@ OFFSCREEN: Mushrooms, please! I need the mushrooms!
 BAT: Chanterelles or velvets?
 
 DEER: Chanterelles.
-BAT: Are you sure? I seem to recall...
-DEER: <em>Chanterelles.</em>
+BAT: Are you sure? I thought velvets were...
+DEER: *Chanterelles.*
 
-BAT: You got it! Chanterelles, coming right up!
+BAT: All right, then! Chanterelles, coming right up!
 
-BAT: While you work on Tess's meal, I'll get ready for Miss Cori!
+BAT: While you work on Mum's omelet,
+BAT: I'll get Miss Cori's morning pie ready!
 
-OFFSCREEN: <em>ARGH!!</em>
+OFFSCREEN: ***ARGH!!***

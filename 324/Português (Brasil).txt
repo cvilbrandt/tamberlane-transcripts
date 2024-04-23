@@ -1,11 +1,14 @@
-STOKER: Vamos deixar vocês informados, ok?
-STOKER: Vão sentar e tentem se distrair.
+BRIAR: Vem, Belfry. É melhor você sentar.
+BELFRY: ...mas a Tamberlane está...
 
-TESS: Sinto muito. Se vocês precisão de uma pata, estamos aqui para vocês.
-DANIEL: Obrigado...
+BRIAR: Eu sei.
 
-TESS: Estamos juntos nisso.
+ROSALYN: <em>JONAS!!</em>
+DANIEL: Ele está bem?!
+STOKER: Ele está em condição crítica. O doutor está vendo ele agora.
+BRIAR: Vai ficar tudo bem, Belfry. Respira fundo.
+BELFRY: ...ok...
 
-BRIAR: Belfry?
+ROSALYN: Você pode tratar aqui, certo?
 
-WALTER: Deixe ela descansar, Briar.
+ROSALYN: <em>...Certo?</em>

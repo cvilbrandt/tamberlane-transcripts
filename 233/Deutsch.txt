@@ -1,17 +1,13 @@
-CALLIE: Es ist das <em>Gesetz,</em> Jason!
+***[OUTDATED]***
 
-CALLIE: Es ist ja nicht so, als hätte ich den Vorfall einfach verschweigen können!
-CALLIE: Kinder <em>reden.</em> Und dann wäre es trotzdem beim Rat angekommen.
-CALLIE: Das wäre <em>noch schlimmer gewesen!</em>
+JASON: Ahh, Callie, alter Kumpel, wir machen alle mal Fehler. Ich bin mir sicher, es ist bereits alles vergeben und vergessen.
+BELFRY: Ich meine, du hast ihn nicht <em>richtig</em> gefeuert, richtig?
 
-BELFRY: Macht Sinn! Ein zweiter Fehler begleicht nicht den ersten und so.
-JASON: Aber war das, was Jentzen gemacht hat, wirklich <em>falsch?</em>
+CALLIE: Er hat mich in eine unmögliche Situation vor den Kindern gebracht! Er hat verbotene Themen aufgebracht, ohne mich vorher zu konsultieren!
 
-BELFRY: Also so richtig falsch war es nicht. Aber die Edikte gibt es aus einem Grund, richtig?
-BELFRY: Callie konnte nicht einfach so tun, als wäre nichts geschehen!
+CALLIE: Ich glaub einfach nicht, dass ich ihm als meinen Referendar noch vertrauen kann.
 
-BELFRY: Ich meine, was hätte sie sonst tun sollen? Lügen?
+JASON: Naja, das ist vermutlich fair. Er ist halt noch jung und eigensinnig.
+JASON: Es ist ja nicht so, als hättest du ihn dem Rat gemeldet.
 
-JASON: Ich glaub es gibt da noch <em>einige</em> Möglichkeiten zwischen Lügen und Jentzen bei der <em>Obrigkeit anzuzeigen.</em>
-BELFRY: Der "Obrigkeit"
-BELFRY: Jason, du bist wirklich nicht aus der Gegend!
+JASON: <em>Du hast ihn dem Rat gemeldet?!</em>

@@ -1,14 +1,17 @@
-BELFRY: Olha, niguém foi mandado pro Exterior em <em>anos.</em>.
-BELFRY: Não desde que minha mãe entrou no Conselho.
-BELFRY: Tudo que Jentzen fez foi discutir com você um pouco. Isso <em>não</em> é uma ofensa banível.
-CALLIE: Eu... Eu espero que sim...
+BELFRY: Você faz o conselho da cidade paracer algum tipo de *mal descarado.*
+BELFRY: O Conselho é formado por nossos amigos e família!
 
-BELFRY: Se faz você se sentir melhor, quando nós voltarmos, eu vou com você para o Conselho da Cidade.
-BELFRY: Eu vou falar com minha mãe, e você pode editar sua declaração!
+JASON: Eu já estive pelo país inteiro, Bel. Conselhos e governos em cidades desse tamanho são *sempre* formados por amigos e família.
 
-CALLIE: Você está certa que isso vai ser possível?
+JASON: Mas isso não para eles de mandar os seus próprios pra fora.
 
-BELFRY: Eu te prometo, <em>tudo</em> vai ficar bem!
+CALLIE: Não! Eles não *baniriam* o Jentzen, não?
+BELFRY: Não! Claro que não!
+JASON: Eu não me surpreenderia.
 
-BELFRY: <em>Certo?</em>
-JASON: Certo, certo.
+BELFRY: Jason!
+JASON: Por estar desrespeitando o currículo de educação pública, ele estava incitando os filhotes a se rebelarem.
+JASON: Ou alguma coisa assim.
+
+CALLIE: Eles não iriam! Eles não *podem!*
+BELFRY: Eles *nunca* pegariam tão baixo.

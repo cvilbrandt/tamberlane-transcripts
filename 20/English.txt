@@ -1,13 +1,13 @@
 [SFX: AAGGHH]
 
-BELFRY: OWOWOW MY LEG!
+BELFRY: *OWOWOW MY LEG!*
 
 BELFRY: I'm gonna die
 
-GHOST: Awawawa?
+GHOST: amwannabai!
 
 BELFRY: STAY BACK, GHOST! I don't want to hurt you!
 
-BELFRY: PLEASE DON'T HURT ME!
+BELFRY: *PLEASE DON'T HURT ME!*
 
 GHOST: beezwohn bahwee?

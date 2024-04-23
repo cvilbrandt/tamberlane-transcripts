@@ -1,0 +1,16 @@
+BELFRY: ...Quê?
+BRIAR: Bem. Não posso dizer que não tentei.
+
+BELFRY: Espera, onde você tá indo? A gente não acabou ainda!
+BRIAR: <em>Você</em> ainda não acabou. Eu acabei faz tempo.
+
+BELFRY: Briar, calma! A gente tem que resolver isso!
+
+BRIAR: Não, você tem que resolver isso. Eu disse tudo que precisava dizer.
+BRIAR: Já deu de ser seu alvo de tiro pra mim hoje.
+BELFRY: Alvo...?? Briar!
+
+SFX: suspiro FUNDO
+
+BRIAR: Eu te amo demais, Belfry.
+BRIAR: Mas eu só preciso de um espaço.

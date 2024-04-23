@@ -1,15 +1,17 @@
-AVERY: Sicher, der Mutterinstinkt kann <i>helfen,</i> aber wir sind höhere Geschöpfe, keine Tiere.
+***[OUTDATED]***
+
+AVERY: Sicher, der Mutterinstinkt kann <i>helfen,</i> aber wir sind hÃ¶here GeschÃ¶pfe, keine Tiere.
 AVERY: Wir werden nicht von unseren Instinkten <i>beherrscht</i>.
 
 AVERY: Hast du schonmal versucht, einfach mit Tess zu <i>reden</i>?
-BELFRY: <i>Natürlich</i> hab ich das! Sehr <i>oft</i> sogar!
+BELFRY: <i>NatÃ¼rlich</i> hab ich das! Sehr <i>oft</i> sogar!
 
 BELFRY: Aber egal wie oft ich mit ihr rede, sie bleibt einfach so <i>STUR!</i> 
 
-AVERY: Hast du schonmal versucht, auf sie zu hören?
+AVERY: Hast du schonmal versucht, auf sie zu hÃ¶ren?
 
 BELFRY: NEIN! Sie will, dass ich Tamberlane <i>loswerde</i>!
 
 AVERY: Mmm, vielleicht. 
-AVERY: Aber wenn du mich fragst, klingt das nichtnach der Wurzel des Übels.
+AVERY: Aber wenn du mich fragst, klingt das nichtnach der Wurzel des Ãœbels.
 AVERY: Wenn du diese Beziehung wirklich retten willst, musst du herausfinden, <i>warum</i> sie so denkt.

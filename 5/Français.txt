@@ -1,5 +1,7 @@
-WALTER: N'oublie pas les gants de cuisine !
+WALTER&nbsp;: Et, Belfry...
+WALTER&nbsp;: N'oublie pas d'utiliser
+WALTER&nbsp;: *Les maniques*&nbsp;!
 
-[SFX: paff]
+[SFX&nbsp;: paff]
 
-[SFX: hrmn]
+[SFX&nbsp;: hrmn]

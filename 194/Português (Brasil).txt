@@ -1,10 +1,11 @@
-PARSLEY: Aí, o que aconteceu com ti, Marie, meu bem?
+PARSLEY: Marie, você tá chorando?? O que aconteceu, meu bem?
+PARKER: Oi Penny!
 
-MARIE: <em>PARSLEY!!</em>
+MARIE: *PARSLEY!!*
 
-MARIE: Parsley, o Sr Jentzen <em>se demitiu!!!</em>
-PARSLEY: Ele <em>o quê??</em>
+MARIE: Parsley, o Senhor Jentzen *se demitiu!!!*
+PARSLEY: Ele *o quê??*
 
-RAFEIRO: Aí, ele num <em>se demitiu! </em>Ele foi <em>demitido!</em>
+RAFEIRO: Aí, ele num *se demitiu!* Ele foi *mandado embora!*
 
-PARSLEY: E é tudo <em>culpa dessa desgraça!</em>
+PARSLEY: E é tudo *culpa dessa desgraçada!*

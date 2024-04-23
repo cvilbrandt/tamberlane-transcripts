@@ -1,20 +1,19 @@
-BRIAR: Hey папочка. Any news?
-WALTER: Hmm. Jonas will survive, it seems.
-WALTER: Good news, but I hear nothing yet of Tamberlane.
+GENEVIEVE: You can't be *serious*!
+GENEVIEVE: He's my *son*!
 
-BRIAR: Well, that's <em>some</em> good news.
-BELFRY: What if...
-BELFRY: What if she's too sick?
-WALTER: Now Belfry...
+HONEY: All the more reason we must be just.
+HONEY: We must have no exceptions for Council members or their families.
 
-BELFRY: What if they haven't found a way to treat her? It's been hours! Is she dead? Did I not come soon enough?
-WALTER: Do not think about it!
+TESS: But do we dare risk tearing a family apart over some *questions*?
+TESS: We took over the Council to *stop* trials like that. Iyou ask me, we should *change* the Edicts.
 
-BELFRY: How can I just <em>not think about it?!</em> My daughter is <em>DYING!</em>
-WALTER: You do not <em>know</em> that! All you <em>know</em> is she is in doctor's care!
-BELFRY: But I worry that
-WALTER: Worry is a waste of the imagination. We will handle what comes <em>when</em> it comes.
+TIMMOTHY: I understand your desire, Tess. Of course I do. But...
+TIMMOTHY: You know as well as I do that the Edicts are from Parliament. They are *sacred*.
+TIMMOTHY: It's not within our power to change them.
 
-NORA: Bakers?
+SCOTT: And I must remind you, Tess...
+SCOTT: When you signed onto the Council, you swore to uphold the Edicts.
+SCOTT: As did we all.
 
-NORA: Tamberlane is ready for visitors.
+TESS: ...to trial, then.
+GENEVIEVE: Yes... To trial.

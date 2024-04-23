@@ -4,7 +4,8 @@ BELFRY: E magro.
 
 BELFRY: Cadê seus pais?
 
-BELFRY: Você tem pais?
+BELFRY: Você *tem* pais?
 BELFRY: Eles estão por aqui?
 
-BELFRY: Se você tem pais, eles são bem ruins, não são.
+BELFRY: Com certeza eles não teriam ido pra muito longe do filhote deles...
+BELFRY: Mas se eles te *abandonaram*, eles não merecem ter você.

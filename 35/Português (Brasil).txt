@@ -5,10 +5,11 @@ TAMBERLANE: Awoo?
 
 TAMBERLANE: uá
 
-PIPER: Esse é o fantasma, é sim! Eu empurrei ele aí embaixo!
+PIPER: Esse é o fantasma, é sim! 
+PIPER: Eu empurrei ele aí embaixo!
 
 OAKEWOOD: errgh
 
 PIPER: Quê foi? Está com dor de cabeça, Vovô da Bibliotca?
-OAKEWOOD: Ainsley ganhou uma aposta.
-OAKEWOOD: Eu odeio quando Ainsley ganha uma aposta.
+OAKEWOOD: Ainsley ganhou a aposta.
+OAKEWOOD: Eu *odeio* jogar chadrez antes do nascer do sol.

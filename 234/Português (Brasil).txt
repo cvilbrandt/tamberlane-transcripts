@@ -1,18 +1,17 @@
-BELFRY: Pfft, <em>autoridades.</em>
-BELFRY: Você faz o conselho da cidade paracer algum tipo de <em>mal descarado.</em>
-BELFRY: O Conselho é formado por nossos amigos e família!
+CALLIE: É a *lei,* Jason!
 
-JASON: Eu já estive pelo país inteiro, Bel. Conselhos e governos em cidades desse tamanho são <em>sempre</em> formados por amigos e família.
+CALLIE: Não é como se eu pudesse ter deixado o incidente quieto!
+CALLIE: Crianças *falam.* E então teria acabado no Conselho de qualquer jeito!
+CALLIE: Isso seria *ainda pior!*
 
-JASON: Mas isso não para eles de mandar os seus próprios pra fora.
+BELFRY: Faz sentido! Dois errados não fazem um certo, e tal.
+JASON: Mas, o que o Jentzen fez foi *errado?*
 
-CALLIE: Não! Eles não <em>baniriam</em> Jentzen, não?
-BELFRY: Não! Claro que não!
-JASON: Eu não me surpreenderia.
+BELFRY: Não *errado,* exatamente. Mas os Éditos estão lá por um motivo, certo?
+BELFRY: A Callie não podia ter *fingido* que não aconteceu!
 
-BELFRY: Jason!
-JASON: Ele está incitando crianças a se rebelarem contra os Éditos.
-JASON: Ou isso é o que eles vão dizer.
+BELFRY: Quer dizer, o que você esperaria que ela fizesse? *Mentir?*
 
-CALLIE: Eles não iriam! <em>Eles não podem!</em>
-BELFRY: Eles <em>não vão.</em>
+JASON: Eu sinto que tem um mundo de opções entre mentir e reportar o Jentzen para *as autoridades.*
+BELFRY: "Autoridades?"
+BELFRY: Jason, você realmente passou muito tempo fora!

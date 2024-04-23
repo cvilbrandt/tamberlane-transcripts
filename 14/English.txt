@@ -1,11 +1,13 @@
 BELFRY: How was the pie today, Miss Coriander?
-MISS CORIANDER: Excellent, as always, Belfry.
+MISS CORIANDER: Excellent as always, Belfry.
 
 BELFRY: ♪
 
 [SFX: SPLUT!]
 
-BELFRY: Tess! I'm SO SORRY! I wasn't watching!
+BELFRY: Mum! I'm SO SORRY! I wasn't watching!
+[SFX: scrub scrub]
+[SFX: hrmmn]
 
 TESS: Belfry, I have a funny feeling...
 BELFRY: Is it pie?

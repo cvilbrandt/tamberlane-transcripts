@@ -1,8 +1,9 @@
-OAKEWOOD: Anyway, we must be off.  Bonding, and all that.
+OAKEWOOD: Anyway, we must be off.
+OAKEWOOD: Bonding, and all that.
 
 BELFRY: Have fun and be good, Tamberlane! I love you!
 
-TAMBERLANE:  Lub you too, Fuffy-Mummy!
+TAMBERLANE: Lub you too, Fuffy Mummy!
 
 OAKEWOOD: Pardon. Borrowing this.
 
@@ -10,10 +11,11 @@ OAKEWOOD: Here you go. It's food. Eat it.
 
 TAMBERLANE: Mmmmn!
 
-OAKEWOOD: Take notes. Will eat a mushroom pasty.
+OAKEWOOD: Take notes. Will eat a strawberry pasty.
 
 MILO: Yes, uncle!
 
-OAKEWOOD: Now, let's get you out of this ridiculous outfit. It's macabre.
+OAKEWOOD: Now, let's get you out of this ridiculous outfit.
+OAKEWOOD: It's macabre.
 
-BELFRY: Is not!
+BELFRY: Is *not!*

@@ -1,12 +1,13 @@
 TAMBERLANE: I tail??
+MARIE: You don't have one!
+MARIE: That I can see, anyway.
 
-MARIE: You don't have one! That I can see, anyway.
+MARIE: You don't often run across creatures without tails!
+MARIE: But that's okay! It just means you're different!
+TAMBERLANE: Diffrun?
 
-MARIE: I've never heard of an animal without a tail!
-MARIE: But that's okay. It just means you're different!
-TAMBERLANE: Diff'ren?
-
-MARIE: Yeah! You don't look much like the other creatures here.
+MARIE: Yeah!
+MARIE: You don't look much like the other creatures here.
 MARIE: Here, I'll show you!
 
 MARIE: See?

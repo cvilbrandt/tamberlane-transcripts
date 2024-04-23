@@ -1,11 +1,13 @@
+***[OUTDATED]***
+
 OAKEWOOD: So.
 TAGG: So.
 
 TAGG: Hier ist der Deal. So was wie sie haben wir vorher noch nie gesehen.
 
-OAKEWOOD: Bitte <em>WAS?!</em> Und dafür zahl ich eure teuren Drinks?!
+OAKEWOOD: Bitte <em>WAS?!</em> Und dafÃ¼r zahl ich eure teuren Drinks?!
 
-TAGG: Jetzt mach mal halblang. Ich glaub ich weiß, wo sie herkommt.
+TAGG: Jetzt mach mal halblang. Ich glaub ich weiÃŸ, wo sie herkommt.
 
 OAKEWOOD: Also?
 TAGG: Ich glaub nicht, dass dir meine Theorie gefallen wird.
@@ -13,4 +15,4 @@ OAKEWOOD: <em> Spucks aus, </em> Follybrook!
 
 TAGG: Okay, deine Sache.
 
-TAGG: Hör zu. Dein Junges ist missgebildet. Sie kommt nicht aus Follybrook oder seinen Randbezirken. Somit bleibt nur eine Möglichkeit, woher sie kommen könnte. Dein Junges ist von Draußen.
+TAGG: HÃ¶r zu. Dein Junges ist missgebildet. Sie kommt nicht aus Follybrook oder seinen Randbezirken. Somit bleibt nur eine MÃ¶glichkeit, woher sie kommen kÃ¶nnte. Dein Junges ist von DrauÃŸen.

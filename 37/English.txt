@@ -1,16 +1,22 @@
-TESS: Bel, don't you get it?
+TESS: Bel, *please* listen to me.
 
-TESS: The care this thing needs... We don't have the facilities here in Treehollow.
+TESS: We don't know where this thing came from... 
+TESS: It could be *Tainted.* If creatures found out...
 
-TESS: You'd have to go... abroad.
+TESS: You'd have to go...
+TESS: *abroad.*
 
-BELFRY: I don't CARE. Nothing you say will make me put it back!
-TAMBERLANE: Don't care!
+BELFRY: I don't *CARE.*
+BELFRY: Nothing you say will make me put it back!
+TAMBERLANE: Donn cayah!
 
-TESS: Belfry, you don't understand!
-BELFRY: Oh, I understand perfectly! Stop treating me like a child! I'm nineteen!
+TESS: Belfry, you don't *understand!*
+BELFRY: Oh, I understand perfectly! Stop treating me like a child!
+BELFRY: I'm *nineteen!*
 TAMBERLANE: Wah!
 
-ANTHONY: This is a bad idea.
-BRIAR: I love Belfry, but...yeah.
-PIPER: Brilliant! I can't wait to see all the BLOOD!
+ANTHONY: Miss Tess, I think this is a bad idea.
+BRIAR: *Please* just listen to Mum, Belfry.
+PIPER: *Cork it!* Let 'em fight! I wanna see all the BLOOD!
+
+WALTER: Now [Russian], deep breaths...

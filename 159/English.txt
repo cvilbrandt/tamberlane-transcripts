@@ -1,19 +1,20 @@
-OAKEWOOD: Mx. Tagg, Mr Danger, if you don't mind a moment of your time, I do have a quandary you might help with...
+OAKEWOOD: Mx. Tagg, Mr. Danger, if you don't mind a moment of your time, I do have a quandary you might help with...
 
-MILO: U...Uncle!
+MILO: *U... Uncle!!*
 
-MILO: Uncle we're not...we're not supposed to talk to...
+MILO: Uncle, we're not... we're not supposed to talk to...
 
-OAKEWOOD: <em> Milo Jamiton, don't be a disrespectful git!</em> If your father could hear you today, he'd be <em>ashamed!</em>
+OAKEWOOD: *Milo Jamiton, don't be a disrespectful git!!* If your father could hear you today, he'd be *ashamed!*
 
-MILO: b-but...we're not...supposed to...
+MILO: b-but... we're not... supposed to...
 
 OAKEWOOD: Have a spine, boy!
 MILO: Y...yes, sir.
 
-OAKEWOOD: I apologize for my daft godson. He's young. At any rate, I understand if you don't wish to help, but we need to learn more about Tamberlane.
+OAKEWOOD: I apologize for my daft godson. It appears booksmarts do not preclude ignorance.
+OAKEWOOD: At any rate, I understand if you don't wish to help, but we need to learn more about Tamberlane.
 TAMBERLANE: I'm a Tamberlane!
 OAKEWOOD: I only want to know, have you seen anything like her in Follybrook?
 
 TAGG: I just want to go home.
-DANGER; Tagg, he <em>has</em> been alright to us...
+DANGER; Tagg, he *has* been all right to us...

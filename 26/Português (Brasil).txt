@@ -1,14 +1,14 @@
 COIOTE: O quê é dessa vez?
-AINSLEY: Eles querem que eu leve eles pro fantasma, mas eu não quero! Eu não consigo voltar!
+AINSLEY: Eles querem que eu leve eles pro fantasma, mas eu não quero! 
+AINSLEY: Eu não consigo voltar!
 
-COIOTE: Para sua sorte, não existem fantasmas.
-COIOTE: Seu maluque de teoria da conspiração.
+COIOTE: Que terrível pra eles, vendo que não existem fantasmas.
 
-AINSLEY: Muito bonzinho, Oakewood!
-AINSLEY: Você só pode falar isso por quê você não viu o quê eu vi!
+AINSLEY: Dessa vez é *diferente*, Oakewood!
+AINSLEY: Eu *sei* o que eu vi e foi *absolutamente um fantasma!*
 
-OAKEWOOD: Está certe! Eu não vi!
-OAKEWOOD: Caramba, se eu tivesse...
+OAKEWOOD: Ah, dessa vez é *diferente?*
+OAKEWOOD: Posso perguntar *como?*
 
-OAKEWOOD: EU AINDA NÃO IA CHAMAR DE FANTASMA PORQUÊ ELES NÃO EXISTEM!
-AINSLEY: Ou talvez você é um otário de mente fechada.
+AINSLEY: Guarda seu sarcasmo, coiote.
+OAKEWOOD: **É DIFÍCIL NÃO SER SARCÁSTICO SOBRE FANTASMAS!!**

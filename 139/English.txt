@@ -6,9 +6,10 @@ PUCK: Mornin' Young Tam!
 TAMBERLANE: Terra!
 TERRA: Let's just clean your cute little face!
 NORA: Having fun, Tamberlane?
+TAMBERLANE: Yes!
 PENNY: Mummy! You can let go now! I got it!
 
-BAT: Oh, you haven't been in town for a while.
 TAMBERLANE: Hungry?
-FOX: <i>AAGGHH! What is that?!</i>
+FOX: *AAGGHH! What is that?!*
+BAT: Oh, you haven't been in town for a while.
 DINGO: That's Tamberlane! Our resident "ghost!"

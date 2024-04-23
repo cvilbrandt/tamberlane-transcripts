@@ -2,16 +2,16 @@ FORA: A Belfry tá machucada!
 FORA: Oh bem, agora o quê?
 
 FORA: Foi o fantasma!
-FORA: F-Fantasma?!
-FORA: Ah não!
+FORA: Não *existem* fantasmas!
+FORA: Tem certeza!
 FORA: Quão ruim é?
 
 FORA: Chama o Henry!
-FORA: Mas você não pode prender fantasmas...
-FORA: ou pode?
+FORA: O quê o *Henry* vai fazer pra um fantasma?
+FORA: Prender ele?
 FORA: Precisamos de ajuda!
 
 [SFX: BLAM]
 
 AINSLEY: ME ESCONDE!
-COIOTE: A biblioteca está <em>fechada</em>!
+COIOTE: A biblioteca está *fechada*!

@@ -1,13 +1,15 @@
-MILO, TAMBERLANE, OAKEWOOD: Abroad?
+MILO, TAMBERLANE & OAKEWOOD: Abroad?
 
-OAKEWOOD: That's absolute nonsense.
+OAKEWOOD: That's absolute tosh.
 
-TAGG: Before you dismiss me, hear me out. There's something strange happening Abroad.
+TAGG: Before you dismiss me, hear me out.
+TAGG: There's something strange happening Abroad.
 
 DANGER: Areas are blocked off or quarantined. No one will say why. 
 
 TAGG: And creatures from Follybrook are vanishing.
 
-OAKEWOOD: Come now! This has nothing to do with Tamberlane! Quarantines? Missing Creatures? That's utter poppy!
+OAKEWOOD: Come now! This has *nothing* to do with Tamberlane!
+OAKEWOOD: Quarantines? Missing creatures? Utter poppy!
 
-TAGG: You just don't want to believe me! 
+TAGG: Something's happening in Abroad, and I wouldn't be surprised if it had to do with *her!*

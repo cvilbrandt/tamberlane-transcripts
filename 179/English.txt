@@ -1,11 +1,14 @@
-TIMMOTHY: Well, I think I've rambled on quite enough!
+TIMMOTHY: What an example to live up to, right?
 
-TIMMOTHY: Please enjoy this year's Sovereign Festival! Our ancestor's brave sacrifices allow us to get together from all over our fine country and celebrate! So sample some fine food, play some games, and celebrate the fruits of our labor!
+TIMMOTHY: Our ancestors' brave sacrifices are what allow us to congregate from all over our fine country and celebrate our freedom!
+TIMMOTHY: So please enjoy this year's Sovereign Festival! Sample some food, play some games, and enjoy our trades and fine goods!
 
-TIMMOTHY: But I urge you to remember...
+TIMMOTHY: But as you celebrate, I urge you to remember Nairobi.
+TIMMOTHY: I urge you to remember all of our ancestors.
+TIMMOTHY: And consider...
 
 TIMMOTHY: When life demands a sacrifice...
 
-TIMMOTHY: And you must choose between love and duty...
+TIMMOTHY: ...and you must choose between love and duty...
 
-TIMMOTHY: Which will you choose?
+TIMMOTHY: ...which will you choose?

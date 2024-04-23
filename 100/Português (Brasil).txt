@@ -1,13 +1,16 @@
-VOZ: Puxa vida.
+VOZ: Minha nossa.
 
-VOZ: Você está crescendo que nem uma erva-daninha, chuchu.
+VOZ: Você está crescendo que nem uma erva-daninha, chuchuzinho.
 
-OAKEWOOD: Dezesseis centímetros é bastante crescimento pra só uma estação.
+OAKEWOOD: Dezesseis centímetros em uma estação.
+OAKEWOOD: Um crescimento incrível.
 
-BELFRY: Bem, talvez ela só seja ambiciosa!
+OAKEWOOD: Mas considerando que ela veio a nós tão negligenciada, talvez isso faça sentido.
 
-TAMBERLANE: Fome!
+BELFRY: Ela é *tão* boa em se recuperar.
+[SFX: eeee!]
+
+TAMBERLANE: Fofa, fome!
 BELFRY: De novo??
 
 OAKEWOOD: Isso me lembra. Eu tenho uma coisa nova para testar.
-

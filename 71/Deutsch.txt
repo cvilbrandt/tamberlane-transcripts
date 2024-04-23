@@ -1,5 +1,7 @@
+***[OUTDATED]***
+
 MARIE: Zu Parsley geht es am schnellsten hier entlang!
-MARIE: Warum möchtest du eigentlich zu Parsley?
+MARIE: Warum mÃ¶chtest du eigentlich zu Parsley?
 
 TAMBERLANE: Penny!
 
@@ -8,9 +10,9 @@ MARIE: Was ist mit Penny?
 
 TAMBERLANE: P...Penny!
 
-TAMBERLANE: Penny Baum nein böse Tamberlane.
+TAMBERLANE: Penny Baum nein bÃ¶se Tamberlane.
 MARIE: Tut mir leid, ich verstehe nicht... was ist ein Tamberlane?
 
-TAMBERLANE: Böse Tamberlane, <em>nein!</em>
+TAMBERLANE: BÃ¶se Tamberlane, <em>nein!</em>
 
 MARIE: Oh, nein! Bitte nicht weinen! Es tut mir so leid! Bist <em>du</em> Tamberlane?

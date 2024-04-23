@@ -1,11 +1,11 @@
-BELFRY: Comment était la tarte aujourd'hui, Mlle Coriander?
-CORIANDER: Excellente, comme toujours.
+BELFRY&nbsp;: Comment était la tarte aujourd'hui, Miss Coriander&nbsp;?
+CORIANDER&nbsp;: Excellente, comme toujours.
 
-BELFRY: ♪
+BELFRY&nbsp;: ♪
 
-[SFX: SPLUT!]
+[SFX&nbsp;: SPLUT&nbsp;!]
 
-BELFRY: Tess! Je suis VRAIMENT DÉSOLÉE! Je ne faisais pas attention!
+BELFRY&nbsp;: Maman&nbsp;! Je suis VRAIMENT DÉSOLÉE! Je ne regardais pas&nbsp;!
 
-TESS: Belfry, j'ai un mauvais pressentiment...
-BELFRY: Est-ce que c'est de la tarte?
+TESS&nbsp;: Belfry, j'ai une drôle d'impression...
+BELFRY&nbsp;: Est-ce que c'est de la tarte&nbsp;?

@@ -1,0 +1,14 @@
+BELFRY&nbsp;: Tamberlane&nbsp;!
+TAMBERLANE&nbsp;: ARRÊTE&nbsp;!
+BELFRY&nbsp;: Tamberlane, calme-toi&nbsp;! Je suis là!*
+TAMBERLANE&nbsp;: ARRÊTE&nbsp;!
+TAMBERLANE&nbsp;: *STOP&nbsp;! STOP! STOP!*
+
+BELFRY&nbsp;: C'est fini&nbsp;! C'est bon! *Je t'ai sauvée!*
+TAMBERLANE&nbsp;: *ARRÊTE&nbsp;! STTTOOPP&nbsp;!*
+
+BELFRY&nbsp;: S'il te plaît, chérie, arrête de te débattre&nbsp;! Dis-moi ce qui s'est passé&nbsp;!
+TAMBERLANE&nbsp;: ***STTTTTTOOOOOOOPPPP&nbsp;!!!!!***
+
+BELFRY&nbsp;: S'il te plaît, calme-toi...
+TAMBERLANE&nbsp;: AAARA-

@@ -1,17 +1,21 @@
 OAKEWOOD: Alright, pull them up already.
 HENRY: Oakewood? What are you doing here?
 
-OAKEWOOD: Research. Now pull them up.
+OAKEWOOD: Research. 
+OAKEWOOD: Now pull them up.
 
-TESS: Ergh. Oakewood, listen.
-OAKEWOOD: Yeah, yeah. Orphans, wild animals, I heard that crap already.
+TESS: Ergh. *Oakewood.*
+TESS: Go back to your library. This is a *family matter.*
+
+OAKEWOOD: Yes, *yes,* it's me.
+OAKEWOOD: Orphans, wild animals, I heard all about your rubbish *family matter.*
 
 OAKEWOOD: Are you really going to fight this out in the rain while she's stuck in a hole in the ground?
 
 TESS: Siiiiiggghhhh
 
 TESS: Fiiiine.
-TESS: You can take it home with you.
+TESS: Bring it out of the ravine.
 
 BELFRY: I DON'T NEED YOUR PERMISSION!
 TESS: THIS ROPE SAYS YOU DO!!!

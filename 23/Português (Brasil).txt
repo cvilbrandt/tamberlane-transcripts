@@ -2,16 +2,16 @@
 
 BELFRY: Você não é nenhum fantasma, não?
 
-BELFRY: Você é tão pequena!
+BELFRY: Você é tão *pequena!*
 
-BELFRY: Se você não é um fantasma... Então o quê é você?
+BELFRY: Se você não é um fantasma... Então o quê *é* você?
 
 TAMBERLANE: Tamberlane!
 
-BELFRY: Ah, você fala! Mais ou menos. Mas eu não sei o quê é isso.
+BELFRY: Mas eu não sei o quê é uma Tamberlane.
 
 [SFX: SNIFF SNIFF]
 TAMBERLANE: Hee!
 
 BELFRY: Mas você tem um cheiro tão jovem.
-BELFRY: Você é so um filhote?
+BELFRY: Você é só um filhote?

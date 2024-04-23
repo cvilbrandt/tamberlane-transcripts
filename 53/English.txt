@@ -2,18 +2,22 @@ PUPPY: So your name's Tamberlane?
 TAMBERLANE: Yeah!
 
 PENNY: My name's Penny!
-TAMBERLANE: Penny!
+TAMBERLANE: Punni!
 PENNY: You wanna go play?
 TAMBERLANE: Yeah!
 
 FOX: Ha! Would you look at that?
+[SFX: Hee Hee!]
 
-BELFRY: Aww! It reminds me of when we were liEEERGHHH
+BELFRY: Aww! It reminds me of when Briar and I were liEEERGHHH!
 
-TERRA: Sorry!! You didn't feel a pop, did you?
+TERRA: Sorry!!
+TERRA: You didn't feel a pop, did you?
 
-BELFRY: I don't think so? How would I tell?
+BELFRY: I don't think so?
+BELFRY: How would I tell?
 
-TERRA: Oh, you'd know. The good news is your leg isn't broken!
+TERRA: Oh, you'd know.
+TERRA: The good news is your leg isn't broken!
 BELFRY: Yay?
 TERRA: Yay!

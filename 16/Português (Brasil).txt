@@ -1,12 +1,12 @@
-[SFX: uah]
+[SFX: ufa]
 
 BELFRY: BELEZA! Hora de ser RESPONSÁVEL!
 BELFRY: Essa vai ser pra valer!
 [SFX: yosh'!]
 
-BELFRY: Vamos lá achar umas crianças!
+BELFRY: Vamos lá achar uns filhotes!
 
-ANTHONY:BELFRY!
+ANTHONY: ***BELFRY!***
 BELFRY: Isso é o Anthony?
 
-BELFRY: Otímo trabalho de detetive, eu!
+BELFRY: Otíma investigação, Belfry!

@@ -1,16 +1,19 @@
-TESS: Bel, você não entende?
+TESS: Bel, *por favor* me escuta.
 
-TESS: O cuidado que essa coisa precisa... Não temos as instalações necesárias aqui em Treehollow.
+TESS: Nás não sabemos de onde veio essa coisa veio...
+TESS: Ela pode estar *Manchada.* Se criaturas descobrissem...
 
-TESS: Você teria que ir... ao exterior.
+TESS: Você teria que ir... ao *Exterior.*
 
-BELFRY: Eu não me IMPORTO. Nada que você disser vai fazer eu botar de volta!
-TAMBERLANE: Não importo!
+BELFRY: Eu não me *IMPORTO.* Nada que você disser vai fazer eu colocar elu de volta!
+TAMBERLANE: Nau impoto!
 
-TESS: Belfry, você não entende!
-BELFRY: Ah, eu entendo perfeitamente! Para de me tratar como uma criança! Eu tenho dezenove anos!
+TESS: Belfry, você não *entende!*
+BELFRY: Ah, eu entendo perfeitamente! Para de me tratar como uma criança! Eu tenho *dezenove anos!*
 TAMBERLANE: Uá!
 
-ANTHONY: Isso é uma má idéia.
-BRIAR: Eu amo a Belfry, mas... é.
-PIPER: Brilhante! Eu não consigo esperar pra ver todo o SANGUE!
+ANTHONY: Senhora Tess, eu acho que isso é uma má idéia.
+BRIAR: *Por favor* só escuta a Mãe, Belfry.
+PIPER: *Que se dane!* Deixa elas brigarem! Eu quero ver todo o SANGUE.
+
+WALTER: Vamos [Russo], respira fundo...

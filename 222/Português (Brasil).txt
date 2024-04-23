@@ -1,10 +1,16 @@
-BELFRY: Ok! Isso...não foi o que eu me lembrava!
+NARRADOR: O que uma vez foi seu Papai, seu doce carinho Pai, 
+NARRADOR: Virou um Monstro, de longos dentes e garras! 
+NARRADOR: Todo bem levado, toda beleza inferior! 
+NARRADOR: E tudo que amava levador ao **EXTERIOR!**
 
-BELFRY: Esse não foi um livro muito bom, foi?
-TAMBERLANE: nuh uh
+NARRADOR: De fora da escuridão veio o Doce Papai Tom.
+NARRADOR: Ele disse, "Papai Padgett, saia agora e vá pra fora!
+NARRADOR: Você está Marcado com mal, com **escuridão** e **sujeira!**
+NARRADOR: Então nos deixe em paz, e nunca volte!"
 
-BELFRY: Tamberlane? O que há de errado?
-
-TAMBERLANE: Eu sou um monstro!
-
-BELFRY: Oh, oh não, pimpolha, não! Vem aqui, então. Vamos conversar.
+NARRADOR: Alguns conhecimentos são sagrados, alguns conhencimentos são do mal.
+NARRADOR: Aqueles Pensamentos Sombriozinhos da Coisa no Matagal.
+NARRADOR: Na sua cidadezinha, seguro no seu lar,
+NARRADOR: Aprenda o que puder! Sua mente é de você!
+NARRADOR: Mas confie nos mais velhos e nessa mensagem preste atenção 
+NARRADOR: **Alguns conhecimentos são melhores deixados na escuridão.** 

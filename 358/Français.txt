@@ -1,0 +1,16 @@
+BELFRY&nbsp;: ...Quoi&nbsp;?
+BRIAR&nbsp;: Eh bien. Je ne peux pas dire que je n'ai pas essayé.
+
+BELFRY&nbsp;: Attends, où vas-tu&nbsp;? Nous n'en avons pas terminé&nbsp;!
+BRIAR&nbsp;: *Tu* n'en as pas terminé. J'en ai vraiment fini.
+
+BELFRY&nbsp;: Briar, attends&nbsp;! Il faut qu'on règle ça&nbsp;!
+
+BRIAR&nbsp;: Non, tu dois régler ça. J'ai dit tout ce que j'avais à dire.
+BRIAR&nbsp;: J'en ai fini d'être ton punching-ball ce soir.
+BELFRY&nbsp;: Punching...&nbsp;?? Briar&nbsp;!
+
+[SFX&nbsp;: PROFOND soupir]
+
+BRIAR&nbsp;: Je t'aime tellement, Belfry.
+BRIAR&nbsp;: Mais j'ai juste besoin d'un peu d'espace.

@@ -1,11 +1,20 @@
-BELFRY: Wa...?
-ABSEITS: <s>Belfry, du <em>musst</em> aufstehen!</s>
+***[OUTDATED]***
 
-ABSEITS: <em><s>Schnell!</s></em>
-ABSEITS: <em>Tamberlane ist etwas passiert!</em>
+TESS: Ach, du dummes Ding, war zu erwarten, dass du noch einen kaputt machst!
+BELFRY: Das war ich nicht! Der war schon kaputt, als ich ihn aufgehoben habe!
 
-JASON: <s>Ich vermute, es gab einen Streit</s>
-JASON: <s>und</s> Tamberlane <s>und</s> Jonas <s>sind in den Fluss gefallen</s>
+TERRA: Nicht schon wieder, Belfry!
+MAYA: Bald wirst du mehr Schlamm als Fledermaus sein!
+BELFRY: Aber die Steine sind uneben. Jeder hätte...
 
-JASON: <s> Halt durch,</s> Bel! Kira <s> wird uns zu ihnen führen!</s>
-KIRA: <em><strong>JETZT MACH DOCH MAL HINNE!</strong></em>
+WALTER: Ahhh, Ich hätte es besser wissen sollen, als dich schneiden zu lassen.
+BELFRY: S-stimmt.
+
+TAMBERLANE: Ich werde ohne dich glücklicher sein, Mammi!
+TAMBERLANE: Das weißt du doch, oder?
+
+BELFRY: Ich weiß.
+BELFRY: <em>Ich weiß!</em>
+
+ABSEITS: <em><strong>BELFRY!</strong></em>
+SFX: keuch

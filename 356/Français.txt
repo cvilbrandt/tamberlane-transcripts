@@ -1,0 +1,16 @@
+BRIAR&nbsp;: Je sais que tu essayes, Belfry.
+BRIAR&nbsp;: Ce n'est pas grave de ne pas aller bien.
+BRIAR  Mais tu ne peux pas mettre ça sur le dos de Tamberlane.
+
+BRIAR&nbsp;: Tu te souviens comme maman le faisait&nbsp;?
+
+BRIAR&nbsp;: Elle se mettait tellement *en colère* et ensuite elle nous rejetait la faute.
+
+BRIAR&nbsp;: Tu sais que j'aime maman, mais elle disait toujours qu'elle était si colérique parce que tu étais difficile à élever.
+BRIAR&nbsp;: Mais elle *t'a utilisée* pour éviter toute responsabilité. Son caractère n'a jamais été de ta faute.
+
+BRIAR&nbsp;: *Tu* ne peux pas être comme ça, Belfry&nbsp;! Tu ne peux pas reporter tes problèmes sur Tamberlane&nbsp;!
+BRIAR&nbsp;: Elle en subit déjà trop comme ça&nbsp;!
+BRIAR&nbsp;: Je parie que *ton stress* est la raison pour laquelle elle t'a repoussée à Bally Bluffs&nbsp;!
+
+BELFRY&nbsp;: *Qu'est-ce que* ***tu*** *pourrais savoir de ce qui s'est passé à Bally Bluffs&nbsp;?!*

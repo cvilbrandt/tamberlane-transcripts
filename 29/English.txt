@@ -1,15 +1,16 @@
 [SFX: hnf]
 
-OAKEWOOD: Tch. Ghosts.
+OAKEWOOD: Tch.
+OAKEWOOD: Ghosts.
 
-OAKEWOOD: They probably just saw another weird bush.
+OAKEWOOD: They probably just saw a grizzly cub with mange.
 
-OAKEWOOD: A screaming, mobile...
+OAKEWOOD: With grasping claws like a creature...
 
-OAKEWOOD: Though, they did say...
+OAKEWOOD: Abnormal for a mere animal. I wonder...
 
-OAKEWOOD: No. I refuse to give credence to their delusion.
+OAKEWOOD: No. I *will* stay in tonight and enjoy my tea in *comfort!*
 
 [SFX: rrrrrrrrr] 
 
-OAKEWOOD: Damn it!
+OAKEWOOD: *Ah, bloody hell!*

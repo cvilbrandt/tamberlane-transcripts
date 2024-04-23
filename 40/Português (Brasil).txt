@@ -1,10 +1,10 @@
-WALTER: Não se importe com a Tess, minha Bel.
+WALTER: Não se importe com a Tess, [Russo].
 
-WALTER: Eu não vou tirá-lo de você.
+WALTER: Eu não vou tirar de você.
 BELFRY: Não vai?
 
-WALTER: Crescendo, algumas coisas temos que fazer.
+WALTER: Crescendo, há coisas que temos que aprender.
 
-WALTER: Ás vezes, erramos para aprender.
+WALTER: E as vezes, para aprender, temos que errar.
 
 WALTER: Eu não vou tirar seu erro.

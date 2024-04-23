@@ -1,17 +1,21 @@
-OAKEWOOD: Well. I'd like to get out of this rain. Officer Sawyer, I take it Doctor Nora is at home asleep?
+OAKEWOOD: Well. I'd like to get out of this rain.
+OAKEWOOD: Sheriff, shall we take them to your wife for medical aid?
 
-SAWYER: Well, she said she'd be up, but she hasn't had a lot of sleep lately what with the new puppy so I'd rather let her sleep, if I can...
-OAKEWOOD: Yeah, yeah. The leg'll hold til morning. She can stop by the library then.
+HENRY: Weeellll... Nora's still recovering from Parker's birth a few weeks ago... She's barely slept and if I can avoid waking her...
+OAKEWOOD: Fine, fine, I'll take care of it myself. It's just a sprain, no doubt.
+OAKEWOOD: Send that hapless apprentice of hers over to the library in the morning.
 
 HENRY: The library?
 
-OAKEWOOD: Didn't you hear me, pup?
+OAKEWOOD: This creature presents a perfect specimen for research.
+OAKEWOOD: I'd hardly let such an opportunity pass me by.
+OAKEWOOD: So, they're going to live with me.
 
-OAKEWOOD: I'm starting a new research project. They're staying with me.
 BELFRY: We are?
 
-TESS: YOU?
-OAKEWOOD: You've made it abundantly clear you're not interested. Can't have it both ways, badger britches.
+TESS: *YOU?*
+OAKEWOOD: You've made it abundantly clear you're not interested.
+OAKEWOOD: Can't have it both ways, *bluster-britches.*
 
-HENRY: This just gets worse and worse.
-WALTER: Oh dear.
+HENRY: Now, M-Miss Tess...
+WALTER: [Russian]...

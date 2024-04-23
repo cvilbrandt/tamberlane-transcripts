@@ -1,14 +1,14 @@
 PIPER: Não se preocupa, Belfry! Eu vou te salvar!
 
-ANTHONY: NÃO ELA NÃO VAI!
+ANTHONY: *NÃO ELA NÃO VAI!*
 
 FANTASMA: AWAWARRR!
 
 [SFX: choraminga]
 
-BELFRY: POR FAVOR CHAMA A AJUDA!
+BELFRY: *POR FAVOR CHAMA A AJUDA!*
 
-ANTHONY: A Briar tá buscando a mãe dela agora!
+ANTHONY: A Briar tá buscando a Senhora Tess agora!
 PIPER: Não morre, Belfry!
 
 BELFRY: Vou tentar!

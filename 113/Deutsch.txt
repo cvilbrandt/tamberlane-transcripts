@@ -1,3 +1,5 @@
+***[OUTDATED]***
+
 AVERY: Ah, da haben wir's! Hier ist es!
 
 AVERY: Freust du dich, Miss Tamberlane?
@@ -5,7 +7,7 @@ TAMBERLANE: Jaa!
 
 BELFRY: Oh, Avery, das ist <i>perfekt!</i> Jetzt <i>muss</i> Mum sie akzeptieren, ganz <i>sicher!</i>
 
-AVERY: Warte, <i>deswegen</i> hast du nach einem Dachs-Kostüm gefragt?
-BELFRY: Ja, <i>natürlich!</i>
-AVERY: Du weißt schon, dass sie es als Kostüm erkennen wird, oder?
-BELFRY: Ich denke einfach, dass Instinkte für <i>irgend</i>etwas gut sein müssen!
+AVERY: Warte, <i>deswegen</i> hast du nach einem Dachs-KostÃ¼m gefragt?
+BELFRY: Ja, <i>natÃ¼rlich!</i>
+AVERY: Du weiÃŸt schon, dass sie es als KostÃ¼m erkennen wird, oder?
+BELFRY: Ich denke einfach, dass Instinkte fÃ¼r <i>irgend</i>etwas gut sein mÃ¼ssen!

@@ -1,0 +1,18 @@
+MILO&nbsp;: Tu voulais que je regarde quelque chose&nbsp;?
+
+OAKEWOOD&nbsp;: C'est Tamberlane. Belfry Pâtissière l'a trouvée dans la forêt et l'a adoptée.
+OAKEWOOD&nbsp;: Mais nous n'avons pas la moindre idée de ce qu'elle est.
+OAKEWOOD&nbsp;: Nous nous demandions si tu avais pu voir quelque chose comme elle dans tes études.
+
+MILO&nbsp;: Comme c'est fascinant&nbsp;! Je peux t'examiner&nbsp;?
+
+TAMBERLANE&nbsp;: OkAGH&nbsp;!
+MILO&nbsp;: Dentition omnivore...
+
+MILO&nbsp;: Motif de fourrure inhabituel... Et elle ne ressemble à rien de ce que j'ai lu jusqu'à présent.
+MILO&nbsp;: Elle est parfaite&nbsp;!
+
+OAKEWOOD&nbsp;: Maintenant, attends un peu&nbsp;!
+OAKEWOOD&nbsp;: Que veux-tu dire par "*parfaite*"&nbsp;?
+
+MILO&nbsp;: Pour mon *projet de recherche&nbsp;!*

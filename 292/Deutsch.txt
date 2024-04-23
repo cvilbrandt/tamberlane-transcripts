@@ -1,13 +1,12 @@
-CUR: W...
+***[OUTDATED]***
 
-CUR: Was <em>STIMMT</em> nicht mit dir?
+CUR: Warum versteckst du dich nicht hinter deiner doofen <em>Mami</em> wie sonst auch immer?
 
-TAMBERLANE: Nnngh...
+CUR: Solang du noch eine Mutter <em>hast</em>, die dich beschützt.
+TAMBERLANE: STOP! STOP STOP!
 
-TAMBERLANE: Rrgh!!
+TAMBERLANE: RED NICHT SO ÜBER MEINE MA-
 
-CUR: Was soll das <em>werden??</em>
-TAMBERLANE: Rrrraaggh!!!
+ROTER TEXT: NICHT
 
-CUR: Was <em>MACHST</em> du da?
-TAMBERLANE: <em>Sag nicht böse Dinge über Mutti!</em>
+TAMBERLANE: ma

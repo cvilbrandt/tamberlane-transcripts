@@ -1,23 +1,20 @@
-BELFRY: Da Kreaturen Draussen verdorben sind, können sie mit Werkzeugen arbeiten, die wir nicht nutzen können.
+***[OUTDATED]***
 
-BELFRY: Dank ihnen läuft also unser Abwasser. Und unser Leitungswasser!
+BELFRY: Niemand denkt, du wärst ein Monster. Draussen ist nur...ein Schreckgespenst.
+TAMBERLANE: Es gibt es also nicht?
+BELFRY: Nein, es ist echt. Es ist nur... Draussen ist nur ein Ort, Püppchen.
 
-TAMBERLANE: Und die Medizin.
+TAMBERLANE: Aber was ist mit der Verderbnis?
+BELFRY: Die Verderbnis ist auch echt, glaub ich. Oder Tante Tess hat es so gesagt. Ich glaub aber nicht, dass sie so ist.
 
-BELFRY: Sehr gut!
+TAMBERLANE: Sie macht keine Monster?
+BELFRY: Naja, ich hab zumindest noch keine gesehen.
 
-BELFRY: Ja, Draussen haben sie bessere Medizin und Maschinen, um kranken Kreaturen zu helfen.
+BELFRY: Ich weiss nicht, was Draussen so gefährlich macht. Ich weiss, dass es wichtig ist, vorsichtig zu sein, sonst hätten wir nicht so viele Regeln darüber! Ich weiss jedoch auch ein paar andere Dinge über Draussen.
+TAMBERLANE: Was denn?
 
-BELFRY: Aber dort hinzugehen, um sie zu benutzen, verderbt einen trotzdem.
+BELFRY: Draussen ist tatsächlich sehr wichtig für Silver Sage! Wir können es Draussen verdanken, dass wir wichtige Dienste hier in Treehollow haben.
+TAMBERLANE: Was denn?
 
-TAMBERLANE: Deswegen mussma sich entscheiden, wenn man schlimm krank wird.
-
-BELFRY: Genau.
-
-BELFRY: Aber selbst wenn du gehst und nicht zurückkommen kannst, kannst du weiterhin deiner Familie helfen!
-
-BELFRY: Du kannst zum Beispiel dabei helfen, die Toiletten am laufen zu halten.
-
-BELFRY: Deswegen schicken wir auch böse Kreaturen dorthin. Dann werden sie besser, indem sie helfen!
-
-BELFRY: Macht das für dich Sinn?
+BELFRY: Zum Beispiel... Abwasserleitungen! Wenn es Draussen nicht gäbe, müssten wir unsere Häufchen noch im Wald machen!
+TAMBERLANE: Bäh!

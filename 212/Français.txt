@@ -1,0 +1,18 @@
+OAKEWOOD&nbsp;: Bonjour, les amis.
+
+SCOTT&nbsp;: Il semble que nous ayons un groupe&nbsp;!
+PEEK&nbsp;: Ah, tu viens chercher tes livres, Claude&nbsp;?
+OAKEWOOD&nbsp;: En effet, c'est le cas.
+OAKEWOOD&nbsp;: Et je crois que Miss Tamberlane a aussi des courses à faire ici.
+
+TAMBERLANE&nbsp;: Salut, Mademoiselle Scott&nbsp;!
+SCOTT&nbsp;: Eh bien, bonjour, Miss Tamberlane&nbsp;! Que puis-je faire pour vous?
+
+TAMBERLANE&nbsp;: Maman a dit...
+TAMBERLANE&nbsp;: Maman a dit que je pouvais avoir des livres.
+
+BELFRY&nbsp;: Nous recherchons des livres pour l'aider à lui remonter le moral après une dure journée.
+
+SCOTT&nbsp;: Une journée difficile&nbsp;? *Ça*, c'est quelque chose d'inadmissible, n'est-ce pas&nbsp;?
+SCOTT&nbsp;: Et si on en choisissait quelques-uns&nbsp;?
+TAMBERLANE&nbsp;: Oui, s'il vous plaît&nbsp;!

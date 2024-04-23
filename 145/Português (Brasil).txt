@@ -1,8 +1,9 @@
-TAMBERLANE: <em> AH!! NÃO!! </em>
-PIPER: <em> !!! </em>
+TAMBERLANE: ***AH!! NÃO!!***
+PIPER: ***!!!***
 
 SFX: CREC
 
 PIPER: Me desculpa! Me desculpa! Me desculpa!
 
 TAMBERLANE: É o vovô!
+PIPER (resmungado): ufa...

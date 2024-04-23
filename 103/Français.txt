@@ -1,0 +1,14 @@
+BELFRY&nbsp;: Briar&nbsp;!!
+TAMBERLANE&nbsp;: ah&nbsp;!
+
+BRIAR&nbsp;: Hé, Bel.
+TAMBERLANE&nbsp;: Petits pois&nbsp;!
+
+BELFRY&nbsp;: Qu'est-ce qui t'amène ici&nbsp;? Voudrais-tu une tasse de thé&nbsp;?
+BELFRY&nbsp;: Oh&nbsp;! Ou nous avons même de la viande&nbsp;!
+BRIAR&nbsp;: Non... non merci.
+TAMBERLANE&nbsp;: Veux pois&nbsp;!
+
+BELFRY&nbsp;: Oh&nbsp;! Eh bien... que pouvons-nous faire pour toi, alors&nbsp;?
+
+BRIAR&nbsp;: Maman m'a envoyée.

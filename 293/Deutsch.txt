@@ -1,10 +1,15 @@
-CUR: Versuchst du mich zu schubsen? Ist das dein Plan?
-CUR: Schau nur, du versuchst dein bestes und ich spür es kaum!
-CUR: Wie erbärmlich kann man sein?
-KIRA: Haha... <em>Super</em> erbärmlich.
+***[OUTDATED]***
 
-CUR: Ich glaub ich sollte...
+CUR: W...
 
-CUR: ...dir zeigen wie man's <em>RICHTIG MACHT!</em>
+CUR: Was <em>STIMMT</em> nicht mit dir?
 
-TAMBERLANE: Wa-
+TAMBERLANE: Nnngh...
+
+TAMBERLANE: Rrgh!!
+
+CUR: Was soll das <em>werden??</em>
+TAMBERLANE: Rrrraaggh!!!
+
+CUR: Was <em>MACHST</em> du da?
+TAMBERLANE: <em>Sag nicht böse Dinge über Mutti!</em>

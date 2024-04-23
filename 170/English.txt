@@ -4,11 +4,16 @@ TESS: No, I KNOW that! I...
 TESS: This isn't coming out right.
 BRIAR: Belfry, let Mum talk.
 
-TESS: Bel, my darling waif, you have to understand that I'm....scared. I'm scared you'll become a pariah.
+TESS: Bel, my darling waif, you have to understand that I'm...scared.
+TESS: I'm scared of losing you.
 
-BELFRY: MUM! Everyone LOVES Tamberlane!
+BELFRY: *Losing* me? Where would I even *go?!*
 
-TESS: I know, I know! But when she gets sick, How do we treat her? How do we know our medicine isn't a poison for her? She isn't a normal kit, Belfry. And that's fine except...It's a better than average chance she is going to need advanced medicine. 
+TESS: To Abroad, Belfry.
+TESS: If Tamberlane gets sick - *seriously* sick - I worry our medicine won't be enough. 
+TESS: We don't know *anything* about her. She isn't just a normal kit; she has special needs. And that's fine, but...
 
-TESS: If that happens, you're going to have to choose whether to let her die, or take her Abroad. 
-BELFRY: Ugh, Mum..!
+TESS: If that happens, God forbid, you'll have to make a decision.
+TESS: You can stay here with her, keep her safe and comfortable, and watch her die.
+TESS: Or... you can take her to Abroad.
+BELFRY: Ugh, *Mum!* You're *so* stuck in the past!

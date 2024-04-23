@@ -1,11 +1,20 @@
-BELFRY: <b><em>TAMBERLANE!!!</em></b>
+BRIAR: Ei папочка. Alguma notícia?
+WALTER: Hmm. Parece que o Jonas vai sobreviver.
+WALTER: Boas notícias, mas eu ainda não ouvi nada da Tamberlane.
 
-TAMBERLANE: Oi, Mamãe Fofa.
+BRIAR: Bem, isso é <em>alguma</em> boa notícia.
+BELFRY: E se...
+BELFRY: E se ela estiver doente demais?
+WALTER: Vamos, Belfry...
 
-BELFRY: Eu estava tão preocupada! Tão, tão preocupada!!
-BELFRY: Me desculpa!
+BELFRY: E se eles não tiverem achado uma forma de tratar ela? Já fazem horas! Ela morreu? Será que eu não vim rápido o bastante?
+WALTER: Não pense sobre isso!
 
-TAMBERLANE: Tudo bem.
+BELFRY: Como que eu posso só <em>não pensar sobre?!</em> Minha filha está <em>MORRENDO!</em>
+WALTER: Você não <em>sabe</em> disso! Tudo que você <em>sabe</em> é que ela está em cuidado médico!
+BELFRY: Mas eu estou preocupada que
+WALTER: Preocupação é um desperdício de imaginação. Vamos lidar com isso <em>quando</em> vier.
 
-BELFRY: Eu te amo tanto, Tamberlane!
-TAMBERLANE: Eu te amo também, Mamãe.
+NORA: Padeiros?
+
+NORA: A Tamberlane está pronta para visitantes.

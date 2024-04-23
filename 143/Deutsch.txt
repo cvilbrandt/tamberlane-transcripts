@@ -1,3 +1,5 @@
+***[OUTDATED]***
+
 MILO: Sie erholt sich erstaunlich schnell von emotionalen Turbulenzen.
 OAKEWOOD: Und ihre einzige Sorge waren ich und das Federhirn.
 OAKEWOOD: Ungesund, wenn du mich fragst.
@@ -8,6 +10,6 @@ ISAIAH: Es heisst 'Isaiah', Tamberlane! Kannst du das sagen?
 TAMBERLANE: Iss-ah-ja.
 ISAIAH: Haha, grade so.
 
-ISAIAH: Weisst du, ich bin froh, dass du heute bei mir vorbeischaust. Ich hab hier was für dich.
+ISAIAH: Weisst du, ich bin froh, dass du heute bei mir vorbeischaust. Ich hab hier was fÃ¼r dich.
 
 TAMBERLANE: <em>WOOW!!!</em>

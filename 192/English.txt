@@ -2,11 +2,12 @@ TAMBERLANE: Marie! Are you okay?! Are you hurt?!
 
 MARIE: I-I'm sorry, I just-, I just-
 
-MARIE: That was <em>so scary!!</em>
+MARIE: That was *so scary!!*
 
 ANTHONY: Too right!
+PENNY: We *definitely* messed up.
 
 ANTHONY: That was so weird, though. I've never seen Miss Callie mad.
-PIPER: Yeah, she's usually <em>obnoxiously</em> nice.
+PIPER: Yeah, she's usually *obnoxiously* nice.
 
 MARIE: We made a teacher cry...

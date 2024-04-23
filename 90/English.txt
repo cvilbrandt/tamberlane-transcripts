@@ -1,10 +1,10 @@
-BELFRY: <em>YIKES!</em>
+BELFRY: ***YIKES!***
 
-TAMBERLANE: <em>Awagh!!</em>
+TAMBERLANE: ***Awaagh!!***
 
 [SFX: WHUD!]
 
-TAMBERLANE: <em>Aaaa!!!</em>
+TAMBERLANE: ***Aaaa!!!***
 
 [SFX: SPLOOSH]
 

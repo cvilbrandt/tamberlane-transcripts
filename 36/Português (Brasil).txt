@@ -1,15 +1,16 @@
 TESS: Bel, o quê...?
 HENRY: O quê é?
 
-OAKEWOOD: Meu novo projeto de pesquisa.
+OAKEWOOD: Uma boa pergunta, sim.
 BELFRY: MEU TAMBERLANE!
 
-TESS: Ó, ceús. Ó, céus, ó céus! Bel, você não pode ficar com essa coisa!
+TESS: Ai meu Deus! Bel, você não pode ficar com essa coisa!
 BELFRY: Eu posso, e eu vou.
 
-TESS: Belfry, ela é-- ela é deformada.
+TESS: Belfry, ela é-- ela é *deformada.*
 BELFRY: É meu filhote agora.
 
-TESS: Não tem pelo! Vai congelar no inverno! Isso consegue respirar com um focinho tão achatado?
+TESS: Não tem pelo, não tem focinho...
+TESS: Essa pobre coisa não vai durar uma *semana*, Belfry. Vai quebrar seu coração!
 BELFRY: NÃO ME IMPORTO! MEU FILHOTE!
 [SFX: gyuuuuu]

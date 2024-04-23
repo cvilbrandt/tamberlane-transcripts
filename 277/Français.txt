@@ -1,0 +1,6 @@
+BELFRY&nbsp;: *NON&nbsp;!*
+
+[SFX&nbsp;: BOUM&nbsp;!]
+
+BELFRY&nbsp;: Tamberlane, je suis vraiment désolée&nbsp;! Es-tu blessée?
+TAMBERLANE&nbsp;: NON.

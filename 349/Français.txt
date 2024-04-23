@@ -1,16 +1,17 @@
-TESS&#160;: Où <em>&eacute;tais-tu</em> plus t&ocirc;t&#160;?&#160;!
+TESS&nbsp;: Et elle a *traîné Tamberlane&nbsp;?* Avec l'oxygène et tout&nbsp;?
+WALTER&nbsp;: да. Mais ça s'est bien passé. Terra a arrangé la petite Tamberlane et Briar a ramené Belfry à la maison avant que ça n'empire.
+TESS&nbsp;: Oh, Belfry...
 
-TESS&#160;: <em>Milo</em> &eacute;tait l&agrave; mais pas toi ?! Belfry avait <em>BESOIN</em> de toi&#160;!
-TESS&#160;: Si tu veux faire comme si tu faisais partie de sa famille, alors <em>fais comme si c'&eacute;tait le cas</em>&#160;!
+WALTER&nbsp;: Sois forte, барсучка. Belfry est une créature très émotive. Tu sais ça.
+TESS&nbsp;: Je sais, mais il n'y a pas que Belfry. La réunion d'aujourd'hui...
+TESS&nbsp;: J'ai l'impression que tout s'effondre.
 
-TESS&#160;: Qu'est-ce qui &eacute;tait si important pour que tu ne puisses pas la soutenir, hein&#160;?!
-TESS&#160;: Tu ne pouvais m&ecirc;me pas pu rendre visite &agrave; ton soi-disant <em>sujet de recherche</em>&#160;?!
-TESS&#160;: <b>Sujet de recherche.</b> Je n'arrive pas &agrave; croire que tu appelles un <em>petit</em> ton <em>sujet de recherche&#160;!</em>
+WALTER&nbsp;: Tout ira bien. Ça, je te le promets. Treehollow regorge de bonnes créatures.
+WALTER&nbsp;: Et Belfry rebondira. Elle le fait toujours, pauvre enfant.
+TESS&nbsp;: J'espère que tu as raison, дорогой.
 
-TESS&#160;: <b><em>CLAUDE&#160;!</em> R&Eacute;PONDS-MOI&#160;!</b>
+Effets sonores&nbsp;: krnch krnch Krnch
 
-TAMBERLANE&#160;: Oncl...
+Effets sonores&nbsp;: KRNCH KRNCH
 
-OAKEWOOD&#160;: Bonjour Gueule-de-l... ou...
-
-TAMBERLANE&#160;: Oncl...&#160;?
+TESS&nbsp;: ***Claude&nbsp;??***

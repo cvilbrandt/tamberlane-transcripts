@@ -1,16 +1,16 @@
-JASON: Hör auf Belfry. Sie wird besser wissen, wie der Stadtrat von Treehollow funktioniert, als ich alter Seebär.
-BELFRY: Jason, du bist erst 30.
-JASON: Meine Aussage bleibt die selbe.
+***[OUTDATED]***
 
-JASON: Ich mein nur, du solltest <em>vorsichtig</em> sein.
+BELFRY: Schau, es wurde seit <em>Jahren</em> keiner mehr nach Draussen verbannt.
+BELFRY: Nicht seitdem meine Mum mit im Rat sitzt.
+BELFRY: Jentzen hat nur etwas mit dir gestritten. Das ist kein Verbrechen für <em>Verbannung.</em>
+CALLIE: Ich... Ich hoffe es...
 
-JASON: In den Orten, die ich besucht habe, ist dieser Ort nicht zu unterschätzen.
-JASON: Und meiner Erfahrung nach?
+BELFRY: Wenn es dir hilft, werde ich nach unserer Rückkehr mit dir zum Stadtrat gehen.
+BELFRY: Ich rede mit meiner Mum und du kannst deine Aussage ändern.
 
-JASON: Räte und Autoritäten sind bei diesen Themen selten <em>nachgiebig.</em>
+CALLIE: Bist du dir sicher, dass so etwas möglich ist?
 
-JASON: Ah, aber ich will euch keine Angst machen. Ich bin mir sicher, es wird gut werden--
-SFX: PLAP
+BELFRY: Ich verspreche dir, <em>alles</em> wird gut!
 
-JASON: <em>PIPER!!</em>
-PIPER: <em>SORRY, DAD!!</em>
+BELFRY: <em>Stimmts?</em>
+JASON: Stimmt, stimmt.

@@ -1,0 +1,14 @@
+OAKEWOOD&nbsp;: Du lait dans ton thé&nbsp;?
+BELFRY&nbsp;: Oui, s'il te plaît.
+BELFRY&nbsp;: Merci, Oakewood.
+BELFRY&nbsp;: Tu m'as vraiment sauvé la vie ce soir.
+OAKEWOOD&nbsp;: Bah.
+
+BELFRY&nbsp;: Je suis désolée que tu restes coincé avec moi.
+BELFRY&nbsp;: Tu mérites quelqu'un de mieux.
+
+BELFRY&nbsp;: Mais je promets que je ferai de mon mieux pour être une bonne maman.
+
+BELFRY&nbsp;: ...pour toi...
+
+BELFRY&nbsp;: ...ma petite fille...

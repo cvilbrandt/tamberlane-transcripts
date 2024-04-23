@@ -1,14 +1,17 @@
-CUR: Ihr hättet eure Gesichter sehen sollen!
-CUR: Unbezahlbar!
+***[OUTDATED]***
 
-PIPER: <em>Ha... Halt die Klappe!</em>
-PIPER: Das war nur wegen Arties und Hatties Geschichte!
+TRISHA: Ich würd mir keine Sorgen machen. Piper macht mit denen eine Geisterjagd.
 
-CUR: Denen ihre Geschichte über <em>Langwandler?</em>
-CUR: Das ist eine <i>Baby</i>geschichte, die <em>Babys</em> Angst machen soll!
-CUR: Bist du ein kleines Baby, Piper?
+BELFRY: Eine Geisterjagd?
+TRISHA: Nur ein bisschen harmloser Spaß. Kümmer dich nicht drum.
 
-PIPER: I-- Ich bin kein Baby!
-PIPER: Nimm das zurück!!
+BELFRY: Aber Cur und seine Bande nehmen nicht daran Teil, oder?
+JASON: Jetzt wo ich darüber nachdenke, ich hab diese Schlingel seit einer Weile nicht mehr gesehen.
 
-TAMBERLANE: CUR! <em>STOP!!</em>
+BELFRY: Sie werden Tamberlane schikanieren! Ich muss sie finden!
+JASON: Jetzt wart mal eine Minute, Bel...
+
+BELFRY: Nein! Ich hab ihr etwas versprochen, und ich halte meine Versprechen!
+
+TRISHA: Und weg ist sie schon wieder.
+JASON: Eh, sie wird schon noch lernen, loszulassen.

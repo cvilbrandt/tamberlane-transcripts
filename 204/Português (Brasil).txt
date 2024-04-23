@@ -1,9 +1,10 @@
-BELFRY: A Tamberlane está bastante quieta agora... ela ainda deve estar triste.
+BELFRY (pensando): A Tamberlane está bastante quieta agora... 
+BELFRY (pensando): Ela ainda deve estar triste.
 
-BELFRY: É, ainda triste. Rápido, Belfry, pensa em alguma coisa!
+BELFRY (pensando): É, ainda triste! Rápido, Belfry, pensa em alguma coisa!
 
-BELFRY: Tenho que animar ela, qualé, pensa!
+BELFRY (pensando): Tenho que animar ela, qualé, pensa!
 
-BELFRY: LIVROS!
+BELFRY (pensando): LIVROS!
 
 TAMBERLANE: Livros...?

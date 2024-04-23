@@ -1,13 +1,14 @@
-TAMBERLANE SFX: SOB
+TAMBERLANE: SOB
 
+BELFRY: Oh, sweetheart...
 BELFRY: You're not a bad girl, it's not your fault, and you're not in trouble, okay?
 
 TAMBERLANE ...Okay.
 
-BELFRY: Tamberlane, it..It's really okay. Please don't fret...I'm here. 
+BELFRY: Tamberlane, it... It's really okay... Please don't fret.
 
-SFX: WHUMPH
+[SFX: WHUMPH]
 
 BELFRY: I'm here.
-TAMBERLANE SFX: mmmmmm
+TAMBERLANE: mmmmmm
 BELFRY: I'm here.

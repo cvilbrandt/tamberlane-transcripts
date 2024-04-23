@@ -1,4 +1,13 @@
-BELFRY: <em>NÃO!</em>
+BELFRY: Tamberlane!
+TAMBERLANE: PARA!
+BELFRY: Tamberlane, calma! Eu estou *aqui!*
+TAMBERLANE: *PARA! PARA! PARA!*
 
-BELFRY: Tamberlane, Me desculpa! Você está machucada?
-TAMBERLANE: NÃO.
+BELFRY: Já acabou! Tá tudo bem! *Eu te salvei!*
+TAMBERLANE: *PARA! PPAAAAARAAA!*
+
+BELFRY: Por favor, docinho, para de brigar! Me diz o que aconteceu!
+TAMBERLANE: *PPPPPAAAAAAAARAAAAAAA!!!!!*
+
+BELFRY: Por favor fica calma...
+TAMBERLANE: AARA-

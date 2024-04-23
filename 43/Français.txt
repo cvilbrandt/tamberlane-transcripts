@@ -1,0 +1,19 @@
+[SFX&nbsp;: AAAWAAAAWAAA]
+BELFRY&nbsp;: d'un moment à l'autre...
+BELFRY: d'un moment à l'autre tu vas t'arrêter...
+
+[SFX&nbsp;: AWAAAAWAAAA]
+BELFRY&nbsp;: Tu ne t'arrêtes pas&nbsp;!
+BELFRY&nbsp;: Pourquoi tu ne t'arrêtes pas&nbsp;?!
+
+BELFRY&nbsp;: Je ne parle pas le hurlement&nbsp;!
+BELFRY&nbsp;: S'il te plaît, *dis-moi ce que tu veux&nbsp;!!*
+
+BELFRY&nbsp;: ok
+
+[SFX&nbsp;: AAAAWAA]
+BELFRY&nbsp;: ... Je ferais mieux de voir si Oakewood sait quoi faire.
+[SFX&nbsp;: AWAAAAAW]
+
+[SFX&nbsp;: AWAAAAAAAAAWAAWAAA]
+BELFRY (marmonné)&nbsp;: ...Je ne suis pas une ratée...

@@ -1,9 +1,10 @@
-PARSLEY: Sieht richtig gut aus, Mädels!
+***[OUTDATED]***
 
-MARIE: Ooh, hübsch!
-PARSLEY: Dann ist das also deine Mutter?
+OAKEWOOD: Nun?
+OAKEWOOD: Worauf wartest du, Federhirn?
 
-TAMBERLANE: Nein, das bin ich!
+OAKEWOOD: Hilf mir, etwas relevante Mythologie zu finden!
+MILO: J-Ja, sir!
+OAKEWOOD: Vielleicht haben wir Glück und finden endlich ein paar <em>Hinweise</em> zu unserem Rätsel.
 
-PARSLEY: Biste dir da sicher, Tam?
-MARIE: <em>Parsley!</em>
+OAKEWOOD: Namentlich, was <em>ist</em> Tamberlane?

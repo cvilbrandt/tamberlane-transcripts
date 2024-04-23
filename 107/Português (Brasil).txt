@@ -6,4 +6,5 @@ BELFRY: Eu prometo que vou colocar alguma coisa sobre isso.
 BRIAR: É, beleza.
 
 BRIAR: Obrigada, Bel.
-BELFRY: Qualquer coisa pra minha irmãzinha!
+BELFRY: Qualquer coisa pra minha монахиня pequena!
+BRIAR: Tipo errado de irmã, Bel. монахиня significa *freira.*

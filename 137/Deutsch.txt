@@ -1,5 +1,7 @@
+***[OUTDATED]***
+
 OAKEWOOD: Erlaubt mir, euch meinen Ziehsohn vorzustellen: Milo Jamiton aus Tangled Branch.
-MILO: Äh... Mittlerweile Milo von der Akademie von Lumiens. Tschuldige.
+MILO: Ã„h... Mittlerweile Milo von der Akademie von Lumiens. Tschuldige.
 
 OAKEWOOD: Ach, richtig. Du machst ja jetzt Karriere. (oder so.)
 
@@ -10,13 +12,13 @@ OAKEWOOD: Tess.
 TESS: Freut... mich sehr.
 OAKEWOOD: Walter.
 WALTER: Angenehm.
-OAKEWOOD: Und Briar. Sie ist nicht viel jünger als du.
+OAKEWOOD: Und Briar. Sie ist nicht viel jÃ¼nger als du.
 BRIAR: Hey.
 
 MILO: Hey!
 FX: Fluff
 
-FX: Doki doki (japanisch für Herzklopfen, Anm.d.Übers.)
+FX: Doki doki (japanisch fÃ¼r Herzklopfen, Anm.d.Ãœbers.)
 FX: Kipp
 
 OAKEWOOD: Genug der Angeberei, junger Mann.

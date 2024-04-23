@@ -1,17 +1,26 @@
-BELFRY: Du hast dich eben noch so gefreut. Warum nicht mehr?
-TAMBERLANE: Cur...
+***[OUTDATED]***
 
-BELFRY: Ach, keine Sorge, Süße. Dir wird es mit deinen Freunden schon gut gehen!
+ABSEITS: Na los! Bringen wir unsere Taschen auf den Wagen!
 
-NORA: Ich pass auf dich auf, Tamberlane. Okay?
+ABSEITS: Sei ein lieber kleiner Junge für Frau Callie, okay?
 
-JASON: Und Frau Nora ist ein Arzt! Nichts kann mit einem Arzt schiefgehen, stimmts?
-TAMBERLANE: Stimmt!
+ABSEITS: Kann ich die Pferde füttern, Frau Trisha?
 
-NORA: Tamberlane wird bei mir sicher sein, Bel.
-BELFRY: Danke, Nora.
+ABSEITS: Ich kann es kaum abwarten, die Klippen zu erkunden!
 
-FINN: Also dann, Leute. Wir haben alles gepackt. Hüpft rauf!
+PENNY: Marie! Anthony! Wartet auf mich!
 
-BELFRY: Ich werde in dem Wagen vor dir sein, okay? Wir sehen uns wieder bei den Klippen.
-TAMBERLANE: Okay, Mami, bye-bye.
+KIRA: Oi, Jonas, biste aufgeregt?
+JONAS: Hey, Leute! Ja!
+
+CORIANDER: Hab Spaß an den Bally Bluffs, okay?
+
+PARSLEY: Aye, Mum, versprochen!
+
+BELFRY: Also dann, Tamberlane? Bereit, auf den Wagen zu steigen?
+
+TAMBERLANE: Nööööö.
+
+BELFRY: Was soll das heissen, 'nö'?
+
+TAMBERLANE: <em>NÖÖÖÖ!!</em>

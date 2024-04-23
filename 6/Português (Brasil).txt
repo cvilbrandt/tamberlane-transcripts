@@ -1,17 +1,17 @@
-TEXUGO: O quê? O que aconteceu?
+TEXUGO: Quê? O que aconteceu?
 
 BELFRY: Eu esqueci que o forno estava quente.
 
 [SFX: ding-a-ling!!]
 
 TEXUGO: Deve ser a Coriander.
-TEXUGO: Walter, você pode servir ela enquanto eu cuido das patas da Belfry?
-WALTER: Mmnhm.
+TEXUGO: Walter, você pode tomar conta dela enquanto eu cuido das patas da Belfry?
+WALTER: Спасибо, Tess, meu amor.
 
-TEXUGO: Vamos lá te enfaixar, pobrezinha.
-BELFRY: Obrigado, mamãe Tess.
+TESS: Vamos lá te enfaixar, pobrezinha.
+BELFRY: Obrigado, mãe.
 
-FORA: AINSLEY!!
+FORA: ***AINSLEY!!***
 
-ANTHONY: Piper, não deveria-mos...
-PIPER: Cala a boca, Anthony.
+ANTHONY: Piper, a gente não devia...
+PIPER: Shiu, Anthony.

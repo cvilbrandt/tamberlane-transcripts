@@ -1,0 +1,17 @@
+GENEVIEVE: You have to take a stand when the time is *right*, Jentzen, and this isn't the right time.
+GENEVIEVE: Get through this and you can change *hearts* and minds *here!*
+GENEVIEVE: You can help us work on ways to change the system!
+
+GENEVIEVE: And just because there's going to be a trial doesn't even mean you're going to *lose!*
+GENEVIEVE: We really *are* fair and just! I'll even be your counsel!
+
+JENTZEN: I don't want your help.
+
+JENTZEN: You taught me to stand up for what's right, but you won't do it for me.
+GENEVIEVE: I told you, it's *complicated!*
+JENTZEN: It's not.
+
+JENTZEN: Get out of my room, please. I don't want to talk anymore.
+
+GENEVIEVE: Okay.
+GENEVIEVE: I love you, Jentzen.

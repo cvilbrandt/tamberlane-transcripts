@@ -1,4 +1,6 @@
-WALTER: Não se esqueça de usar as luvas térmicas!
+WALTER: Ei, Belfry...
+WALTER: Não esquece de usar as
+WALTER: *luvas térmicas!*
 
 [SFX: sssssssss]
 

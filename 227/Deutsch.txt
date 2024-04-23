@@ -1,17 +1,17 @@
-BELFRY: Es war einmal eine kleine Fledermaus, welche ganz viele Fehler machte.
+***[OUTDATED]***
 
-BELFRY: Sie fühlte sich, als würde ihr etwas Wichtiges fehlen, dass alle anderen scheinbar hatten.
+BELFRY: Okay?
 
-BELFRY: Doch eines Tages fand sie eine wundervolle Kreatur in den Wäldern.
+TAMBERLANE: Okay.
 
-BELFRY: Und obwohl ihr jeder sagte, dass sie es nicht konnte, übernahm sie die Verantwortung und kümmerte sich um die kleine Kreatur.
+TAMBERLANE: Wenn du jemals sehr krank wirst...
 
-BELFRY: Und weist du, was sie dabei gelernt hat?
+TAMBERLANE: ...wirst du mich dann auch verlassen, Mami?
 
-TAMBERLANE: was?
+BELFRY: Oh, Tamberlane, nein. Niemals.
 
-BELFRY: Diese kleine Kreatur war das, was ihr diese ganze Zeit über gefehlt hatte.
+BELFRY: Wir werden zusammenbleiben, egal was passiert.
 
-BELFRY: Ich hab dich Lieb, Tamberlane.
+BELFRY: Wie wärs, wenn ich dir eine bessere Geschichte erzähl?
 
-TAMBERLANE: ...ich dich auch, Mami...
+TAMBERLANE: Ja, bitte.

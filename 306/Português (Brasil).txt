@@ -1,12 +1,11 @@
-BELFRY: <em>O QUE VOCÊ FEZ COM A MINHA FILHOTE?!</em>
-KIRA: N-nada! <em>Eu j-juro!</em>
+BELFRY: Quê...?
+FORA: Belfry, você *tem* que se levantar!
 
-BELFRY: <em>MENTIROSA!</em>
-BELFRY: <em><b>MALANDRA!!</b></em>
+FORA: *Qualé!*
+FORA: *Alguma coisa aconteceu com a Tamberlane!*
 
-JASON: Belfry, qual é seu problema?!
-JASON: A gente já tem filhotes em perigo mortal o bastante!
+JASON: Eu acho que teve uma briga
+JASON: e a **Tamberlane** e o **Jonas** caíram no rio
 
-JASON: A Kira vai trazer a gente para Tamberlane.
-JASON: Pode olhar feio pra mim, mas corre enquanto isso!
-JASON: <em>VAMOS!</em>
+JASON: Coragem, **Bel! A Kira** vai trazer nós para eles!
+KIRA: ***VEM LOGO!***

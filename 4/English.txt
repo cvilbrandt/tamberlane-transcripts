@@ -1,13 +1,13 @@
-BAT: Oh no, what happened?!
-DEER: You give me <em>velvet foots!</em>
+BAT: Oh sod it, what happened?!
+DEER: You give me *velvet foots!*
 [SFX: Cough Cough]
 
 BAT: I must have missorted them again!
 
-BAT: Oh, Walter, I'm so sorry.
+BAT: Oh, Papa, I'm so sorry.
 
-WALTER: Belfry, someday you will take over this place.
-WALTER: You must be taking more responsibility!
+DEER: Belfry, someday you will take over our bakery.
+DEER: You must be taking more responsibility!
 
 BELFRY: I know, I know! I'll fix it right now! I promise!
 

@@ -1,13 +1,16 @@
-AINSLEY: Alright, Oakewood!
-AINSLEY: If you go check it out, I'll bet you five months of scavenging that you've never seen anything like it before.
+AINSLEY: Alright, Oakewood! I'm doubling our usual bet.
+AINSLEY: If you've never seen *anything* like it, we play chess on *my* time for two months.
+AINSLEY: Otherwise, I owe *you* two months of priority scavenging.
 
-OAKEWOOD: Uh, no. You are delusional and I have a life.
+OAKEWOOD: Not tonight, Ainsley.
+OAKEWOOD: I already have plans.
 
-OAKEWOOD: And that involves a nice, cozy night in away from pestering nutjobs like you.
+OAKEWOOD: And those plans are a cozy, nice night in, away from the jibber-jabber of this overly imaginative little hamlet.
 
-OAKEWOOD: And speaking of, time to leave.
+OAKEWOOD: And those plans start *now.*
 
-AINSLEY: You'd throw me to the wolves?
-OAKEWOOD: Some of my best friends are wolves. Out.
+AINSLEY: You'd throw me to the wolves?!
+OAKEWOOD: Some of my best friends are wolves.
+OAKEWOOD: *Goodnight.*
 
 [SFX: SLAM]

@@ -1,9 +1,11 @@
+***[OUTDATED]***
+
 HONEY: Bleddyn, hast du Tess heute schon gesehen?
 BLEDDYN: Ja, zuletzt noch, wie sie sich mit Belfry gestritten hat.
 
-HONEY: Natürlich hat sie das.
+HONEY: NatÃ¼rlich hat sie das.
 
-TIMMOTHY: Sollen wir das Fest echt ohne alle vier Ratsmitglieder eröffnen?
+TIMMOTHY: Sollen wir das Fest echt ohne alle vier Ratsmitglieder erÃ¶ffnen?
 BLEDDYN: Geht vielleicht nicht anders. Deine Entscheidung, Timmothy.
 
 TESS: Tut mir leid!

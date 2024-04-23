@@ -4,11 +4,13 @@ TAMBERLANE: I wanna!
 BELFRY: Well, I’m not reading to your bum, so you’d better get up here if you want a story!
 TAMBERLANE: Okay!
 
-BELFRY: Oof! Settle down you!
-SFX: FOOMF
-BELFRY: What book do you want to read? Ivan Saves the Town? Or I’ll Love You Forever?
-TAMBERLANE: Ivan Saves the Town!
+BELFRY: Oof! Settle down, you!
+[SFX: FOOMF]
+BELFRY: What book do you want to read?
+BELFRY: "Inquisitive Ivan"?
+BELFRY: Or "I’ll Love You Forever"?
+TAMBERLANE: "Inquisitive Ivan"!
 
-BELFRY: Ivan Saves the Town it is, then. Cozy up.
+BELFRY: "Inquisitive Ivan" it is, then. Cozy up.
 
-BELFRY: “Ivan was a little mole who lived in the little town of Sunset Acres with his two papas, Garret and Tom…”
+BELFRY: *Inquisitive Ivan,* by Marguerite of Little Aching. *O kit of boundless curiosity, I dedicate this storybook to thee...*

@@ -1,11 +1,12 @@
 BELFRY: ...I'm not cut out for this.
 NORA: Belfry...
 
-BELFRY: You can see it, I can see it... <i>Everyone</i> can see it!
+BELFRY: You can see it, I can see it... *Everyone* can see it!
 
-BELFRY: I can't take care of another creature! I can barely take care of myself!
+BELFRY: I can't take care of another creature!
+BELFRY: I can barely take care of *myself!*
 NORA: Belfry, calm down!
 
 BELFRY: Yesterday, I forgot to wear oven mitts!!
 
-BELFRY: <em>WHO FORGETS OVEN MITTS?!</em>
+BELFRY: ***WHO FORGETS OVEN MITTS?!***

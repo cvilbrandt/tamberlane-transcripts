@@ -1,15 +1,18 @@
-SFX: Sshhhf
-OAKEWOOD: My god, Peek! What a find! What do I owe you?
+[SFX: Sshhhf]
+OAKEWOOD: My god, Peek! What a find!
+OAKEWOOD: What do I owe you?
 
-PEEK: Honestly? Just look after Bean next week when Erin and I go to little Aching.
+PEEK: Honestly? 
+PEEK: Just look after Bean next week when Erin and I go to Little Aching.
 
-OAKEWOOD: For this priceless, antique book, you want me to watch your <em>cat? </em>
+OAKEWOOD: For this priceless, antique book, you want me to watch your *cat?*
 
-SFX: skrih skrih
-PEEK: Well, and maintaining our standing agreement.
-OAKEWOOD: I <em>hardly</em> think weekly tea and cards is sufficent. 
-PEEK: Then what do you suggest?
+[SFX: skrih skrih]
+PEEK: Well, that and maintaining our standing agreement.
+OAKEWOOD: I *hardly* think weekly tea and cards is sufficent. 
+PEEK: Then what do *you* suggest?
 
-OAKEWOOD: Well...I daresay this at <em>least</em> calls for my <em>finest</em> tea next week.
+OAKEWOOD: Well... 
+OAKEWOOD: I daresay this at *least* calls for my *finest* tea next week.
 
 BELFRY: We're ready to check out!

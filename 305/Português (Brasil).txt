@@ -1,11 +1,19 @@
-BELFRY: Quê...?
-FORA: <strike>Belfry, você <em>tem</em> que se levantar!</strike>
+TESS: Oh, sua bobona, eu devia saber que você ia quebrar outro!
+BELFRY: Não fui eu! Estava quebrado quando eu peguei!
 
-FORA: <strike><em>Vamos!</em></strike>
-FORA: <em>Alguma coisa aconteceu com a Tamberlane!</em>
+TERRA: De *novo* não, Belfry!
+MAYA: Desse jeito, você vai ser mais lama do que morcego!
+BELFRY: Mas o pedregulhos são irregulares. Qualquer um podia ter...
 
-JASON: <strike>Eu acho que teve uma briga</strike>
-JASON: <strike>e a</strike> Tamberlane <strike>e o</strike> Jonas <strike>cairam no rio</strike>
+WALTER: Ahhh, eu sabia que não devia ter deixado você cortar.
+BELFRY: V-você tá certo.
 
-JASON: <strike>Coragem,</strike> Bel! A Kira <strike>vai trazer nós para eles!</strike>
-KIRA: <b><em>VAI, DE PRESSA!</em></b>
+TAMBERLANE: Eu vou ser mais feliz longe de você, Mamãe!
+TAMBERLANE: Você sabe isso, certo?
+TAMBERLANE: Belfry?
+
+BELFRY: Eu sei.
+BELFRY: *Eu sei!*
+
+FORA: ***BELFRY!***
+[SFX: OFEGA]

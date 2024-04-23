@@ -1,13 +1,14 @@
 [SFX: OOOWAAAWAAAWOOOW]
 BELFRY: Q-Que quê é isso?!
-ANTHONY: O FANTASMA VOLTOU!
+ANTHONY: *O FANTASMA VOLTOU!*
 
-ANTHONY: VAI SALVAR MINHA IRMÃ!
+ANTHONY: *VAI SALVAR A PIPER!*
 
-BELFRY: Oi, galera!
+BELFRY: Ah, oi, mana!
+BELFRY: Oi, Piper!
 
 BELFRY: ...Wuh-oh.
 
 PIPER: Eu sinto que narrativamente, a gente deveria ter esperado isso.
-BRIAR: BEL!!!
+BRIAR: ***BEL!!!***
 

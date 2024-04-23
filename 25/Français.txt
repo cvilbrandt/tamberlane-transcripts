@@ -1,17 +1,17 @@
-OUTSIDE: Belfry a des problèmes !
-OUTSIDE: Bon dieu, qu'est-ce qu'il y a encore ?
+EXTÉRIEUR&nbsp;: Belfry a des problèmes&nbsp;!
+EXTÉRIEUR&nbsp;: Oh, mon dieu, qu'est-ce qu'il y a encore&nbsp;?
 
-OUTSIDE: C'était le fantôme !
-OUTSIDE: Fan...Fantôme ?!
-OUTSIDE: Oh non !
-OUTSIDE: Des problèmes comment ?
+EXTÉRIEUR&nbsp;: C'était le fantôme&nbsp;!
+EXTÉRIEUR&nbsp;: Les fantômes *n'existent pas*&nbsp;!
+EXTÉRIEUR&nbsp;: Tu es sûr&nbsp;?
+EXTÉRIEUR&nbsp;: À quel point est-ce grave?&nbsp;?
 
-OUTSIDE: Va chercher Henry !
-OUTSIDE: Mais on ne peut pas arrêter un fantôme...
-OUTSIDE: ou on peut ?
-OUTSIDE: On a besoin d'aide !
+EXTÉRIEUR&nbsp;: Va chercher Henry&nbsp;!
+EXTÉRIEUR&nbsp;: Qu'est-ce que *Henry* va faire à un fantôme&nbsp;?
+EXTÉRIEUR&nbsp;: L'arrêter&nbsp;?
+EXTÉRIEUR&nbsp;: On a besoin d'aide&nbsp;!
 
-[SFX: SLAM]
+[SFX&nbsp;: SLAM]
 
-AINSLEY: CACHES MOI !
-COYOTE: La bibliothèque est fermée !
+AINSLEY&nbsp;: **CACHE-MOI&nbsp;!**
+COYOTE&nbsp;: La bibliothèque est *fermée&nbsp;!*

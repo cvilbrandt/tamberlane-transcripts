@@ -1,14 +1,19 @@
-BRIAR: Vem, Belfry. É melhor você sentar.
-BELFRY: ...mas a Tamberlane está...
+BELFRY: Por favor viva...
+BELFRY: Por favor esteja bem...!
 
-BRIAR: Eu sei.
+WALTER: O quê aconteceu?
+TESS: Onde tá a Tamberlane?
+BRIAR: Você tá bem?
+TESS: Aconteceu alguma coisa na viajem?
 
-ROSALYN: <em>JONAS!!</em>
-DANIEL: Ele está bem?!
-STOKER: Ele está em condição crítica. O doutor está vendo ele agora.
-BRIAR: Vai ficar tudo bem, Belfry. Respira fundo.
-BELFRY: ...ok...
+NORA: Teve um acidente.
+NORA: Tamberlane e Jonas ficaram embaixo do gelo no rio.
+TESS: Eles vão ficar bem??
+NORA: Estamos fazendo tudo que podemos.
 
-ROSALYN: Você pode tratar aqui, certo?
+TESS: Belfry?
+TESS: Segura aí, amor. Vai ficar tudo bem.
 
-ROSALYN: <em>...Certo?</em>
+TESS: Estamos aqui.
+
+TESS: Estamos <em>todos</em> aqui.

@@ -1,7 +1,13 @@
-[SFX:Pfiou]
-BELFRY: OK ! Il est temps d'être RESPONSABLE ! Je vais réussir cette mission ! park!
-[SFX: yosh'!]
-BELFRY: Allons retrouver les enfants !
-ANTHONY: BELFRY !
-BELFRY: Est-ce que c'est Anthony ?
-BELFRY: Excellent détective, bravo moi !
+[SFX&nbsp;:Pfiou]
+
+BELFRY&nbsp;: BIEN&nbsp;! Il est temps d'être RESPONSABLE&nbsp;!
+BELFRY&nbsp;: Je vais aller droit au but&nbsp;!
+[SFX&nbsp;: yosh'&nbsp;!]
+
+BELFRY&nbsp;: Allons trouver les petits&nbsp;!
+
+ANTHONY&nbsp;: ***BELFRY***&nbsp;!
+
+BELFRY&nbsp;: Est-ce que c'est Anthony&nbsp;?
+
+BELFRY&nbsp;: Détective de pointe, Belfry&nbsp;!

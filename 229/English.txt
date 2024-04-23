@@ -1,0 +1,18 @@
+OFF-SCREEN: Come on, then! Let's get our bags on the cart!
+OFF-SCREEN: Be a good little tyke for Miss Callie, eh?
+OFF-SCREEN: Can I feed the horsies, Miss Trisha?
+OFF-SCREEN: I can't wait to explore the Bluffs!
+
+PENNY: Marie! Anthony! Wait up!
+
+KIRA: Oi, Jonas, you excited?
+JONAS: Hey, guys! Yeah!
+
+CORIANDER: Have fun at Bally Bluffs, will you?
+PARSLEY: Aye, Mum, promise!
+
+BELFRY: Alright then, Tamberlane? Ready to board the cart?
+TAMBERLANE: Nooooo.
+
+BELFRY: What do you mean, 'no'?
+TAMBERLANE: *NOOOO!!*

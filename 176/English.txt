@@ -1,7 +1,17 @@
-TIMMOTHY: Hello, creatures of Silversage!! Welcome to the 576th Annual Sovereign Festival
+TIMMOTHY: Hello, creatures of Silver Sage!!
+TIMMOTHY: Welcome to the 576th Annual Sovereign Festival!
+TIMMOTHY: The Treehollow Council is honored to welcome you all to our little town for the first time in 12 years!
 
-TIMMOTHY: Treehollow is honored to host again for the first time in 12 years! Our council welcomes you! This is Bleddyn, our Infastructure Councilman! Honey, Our Agricultural Councilman! Tess, our Entrepreneurial Councilman! And I'm Timmothy, The Head Councilman and Recordkeeper!
+TIMMOTHY: Allow us to introduce ourselves:
+TIMMOTHY: Genevieve, the Councilman of Education!
+TIMMOTHY: Honey, our Agricultural Councilman!
+TIMMOTHY: Tess, our Councilman of Trade!
+TIMMOTHY: Scott, our Administrative Councilman!
+TIMMOTHY: Gunner, our Councilman of Planning!
+TIMMOTHY: The fox next to Honey is Trisha, our Hospitality Councilman!
+TIMMOTHY: And of course, I'm Timmothy, Head Councilman!
 
-TIMMOTHY: I hope we've improved our hospitality 12 times! We welcome our fellow Silversage denizens as we celebrate our victory with food, games and revelry! 
+TIMMOTHY: We have put together an excellent spread this year!
+TIMMOTHY: We welcome our fellow Silver Sage denizens as we celebrate our victory with food, games, and revelry!
 
-TIMMOTHY: Now,given the occasion, I hope you wont begrudge me a little story...
+TIMMOTHY: Now, given the occasion, I hope you wont begrudge me a little story...

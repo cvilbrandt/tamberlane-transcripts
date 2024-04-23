@@ -1,14 +1,16 @@
-TESS: Isso não é- Eu estava-
+TESS: Isso não é- 
+TESS: Você não-
 
 [SFX: rrrRRRRRRRR]
 
-TESS: TÁ BOM! EU TIRO MINHAS GARRAS DISSO!
+TESS: *TÁ BOM!*
+TESS: **EU TIRO MINHAS GARRAS DISSO!**
 
-TESS: FAZ O QUÊ VOCÊ QUISER!
+TESS: **FAZ O QUÊ VOCÊ QUISER!**
 
-TESS: DO QUÊ EU ME IMPORTO DO SEU BEM-ESTAR EMOCIONAL?!
-TESS: EU SOU SÓ SUA MÃE!
+TESS: **DO QUÊ** *EU* **ME IMPORTO DO SEU BEM-ESTAR EMOCIONAL?!**
+TESS: **EU SOU SÓ SUA** *MÃE!*
 
 HENRY: Tess! Você vai se perder sem a lâmpada!
 
-HENRY: Espera!
+HENRY: Eu não quero que *você* também caia em um buraco!

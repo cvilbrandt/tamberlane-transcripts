@@ -1,15 +1,17 @@
-PIPER: Nunca achei que a filha dos dois melhores lutadores de toda Silver Sage seria uma grande arregona!
+PIPER: Nunca achei que a filha dos dois melhores lutadores de toda Silver Sage seria uma *grande arregona!*
 ANTHONY: Piper, por favor!
 
-BRIAR: Eu não estou com medo! Isso só é IDIOTA!
+BRIAR: Eles se *aposentaram!*
+BRIAR: Eu não estou com medo! Isso só é *IDIOTA!*
 
-PIPER: Ah, beleza. Tô vendo. Cagona.
+PIPER: Ah, beleza. Tô vendo. Tu é uma *cagona.*
+[SFX: e-ei...!]
 
-BRIAR: Eu não sou!
+BRIAR: Eu *não sou!*
 
-PIPER: Prova isso.
+PIPER: Prova pra mim.
 
-ANTHONY: Por favor, a gente pode ir pra escola?
-ANTHONY: Vamos aprender sobre pedras hoje.
-ANTHONY: Eu gosto de pedras.
+ANTHONY: Sabe, a Senhora Agnes vai nos ensinar sobre pedras hoje.?
+ANTHONY: Eu *gosto* de pedras. Eu fiquei a semana inteira lendo sobre basalto.
+ANTHONY: É muito interessante.
 

@@ -1,15 +1,19 @@
 PEEK: Got your order in from Tangled Branch this morning.
 OAKEWOOD: Excellent.
 
-PEEK: Actually, I have something else you might be interested in.
+PEEK: Actually...
+PEEK: I have something else you might be interested in.
 
 OAKEWOOD: Oh?
-PEEK: Yeah, I got it in about a month ago.
+PEEK: Yeah, I got this in a month ago...
 
 PEEK: I did my best restoring and rebinding it, but it was tricky.
+PEEK: This book is so old that it was nearly too degraded to recover.
 
-OAKEWOOD: Alright, you've piqued my interest. What is it?
+OAKEWOOD: Alright, you've piqued my interest.
+OAKEWOOD: What is it?
 
-PEEK: This book is very, very old. Honestly, you'd need a better expert than me to get much out of it, but...
+PEEK: An old relic a scavenger traded to my compatriot in Tangled Branch.
+PEEK: Most of it's been destroyed, but...
 
-PEEK: Since you were broadening your research, I thought it might help. 
+PEEK: There were some things in here that I thought might interest you.

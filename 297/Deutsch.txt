@@ -1,3 +1,34 @@
-SFX: <em>PLATSCH!</em>
-KIRA: <em>NEIN!! JONAS!</em>
-CUR: <em>JONAS! TAMBERLANE!</em>
+***[OUTDATED]***
+
+SFX: KKKKKKKRRRRKKK
+TAMBERLANE: Auf meinen B-bauch?
+
+JONAS: Jup!
+SFX: keuch
+JONAS: Wie ein...
+JONAS: ...großer...
+JONAS: ...Seestern!
+SFX: KKKKRRRRKKKKK
+
+SFX: keuch
+JONAS: Meine Mum...
+JONAS: hat mir...
+JONAS: gesagt, dass...
+JONAS: ...man so vom Eis kommt.
+SFX: KKKrKK
+
+JONAS: Kriech...
+JONAS: ...auf deinem Bauch!
+SFX: keuch
+JONAS: Alles wird gut. Alles...
+JONAS: wird gut.
+SFX: KKKKKKrrrrrKKK
+
+ABSEITS: JONAS! KOMM ZURÜCK!
+JONAS: Alles wird gut...
+SFX: KKKKrRrKKK
+ABSEITS: DU BRAUCHST DEINEN INHALATOR! DU ERSTICKST UNS NOCH!!!
+
+SFX: KEUCH!
+JONAS: Alles-!
+SFX: KRAAAKKK

@@ -1,17 +1,22 @@
-TESS&#160;: Et elle a tra&icirc;n&eacute; Tamberlane&#160;? Avec l'oxyg&egrave;ne et tout ?
-WALTER&#160;: да. Mais &ccedil;a s'est bien pass&eacute;. Terra a arrang&eacute; la petite Tamberlane et Briar a ramen&eacute; Belfry &agrave; la maison avant que &ccedil;a n'empire.
-TESS&#160;: Oh, Belfry...
+TERRA&nbsp;: Ne la tire pas comme ça&nbsp;! Tu retires le masque de son visage&nbsp;!
+BELFRY&nbsp;: Mais elle ne peut pas respirer&nbsp;! Regarde-la, Terra, elle est en train de mourir&nbsp;!!
+TERRA&nbsp;: PARCE QUE TU RETIRES LE MASQUE À OXYGÈNE DE SON VISAGE&nbsp;!
+TAMBERLANE&nbsp;: HAHHkh Hh HHghH
 
-WALTER&#160;: Sois forte, барсучка. Belfry est une cr&eacute;ature tr&egrave;s &eacute;motive. Tu sais &ccedil;a.
-TESS&#160;: Je sais, mais il n'y a pas que Belfry. La r&eacute;union d'aujourd'hui...
-TESS&#160;: J'ai l'impression que tout s'effondre.
+TERRA&nbsp;: Remets-la au lit, tout de suite&nbsp;! Tu pourrais aggraver son état comme ça&nbsp;!
+BELFRY&nbsp;: N-non&nbsp;! Mais je- je ne voulais pas-
+TAMBERLANE&nbsp;: hHHkH HhH HNHKhh
 
-WALTER&#160;: Tout ira bien. &Ccedil;a, je te le promets. Treehollow regorge de bonnes cr&eacute;atures.
-WALTER&#160;: Et Belfry rebondira. Elle le fait toujours, pauvre enfant.
-TESS&#160;: J'esp&egrave;re que tu as raison, дорогой.
+BELFRY&nbsp;: T-Tamberlane, je suis désolée-
+BRIAR&nbsp;: Allez, Bel. Tamberlane a juste besoin de temps pour récupérer, d'accord&nbsp;?
+BELFRY&nbsp;: Mais mais mais-
+TAMBERLANE&nbsp;: hggh mamm fhKKff déhhhso hKk
+TERRA&nbsp;: Chut. Respire.
 
-Effets sonores&#160;: krnch krnch Krnch
+TAMBERLANE&nbsp;: hhhAh hhAa
 
-Effets sonores&#160;: KRNCH KRNCH
+BELFRY&nbsp;: Elle a besoin de moi&nbsp;!
+BRIAR&nbsp;: Elle a besoin de repos, Belfry.
+BRIAR&nbsp;: Et toi aussi. Allons y. Rentrons &agrave: la maison.
 
-TESS&#160;: Claude ??
+BRIAR&nbsp;: Tu dois lui laisser de l'espace ou son état ne s'améliorera pas.

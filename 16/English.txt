@@ -1,11 +1,13 @@
 [SFX: whew]
 
-BELFRY: All RIGHT! Time to be RESPONSIBLE! I'm gonna knock this one out of the park!
+BELFRY: All RIGHT! Time to be RESPONSIBLE! 
+BELFRY: I'm gonna knock this one out of the park!
 [SFX: yosh'!]
 
-BELFRY: Let's find me some kids!
+BELFRY: Let's find me some kits!
 
-ANTHONY: BELFRY!
+ANTHONY: ***BELFRY!***
+
 BELFRY: Is that Anthony?
 
-BELFRY: Excellent detective work, me!
+BELFRY: Tip-top sleuthing, Belfry!

@@ -1,12 +1,12 @@
 BELFRY: Como estava a torta hoje, Senhora Coriander?
-CORIANDER: Excelente, como sempre, Belfry.
+CORIANDER: Excelente como sempre, Belfry.
 
 BELFRY: ♪
 
 [SFX: SPLOCT!]
 
-BELFRY: Tess! ME DESCULPA! Eu não estava prestando atenção!
+BELFRY: Mãe! ME DESCULPA! Eu não estava prestando atenção!
 [SFX: Esfrega, esfrega]
 
-TESS: Belfry, eu estou sentindo uma coisa estranha...
+TESS: Belfry, eu estou sentindo uma coisa engraçada...
 BELFRY: É a torta?

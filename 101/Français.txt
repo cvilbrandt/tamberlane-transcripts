@@ -1,0 +1,23 @@
+HORS ÉCRAN&nbsp;: Est-ce que c'est du gibier&nbsp;?
+HORS ÉCRAN&nbsp;: Oui, fraîchement coupé chez le boucher.
+TAMBERLANE&nbsp;: ... hé...
+HORS ÉCRAN&nbsp;: Tu penses qu’elle pourrait être carnivore&nbsp;?
+HORS ÉCRAN&nbsp;: Eh bien, au moins un omnivore.
+HORS ÉCRAN&nbsp;: Elle a la dentition pour cela.
+
+[SFX&nbsp;: PTEUGH]
+
+TAMBERLANE&nbsp;: *Pois&nbsp;!*
+HORS ÉCRAN&nbsp;: D’accord, d’accord&nbsp;! Tu auras tes pois, chérie.
+
+BELFRY&nbsp;: Fais-moi juste une petite faveur, d'accord&nbsp;?
+TAMBERLANE&nbsp;: Pois, *s'il te plaît.*
+BELFRY&nbsp;: Très bien&nbsp;! Mais pourrais-tu s'il te plaît essayer encore une bouchée pour moi&nbsp;?
+
+TAMBERLANE&nbsp;: Mllleeehh...
+
+TAMBERLANE&nbsp;: *BEURK&nbsp;!* Non&nbsp;!! *AIME PAS&nbsp;!*
+BELFRY&nbsp;: C'est bon&nbsp;! Tu as fait un très bon travail&nbsp;!
+BELFRY&nbsp;: Tu as *mérité* ces pois.
+OAKEWOOD&nbsp;: Conclusions préliminaires&nbsp;: n'a *pas* apprécié la venaison crue.
+OAKEWOOD&nbsp;: Peut-être que d'autres types de viande ou de préparation lui plairaient.

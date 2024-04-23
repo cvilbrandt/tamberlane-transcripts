@@ -2,13 +2,16 @@
 
 BELFRY: You aren't a ghost at all, are you?
 
-BELFRY: You're so tiny!
+BELFRY: You're so *tiny!*
 
-BELFRY: If you're not a ghost... Then what are you?
+BELFRY: If you're not a ghost... 
+BELFRY: Then what *are* you?
 
 TAMBERLANE: Tamberlane!
 
-BELFRY: Oh, you can talk! Sorta. But I don't know what that is.
+BELFRY: Oh, you can talk!
+BELFRY: Sorta.
+BELFRY: But I don't know what a Tamberlane is.
 
 [SFX: SNIFF SNIFF]
 TAMBERLANE: Hee!

@@ -1,7 +1,8 @@
-PENNY: <em>There</em> you are!
+PENNY: *There* you are!
 TAMBERLANE: Penny!
 
-PENNY: I was so worried! Not to worry; Tam, I gave Piper a thrashing!
+PENNY: I was so worried!
+PENNY: Don't cry, Tam! I told Piper's mum on her and everything!
 
 PENNY: Oi, Parsley! Y'gotta teach her how to read!
 PENNY: She's three and doesn't know how!
@@ -12,6 +13,6 @@ PARSLEY: Oh, Marie, you didn't notice?
 PARSLEY: She speaks Trissol.
 
 PARSLEY: She speaks with her paws, not her mouth.
-PARSLEY: Me brother Coriander does too.
+PARSLEY: Me brother Cilantro does, too.
 
-MARIE &amp; PENNY: <em>WHAT?!</em>
+MARIE & PENNY: ***WHAT?!***

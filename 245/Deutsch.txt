@@ -1,15 +1,13 @@
-MILO: W-Wie dem auch sei. Ich versprech dir, dass ich es nur während meiner Pause gelesen habe, Onkel.
-MILO: Tut mir Leid deswegen.
-OAKEWOOD: Blödsinn. Dein Buch hat mich auf eine Idee gebracht.
+***[OUTDATED]***
 
-MILO: I- Ich hab geholfen?!
-OAKEWOOD: Was? Natürlich hast du geholfen.
-OAKEWOOD: Glaubst du etwa, du wärst die ganze Zeit nur eine Last? Sei nicht dumm.
+MILO: Es <em>ist</em> wirklich nichts.
+MILO: Ich lese es für eine Aufgabe...
 
-OAKEWOOD: Die Sache ist die, wir haben das Mysterium über Tamberlane die ganze Zeit nur aus dem Blickwinkel der Biologie betrachtet.
+MILO: Mein Betreuer hat es geschrieben! Es heist <i>Moderne Reinterpretationen antiker Mythen aus Silver Sage</i>
 
-OAKEWOOD: Dein Geschwafel hat mich jedoch daran erinnert, dass es weitere, weniger wissenschafftliche Betrachtungsweisen gibt, die wir noch erkunden müssen.
-OAKEWOOD: Namentlich, Mythologie.
+MILO: In meiner nächsten Arbeit geht es darum, wie Mythen sich mit der Gesellschaft entwickeln, deswegen hat er es mir ausgeliehen.
+OAKEWOOD: Ah.
 
-MILO: Ich hab geholfen??
-OAKEWOOD: Och, meine Güte, Milo!
+MILO: Es ist ein wirklich faszinierendes Thema! Man kann sehen, wie der Keim eines Mythoses heranwächst und mit jeder Neuerzählung zunehmend komplexer wird, wie ein großes kulturelles Stille-Post-Spiel!
+
+MILO: Zum Beispiel, in dem Mythos über die große Schlachtung, wusstest du, dass es in den ersten niedergeschriebenen Versionen davon nur ein Dorf niedergebrannt wurde, nicht ein ganzes Land? Ich musste mein Antikes Growl für diese Aufgabe auffrischen, und es ist faszinierend, wie Mythen durch den kulturellen Mythos ihrer Zeit beeinflusst wurden, selbst dann, wenn sie weitaus älter sind als ihre [Unleserlich]

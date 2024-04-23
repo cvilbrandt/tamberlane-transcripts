@@ -1,9 +1,11 @@
-TESS: Es l‰uft darauf hinaus, Belfry:
+***[OUTDATED]***
 
-TESS: Wenn du nach Drauﬂen gehst, wirst du aus Silver Sage verbannt.
+TESS: Es l√§uft darauf hinaus, Belfry:
 
-TESS: Gehst du nach Drauﬂen, kannst du nie wieder heimkehren.
+TESS: Wenn du nach Drau√üen gehst, wirst du aus Silver Sage verbannt.
+
+TESS: Gehst du nach Drau√üen, kannst du nie wieder heimkehren.
 
 TESS: Belfry, es tut mir so leid, wie ich mich in letzter Zeit verhalten habe. Das ist unentschuldbar!
 
-TESS: Aber ich habe Angst, solche Angst, mein kleines M‰dchen zu verlieren!
+TESS: Aber ich habe Angst, solche Angst, mein kleines M√§dchen zu verlieren!

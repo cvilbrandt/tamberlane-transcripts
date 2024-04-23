@@ -1,0 +1,20 @@
+BRIAR&nbsp;: Ravie de vous voir tous au Bat and Badger ce matin.
+BRIAR&nbsp;: Le petit-déjeuner d'aujourd'hui est une quiche aux champignons et au cerfeuil, ou des muffins à la rose musquée si vous aimez le sucré.
+CORIANDER&nbsp;: Merci bien, Briar.
+
+PARSLEY&nbsp;: Cette quiche a l’air excellente&nbsp;! Une part de ça, s'il te plaît&nbsp;!
+
+MARIE&nbsp;: Oh, j'adorerais un de ces muffins&nbsp;!
+
+CORIANDER&nbsp;: J'adorerais un peu de chacun, à vrai dire&nbsp;!
+CORIANDER&nbsp;: Ellis&nbsp;?
+
+CABOT&nbsp;: Nan.
+
+CORIANDER&nbsp;: Ellis...
+CABOT&nbsp;: Désolé.
+CABOT&nbsp;: Non *merci*.
+
+CORIANDER&nbsp;: *Ellis, je te supplie de prendre un petit-déjeuner*
+ELLIS&nbsp;: Nan.
+BRIAR&nbsp;: Très bien. Je vais juste... revenir dans quelques instants.

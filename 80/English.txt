@@ -1,14 +1,19 @@
 NORA: Belfry? Are you quite all right?
 
-BELFRY: What? Oh... Yes, of course!
+BELFRY: What?
+BELFRY: Oh...
+BELFRY: Yes, of course!
 
 NORA: Belfry...
 BELFRY: I'm fine! It's fine!
 
-BELFRY: We'll find them!  We will.
+BELFRY: We'll find them! 
+BELFRY: We will.
 
 BELFRY: It's just...
 
-BELFRY: It took me less than twelve hours to lose my first kit.
+BELFRY: It took me less than half a day to lose my only kit.
+BELFRY: She was already abandoned once, and...
 
-BELFRY: I really... I really Belfry'd this one up.
+BELFRY: I really...
+BELFRY: I really Belfry'd this one up.

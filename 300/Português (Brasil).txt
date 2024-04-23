@@ -1,7 +1,8 @@
-SFX: <em>HAKK HAKK</em>
+[SFX: THWAK]
 
-TAMBERLANE: f-f-f-fof-fa?
+[SFX: RIPPPPPPPP]
 
-FIGURA MISTERIOSA: <em>Merda.</em>
+[SFX: RIPPPPPPP]
 
-FIGURA MISTERIOSA: ...Força, Kai.
+[SFX: TAPPP!]
+OBSCURECIDO: Segura isso!

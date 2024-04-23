@@ -1,0 +1,21 @@
+PENNY&nbsp;: Alors, quel est ton livre préféré ?
+TAMBERLANE&nbsp;: hein ?
+
+PENNY&nbsp;: Tu sais, les livres ? Lire ?
+
+PENNY&nbsp;: Sais-tu au moins *comment* lire ?
+
+PENNY&nbsp;: Quel âge as-tu ?
+TAMBERLANE&nbsp;: Crois.
+PENNY&nbsp;: Waouh ! Moi aussi! Mais tu ne sais pas encore lire ?
+PENNY&nbsp;: Mais je pensais que les petits étaient censés lire avant trois ans.
+
+PENNY&nbsp;: Eh bien... c'est bon !
+
+PENNY&nbsp;: Maman dit que toutes les créatures grandissent à leur propre rythme.
+
+PENNY&nbsp;: Tu sais, Parsley est plutôt doué pour apprendre à lire aux jeunes petits.
+
+PENNY&nbsp;: Allons le trouver !
+
+PENNY&nbsp;: Suis mon exemple.

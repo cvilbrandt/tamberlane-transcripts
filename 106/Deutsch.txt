@@ -1,6 +1,8 @@
+***[OUTDATED]***
+
 BELFRY: Nein.
 
-BELFRY: Es ist ungerecht, dass du zwischen den Stühlen sitzt, Bri.
+BELFRY: Es ist ungerecht, dass du zwischen den StÃ¼hlen sitzt, Bri.
 BELFRY: Aber wenn du mal eine Auszeit brauchst, kannst du mich hier jederzeit besuchen!
 
 BELFRY: Aber Fakt ist: Mum hat damit angefangen, nicht ich.

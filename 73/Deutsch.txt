@@ -1,12 +1,14 @@
+***[OUTDATED]***
+
 MARIE: Hab keine Angst! Wir sind fast da!
 
 MARIE: Ja, da ist er! Und Fallon ist bei ihm!
 
 PARSLEY: Hmmm...
 
-PARSLEY: Das ist ein ziemlich schönes altes Ding, Fall, aber ich weiß nicht.
+PARSLEY: Das ist ein ziemlich schÃ¶nes altes Ding, Fall, aber ich weiÃŸ nicht.
 
-FALLON: Ich habe mich sehr gut darum gekümmert!
+FALLON: Ich habe mich sehr gut darum gekÃ¼mmert!
 PARSLEY: Das ist wahr.
 
 MARIE: Hi Leute!

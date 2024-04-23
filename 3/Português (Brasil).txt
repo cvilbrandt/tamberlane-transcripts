@@ -3,11 +3,11 @@ FORA: Cogumelos, por favor! Eu preciso dos cogumelos!
 MORCEGO: Cantarelos ou veludos?
 
 VEADO: Cantarelos.
-MORCEGO: Você tem certeza? Eu me lembro que...
-VEADO: <em>Cantarelos.</em>
+MORCEGO: Você tem certeza? Eu achava que veludos eram...
+VEADO: *Cantarelos.*
 
 MORCEGO: Beleza, então! Cantarelos saindo!
 
-MORCEGO: Enquanto você trabalha na refeição da Tess, eu vou me peparar para a senhorita Cori!
+MORCEGO: Enquanto você trabalha no omelete da Mãe, eu vou aprontar a torta matinal da Senhora Cori!
 
-FORA: <em>AAH!!</em>
+FORA: ***AAH!!***

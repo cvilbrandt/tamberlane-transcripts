@@ -1,0 +1,14 @@
+CUR&nbsp;: Les billes.
+
+PERSIL&nbsp;: Les billes&nbsp;?
+CUR&nbsp;: Donc, les billes sont de petites boules de verre faites de couleurs tourbillonnantes.
+
+PERSIL&nbsp;: Je _sais_ ce que sont les billes&nbsp;! Je ne savais tout simplement pas que c'était un jeu&nbsp;!
+CUR&nbsp;: Monsieur _Je-Sais-Tout_ Parsley ne savait pas que les billes étaient un jeu&nbsp;??
+
+CUR&nbsp;: Je n'arrive pas à croire que _moi_ j'en sais plus sur quelque chose que _vous_&nbsp;!
+CUR&nbsp;: Je parie que vous ne connaissez même pas la différence entre un bélier et un calot&nbsp;!
+
+CUR&nbsp;: Je suppose que je devrais vous aider, les bébés.
+CUR&nbsp;: Et lorsque vous apprenez à jouer à d'autres créatures, vous pouvez leur dire que _Cur_ vous l'a appris.
+[SFX&nbsp;:&nbsp;?&nbsp;?&nbsp;? bélier&nbsp;? calot&nbsp;?&nbsp;?&nbsp;?]

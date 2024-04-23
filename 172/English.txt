@@ -1,9 +1,13 @@
 TESS: It boils down to this, Belfry.
 
-TESS: If you go Abroad, you will be banned from Silver Sage.
+TESS: If you go to Abroad, you will be *banned* from Silver Sage.
 
-TESS: If you go Abroad, you can never come home.
+TESS: Creatures *do* care, my Bel.
+TESS: You were only a baby during the Great Outbreak. I *know* that.
+TESS: But Abroad is Abroad. Nothing can change that.
+TESS: If you ever go there, you can *never* come home.
+TESS: And I will *never* see you again.
 
 TESS: Belfry, I'm so sorry for how I've acted lately. I have no excuse!
 
-TESS: But I'm scared, so scared, of losing my baby girl. 
+TESS: But I'm scared, *so* scared, of losing my little bat.

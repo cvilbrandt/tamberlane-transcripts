@@ -1,13 +1,25 @@
-TAMBERLANE: Wenn ich von Draussen bin... hab ich dann auch Verderbnis?
+***[OUTDATED]***
 
-BELFRY: Oh, Süße, nei-
+BELFRY: Da Kreaturen Draussen verdorben sind, können sie mit Werkzeugen arbeiten, die wir nicht nutzen können.
 
-TAMBERLANE: Hab ich alle verdorben? Hab ich Böses gemacht??
+BELFRY: Dank ihnen läuft also unser Abwasser. Und unser Leitungswasser!
 
-BELFRY: Nein. Absolut nicht.
+TAMBERLANE: Und die Medizin.
 
-BELFRY: Du hast das Buch gesehen. Wenn du verdorben wärst, würdest du wie ein Monster aussehen, richtig?
+BELFRY: Sehr gut!
 
-BELFRY: Du bist kein Monster.
+BELFRY: Ja, Draussen haben sie bessere Medizin und Maschinen, um kranken Kreaturen zu helfen.
 
-BELFRY: Du bist meine Tamberlane.
+BELFRY: Aber dort hinzugehen, um sie zu benutzen, verderbt einen trotzdem.
+
+TAMBERLANE: Deswegen mussma sich entscheiden, wenn man schlimm krank wird.
+
+BELFRY: Genau.
+
+BELFRY: Aber selbst wenn du gehst und nicht zurückkommen kannst, kannst du weiterhin deiner Familie helfen!
+
+BELFRY: Du kannst zum Beispiel dabei helfen, die Toiletten am laufen zu halten.
+
+BELFRY: Deswegen schicken wir auch böse Kreaturen dorthin. Dann werden sie besser, indem sie helfen!
+
+BELFRY: Macht das für dich Sinn?

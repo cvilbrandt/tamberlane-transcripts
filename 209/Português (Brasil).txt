@@ -8,7 +8,7 @@ BEFLRY: ...você sabe...
 OAKEWOOD: Não, eu não sei.
 
 MILO: Ela não é um pouco nova pra essa conversa?
-BELFRY: Tem uma <em>boa</em> hora pra essa conversa? 
+BELFRY: Tem uma *boa* hora pra essa conversa? 
 OAKEWOOD: Se assumiria já que ela está aproximando a puberdade...
 
 BELFRY: Quê?

@@ -1,0 +1,24 @@
+PARSLEY&nbsp;: Eh bien, c'est ton jour de chance, Voltair mon vieux !
+PARSLEY&nbsp;: Je vais accepter ton échange.
+
+PARSLEY&nbsp;: Ça te dit, vendredi pour les cours de natation, alors ?
+VOLTAIR&nbsp;: Parfait ! Merci Parse !
+
+PARSLEY&nbsp;: Mar-Mar ! Content de te voir, mon amour !
+
+PARSLEY&nbsp;: Qu'est-ce que tu as apporté, alors ?
+MARIE&nbsp;: C'est ma nouvelle amie, Tamberlane !
+MARIE&nbsp;: Elle est un peu timide, mais elle a besoin de ton aide.
+
+PARSLEY&nbsp;: N'aie pas peur, petit Tamberlan !
+PARSLEY&nbsp;: Comment puis-je aider ?
+
+TAMBERLANE&nbsp;: Euh...
+
+TAMBERLANE&nbsp;: ...umumum...
+
+TAMBERLANE&nbsp;: *awuhumumuww*
+
+PARSLEY&nbsp;: Oh, ne t'inquiète pas, ma colombe-
+HORS ÉCRAN&nbsp;: ***TAMBERLANE !***
+[SFX&nbsp;: AWUUWUUWUWAAA]

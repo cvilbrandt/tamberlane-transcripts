@@ -1,12 +1,12 @@
-MORCEGO: Essa não, o que aconteceu?!
-VEADO: Você me deu <em>veludos!</em>
+MORCEGO: Eita preula, o que aconteceu?!
+VEADO: Você me deu *veludos!*
 [SFX: Cof Cof]
 
-MORCEGO: Eu devo ter invertido eles de novo!
+MORCEGO: Eu devo ter trocado eles de lugar de novo!
 
-MORCEGO: Ah, Walter, me desculpe.
+MORCEGO: Ah, Papai, me desculpe.
 
-WALTER: Belfry, um dia você ira assumir este lugar.
+WALTER: Belfry, um dia você irá assumir nossa padaria.
 WALTER: Você precisa começar a ter mais responsabilidade!
 
 BELFRY: Eu sei, eu sei! Eu vou arrumar agora mesmo! Eu prometo!

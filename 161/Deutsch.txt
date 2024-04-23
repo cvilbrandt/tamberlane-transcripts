@@ -1,18 +1,20 @@
-JACKIE: Frohes Unabhängigkeitsfest, Oakewood!
+***[OUTDATED]***
+
+JACKIE: Frohes UnabhÃ¤ngigkeitsfest, Oakewood!
 OAKEWOOD: Dir auch, Jackie.
 JACKIE: Was darf ich euch bringen?
 
-OAKEWOOD: Ich nehm ein Powderclaw Dark Ale. Für Tamberlane eine Heidelbeer--
+OAKEWOOD: Ich nehm ein Powderclaw Dark Ale. FÃ¼r Tamberlane eine Heidelbeer--
 TAMBERLANE: Heidelbeer-Limo!!!
-OAKEWOOD: Und Milo möchte...
+OAKEWOOD: Und Milo mÃ¶chte...
 MILO: ...nichts...
 OAKEWOOD: ...einen Whiskey on the Rocks.
 
-JACKIE: Und deine, ääh...Begleitung?
+JACKIE: Und deine, Ã¤Ã¤h...Begleitung?
 
 SFX: seeeufz
 
-OAKEWOOD: Jackie, ich weiß, sie sind aus Follybrook, aber sie sind auch die Handelsdelegation. Ihnen wird nur einmal im Jahr die Einreise gestattet, aber sie <em>wird</em> ihnen gestattet. Warum fragst du sie also nicht  <em>selbst?</em>
+OAKEWOOD: Jackie, ich weiÃŸ, sie sind aus Follybrook, aber sie sind auch die Handelsdelegation. Ihnen wird nur einmal im Jahr die Einreise gestattet, aber sie <em>wird</em> ihnen gestattet. Warum fragst du sie also nicht  <em>selbst?</em>
 
 JACKIE: ...Nagut, was darf's sein?
-TAGG: Rootbeer. Und für meinen Bruder einen Dark & Stormy.
+TAGG: Rootbeer. Und fÃ¼r meinen Bruder einen Dark & Stormy.

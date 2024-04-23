@@ -1,15 +1,15 @@
 BELFRY: So.. do you like her outfit?
 
-TAMBERLANE: Rar! I'mma badjer!
+TAMBERLANE: Rawr rawr! I'mma badjer!
 
 TESS: It's... 
-TESS: ...okay.
+TESS: ... okay.
 
 BELFRY: It's "okay."
 
 TESS: Yes, "okay." Don't you think it's a little macabre?
 
-BELFRY: What's <i>macabre</i> is you not stopping by last night after I send you that letter!!
+BELFRY: What's *macabre* is you making *Briar* be your messenger-kit instead of just talking to me yourself!
 
-TESS: <em>THAT'S NOT WHAT THAT WORD MEANS!</em>
-BELFRY: <em>I DON'T CARE!</em>
+TESS: ***THAT'S NOT WHAT THAT WORD MEANS!***
+BELFRY: ***I DON'T CARE!***

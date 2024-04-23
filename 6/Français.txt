@@ -1,17 +1,17 @@
-BADGER: Hein ? Qu'est ce qui s'est passé ?
+BLAIREAU&nbsp;: Hein ? Qu'est ce qui s'est passé ?
 
-BELFRY: J'avais oublié que le four était chaud.
+BELFRY&nbsp;: J'avais oublié que le four était chaud.
 
-[SFX: ding-a-ling!!]
+[SFX&nbsp;: ding-a-ling!!]
 
-BADGER: Ça doit être Coriander.
-BADGER: Walter, peux-tu le servir pendant que je m'occupe des pattes de Belfry?
-WALTER: Mmnhm.
+BLAIREAU&nbsp;: Ça doit être Coriander.
+BLAIREAU&nbsp;: Walter, peux-tu la servir pendant que je m'occupe des pattes de Belfry?
+WALTER&nbsp;: Спасибо, Tess, mon amour.
 
-BADGER: Laisse-moi panser ça, ma pauvre petite.
-BELFRY: Merci, maman Tess.
+BLAIREAU&nbsp;: Allons panser ça, ma pauvre enfant.
+BELFRY&nbsp;: Merci, maman.
 
-HORS-CADRE: AINSLEY!!
+HORS-CADRE&nbsp;: ***AINSLEY!!***
 
-ANTHONY: Piper, On ne drvait pas…
-PIPER: Ferme-la, Anthony.
+ANTHONY&nbsp;: Piper, On ne devrait pas…
+PIPER&nbsp;: Ferme-la, Anthony.
