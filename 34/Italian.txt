@@ -1,0 +1,19 @@
+OAKEWOOD: E va bene, tirateli su adesso.
+HENRY: Oakewood? Che ci fai qui?
+
+OAKEWOOD: Ricerche. Ora tirateli su.
+
+TESS: Ergh. <em>Oakewood.</em>
+TESS: Torna alla tua libreria, questa è una <em>faccenda di famiglia.</em>
+OAKEWOOD: Si, si, sono io.
+OAKEWOOD: Orfani, animali selvatici, ho sentito tutto della tua stupida <em>faccenda di famiglia.</em>
+
+OAKEWOOD: Hai davvero intenzione di discutere sotto la pioggia mentre lei è bloccata in un buco nel terreno?
+
+TESS: Siiiiiggghhhh
+
+TESS: E va bene.
+TESS: Puoi portarlo fuori dal burrone.
+
+BELFRY: NON HO BISOGNO DEL TUO PERMESSO!
+TESS: QUESTA CORDA DICE DI SI!!!

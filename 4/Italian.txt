@@ -1,0 +1,20 @@
+PIPISTRELLO: Oh diamine, cosa è successo?!
+CERVO: Mi hai dato i <em>gambi dei piopparelli!</em>
+[SFX: Coff Coff]
+
+PIPISTRELLO: Devo averli scambiati di nuovo!
+
+PIPISTRELLO: Oh, Pa', mi dispiace così tanto.
+
+WALTER: Belfry, un giorno dovrai occuparti della nostra pasticceria.
+WALTER: Devi essere più responsabile!
+
+BELFRY: Lo so, lo so! Sistemo tutto subito! Promesso!
+
+BELFRY: Mi basterà scambiare le etichette...
+[SFX: Staccare]
+
+[SFX: DING!]
+BELFRY: Oh!
+
+BELFRY: Bene! Tiriamo fuori dal forno la torta per Cori!

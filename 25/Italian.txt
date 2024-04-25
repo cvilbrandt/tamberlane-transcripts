@@ -1,0 +1,17 @@
+FUORI: Belfry è ferita!
+FUORI: Oddio, e adesso?
+
+FUORI: È stato il fantasma!
+FUORI: Non <em>esistono</em> i fantasmi!
+FUORI: Ne sei sicuro?
+FUORI: Quanto è grave?
+
+FUORI: Và a cercare Henry!
+FUORI: E che puo fare <em>Henry</em> ad un fantasma?
+FUORI: Arrestarlo?
+FUORI: Abbiamo bisogno di aiuto!
+
+[SFX: SLAM]
+
+AINSLEY: NASCONDIMI!
+COYOTE: La libreria è <em>chiusa!</em>
