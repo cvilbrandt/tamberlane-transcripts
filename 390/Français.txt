@@ -1,0 +1,16 @@
+BELFRY&nbsp;: _Uuuggghhhhh..._
+BELFRY&nbsp;: Très bien, je vais commencer à frotter
+
+TESS&nbsp;: On peut tout gérer ici, poupée.
+TESS&nbsp;: Pourquoi ne retrouves-tu pas Briar et ses amis à Little Acorn&nbsp;?
+TESS&nbsp;: Je suis sûre que vous pourriez toutes les deux profiter d'un moment de qualité entre sœurs.
+
+BELFRY&nbsp;: Je ne sais pas... Nous nous sommes en quelque sorte disputées.
+
+BELFRY&nbsp;: Attendez. Pourquoi est-elle au camp d'été&nbsp;? C'est presque Midwinter&nbsp;!
+
+TESS&nbsp;: C'est un endroit charmant où passer du temps, même lorsque le camp est fermé.
+WALTER&nbsp;: Rien de tel que de faire des ricochets sur le lac pour éclaircir un esprit embrumé.
+
+TESS&nbsp;: Je suis presque sûre que le lac est gelé, Walter, mon cher.
+WALTER&nbsp;: ...D'accord, peut-être que _lancer_ des pierres sur le lac éclaircit un esprit embrumé&nbsp;?
