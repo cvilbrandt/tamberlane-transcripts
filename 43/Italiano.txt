@@ -1,0 +1,19 @@
+[SFX: AAAWAAAAWAAA]
+BELFRY: da un momento all'altro...
+BELFRY: da un momento all'altro smetterai...
+
+[SFX:AWAAAAWAAAA]
+BELFRY: Non stai smettendo!
+BELFRY: Perchè non stai smettendo?!
+
+BELFRY: Non capisco le tue grida!
+BELFRY: Ti prego *dimmi cos'è che vuoi!!*
+
+BELFRY: va bene
+
+[SFX: AAAAWAA]
+BELFRY: ...Meglio controllare se Oakewood sa cosa fare.
+[SFX:AWAAAAAW]
+
+[SFX: AWAAAAAAAAAWAAWAAA]
+BELFRY (muttered): ...Non sono un fallimento...
