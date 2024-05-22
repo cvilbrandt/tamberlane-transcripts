@@ -1,0 +1,17 @@
+[SFX: PAT]
+
+BELFRY: Non sei affatto un fantasma, vero?
+
+BELFRY: Sei così *piccola!*
+
+BELFRY: Se non sei un fantasma... Allora *cosa* sei?
+
+TAMBERLANE: Tamberlane!
+
+BELFRY: Oh, puoi parlare! Più o meno. Ma no so cosa sia un Tamberlane.
+
+[SFX: SNIFF SNIFF]
+TAMBERLANE: Hee!
+
+BELFRY: Ma hai un odore così giovane.
+BELFRY: Sei solo un cucciolo?

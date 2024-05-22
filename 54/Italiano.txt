@@ -1,0 +1,21 @@
+PENNY: Qual'è il tuo libro preferito?
+TAMBERLANE: muh?
+
+PENNY: Hai presente, libri? Leggere?
+
+PENNY: Sai almeno *come* leggere?
+
+PENNY: Quanti anni hai?
+TAMBERLANE: Tre.
+PENNY: Wow! Anche io! Ma non sai ancora leggere?
+PENNY: Ma pensavo che i cuccioli imparassero a leggere prima di tre anni.
+
+PENNY: Beh... va bene così!
+
+PENNY: Mamma dice che tutte le creature crescono al loro ritmo.
+
+PENNY: Lo sai, Parsley è piuttosto bravo a insegnare ai bambini a leggere.
+
+PENNY: Andiamo a cercarlo!
+
+PENNY: Segui il mio esempio.

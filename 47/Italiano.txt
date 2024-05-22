@@ -1,0 +1,18 @@
+OAKEWOOD: Fammi indovinare: è un disastro.
+
+BELFRY: um...
+OAKEWOOD: *Mrrgh.*
+
+OAKEWOOD: Aveva comunque bisogno di una riorganizzazione.
+BELFRY: Scusa.
+
+OAKEWOOD: Be, hai preso il necessario.
+OAKEWOOD: Ora cambia il pannolino.
+BELFRY: Ma non so come!
+
+OAKEWOOD: Tiri via quello sporco e ne metti uno pulito.
+OAKEWOOD: Non è *così* difficile.
+
+[SFX: dispiegare?]
+
+[SFX: urp]

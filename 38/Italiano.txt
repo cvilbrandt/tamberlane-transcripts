@@ -1,0 +1,18 @@
+OAKEWOOD: Beh. Preferirei mettermi al riparo dalla pioggia. Sceriffo, li portiamo da tua moglie per medicarli?
+
+SAWYER: Be, Nora si sta ancora riprendendo dalla nascita di Parker di qualche settimana fa... Ha dormito appena e se potessi evitare di svegliarla...
+OAKEWOOD: Si, si. Me ne occuperò personalmente. Di sicuro è solo una storta.
+OAKEWOOD: Manda quella sfortunata della sua apprendista alla libreria in mattinata.
+
+HENRY: La libreria?
+
+OAKEWOOD: Questa creatura rappresenta un campione ideale per la ricerca.
+OAKEWOOD: Non mi lascierò scappare questa opportunità
+OAKEWOOD: Quindi, rimarranno a vivere da me.
+BELFRY: Davvero?
+
+TESS: *CON TE?*
+OAKEWOOD: Hai messo ben in chiaro che non sei interessata. Non puoi avere tutto, braghettona furiosa!
+
+HENRY: S-Signora Tess..
+WALTER: Е ещё здесь не хватало...

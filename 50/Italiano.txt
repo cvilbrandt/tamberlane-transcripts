@@ -1,0 +1,14 @@
+OAKEWOOD: Vuoi del latte nel tuo tè?
+BELFRY: Si, per favore.
+BELFRY: Grazie, Oakewood.
+BELFRY: Mi hai davvero salvato la vita stanotte.
+OAKEWOOD: Bah.
+
+BELFRY: Mi dispiace tu sia rimasta incastrata con me.
+BELFRY: Ti meriti qualcuno migliore.
+
+BELFRY: Ma prometto farò del mio meglio per essere una buona mamma.
+
+BELFRY: ...per te...
+
+BELFRY: ...mia piccola bimba...
