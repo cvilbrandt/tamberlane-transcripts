@@ -1,0 +1,25 @@
+PARSLEY: BeH, è il tuo giorno fortunato, Voltair vecchio mio!
+PARSLEY: Accetto il tuo scambio.
+
+PARSLEY: Che ne dici di venerdì per le lezioni di nuoto, allora?
+VOLTAIR: Perfetto! Grazie, Parse!
+
+PARSLEY: Mar-Mar! È bello vederti, tesoro!
+
+PARSLEY: Cos'è questo che hai portato, allora?
+MARIE: Questa è la mia nuova amica, Tamberlane!
+MARIE: È un po' timida, ma ha bisogno del tuo aiuto.
+(NDT: qui in originale Marie usa il plurare perchè non sicura del genere di Tamberlane)
+
+PARSLEY: Non aver paura, piccola Tamberlane!
+PARSLEY: Come posso aiutarti?
+
+TAMBERLANE: Ummm...
+
+TAMBERLANE: ...umumum...
+
+TAMBERLANE: *awuhumumuww*
+
+PARSLEY: Oh, non preoccuparti, colombina...
+FUORI CAMPO: ***TAMBERLANE!***
+[SFX: AWUUWUUWUWAAA]

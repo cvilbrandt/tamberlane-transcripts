@@ -1,0 +1,10 @@
+TAMBERLANE: *FOFFICE!*
+BELFRY: Aspetta, torna indietro!
+
+BELFRY: Fermati!
+BELFRY: Arrivo!
+
+BELFRY: Ti ho preso.
+BELFRY: Ti ho preso.
+
+HENRY: Sembra che il tuo incidente questa volta sia stato positivo!
