@@ -1,0 +1,14 @@
+BELFRY: Briar!!
+TAMBERLANE: ah!
+
+BRIAR: Hey, Bel.
+TAMBERLANE: Piselli!
+
+BELFRY: Cosa ti porta qui? Gradisci una tazza di tè?
+BELFRY: Oh! Oppure abbiamo anche della carne!
+BRIAR: No... no grazie.
+TAMBERLANE: Voglio piselli!
+
+BELFRY: OH! Bene... cosa possiamo fare per te, allora?
+
+BRIAR: Mi manda la mamma.

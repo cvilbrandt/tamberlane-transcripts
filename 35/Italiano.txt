@@ -12,4 +12,4 @@ OAKEWOOD: errgh
 PIPER: Cosa c'è che non va?
 PIPER: Ti è venuto il mal di testa, Nonno libraio?
 OAKEWOOD: Ainsley ha vinto la scommessa
-OAKEWOOD: <em>Odio</em> giocare a scacchi prima dell'alba.
+OAKEWOOD: *Odio* giocare a scacchi prima dell'alba.

@@ -1,0 +1,23 @@
+FUORI CAMPO: Quella è carne di cervo?
+FUORI CAMPO: Sì, appena tagliata dal macellaio.
+TAMBERLANE: ...bleh...
+FUORI CAMPO: Pensi che possa essere un carnivoro?
+FUORI CAMPO: Beh, almeno un onnivoro.
+FUORI CAMPO: Ha la dentatura giusta per quello.
+
+[SFX: PTEUGH]
+
+TAMBERLANE: *Piselli!*
+FUORI CAMPO: Ok ok! Avrai i tuoi piselli, tesoro.
+
+BELFRY: Fammi solo un piccolo favore, va bene?
+TAMBERLANE: Piselli, *per favore.*
+BELFRY: Brava! Ma potresti, per favore, provare un altro boccone per me?
+
+TAMBERLANE: Mllleeehh...
+
+TAMBERLANE: *YACK!* No!! Non * MI PIACE!*
+BELFRY: Va bene! Hai fatto un ottimo lavoro!
+BELFRY: Ti sei *guadagnata* quei piselli.
+OAKEWOOD: Risultati preliminari: *Non* gradisce la carne di cervo cruda.
+OAKEWOOD: Forse altri tipi di carne o preparazioni potrebbero piacerle.

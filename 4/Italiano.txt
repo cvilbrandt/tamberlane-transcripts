@@ -1,5 +1,5 @@
 PIPISTRELLO: Oh diamine, cosa è successo?!
-CERVO: Mi hai dato i <em>gambi dei piopparelli!</em>
+CERVO: Mi hai dato i *gambi dei piopparelli!*
 [SFX: Coff Coff]
 
 PIPISTRELLO: Devo averli scambiati di nuovo!
