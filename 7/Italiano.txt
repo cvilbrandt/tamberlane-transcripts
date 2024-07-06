@@ -10,7 +10,7 @@ ANTHONY: Piper, non essere maleducata!
 PIPER: Aveva dei denti grossi e aguzzi?
 ANTHONY: Piper.
 
-PIPER: Devi sapere che <em>io</em> sono una cacciatrice di fantasmi professionista.
+PIPER: Devi sapere che *io* sono una cacciatrice di fantasmi professionista.
 ANTHONY: Piper!
 
 ANTHONY: Piper-

@@ -1,0 +1,15 @@
+OAKEWOOD: Tamberlane, stai bene?
+
+TAMBERLANE: Non voleva aiuto.
+
+OAKEWOOD: No non ne voleva. Alcune creature non ne vogliono.
+TAMBERLANE: Ma io aiuto.
+OAKEWOOD: No, sei un cucciolo. Tu semplicemente *sei.*
+
+OAKEWOOD: Ma a parte l'aiutare, stai bene?
+
+TAMBERLANE: Sì... ma Zio sta bene?
+
+OAKEWOOD: Sì. Ma cosa ho appena detto?
+TAMBERLANE: Niente aiuto, sii e basta!
+OAKEWOOD: Molto bene.

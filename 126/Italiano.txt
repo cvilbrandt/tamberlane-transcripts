@@ -1,0 +1,18 @@
+MILO: Volevi che controllassi qualcosa?
+
+OAKEWOOD: Questa è Tamberlane. Belfry Baker la trovata nella foresta e la adottata.
+OAKEWOOD: Ma non abbiamo la più pallida idea di cosa sia.
+OAKEWOOD: Ci chiedevamo se avessi visto qualcosa di simile durante i tuoi studi.
+
+MILO: Affascinante! Posso esaminarti?
+
+TAMBERLANE: OkAGH!
+MILO: Dentizione onnivora...
+
+MILO: Pelliccia insolita... Ed è diversa da qualsiasi cosa di cui abbia mai letto.
+MILO: È perfetta!
+
+OAKEWOOD: Aspetta un attimo!
+OAKEWOOD: Cosa intendi con "*perfetta*"?
+
+MILO: Per il mio *progetto di ricerca!*

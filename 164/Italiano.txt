@@ -1,0 +1,10 @@
+OAKEWOOD: Tamberlane è stato trovata *qui* nella *nostra* Foresta di Rattleglen. Penso che tu abbia un martello, e tutto quello che vedi sono chiodi.
+OAKEWOOD: C’è un mondo intero al di fuori delle nostre isole. Semplicemente non c'è motivo di credere che venga dall'estero.
+
+TAGG: Penso che sia una *talpa.*
+TAGG: Ma vuoi rimanere cieco? Per me va bene. Ce ne andiamo.
+
+OAKEWOOD: Tieni per te i tuoi allarmismi!
+TAGG: Oh, va al diavolo, idiota!
+OAKEWOOD: Provaci! E levati quel metallo dalla faccia, osceno idiota!
+TAGG: Faccio quello che mi pare!!

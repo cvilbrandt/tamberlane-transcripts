@@ -14,7 +14,7 @@ JACKIE: And your, erm...companions?
 [SFX: siiigh]
 
 OAKEWOOD: Jackie, I know they're from Follybrook, but they are also the trade envoy.
-OAKEWOOD: They may only be allowed in once a year, but they <em>are</em> allowed.
+OAKEWOOD: They may only be allowed in once a year, but they *are* allowed.
 OAKEWOOD: So why don't you ask *them?*
 
 JACKIE: ...Right, What'll you have-

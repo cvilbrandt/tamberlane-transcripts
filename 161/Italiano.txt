@@ -1,0 +1,21 @@
+JACKIE: Buon Festival della Sovranità, Oakewood!
+OAKEWOOD: Anche a te, Jackie.
+JACKIE: Cosa prendete?
+
+OAKEWOOD: Prendo una birra Powderclaw scura.
+OAKEWOOD: Tamberlane prende un succo di mirtillo-
+TAMBERLANE: Mirtillo frizzante!!!
+OAKEWOOD: E Milo prende...
+MILO: ...niente...
+OAKEWOOD: ...un whiskey con ghiaccio.
+
+JACKIE: E i tuoi, ehm... ospiti?
+
+[SFX: siiigh]
+
+OAKEWOOD: Jackie, so che vengono da Follybrook, ma sono anche l'inviato commerciale.
+OAKEWOOD: Possono entrare solo una volta all'anno, ma *sono* ammessi.
+OAKEWOOD: Quindi perché non chiedi a *loro?*
+
+JACKIE: ...Giusto, cosa prende-
+TAGG: Un Dark and Stormy. E mio fratello prende un Tin Mule.

@@ -1,0 +1,23 @@
+BELFRY: Ecco qui. Mangia con attenzione, ok?
+
+OAKEWOOD: hrmmngghrr
+
+[SFX: SLAM!!]
+OAKEWOOD: ALTRI VICOLI CIECHI!
+
+OAKEWOOD: Sono passati quasi *quattro mesi* e ancora non sappiamo quasi *niente!*
+OAKEWOOD: Ha *chiaramente* incontrato altre creature in passato ma non riesce a ricordare nulla *di* loro!
+OAKEWOOD: Sta crescendo molto velocemente, ma si comporta come un cucciolo della metà dei suoi anni! Dal suo Growl sembra che stia soffocando su una rana!
+OAKEWOOD: Forse il suo *genere* lo spiegherebbe, ma non riesco a capire nemmeno *quello*!
+
+OAKEWOOD: Mangia solo piselli e fiocchi d'avena perché è una *bambina* o per un *adattamento digestivo?*
+OAKEWOOD: E cosa succederà quando i piselli andranno fuori stagione, eh?!
+OAKEWOOD: *COSA FAREMO?*
+
+BELFRY: Beh, potremo darle semplicemente i fiocchi d'avena.
+OAKEWOOD: Belfry, per l'ultima volta, ho bisogno che tu mi ascolti-
+FUORI CAMPO: Hey.
+OAKEWOOD: Ha bisogno di più di questo.
+
+[SFX: siiigh]
+OAKEWOOD: Oppure puoi distrarti. Va bene anche quello.

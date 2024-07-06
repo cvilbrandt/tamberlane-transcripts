@@ -1,0 +1,27 @@
+OAKEWOOD: Permettetemi di presentarvi il mio figlioccio, Milo Jamiton di Ramotorto.
+MILO: Ah... Adesso è Milo Academique dei Lumiens.
+MILO: Quella in Piou.
+MILO: Terribilmente dispiaciuto.
+
+OAKEWOOD: Ah giusto. Hai una carriera adesso.
+OAKEWOOD: (Più o meno.)
+
+OAKEWOOD: Milo, questa gente è... Beh.
+OAKEWOOD: Quella è Belfry.
+BELFRY: Oh! Non sapevo nemmeno che Oakewood *avesse* una famiglia!
+OAKEWOOD: Tess.
+TESS: Piacere... di conoscerti.
+OAKEWOOD: Walter.
+WALTER: È un piacere.
+OAKEWOOD: E Briar.
+OAKEWOOD: Non è molto più giovane di te.
+BRIAR: Hei.
+
+[SFX: floof]
+MILO: Hei!
+
+[SFX: Doki doki]
+[SFX: Tip]
+
+OAKEWOOD: Ti sei pavoneggiato abbastanza, giovanotto.
+MILO: Huh?
