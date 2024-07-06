@@ -1,0 +1,13 @@
+[SFX: AAGGHH]
+
+BELFRY: <em>OWOWOW LA MIA GAMBA!</em>
+
+BELFRY: Morirò
+
+GHOST: Awawawa?
+
+BELFRY: STAI INDIETRO, FANTASMA! Non voglio farti del male!
+
+BELFRY: <em>PER FAVORE NON FARMI MALE!</em>
+
+FANTASMA: beezwohn bahwee?

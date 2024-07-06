@@ -1,0 +1,12 @@
+BELFRY: Sei tutta malconcia...
+BELFRY: E sporca.
+BELFRY: E magra.
+
+BELFRY: Dove sono i tuoi genitori?
+
+BELFRY: Ce li <em>hai</em> i genitori?
+BELFRY: Sono da qualche parte qua vicino?
+
+BELFRY: Di sicuro non avranno vagato troppo lontano dal loro cucciolo...
+
+BELFRY: Ma se ti hanno <em>abbandonato</em>, di sicuro non meritano di averti.

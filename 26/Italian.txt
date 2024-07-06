@@ -1,0 +1,13 @@
+COYOTE: Qual'è il problema stavolta?
+AINSLEY: Vogliono che li porti dal fantasma, ma non voglio farlo! Non posso tornare là!
+
+COYOTE: Davvero terribile da parte loro, visto che i fantasmi non esistono.
+
+AINSLEY: Questa volta è <em>diverso</em>, Oakewood!
+AINSLEY: So cosa ho visto, ed era <em>sicuramente un fantasma!</em>
+
+OAKEWOOD: Oh, questa volta è <em>diverso?</em>
+OAKEWOOD: Posso chiedere <em>come mai?</em>
+
+AINSLEY: Metti da parte il sarcasmo, coyote.
+OAKEWOOD: <em>DIFFICILE NON ESSERE SARCASTICI PER UN FANTASMA!!</em>

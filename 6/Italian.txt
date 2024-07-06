@@ -1,0 +1,17 @@
+TASSO: Cosa? Che è successo?
+
+BELFRY: Mi son dimenticata che il forno era caldo.
+
+[SFX: ding-a-ling!!]
+
+TASSO: Deve essere Coriander.
+TASSO: Walter, puoi occuparti di lei mentre mi prendo cura delle zampe di Belfry?
+WALTER: спасибо, Tess cara.
+
+TASSO: Andiamo a bendarti, poveretta.
+BELFRY: Grazie, Mamma.
+
+FUORI CAMPO: <em>AINSLEY!!</em>
+
+ANTHONY: Piper, non dovremmo...
+PIPER: Sta zitto, Anthony.

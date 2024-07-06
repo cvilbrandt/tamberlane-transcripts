@@ -1,0 +1,12 @@
+BELFRY: <em>Non è</em> un animale selvatico!
+BELFRY: È intelligente, come una creatura!
+
+BELFRY: Ed ha freddo ed è spaventato e ferito e affamato
+
+BELFRY: E ancor peggio, è <em>abbandonato!</em>
+
+TESS: Non puoi saperlo con certezza! I suoi genitori sono probabilmente a far provviste!
+
+BELFRY: È stanco e affamato, e da solo sotto la pioggia! L'hanno abbandonato, <em>ne sono sicura!</em>
+
+TESS: Belfry, lascia quell'animale dov'è!
