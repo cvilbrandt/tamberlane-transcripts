@@ -1,0 +1,16 @@
+RENO&nbsp;: Hé, tu vas bien&nbsp;? Tu as l'air déprimé.
+RENO&nbsp;: C'est Tess&nbsp;?
+BRIAR&nbsp;: Non. Je vais bien. Ne t'inquiète pas pour ça.
+
+BAST&nbsp;: Ahhh, alors c'est Belfry.
+BRIAR&nbsp;: Bon sang, suis-je si transparente&nbsp;?
+
+VAGABOND&nbsp;: Alors, qu'est-ce qui se passe Bri&nbsp;?
+BRIAR&nbsp;: Je ne veux pas gâcher l'ambiance. Vous n'avez pas besoin que je me morfonde à propos de mes problèmes.
+BRIAR&nbsp;: Je vais bien, les gars. Honnêtement.
+
+RENO&nbsp;: Non&nbsp;! Pas de mensonge, Briarpatch. Confie-nous tes problèmes.
+RENO&nbsp;: Bonus&nbsp;: ça effacera le goût des opinions affreuses de Der sur les combats d'arènes.
+
+VAGABOND&nbsp;: Hé&nbsp;!
+RENO&nbsp;: J'accepte la mort avec plaisir.
