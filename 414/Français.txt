@@ -1,0 +1,19 @@
+VAGABOND&nbsp;: Il n'y a pas de pression, Briar. Prends ton temps.
+RENO&nbsp;: Oui... Laisse-la venir à toi.
+
+RENO&nbsp;: Et de toute façon, tu ne peux pas simplement rayer les créatures de ta vie quand elles font des erreurs.
+VAGABOND&nbsp;: Tu sais que ce n'est pas ce que je voulais dire&nbsp;!
+
+VAGABOND&nbsp;: Si je m'étais débarrassé des créatures qui m'énervaient, je me serais débarrassé de toi il y a des années.
+RENO&nbsp;: Oh merde, Gab devient fougueux&nbsp;!
+
+VAGABOND&nbsp;: Je vais te montrer ce qui est fougueux&nbsp;!
+RENO&nbsp;: Fais de ton mieux&nbsp;!
+
+BAST&nbsp;: Est-ce que vous deux allez finir par vous embrasser&nbsp;?
+BRIAR&nbsp;: _Whoa&nbsp;!!_
+[SFX&nbsp;: rrgh&nbsp;!]
+[SFX&nbsp;: oof&nbsp;!]
+
+RENO&nbsp;: Qu'est-ce que tu en penses, mon pote&nbsp;? Tu veux être mon _amouuuuur&nbsp;?_
+VAGABOND&nbsp;: Oh Reno&nbsp;!
