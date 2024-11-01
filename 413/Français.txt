@@ -1,0 +1,16 @@
+WANDERER&nbsp;: Eh bien, tu l'as dit toi-même, l'amie. Il fallait que quelque chose change.
+WANDERER&nbsp;: Elle te met toujours _trop_ sur les épaules.
+
+WANDERER&nbsp;: Ce n'est pas juste pour toi. Tu as eu raison de lui tenir tête.
+BRIAR&nbsp;: Bien sûr, mais comme _ça_&nbsp;?
+
+RENO&nbsp;: Ouais, ça ressemblait à une grosse dispute, plutôt qu'à une conversation sérieuse.
+BRIAR&nbsp;: Exactement. Donc je devrais lui pardonner, non&nbsp;?
+
+WANDERER&nbsp;: Tu n'as aucune obligation de lui pardonner, Briar.
+RENO&nbsp;: Bien sûr, mais ne serait-il pas mieux qu'elle essaie&nbsp;?
+RENO&nbsp;: Cette ville est de la taille d'une noix. Elles ne peuvent pas s'éviter éternellement.
+
+BAST&nbsp;: Comment va Belfry depuis la dispute&nbsp;? A-t-elle pris tes paroles à cœur, ou...&nbsp;?
+
+BRIAR&nbsp;: Je ne sais pas. Je ne lui ai pas parlé, pour être tout à fait honnête.
