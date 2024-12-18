@@ -1,0 +1,15 @@
+BELFRY: Listen, I...
+BELFRY: I want to apologize for the row last week.
+BELFRY: For the last forever, really.
+
+BRIAR: No... I'm sorry, too. I shouldn't have blown up like that.
+BRIAR: You've been dealing with a lot.
+
+BELFRY: You were right, though. I'm _always_ dealing with a lot.
+BELFRY: It's not an excuse.
+
+BRIAR: Fair enough. But yelling at you's supposed to be Mum's deal, not mine.
+BELFRY: I guess neither of us was our best self that night.
+
+BRIAR: Thanks for giving me space to cool down, Bel.
+BRIAR: I really needed it.
