@@ -1,0 +1,15 @@
+BELFRY&nbsp;: Écoute, je...
+BELFRY&nbsp;: Je veux m'excuser pour la dispute de la semaine dernière.
+BELFRY&nbsp;: Pour la dernière fois, vraiment.
+
+BRIAR&nbsp;: Non... Je suis désolée aussi. Je n'aurais pas dû exploser comme ça.
+BRIAR&nbsp;: Tu as dû faire face à beaucoup de choses.
+
+BELFRY&nbsp;: Mais tu avais raison. Je dois _toujours_ faire face à beaucoup de choses.
+BELFRY&nbsp;: Ce n'est pas une excuse.
+
+BRIAR&nbsp;: C'est vrai. Mais te crier dessus est censé être l'affaire de maman, pas la mienne.
+BELFRY&nbsp;: Je suppose qu'aucune de nous n'était sous son meilleur jour ce soir-là.
+
+BRIAR&nbsp;: Merci de m'avoir laissé le temps de me calmer, Bel.
+BRIAR&nbsp;: J'en avais vraiment besoin.
