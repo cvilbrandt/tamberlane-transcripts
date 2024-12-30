@@ -1,0 +1,13 @@
+BELFRY: Speaking of cooling down, I don't usually walk through Memorial Glade at night like this.
+BELFRY: Sort of gives me the willies.
+
+BRIAR: I like it. It's peaceful here.
+
+BELFRY: Really? Being here makes me think about...
+
+BRIAR: Oh, my god! I'm _so_ sorry!
+BRIAR: You _literally_ had a scare last week, and here I am dragging you through the graveyard!
+
+BRIAR: We should have gone through Tumblewheat instead.
+BELFRY: No, it's quite alright. It takes forever to cut through the farmland.
+BELFRY: I'd rather get home before it gets _too_ dark.
