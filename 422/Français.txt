@@ -1,0 +1,13 @@
+BELFRY&nbsp;: En parlant de calme, je ne traverse généralement pas Memorial Glade la nuit comme ça.
+BELFRY&nbsp;: Ça me donne un peu la chair de poule.
+
+BRIAR&nbsp;: J'aime ça. C'est paisible ici.
+
+BELFRY&nbsp;: Vraiment&nbsp;? Être ici me fait penser à...
+
+BRIAR&nbsp;: Oh, mon Dieu&nbsp;! Je suis vraiment désolée&nbsp;!
+BRIAR&nbsp;: Tu as été _littéralement_ effrayée la semaine dernière, et me voilà à te traîner dans le cimetière&nbsp;!
+
+BRIAR&nbsp;: On aurait dû passer par Tumblewheat à la place.
+BELFRY&nbsp;: Non, c'est très bien. Il faut une éternité pour traverser les terres agricoles.
+BELFRY&nbsp;: Je feais mieux de rentrer à la maison avant qu'il ne fasse _trop_ sombre.
