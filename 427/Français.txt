@@ -1,0 +1,22 @@
+BELFRY&nbsp;: BEEN&nbsp;! Tu as dit qu'elle avait besoin d'espace&nbsp;!
+BRIAR&nbsp;: _BELFRY_
+
+BELFRY&nbsp;: ... Attends. Tu ne voulais pas dire jusqu'à ce qu'elle soit _complètement_ guérie, n'est-ce pas&nbsp;?
+BELFRY&nbsp;: D'accord... Ça a plus de sens.
+BELFRY&nbsp;: ... oh mince.
+
+BELFRY&nbsp;: Eh bien... Dans ce cas, je suis bien en retard pour une visite. Si tu veux venir avec moi&nbsp;?
+BRIAR&nbsp;: Je _ferais mieux_ de venir avec toi.
+BRIAR&nbsp;: La dernière fois, tu l'as presque fait rebondir jusqu'au plafond.
+BRIAR&nbsp;: Maladroite.
+
+BELFRY&nbsp;: En y repensant, Nora lui _a_ prescrit une dose de sarcasme.
+BELFRY&nbsp;: Je crois donc que tu es _hippocratiquement obligée_ de m'accompagner.
+
+BRIAR&nbsp;: Tu sais quoi, Belfry&nbsp;?
+BRIAR&nbsp;: Чтоб тебе дети в суп срали.
+BELFRY&nbsp;: Hé&nbsp;! Qu'est-ce que ça veut dire&nbsp;?
+BRIAR&nbsp;: Que tu es ma sœur préférée du monde entier&nbsp;!
+
+BELFRY&nbsp;: Au fait, **Milo** dit que **tu lui manque~&nbsp;!**
+BRIAR&nbsp;: Attends quoi
