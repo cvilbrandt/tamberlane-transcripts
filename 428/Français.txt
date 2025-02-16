@@ -1,0 +1,24 @@
+TAMBERLANE : Elle... a v... e...
+TAMBERLANE : ... v... e...
+JONAS : A vécu.
+TAMBERLANE : ...v-vecu...
+
+TAMBERLANE : ...L-la...pu...
+TAMBERLANE : ...pupar...
+JONAS : La plupart.
+TAMBERLANE : p-plupart... de sa... v... e...
+JONAS : Vie.
+TAMBERLANE : Vie... dans le... dans le...
+
+TAMBERLANE : Euh, c'est quoi celui-là ?
+JONAS : L'université.
+TAMBERLANE : Qu'est-ce que c'est ?
+JONAS : Une grande école, où tu vas pour apprendre des trucs.
+JONAS : Oh.
+
+TAMBERLANE : Pourquoi elle vit à l'école et pas à la maison ?
+JONAS : Parce que l'école _est_ sa maison.
+
+JONAS : Continue à lire. Tout cela a un rapport avec ses parents —
+[SFX : SLAM]
+HORS ÉCRAN : **_TAMBERLANE !_**
