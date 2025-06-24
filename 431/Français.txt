@@ -2,10 +2,10 @@ HENRY&nbsp;: Je sais que ça doit être dur de s'habituer à tout ça. Mais tout
 JONAS&nbsp;: Bien sûr.
 
 HENRY&nbsp;: Dis donc, en vitesse...
-HENRY&nbsp;: Est-ce que Cur est passé&nbsp;?
+HENRY&nbsp;: Est-ce que Cabot est passé&nbsp;?
 
 JONAS&nbsp;: Les visites n'étaient pas autorisés jusqu'à maintenant.
-HENRY&nbsp;: Bien sûr, mais Cur ne suit pas les règles, n'est-ce pas&nbsp;?
+HENRY&nbsp;: Bien sûr, mais Cabot ne suit pas les règles, n'est-ce pas&nbsp;?
 
 HENRY&nbsp;: Ce n'est pas grave s'il est passé. Il n'aura pas d'ennuis. On essaie juste de savoir où il est allé.
 JONAS&nbsp;: Eh bien, pas ici.
