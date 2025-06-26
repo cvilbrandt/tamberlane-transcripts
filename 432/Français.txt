@@ -1,0 +1,19 @@
+TERRA&nbsp;: Oh, Jentzen&nbsp;! Comment va-t-il&nbsp;?
+TERRA&nbsp;: J'ai entendu dire qu'il y avait un procès en coulisses&nbsp;?
+HENRY&nbsp;: Ouais. Bientôt, je crois.
+
+TERRA&nbsp;: Il est déjà en résidence surveillée, n'est-ce pas&nbsp;? Le pauvre garçon.
+HENRY&nbsp;: Pour l'instant, oui...
+[SFX&nbsp;: bruissement]
+
+TERRA&nbsp;: À ton avis, le Conseil penche vers quoi&nbsp;? Tu as entendu quelque chose&nbsp;?
+HENRY&nbsp;: Je... Je ne peux rien dire à ce sujet. C'est une affaire officielle.
+
+TERRA&nbsp;: Allons, Henry&nbsp;! Je demande à l'un de mes amis les plus proches, pas _au shérif_.
+[SFX&nbsp;: BOOP]
+
+HENRY&nbsp;: Je... je suis vraiment désolé, Terra, mais je ne peux _vraiment_ rien dire.
+
+TERRA&nbsp;: Ah, eh bien. On ne peut pas reprocher à une fille d'essayer, hein&nbsp;?
+
+JONAS&nbsp;: Vous avez fini de parler au-dessus de mon lit&nbsp;?
