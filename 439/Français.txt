@@ -1,0 +1,14 @@
+TAMBERLANE&nbsp;: J'espère que tu auras une belle nouvelle jambe&nbsp;!
+PENNY&nbsp;: *QU'EST-IL ARRIVÉ À TA JAMBE&nbsp;?!*
+
+JONAS&nbsp;: Gelures et gangrène. Pas que tu aies besoin de le savoir.
+JONAS&nbsp;: Et merci, Tamberlane.
+
+PENNY&nbsp;: Euh, Jonas...
+PENNY&nbsp;: À ton retour...
+PENNY&nbsp;: Tu veux faire un bracelet aussi...?
+
+JONAS&nbsp;: Non.
+JONAS&nbsp;: Tu n'en as pas apporté assez.
+
+PENNY&nbsp;: **OK...**
