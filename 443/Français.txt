@@ -1,0 +1,14 @@
+CORIANDER&nbsp;: Ça va, vous deux&nbsp;?
+PARSLEY&nbsp;: Oui, maman.
+MARIE&nbsp;: Oui, Mme Carver.
+
+MARIE&nbsp;: Je suis vraiment désolée, Parsley, mais le soleil s'est couché...
+
+PARSLEY&nbsp;: Oh, oui, bien sûr&nbsp;! Tes mères veulent probablement que tu rentres à la maison pour dîner, hein&nbsp;?
+PARSLEY&nbsp;: Pas de problème, Mar-Mar. Merci de nous avoir aidés à chercher aujourd'hui.
+
+MARIE&nbsp;: Il ne mourra _pas_ de maladie, d'accord&nbsp;? Je _sais_ que tu t'inquiètes. Arrête.
+PARSLEY&nbsp;: Quoi, moi&nbsp;? Je ne m'inquiète pas&nbsp;! Pourquoi m'inquiéterais-je&nbsp;? C'est juste Cabot, après tout...
+MARIE&nbsp;: _Je suis sérieuse._ À demain.
+
+PARSLEY&nbsp;: Ouais, à bientôt&nbsp;! Dis bonjour à tes mamans de ma part&nbsp;!
