@@ -1,0 +1,13 @@
+TAMBERLANE&nbsp;: Qu'est-ce que c'est&nbsp;?
+
+PENNY&nbsp;: Je viens de te le dire&nbsp;! Un bracelet d'amitié&nbsp;!
+
+PENNY&nbsp;: Seules les meilleures amies en portent. Je l'ai fait pour toi&nbsp;!
+TAMBERLANE&nbsp;: Tu _l'as fait&nbsp;?_ Pour _moi&nbsp;?_
+
+PENNY&nbsp;: Ouais, eh bien...
+PENNY&nbsp;: Je te considère comme ma meilleure amie.
+
+TAMBERLANE&nbsp;: Tu es la mienne aussi&nbsp;!
+
+[SFX&nbsp;: hahahaha&nbsp;!]
