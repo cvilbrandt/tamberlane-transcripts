@@ -1,0 +1,18 @@
+CORIANDER&nbsp;: Ellis&nbsp;! Tu es là&nbsp;?
+PARSLEY&nbsp;: Cabot&nbsp;! Allez, mon pote&nbsp;!
+
+GENEVIEVE&nbsp;: On a parlé à Vessie. Il n'est pas venu au Temple.
+HONEY&nbsp;: Ce serait trop facile, je suppose.
+
+HONEY&nbsp;: Tu vas bien, Geneviève&nbsp;?
+
+GENEVIEVE&nbsp;: Oui...
+
+GENEVIEVE&nbsp;: Non.
+
+GENEVIEVE&nbsp;: Honey...
+GENEVIEVE&nbsp;: En tant que conseillère pédagogique — _en tant que mère_ — j'ai le devoir de prendre soin des jeunes de Treehollow.
+GENEVIEVE&nbsp;: Des petits comme Tamberlane et Parsley, et même des petits difficiles comme Ellis.
+
+GENEVIEVE&nbsp;: Si le procès de Jentzen se poursuit, j'ai l'impression que j'aurais _failli_ à mon devoir.
+HONEY&nbsp;: Genie...
