@@ -1,0 +1,18 @@
+PARSLEY&nbsp;: Un mot. Un mot&nbsp;! Et puis il s'en va.
+PARSLEY&nbsp;: Bien&nbsp;! Je ne l'ai jamais aimé de toute façon&nbsp;!
+PARSLEY&nbsp;: Eh bien, j'espère qu'il fera un bon voyage, alors&nbsp;! Il sera plus heureux sans nous&nbsp;!
+
+PARSLEY&nbsp;: Mais il ne tombera pas malade, n'est-ce pas&nbsp;?
+PARSLEY&nbsp;: Il ne tombera pas malade et ne mourra pas, comme... comme...
+
+CORIANDER&nbsp;: Parsley&nbsp;! Parsley, chuut.
+
+CORIANDER&nbsp;: Des fleurs et des bulles, mon amour.
+CORIANDER&nbsp;: Tu te souviens&nbsp;? Des fleurs et des bulles.
+
+CORIANDER&nbsp;: Inspire profondément, profondément, profondément pour sentir la fleur...
+[EFFETS SONORES&nbsp;: INSPIIIIIIIRE]
+
+CORIANDER&nbsp;: Et expire lentement, comme si tu faisais une grosse bulle.
+[EFFETS SONORES&nbsp;: expiiiiiiire]
+CORIANDER&nbsp;: C'est ça. C'est ça. Bravo.
