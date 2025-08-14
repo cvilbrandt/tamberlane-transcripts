@@ -15,7 +15,7 @@ PARSLEY&nbsp;: _Maman&nbsp;!_
 
 PARSLEY&nbsp;: Des fleurs et des bulles, maman.
 
-[EFFETS SONORES&nbsp;: IIINHAAAAALE]
+[EFFETS SONORES&nbsp;: INSPIIIIIIIIRE]
 
 CORIANDER&nbsp;: Des fleurs et des bulles.
 CORIANDER&nbsp;: Merci, mon amour.
