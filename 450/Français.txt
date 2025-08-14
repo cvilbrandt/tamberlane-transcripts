@@ -1,7 +1,7 @@
 CORIANDER&nbsp;: Ellis...
 
 CORIANDER&nbsp;: Eh bien&nbsp;!
-CORIANDER&nbsp;: C'est "retour dans le froid" pour nous,hein, mon canard&nbsp;?
+CORIANDER&nbsp;: C'est "retour dans le froid" pour nous, hein, mon canard&nbsp;?
 CORIANDER&nbsp;: Prends ton manteau, s'il te plaît&nbsp;!
 PARSLEY&nbsp;: Je ne l'ai jamais enlevé&nbsp;!
 CORIANDER&nbsp;: Oh&nbsp;! C'est vrai&nbsp;!
