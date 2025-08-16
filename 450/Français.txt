@@ -1,0 +1,21 @@
+CORIANDER&nbsp;: Ellis...
+
+CORIANDER&nbsp;: Eh bien&nbsp;!
+CORIANDER&nbsp;: C'est "retour dans le froid" pour nous, hein, mon canard&nbsp;?
+CORIANDER&nbsp;: Prends ton manteau, s'il te plaît&nbsp;!
+PARSLEY&nbsp;: Je ne l'ai jamais enlevé&nbsp;!
+CORIANDER&nbsp;: Oh&nbsp;! C'est vrai&nbsp;!
+
+CORIANDER&nbsp;: Dommage que nos vestes n'aient pas eu le temps de sécher, mais... c'est comme ça, hein&nbsp;?
+PARSLEY&nbsp;: Maman...
+
+CORIANDER&nbsp;: Vite, Parsley&nbsp;! Il ne faut pas laisser Ellis croire qu'il doit s'enfuir vers...
+CORIANDER&nbsp;: vers...
+PARSLEY&nbsp;: _Maman&nbsp;!_
+
+PARSLEY&nbsp;: Des fleurs et des bulles, maman.
+
+[EFFETS SONORES&nbsp;: INSPIIIIIIIIRE]
+
+CORIANDER&nbsp;: Des fleurs et des bulles.
+CORIANDER&nbsp;: Merci, mon amour.
