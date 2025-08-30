@@ -7,8 +7,8 @@ HORS ÉCRAN&nbsp;: Elle a la dentition pour cela.
 
 [SFX&nbsp;: PTEUGH]
 
-TAMBERLANE&nbsp;: *Pois&nbsp;!*
-HORS ÉCRAN&nbsp;: D’accord, d’accord&nbsp;! Tu auras tes pois, chérie.
+TAMBERLANE&nbsp;: *Blé&nbsp;!*
+HORS ÉCRAN&nbsp;: D’accord, d’accord&nbsp;! Tu auras ton blé, chérie.
 
 BELFRY&nbsp;: Fais-moi juste une petite faveur, d'accord&nbsp;?
 TAMBERLANE&nbsp;: Pois, *s'il te plaît.*
@@ -18,6 +18,6 @@ TAMBERLANE&nbsp;: Mllleeehh...
 
 TAMBERLANE&nbsp;: *BEURK&nbsp;!* Non&nbsp;!! *AIME PAS&nbsp;!*
 BELFRY&nbsp;: C'est bon&nbsp;! Tu as fait un très bon travail&nbsp;!
-BELFRY&nbsp;: Tu as *mérité* ces pois.
+BELFRY&nbsp;: Tu as *mérité* ce blé.
 OAKEWOOD&nbsp;: Conclusions préliminaires&nbsp;: n'a *pas* apprécié la venaison crue.
 OAKEWOOD&nbsp;: Peut-être que d'autres types de viande ou de préparation lui plairaient.
