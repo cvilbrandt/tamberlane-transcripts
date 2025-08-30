@@ -10,8 +10,8 @@ OAKEWOOD&nbsp;: Elle a *clairement* rencontré d'autres créatures auparavant, m
 OAKEWOOD&nbsp;: Elle grandit si vite, mais se comporte comme un petit qui a la moitié de son âge&nbsp;! Son Grognement donne l'impression qu'elle s'étouffe avec une grenouille&nbsp;!
 OAKEWOOD&nbsp;: Peut-être que sa *classification* l'expliquerait, mais je n'arrive pas à comprendre *ça* non plus&nbsp;!
 
-OAKEWOOD&nbsp;: Est-ce qu'elle ne mange que des pois et des flocons d'avoine parce qu'elle est une *enfant* ou à cause d'une *adaptation digestive&nbsp;?*
-OAKEWOOD&nbsp;: Et que se passe-t-il lorsque les pois ne sont plus de saison, hein&nbsp;?!
+OAKEWOOD&nbsp;: Est-ce qu'elle ne mange que du blé et des flocons d'avoine parce qu'elle est une *enfant* ou à cause d'une *adaptation digestive&nbsp;?*
+OAKEWOOD&nbsp;: Et que se passe-t-il lorsque le blé n'est plus de saison, hein&nbsp;?!
 OAKEWOOD&nbsp;: *QUOI ALORS&nbsp;?*
 
 BELFRY&nbsp;: Eh bien, alors nous pouvons simplement lui donner des flocons d'avoine.
